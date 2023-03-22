@@ -1,0 +1,222 @@
+[
+  {
+    "title": "급양부의 부장님은 힘내고 싶어!",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:14:58",
+    "replyNo": 9,
+    "replyGroup": 7,
+    "chars": [24]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "오늘 점심에 도와주시기로 한 거 잊지 않으셨죠?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "기억하고 있어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그랬었나?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "네~♪ 다행이네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "앗, 설마 중간에 이야기 전달이 잘못되었을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 2,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "농담이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "읏, 농담이라니…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 2,
+      "replyGroup": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "그런 짓궂은 농담을 하시면…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "저 상처 받는다구요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 2,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "죄, 죄송합니다……!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "뭐어, 농담이지만요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 2,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "헉, 당했다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "후후. 그럼 장난은 여기까지 해두고.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "저, 학생식당에서 기다리고 있을게요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "서, 선생님…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "오늘 있었던 일은…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 7,
+      "replyGroup": 6,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 일이 있었나?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 8,
+      "replyGroup": 6,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "귀여웠지. 후우카 땅.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 24, "index": 1 },
+      "content": "우, 우우! 다른 사람들한텐 비, 비밀이에요!",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

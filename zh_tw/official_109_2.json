@@ -1,0 +1,162 @@
+[
+  {
+    "title": "SRT, 구출합니다!(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-24 21:27:51",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [119]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "선생님은 개 파이시나요, 고양이 파이시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "나는 개 파야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "나는 고양이 파야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "그렇네요. 개는 충성스럽고 사람을 잘 따라서 좋아하는 사람이 많지요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "그렇네요. 고양이는 귀엽고 도도한 매력이 있어서 좋아하는 사람이 많지요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그럼 미야코는 개 파야, 고양이 파야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "글쎄요. 저는……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "……토끼 파려나요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "image",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "getFile/29/l9mr846x/mollu_1.png",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "선생님, 아까 분양 받은 토끼의 사진이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "막 먹이를 먹고 잠든 참이랍니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "토끼는 정말 귀엽네",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "그렇죠? 토끼에게는 개나 고양이와는 다른 매력이 있어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 119, "index": 1 },
+      "content": "나중에 깨어나면 새로운 사진을 찍어서 보내 드릴게요.",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "당신이 저의 주인님입니까? 1",
+    "nickname": "Molru",
+    "date": "2022-10-23 14:56:30",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [34]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "안녕하세요. 나의 주인님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "신종 보이스 피싱……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "주인님, 아니다. 선생님이다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "유머 감각이 있으신 분이군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "당신의 메이드 아카네, 인사드립니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "…… 네?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "후훗. 오늘은 즐거웠어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "주인님이 위기에 빠진 순간이면, 반드시 등장하는 메이드라, 그것도 괜찮네요.",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

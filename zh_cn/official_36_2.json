@@ -1,0 +1,112 @@
+[
+  {
+    "title": "마늘은 포기할 수 없어",
+    "nickname": "Molru",
+    "date": "2022-10-23 00:29:45",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [17]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "선생님은 어떤 라멘을 드실 때 면부터 드시나요, 아니면 국물부터 드시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "면부터 먹어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "국물부터 마셔.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "선생님은 라멘의 면발을 중시하는 편이시군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "선생님은 라멘의 국물을 중시하는 편이시군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "저는 국물부터 마시는 걸 선호해요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "진한 국물이야말로 라멘의 맛이 모두 담긴 정수라 할 수 있으니까요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어쩐지 아저씨 같은 취향인걸…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

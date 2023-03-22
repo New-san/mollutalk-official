@@ -1,0 +1,112 @@
+[
+  {
+    "title": "RABBIT 4, 휴식합니다.(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 01:30:03",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [120]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "지난번의 훈련으로",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "사격 실력은 다소 좋아진 것 같지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "그래도 자꾸 나쁜 생각이 떠올라서 곤란해져요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "자꾸 기분도 우울해지고……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "취미 생활을 즐겨보는 게 어떨까?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "취미……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "그렇네요……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "취미 생활을 즐기면",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "이 체질도 조금 나아질지도 모르겠어요…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 120, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

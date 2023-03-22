@@ -1,0 +1,142 @@
+[
+  {
+    "title": "비밀 기지",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:58:12",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [102]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "선생님, 아까 보니 매화원 앞에서 무언가를 열심히 치우고 계시던데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "뭔가 이상한 물건이라도 있었나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "누가 분리수거장 뒤에 낡은 천과 의자로 텐트 같은 걸 만들어놨어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "하하…… 어린 원생들이 또 비밀기지를 만들었나 보네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "비밀기지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "네, 어린아이들은 자신만의 공간을 갖고 싶어 하는 법이잖아요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "그래서인지 가끔 교관들의 눈을 피해 작은 구조물을 만들곤 하더라고요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "슌도 어릴 적에는 저런 비밀기지를 만든 적 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "네. 저도 어릴 적에는 멋진 비밀기지를 하나 갖고 있었지요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "후후…… 그러고 보니 그 비밀기지에도 가본 지 꽤 오래되었네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "선생님, 오후에 시간 나시면 매화원 근처의 놀이터에 들려주세요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "……아무에게도 말한 적 없는 제 비밀을 알려 드릴게요. ♥",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "title": "불타는 단장의 응원혼(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 04:55:55",
+    "replyNo": 8,
+    "replyGroup": 7,
+    "chars": [48]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "큰일이네……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 걱정이라도 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "그게 지난 번에 새로운 응원용 도구의 개발을 요청받았다고 했잖아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "그래서 음속으로 움직여도 손상되지 않도록, 로봇의 관절을 여러 가지로 개조해보았는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "아무래도 마감 기간 내에 완성하는 건 어려울 것 같아.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "음속이 문제인게 아닐까……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "솔직하게 말하고 양해를 구하는 게 어때?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "물론 그것도 하나의 방법이지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "우리를 믿고 응원을 요청한 클라이언트들을 더 기다리게 만들 수는 없지.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "비록 마이스터다운 해결법은 아니지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "이번에는 직접 몸으로 해결하는 수밖에.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……몸으로?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "오늘은 실례를 끼쳐버렸네……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아직도 목이 쉰 상태야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "응, 아직도 여전하네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "부원들과 이야기를 하려고 해도 목소리가 나오지 않아서 여간 불편한 게 아니야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "그래서 원활한 의사소통을 도와줄 새로운 기계장치를 구상하고 있어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "작은 목소리로 말해도 목소리가 전달될 수 있도록",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 3 },
+      "content": "음성을 인식하고 기록하여, 성량을 확대한 뒤에 다시 출력하는 기계 장치를……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 7,
+      "replyGroup": 6,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……보통 그걸 확성기라고 부르지 않나?",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

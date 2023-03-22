@@ -1,0 +1,182 @@
+[
+  {
+    "title": "비가 내리면 센티멘탈",
+    "nickname": "Molru",
+    "date": "2022-10-22 13:34:09",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [47]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "때로는 나도 감상적으로 되는 날이 있어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "비 오는 날에는, 특히 그래.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "의외네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "비는 사람의 감성을 자극하지.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "실례야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "이럴 때는 역시……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "그래.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "맞아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "어쩐지 내 마음이, 제어가 안 되는 느낌이야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "이런 날에는 작업실에 가는 것보다……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "더 의미 있는 시간을 보낼 수 있는 장소로 가야겠어.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "오늘은 도서관이나 가볼까.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "선생님. 어깨가 젖는 거, 봤어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "내가 젖지 않게…… 신경 써줘서 고마워.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "우산이 두 개였다면, 알 수 없는 심리였겠지……. 역시 심리학은 재미있네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 1 },
+      "content": "선생님의 행동은, 분명 내 마음에 작용을 일으키고 있으니까.",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

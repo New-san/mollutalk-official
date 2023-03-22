@@ -1,0 +1,92 @@
+[
+  {
+    "title": "간식 시간",
+    "nickname": "Molru",
+    "date": "2022-10-22 23:08:53",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [102]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "여러분, 매화원의 오늘 오후 간식은 상회에서 받아온 달콤한 과일이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "그러니 모두들 간식 시간에 늦지 말고 꼭 참가해주세요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……이거 나한테 보낸 메시지야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "과일은 맛있게 드셨나요, 선생님?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "맛있게 잘 먹었어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "후후, 입에 맞으셨다니 다행이네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "내일도 달콤한 간식을 준비해둘 테니 자주 매화원에 놀러 와주세요!",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

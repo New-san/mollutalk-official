@@ -1,0 +1,122 @@
+[
+  {
+    "title": "소악마의 취미생활",
+    "nickname": "Molru",
+    "date": "2022-10-23 00:07:05",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [11]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "선생님은 혹시 취미가 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "물론이지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아니, 딱히 취미라고 할만한 건 없는데.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "아핫~ 역시~ 취미 생활이 있다는 건 좋은 일이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "몰두하고 있으면 시간도 금방 지나가고.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "내가 좋아하는 분야에 대해 빠삭하게 알게 되었을 때의 성취감도 있고.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "응응! 즐겁지~",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "흐응, 그래애~?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "그건 좀 아쉬울지도~",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "응, 나중에 선생님하고 취미 이야기를 하는 것도 재밌겠다~ (〇'ヮ'〇)",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

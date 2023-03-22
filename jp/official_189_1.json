@@ -1,0 +1,112 @@
+[
+  {
+    "title": "카도마츠 만들기(번역)",
+    "nickname": "Molru",
+    "date": "2023-03-22 20:27:09",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [12]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "안녕하십니까? (본인 이름 기입)입니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "content": "새해가 밝았습니다. (받으실 분 귀하)께서도 지난 한 해가 그러했듯,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "content": "새로 시작될 한 해 또한 복과 운이 가득하시길 진심으로 기원합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "content": "감사를 담아, (본인 이름 기입) 드림.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아. 응. 고마워, 하루카!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋은 탬플릿이구나. 고마워!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "네ㅂ",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "넵!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 12, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

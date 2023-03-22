@@ -1,0 +1,92 @@
+[
+  {
+    "title": "미식가의 긍지",
+    "nickname": "Molru",
+    "date": "2022-10-23 00:33:57",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [17]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "다음 대식 대회의 대결 종목은 <카레 많이 먹기>로 정해진 모양이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "카레는 조금 자신 없는데…… 미리 연습을 해두어야겠어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아카리도 가리는 음식이 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "못 먹는 건 아니지만 많이 먹기 힘든 음식은 있어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "예를 들자면 아까 말했던 카레처럼 매운 음식은 자꾸 물을 마시게 되어서 배가 빨리 차거든요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "대신 초밥처럼 개인적으로 좋아하는 음식은 다른 음식보다 두 배는 더 먹을 수 있어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "대식가라고 해서 기호가 없는 건 아니랍니다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "비품은 사용 후 깨끗이 제자리에",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:14:56",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [65]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "선생님, 밖에 좀 보세요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "구름 한 점 없이 볕이 드는 게 날씨가 아주 맑아요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "이런 날 해변에서 일광욕하면 분명 기분 좋을 거예요~",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "괜찮으시면 일광욕을 하러 같이 해변에 나가지 않으시겠어요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋아. 같이 나가자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그런데 일광욕을 하려면 장비가 필요하지 않을까?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "괜찮아요. ヾ(•ω•`)o",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "저희에게 해수욕 장비는 없어도 전차는 있으니까요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "전차로 무얼 어쩌려고?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

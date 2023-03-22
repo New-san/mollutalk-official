@@ -1,0 +1,112 @@
+[
+  {
+    "title": "당신과 함께 첫걸음을",
+    "nickname": "Molru",
+    "date": "2022-10-23 21:01:21",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [14]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "선생님, 저번에 했던 이야기의 연장선인데 말이야…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "그, 조금 늦어지게 됐지만…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "아직 새해인데도 모처럼 선생님하고 새해다운 행사에 참가하질 못했잖아?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "바빠서 그럴 시간이 없긴 했었지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "윽 이벤트 참가, 아이템 파밍……!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "그렇지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "응? 무슨 말을 하는 거야, 선생님은?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "그래서 말인데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "오늘, 나한테 시간 좀 내어주지 않을래? 선생님.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 14, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

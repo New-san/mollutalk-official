@@ -1,0 +1,92 @@
+[
+  {
+    "title": "취미에 대한 고민(번역)",
+    "nickname": "Molru",
+    "date": "2023-02-22 21:45:16",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [175]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "오늘은 제가 샬레의 당번인 것으로 알고 있습니다만.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "이 정보에 오류는 없을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "토키의 첫 당번인가…… 기대되네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "무슨 말씀인지는 잘 모르겠습니다만.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "기대에 부응할 수 있도록, 최선을 다하겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "그러면 샬레에서 뵙겠습니다. 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

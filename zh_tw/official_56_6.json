@@ -1,0 +1,122 @@
+[
+  {
+    "title": "메이드 카페! 2",
+    "nickname": "Molru",
+    "date": "2022-10-23 15:12:55",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [37]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "친구도 이제 괜찮아진 것 같아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "이제 더 이상 메이드 카페에 대타 뛸 일도 없겠지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "수고 했어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "마지막으로 한 번 더 보고 싶었는데!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "응. 난감하긴 했지만, 친구에게도 고맙다는 말을 들었어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "늦었다. 이제 내가 메이드 카페에서 일할 일은 없을 테니까.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "선생님, 이제 내가 모에모에큥도 못 해주겠네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "유감…… 이지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "앞으로도 잘 부탁해.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "나의 주인님.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

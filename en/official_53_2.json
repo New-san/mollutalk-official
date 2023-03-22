@@ -1,0 +1,132 @@
+[
+  {
+    "title": "중요한 건 내면",
+    "nickname": "Molru",
+    "date": "2022-10-23 14:40:21",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [83]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "선생님~~!! 도움~! HELP~!!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "도와주세요! 선생님밖에 도와줄 수 없는 일입니다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 일이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 사고라도 쳤어?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "그건 문자로 설명하기 어려워요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "시간 되면 나와 줄 수 있어요? 꼭 좀 부탁드리겠습니다!!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "그럼 기다리겠습니다!!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "오늘 너무 고마웠어요, 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "오늘은 선생님이 고른 영화를 봤으니",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "다음엔 피나가 고른 영화를 같이 보도록 하시죠!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 83, "index": 1 },
+      "content": "꼭이에요! 거절하기 없기입니다!",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

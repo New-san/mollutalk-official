@@ -1,0 +1,202 @@
+[
+  {
+    "title": "라디오 체조",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:21:27",
+    "replyNo": 7,
+    "replyGroup": 6,
+    "chars": [77]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "선생님은 주로 어디서 라디오 체조를 하시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "공원? 학교? 아니면 사무실?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "그러고 보니 선생님이 라디오 체조를 하는 모습은 본 적이 없는 것 같네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "라디오 체조는 초등학생 이후로 해 본 일이 없는데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "네? 라디오 체조를 안 나가신다고요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "그럼 착한 아이 도장도 받을 수 없잖아요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "선생님도 제가 나가는 공원에 함께 나오셔서 같이 라디오 체조를 해요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "싫어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "귀찮아.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "안 돼요. 선생님처럼 책상 앞에 오래 앉아 있는 어른들에게 체조는 중요한 일과라고요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "선생님~!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "오랜만에 라디오 체조를 해 본 소감은 어떠신가요, 선생님?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "일찍 일어나서 체조를 하니 확실히 기분이 개운해지지 않으셨나요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "확실히 평소보다 개운한 느낌이네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "그렇죠? 라디오 체조는 평소에 안 쓰는 근육을 풀어주기 때문에 건강에도 좋답니다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "그러니까 앞으로는 선생님도 매일 공원에서 진행하는 아침 라디오 체조에 참여하세요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 77, "index": 1 },
+      "content": "……찾아오지 않으시면 제가 샬레 하우스로 직접 찾아갈 거예요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "휴일은 좀 봐줘…….",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

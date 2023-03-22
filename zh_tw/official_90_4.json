@@ -1,0 +1,122 @@
+[
+  {
+    "title": "온천 수행 – 휴식 편",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:56:03",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [109]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "전에 삐끗한 발목이 좀처럼 낫지를 않네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "일상을 보내는 데 큰 불편은 없지만 통증이 약간 남아 있어서…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "이대로라면 온천 수행을 하는 데 지장이 생겨버려요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "이 근처에 탕치에 좋은 온천이 있다고 하는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮으면 이번 주말에 같이 가지 않을래?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "네, 갈게요. 감사합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "아",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "ㄴ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "네ㄴ?!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "선생님이랑 같이 탕에 들어간다고요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

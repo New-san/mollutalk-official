@@ -1,0 +1,152 @@
+[
+  {
+    "title": "인간 계산기",
+    "nickname": "Molru",
+    "date": "2022-10-22 14:31:24",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [51]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "정말이지…… 트리니티나 게헨나 학원의 학생들은 도대체 비품 관리를 어떻게 하고 있는 건가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "또 왜 그렇게 화가 났어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "‘또’ 라니요. 누가 보면 제가 매일 화만 내는 줄 알겠어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "블랙마켓의 밀수품 말이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "이번에 압수한 무기들의 출처를 조사해 보니",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "또 트리니티와 게헨나에서 흘러나간 물건이더군요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "교표가 찍힌 총기는 물론이고 전차까지 암시장에서 돌아다니는 걸 보면,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "두 학원이 관리라는 걸 하고 있는지가 의심스러울 정도예요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "물론 저희 밀레니엄 학원의 관리는 엄격하기 때문에",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "비품이 유출되는 일은 절대 없답니다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "정말……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "뭐, 학생들이 멋대로 개조해서 팔아 치우는 사제품만 제외한다면 말이죠…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "title": "닌자 소녀는 숨기지 않아(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 01:53:03",
+    "replyNo": 8,
+    "replyGroup": 7,
+    "chars": [93]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "선생 공도 알다시피 난 인법연구부의 부장이잖아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "응, 그렇지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "비공인 동아리인데, <부장>이라고 불러도 되는 걸까?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "우냐악! 쓸데없이 한 마디가 더 많잖아! 당연히 되지!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "이래 봬도 평소에 잔뜩 노력하고 있다구! 닌자 공부라거나, 콘텐츠 제작이라거나",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "이렇게 하다 보면 언젠가 키보토스의 모두에게 닌자를 널리 알리고, 인법연구부가 정식 동아리로 인정받게 될 날도 올 거라고 믿으니까!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "응, 미치루가 노력하는 건 잘 알고 있어. 언제나 응원할게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "우햐햣! 고마워, 선생 공! 언제나 선생 공의 응원은 내게 큰 힘이 돼",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그렇게 생각해준다면야 나도 고맙….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "그냥 하는 말이 아니라, 정말, 엄청나게 큰 힘이 되고 있어",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "얼마나 큰 힘이 됐냐면, 방금 선생 공이 해준 말 덕분에 망설임이 싹 가셨으니까!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "…응?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "노력하는데 투자를 아껴선 안 되겠지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "단골 가게에 새로운 닌자 굿즈가 입고됐대.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "아, 아니! 인법 도구가…!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "좀 비싸서 고민했는데, 선생 공 말을 듣고 결심했어!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "응! 어디까지나 미래를 위한 투자로써 말이지!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어딜 봐도 욕망으로 가득하잖아….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "우냐핫! 그럼 기다리고 있을게! 선생 공!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "(휘리리릭! 파바바바밧!) <- 엄청나게 멋지게 달려가는 소리",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 7,
+      "replyGroup": 6,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "으, 으응…. 알았어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 93, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

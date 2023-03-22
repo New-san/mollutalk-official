@@ -1,0 +1,152 @@
+[
+  {
+    "title": "감주와 고양이(번역)",
+    "nickname": "Molru",
+    "date": "2023-03-22 20:05:53",
+    "replyNo": 6,
+    "replyGroup": 4,
+    "chars": [13]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "새해도 되었으니",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "content": "가까운 사찰에서 흥신소 직원들에게 선물할 부적을 구입할까 하는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "괜찮다면 선생도 하나 선물해 줄까?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "content": "혹시 특별히 필요한 부적이라도 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "게임 가챠에서 좋은 아이템을 뽑는 부적!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "치명 데미지 수치를 높여주는 부적!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "으음……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "사찰에서 그런 부적을 팔고 있었던가……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "농담이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "나도 직접 보고 구입하고 싶은데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮으면 만나서 같이 사러 가자.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "그래.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "content": "그럼 내일 아침 사찰 앞에서 보자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

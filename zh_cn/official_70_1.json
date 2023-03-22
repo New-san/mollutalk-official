@@ -1,0 +1,112 @@
+[
+  {
+    "title": "귀여움은 정의!",
+    "nickname": "Molru",
+    "date": "2022-10-23 17:12:28",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [68]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "선생님, 오후에 시내에서 잠깐 어울려 주실 수 있나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "다름이 아니라 이번 하계 훈련에 사용할 새 수영복을 사려고 해서요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "상관없지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "친구가 아니라 나랑 가도 괜찮아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "중학교 때부터 입던 수영복이 있기는 하지만 더 입기에는 작아진 것 같아서요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "모처럼 정의실현부에 들어왔으니 다른 부원, 선배 여러분께 부끄럽지 않을 멋진 수영복을 새로 갖고 싶습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "멋진 수영복을 찾을 수 있으면 좋겠네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "네, 그러기 위해서는 선생님의 도움이 필요합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "그럼 매장에서 먼저 기다리고 있겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 68, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

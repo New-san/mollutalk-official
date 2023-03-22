@@ -1,0 +1,112 @@
+[
+  {
+    "title": "포커페이스",
+    "nickname": "Molru",
+    "date": "2022-10-22 14:39:06",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [51]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "선생님, 샬레의 집무실에 방치된 게임 보드가 있던데,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "사용하지 않는 물건이라면 제가 써도 괜찮을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "상관없지만…… 유우카도 게임을 좋아해?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "물론 좋아하고 말고요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "보드 게임도 좋아하고, 온라인 게임도 좋아한답니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "의외네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "무언가 오해를 하신 모양인데,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "저도 다른 학생들만큼 게임을 좋아하는 편이에요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "어려운 적을 상대로 여러가지 공략법을 연구하는 건 수학 문제를 푸는 것만큼 즐겁거든요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

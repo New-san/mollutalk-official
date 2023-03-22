@@ -1,0 +1,182 @@
+[
+  {
+    "title": "이윽고 소녀는 멋진 레이디가 된다.(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 01:38:59",
+    "replyNo": 6,
+    "replyGroup": 5,
+    "chars": [88]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "선생님선생님! 헬프! 헬프!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "가면 드라이버의 필살기! 이머전시 드라이브 킥이야!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "이, 이머전시…. 뭐?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 일이야, 카에데? 뭔가 큰일이라도 난 거야?!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "응…? 큰일…?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "아…! 응! 맞아! 선생님 말대로……. 이건 어마어마하게 큰일인 걸지도?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "혹시 카에데, 어딘가 크게 다쳤다던가?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "응? 나? 난 괜찮은데? 완전 쌩쌩한데? 아침밥도 1등으로 먹었다구?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "그~보다 중요한 건 그런 게 아니야~! 선생님!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "하지만 방금 분명 카에데가 이머전시라고….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "아~ 이머전시라는 건 말이지. 그러니까 그게 말이야~!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "…핫?! 아냐아냐! 이런 어마어마한 소식을 그냥 모모톡으로만 전해선 안 돼!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "어디서 누가, 이 모모톡을 염탐하고 있을지도 모르고!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아니, 없지. 그런 일.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "어쨌거나 용건은 직접 만나서 전하는 게 좋을지도?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "나! 놀이터에서 기다리고 있을게! 얼른 와! 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

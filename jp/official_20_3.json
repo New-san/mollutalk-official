@@ -1,0 +1,72 @@
+[
+  {
+    "title": "분노의 미식가",
+    "nickname": "Molru",
+    "date": "2022-10-22 21:09:00",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [18]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 1 },
+      "content": "이번엔 몇 달 동안 벼르던 최고급 레스토랑에 갈 예정입니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 1 },
+      "content": "비록 혼자가는 것이지만, 음식을 비평할 때는 혼자일 때가 나을 때도 있는 법이죠.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어라? 혼자 가는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "혼자 레스토랑을…… 난이도가 높네.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 1 },
+      "content": "후후후. 다녀와서 보고드리겠습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

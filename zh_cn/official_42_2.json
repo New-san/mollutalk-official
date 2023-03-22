@@ -1,0 +1,102 @@
+[
+  {
+    "title": "장인은 도구를 가리지 않는다",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:37:41",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [48]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "선생님, 샬레 하우스의 화장실 불이 나간 것 같아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "스위치 버튼을 눌러봤는데 불이 들어오지 않더라고.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그래? 수리 기사를 불러야겠네…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "괜찮아. 전선이 끊어진 것뿐이니 간단하게 고칠 수 있어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "전선 슬리브 압착기는 어디에 있어? 내가 수리할게.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그렇게 전문적인 공구는 샬레에 없는데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "……샬레에 압착기가 한 자루도 없다고?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "……정말?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

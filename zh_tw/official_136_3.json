@@ -1,0 +1,82 @@
+[
+  {
+    "title": "이성적인 응원 문화(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:20:40",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [51]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "그러고 보니 곧 키보토스 인터하이의 지역 예선이 시작될 시즌이네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "밀레니엄에서도 야구부가 출전한다고 들었는데…",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "워낙 약팀이라 올해는 어떻게 될지 모르겠네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "유우카는 야구 경기를 자주 관람하는 편이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "뭐, 그렇게 열성적인 팬이라고 하긴 어렵지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "밀레니엄의 팀이 출전할 때는 가볍게 응원 정도는 한답니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

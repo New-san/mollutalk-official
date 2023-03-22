@@ -1,0 +1,122 @@
+[
+  {
+    "title": "멋진 레이디가 되고 싶어!(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 01:33:55",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [88]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "선생님, 오늘도 멋진 레이디가 되기 위해 노력할게!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "응, 오늘도 힘내.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "하지만 멋진 레이디로 향하는 길은 역시 엄청 어려워…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "얼마나 어렵냐면………",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "여름방학에 아침체조 카드를 전부 도장으로 채우는 것보다 더 어려울지도 몰라!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그건……. 확실히 어렵네!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "그치? 그래서 어쩌면 좋을까, 어어어엄청 고민하던 차에……! ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "나 마침 좋은 걸 발견했거든!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "이거 세기의 대발견일지도 몰라! 이 엄청난 발견은 직접 만나서 말해줄게! ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "부실에서 보자! 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 88, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

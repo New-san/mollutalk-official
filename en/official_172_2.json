@@ -1,0 +1,92 @@
+[
+  {
+    "title": "학원 생활(번역)",
+    "nickname": "Molru",
+    "date": "2023-02-22 21:42:55",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [175]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "선생님. 지금 잠시 시간 괜찮으실지요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "한 통의…… '편지'를 받았는데, 조금 곤란한 일이 되고 말았습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "웬만한 일이라면 저 혼자 처리해야 하는 것이 마땅하겠습니다만.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "이번 일 만큼은 어찌해야 할 지 모르겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "토키에게 곤란한 일이? 잠시만 기다려!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "감사합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "그러면, 학교에서 뵙겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 175, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

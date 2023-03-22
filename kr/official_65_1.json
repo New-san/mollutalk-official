@@ -1,0 +1,182 @@
+[
+  {
+    "title": "운수 좋은 날",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:29:20",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [109]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "선생님, 선생님은 운세 점괘를 얼마나 믿으시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "제법 잘 맞는다고 생각해.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그다지 맞는 것 같지는 않은데…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "그렇군요. 나중에 선생님이 보는 운세 점괘를 제게도 알려주세요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "그런가요? 그럼 일간 키보토스의 <오늘의 운세>를 확인해보세요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "이곳의 운세 점괘는 틀린 적이 없거든요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "<오늘의 운세>에 따르면 오늘의 저는 금전운이 좋다고 하네요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "특별반에 온 이후로 금전운이 좋다는 점괘는 나온 적이 없었는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "후후, 벌써부터 기대가 되어서 참을 수가 없네요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋은 일이 있었으면 좋겠네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "네, 그러게 말이에요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "으으…… 아까 못 먹고 남긴 고급 스위츠가 신경 쓰여서 잠이 오질 않아요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "모처럼 금전운이 따랐는데도 그 기회를 살리지 못하다니, 너무 아쉬워요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "다음번에도 르와조 블뢰에서 스위츠를 사줄게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "아, 안 돼요! 그런 약속을 들어버리면…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "앞으로도 계속 잠을 잘 수 없게 되어버린다고요!",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

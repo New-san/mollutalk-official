@@ -1,0 +1,112 @@
+[
+  {
+    "title": "가끔은 미소 짓는 프로일라인(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 01:42:58",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [20]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "하아… 귀찮아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "왜, 이로하. 무슨 일 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "아뇨, 별 건 아니에요…. 그냥….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "사람은 어째서 일을 해야만 살아갈 수 있는가. 하고 잠깐 생각해봤을 뿐이에요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "선생님. 우리가 이렇게까지 하며 살아가는 데에 과연 의미가 있을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "갑자기 대화 주제가 무거워졌어! 물론 의미는 있다고 생각하지만!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "정말 정말 하기 싫지만. 그래도 해야만 하겠지요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "네, 정말 정말 귀찮지만.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어, 음. 힘내….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 20, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

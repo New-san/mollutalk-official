@@ -1,0 +1,122 @@
+[
+  {
+    "title": "잠든 숲 속의 메이드",
+    "nickname": "Molru",
+    "date": "2022-10-23 15:01:16",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [34]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "오늘은 주인님과 함께 임무를 하는 날이네요. 기대가 돼요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "주인님도…… 오늘을 기대해 주셨나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "저는 오늘이 오는 걸 기다리며, 밤새 잠을 이루지 못했답니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "수면은 중요해.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮겠어?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "후훗. 걱정 마세요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "선생님과 함께라면, 아카네는……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "언제나 최고의 컨디션이니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "악당들은 C&C의 활약에 의해, 모두 법정으로 갔답니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 34, "index": 1 },
+      "content": "하지만 오늘의 MVP는…… 바로 주인님이에요!",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

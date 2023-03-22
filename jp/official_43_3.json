@@ -1,0 +1,142 @@
+[
+  {
+    "title": "넷카페에 어서 오세요",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:53:20",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [43]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "이번에 새로 출시된 그래픽 카드의 성능이 그렇게 좋다는데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "업체에 문의해보니 재고가 한정되어 있어서 한 사람 앞에 한 개밖에 팔지 않는다지 뭐야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "컴퓨터에 대해서는 잘 모르지만, 한 개면 충분하지 않아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "안 돼.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "두 개 이상의 그래픽 카드를 연결해서 그래픽 처리 성능을 높이지 않으면 새로운 시뮬레이터의 기능을 제대로 시험해 볼 수 없거든.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "마음 같아서는 사실 두 개도 부족하지만,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "부품의 가격이 배로 뛰니 두 개로 만족하는 수밖에…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 말인지는 모르겠지만, 뭔가 굉장하네…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "컴퓨터 조립의 세계는 심오하구나…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "그래서 말인데, 이번 주말에 부품 상점에 쇼핑하러 갈 때 같이 가줄 수 없을까?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "돈은 내가 낼 테니까 얼굴만 빌려주면 돼.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "알겠어. 주말에 보자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 43, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

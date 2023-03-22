@@ -1,0 +1,142 @@
+[
+  {
+    "title": "미화 정비",
+    "nickname": "Molru",
+    "date": "2022-10-22 21:54:43",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [46]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "선생님! 얼마 전에 치른 재시험에서 만점을 받았어!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "후후, 선생님이 저번에 가르쳐 준 특별 수업 덕분이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "축하해. 마키도 공부하느라 수고 많았어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "나 잘했지? 더 칭찬해 줘, 더~!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그럼 시험공부를 하느라 수고한 마키를 위해 시내에서 아이스크림을 사줄게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "정말? 약속한 거다, 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "이 메시지, 캡처해두었으니까 나중에 무르기 없기야!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "쓰레기 치우는 거 도와줘서 고마워, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "……그리고 몰래 낙서한 것도 모른 척해줘서 고마워.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "이번에는 좋은 일을 하려고 했던 거니까.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "우으…… 그래도 경찰 아저씨에게 걸려서 혼나면 어쩌지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 46, "index": 1 },
+      "content": "그때는 선생님이 꼭 경찰에게 잘 말해줘야 해. 꼭이야!",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

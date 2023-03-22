@@ -1,0 +1,122 @@
+[
+  {
+    "title": "온천 수행 - 욕탕 정비 편",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:53:29",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [109]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "으으…… 지난번의 수행은 완전히 실패였어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "설마 가이세키 요리라는 게 그렇게나 다채로운 것일 줄이야……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "매일 배급 식품만 먹어왔던 저로서는 상상도 하지 못할 세계였어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "하지만 그 덕분에 새로이 깨닫게 된 사실도 있답니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "온천장에서 가장 중요한 시설은…… 욕탕이라는 사실을요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "보통은 그렇지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "온천장은 말 그대로 온천을 즐기기 위한 시설.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "훌륭한 욕탕을 갖추고 있다면 손님은 자연히 모여드는 법이니까요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "그래서 이번에는 욕탕을 깨끗이 정비하는 데 집중하려고요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……어디서?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

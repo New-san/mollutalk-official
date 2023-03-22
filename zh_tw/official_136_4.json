@@ -1,0 +1,172 @@
+[
+  {
+    "title": "스포츠 카드(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:26:18",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [51]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "정신없었던 황륜대제도 무사히 다 끝났네요……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "수고 많으셨습니다, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "유우카도 수고 많았어",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "아녜요. 세미나의 임원으로서 당연히 해야 할 일이었는 걸요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "그러고 보니 샬레에 협력을 요청 드린 안건들에 대해서도 한 번 정리를 해야 했는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "학원의 업무가 정리되면 샬레에 한 번 방문하겠습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "그때는 잘 부탁드리겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "image",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "getFile/29/l9q374el/mollu_1.png",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "일단 적당히 문장을 써 보았는데…",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "…어떠신가요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "조금 문장이 딱딱해…",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좀 더 애정을 담아서 써 줘…",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "그렇게 말씀하셔도….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "image",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "getFile/29/l9q374el/mollu_2.png",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 51, "index": 3 },
+      "content": "이번뿐이에요.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "마이스터의 살벌한 독촉(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:06:53",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [47]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "……지난번의 사건 이후로 많은 고민을 했어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "실내에서 일하는 사람들의 의욕을 높일 수 있는 응원 도구는 없을까— 하고.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "……그리고 오랜 고민 끝에 시제품을 만드는 데 성공했어.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "사무직 근무자를 위한 궁극의 응원 도구.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "……다음 당번 때 시험 삼아 들고 갈게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……뭘 만든 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 47, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

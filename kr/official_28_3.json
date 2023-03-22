@@ -1,0 +1,152 @@
+[
+  {
+    "title": "트레이너도 함께",
+    "nickname": "Molru",
+    "date": "2022-10-22 23:27:46",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [54]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "트레이너, 오늘은 제가 트레이너를 위해 특별히 준비한 것이 있습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "오늘 오후 헬스장에서 뵙겠습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "트레이너.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "몸은 좀 어떠신가요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "응. 괜찮아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "으으윽, 근육이….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "역시 트레이너, 건강하시군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "운동이 조금 과했나 보군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "다음에 만나면 제가 스트레칭을 돕겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "참, 아마 지금쯤이면 트레이너의 사무실에",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "제가 보낸 단백질 보충제가 도착했을 겁니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "image",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "getFile/29/l9k0mmuo/mollu_1.png",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 54, "index": 1 },
+      "content": "하루에 4번, 잊지 마시고 챙겨 드시길 바랍니다.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

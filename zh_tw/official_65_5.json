@@ -1,0 +1,162 @@
+[
+  {
+    "title": "구름을 찾아 떠나는 모험",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:35:10",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [109]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "선생님은 어떤 날씨를 제일 좋아하시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "맑은 날.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "비 내리는 날.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "무난하네요. 다들 맑은 날을 좋아하죠.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "드물긴 하지만 비 내리는 흐린 날도 인기가 많긴 하죠.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "뭐, 구름 하나 없이 맑은 날도, 자박자박 비가 내리는 날도 좋기는 하지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "저는 구름이 잔뜩 흩뿌려진 하늘이 제일 좋아요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "image",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "getFile/29/l9l1bvg3/mollu_1.png",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "보세요, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "선생님을 위해 대신 예쁜 풍경을 찍어 왔어요. 어떤가요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "예쁜 하늘인걸.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "그렇죠? 제가 구름이 많은 날을 좋아하는 이유가 바로 이거예요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "선생님도 같이 왔으면 좋았을 텐데…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 1 },
+      "content": "마, 마지막 문자는 신경 쓰지 마세요!",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

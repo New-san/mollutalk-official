@@ -1,0 +1,142 @@
+[
+  {
+    "title": "작다는 건 편리해!",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:54:41",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [102]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "선생님, 전에 먹은 약의 부작용이 다시 생겨버린 것 같아요…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "또다시 몸이 어려지니 시선도 낮고,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "팔다리도 가벼운 게 어쩐지 어색한 느낌이네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮아? 일단 오늘은 실내에서 쉬는 게 좋겠어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "……아니요. 이참에 평소에 가끔 가던 디저트 가게에 다녀와야겠어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "어린아이가 되었을 때, 꼭 먹어보고 싶은 음식이 있었거든요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어린아이가 되었을 때 먹어보고 싶은 음식……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "몸이 어려졌다고는 하지만, 설마 입맛까지 어려졌으리라고는 생각지도 못했네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "이래서는 매화원의 아이들에게 올바른 식사 지도를 하기 어렵겠어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "원래의 몸으로 되돌아갈 때까지 어른의 음식을 부지런히 먹어 입맛을 길들여놔야겠네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "우선은 럼 레이즌에 들어가는 럼부터…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그건 안 돼!",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

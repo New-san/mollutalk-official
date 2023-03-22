@@ -1,0 +1,132 @@
+[
+  {
+    "title": "눈 속의 연설",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:47:58",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [105]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "최근 붉은겨울 학원 곳곳에 체리노 회장을 비방하는 선전물이 자주 보이는 것 같네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "……아무래도 <정기 순회 연설>을 나가야 할 때가 돌아온 것 같습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "정기 순회 연설?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "저희 학원의 순회 연설에 관심이 있으신가요, 선생님?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "붉은겨울 학원의 순회 연설이란, 자치구의 곳곳을 순회하며 연설을 통해 체리노 회장님의 위대함을 널리 알리는— 일종의 행사랍니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "다만 자치구가 넓은 탓에 학원 전역을 순회하려면 꽤 오랜 시간이 걸리지만요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "선생님께서도 괜찮으시다면 이번 순회 연설에 함께 참여하시겠어요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "나는 괜찮은데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "아뇨. 부디 와주셨으면 합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "선생님께도 들려드리고 싶은 체리노 회장님의 멋진 에피소드가 아직 잔뜩 남아 있거든요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "강제 참여냐!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

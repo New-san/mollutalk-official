@@ -1,0 +1,122 @@
+[
+  {
+    "title": "다이어트약",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:01:54",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [98]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "지난번 일은 정말로 미안했던 것이다, 선생.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "사과의 의미로 맛있는 국수를 대접할 테니까, 현무상회 앞에서 기다려 줘!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "맛있는 국수……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "응, 내가 자주 가는 상회의 맛집이 있는 것이다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "검증된 맛집이니, 선생도 맛을 보면 분명 그 국수가 좋아지게 될 거다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "저번에 같이 먹은 국수는 정말 맛있었지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "다음에 또 같이 현무상회에 놀러 가는 것이다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그나저나 그때 다이어트약을 건네받은 헬멧단은 어떻게 된 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "응……? 아, 그 녀석들 말인가…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "글쎄, 어디선가 설탕이라도 퍼먹고 있지 않으려나?",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

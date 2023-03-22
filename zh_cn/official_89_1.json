@@ -1,0 +1,112 @@
+[
+  {
+    "title": "오해와 거짓말",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:45:50",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [105]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "안녕하세요, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "혹시 실례가 되지 않는다면 오후에 잠깐 시간을 내어주실 수 있으신가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮아. 무슨 일이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "다름이 아니라 붉은겨울 사무국의 업무에 필요한 물건을 구입하기 위해 샬레 근처의 상점가를 방문하려 했는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "붉은겨울의 자치구를 벗어나는 건 오랜만이라, 부끄럽게도 이 근처의 길에는 익숙지가 않아서요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "괜찮으시다면 선생님께서 동행해 주셨으면 합니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그래.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "감사합니다, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "그럼 오후에 상점가 앞에서 뵙겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 105, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

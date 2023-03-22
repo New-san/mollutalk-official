@@ -1,0 +1,102 @@
+[
+  {
+    "title": "피망과 햄버거 스테이크",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:14:46",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [104]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "우으…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "콤라드에게는 특별히 가리는 음식이 있는가?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "갑자기 가리는 음식은 왜?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "이 몸은 피망이 싫다네. 맵고, 쓰고, 아린 맛이 나지 않는가!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "으으……. 그 끔찍한 맛은 악마의 열매라고 해도 좋을 정도라네!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "편식은 몸에 나빠.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "편식이 아니야! 피망을 싫어하는 건 사람이면 당연한 거라고!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "이렇게 간단한 진리를 학생들은 어째서 깨닫지 못하는 건지…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

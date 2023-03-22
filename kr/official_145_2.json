@@ -1,0 +1,82 @@
+[
+  {
+    "title": "특훈! 노려라, 산타!(번역)",
+    "nickname": "Molru",
+    "date": "2022-12-15 22:24:10",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [77]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 4 },
+      "content": "고민이란 괴롭지만 좋은 것 같아요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 77, "index": 4 },
+      "content": "확실한 결론을 내리지 못하더라도, 자신감을 주니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "확실히 그럴지도.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그런데, 갑자기 왜 '고민’ 이야기를……?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 4 },
+      "content": "쭉 고민하던 문제에 대해 나름대로 결론을 내렸거든요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 4 },
+      "content": "선생님께도 보여 드릴 테니 기대해 주세요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 77, "index": 4 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "불심검문",
+    "nickname": "Molru",
+    "date": "2022-10-22 23:58:03",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [13]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 13, "index": 1 },
+      "content": "선생은 인상 때문에 고민해 본 경험 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "왜 갑자기 그런 생각을 한 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 13, "index": 1 },
+      "content": "그게…… 선생도 알다시피 내 인상이 좀 사나운 편이잖아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 13, "index": 1 },
+      "content": "그러다 보니 이상하게 시비가 걸리는 일이 잦아서 말이야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 1 },
+      "content": "인상이 사나워서 좋은 일은 별로 없는 것 같아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 13, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "아무튼 음모예요!",
+    "nickname": "Molru",
+    "date": "2022-10-23 19:56:36",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [9]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "선생님. 늘 신세가 많습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "게헨나 선도부의 선임 행정관 아마우 아코입니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "다름이 아니라 이번에 샬레와의 업무 협력 건으로 연락드립니다만",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……아코?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "나중에 날짜와 장소에 대한 자세한 내용을 보내드리겠으니, 바쁘시더라도 조금만 시간을 내주시면 감사하겠습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "잘 부탁드립니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "으, 으응.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "선생님. 신세 졌습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "오늘 이야기와는 별로 관계없습니다만, 확인해보니 어젯밤 배전 관련 공사로 일시적인 정전이 있었다고 하네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "그래서 말인데, 혹시 감시 카메라 100대 필요하지 않으세요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "필요 없어!!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 9, "index": 1 },
+      "content": "……쳇.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

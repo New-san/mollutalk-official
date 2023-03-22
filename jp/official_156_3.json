@@ -1,0 +1,92 @@
+[
+  {
+    "title": "그 국장의 휴식(번역)",
+    "nickname": "Molru",
+    "date": "2023-01-31 20:47:50",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [116]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "발키리 경찰학교의 구내 식당은 가격이 저렴하고 반찬이 다양하긴 하지만",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "배식 시간이 짧은 게 단점이군요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "업무에 집중하고 있다 보면 배식 시간을 놓치는 일이 잦은지라",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "종종 식사를 거르게 됩니다",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "구내 식당 밖에서 음식을 사 먹으면 안 되는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "아뇨. 그런 규칙은 없습니다만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "어쩐지 밖에서 식사를 하는 것은 꺼려져서요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 116, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

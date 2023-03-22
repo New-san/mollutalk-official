@@ -1,0 +1,112 @@
+[
+  {
+    "title": "놀이터 안전 점검",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:56:42",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [102]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "선생님, 그 이야기 들으셨나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "이번에 키보토스 중앙구에 커다란 실내 놀이터가 새로 개장한대요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "매화원의 원생들이 다음 견학은 그곳으로 가자고 졸라대서, 견학 전에 미리 안전 점검을 다녀오려고요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "괜찮으시다면 이번 주말에 그 실내 놀이터에 가보지 않으시겠어요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "응, 괜찮아. 한가하던 참이었거든.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그나저나 어려진 몸으로 가도 괜찮겠어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "괜찮아요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "……아니, 오히려 이번만큼은 어려져서 다행이라고 생각해요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "어린아이의 시선으로 놀이터를 돌아볼 기회는 흔치 않으니까요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

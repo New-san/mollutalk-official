@@ -1,0 +1,112 @@
+[
+  {
+    "title": "미식의 요소는 요리, 시기, 상대. 그리고……(번역)",
+    "nickname": "Molru",
+    "date": "2022-12-29 22:27:51",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [18]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "선생님",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "예전의 약속을 기억하고 계시나요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "기억하고 있어. 최고의 미식을 즐기자는 약속이었지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "기억하고 있어. 꽃게잡이를 가자는 약속이었지?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "그러면, 오늘 잠시 시간을 내어 주실 수 있을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "기다리겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 2,
+      "replyGroup": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "무슨 말씀인지 모르겠습니다만",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "최고의 미식을 함께 즐기자고 말씀드렸었죠.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 18, "index": 4 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "세미나 서기 노아의 심심한 휴식(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:02:33",
+    "replyNo": 1,
+    "replyGroup": 1,
+    "chars": [172]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "선생님, 오늘 오후에 예정되어 있던 정기 면담은 취소되었습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "모노레일 점검 중에 갑작스러운 소나기가 내리는 바람에 레일이 일부 손상된 모양이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "그 때문에 일부 임원들이 아직도 학원에 발이 묶여 있다고 합니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "관련하여 미리 연락 드리니, 혹시라도 헛걸음하는 일 없으시길 바라겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

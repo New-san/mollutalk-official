@@ -1,0 +1,102 @@
+[
+  {
+    "title": "공부는 어려워 1",
+    "nickname": "Molru",
+    "date": "2022-10-23 15:07:34",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [37]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "하아. 만약 내게 좀 더 힘이 있다면……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "이 세상에서 ‘수학’을 청소하고 싶어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "갑자기 무슨 일이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "아, 투정 부려 미안하군.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "도서관 가는 길에…… 선생님에게 문자를 보내 보고 싶었어.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "그…… 두 번째 꿈은…… 이루어지면 그때 알려줄게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "아무에게도 말한 적 없지만.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 37, "index": 1 },
+      "content": "아마, 선생님이 가장 먼저 알게 될지도 몰라.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "우연한 외출",
+    "nickname": "Molru",
+    "date": "2022-10-22 21:26:40",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [65]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "선생님, 내일 오후에 예정된 샬레의 당번 활동을",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "오전으로 바꿀 수 있을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "오후에 갑자기 친구들과 약속이 잡혀버려서요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮아. 친구들과 무슨 약속을 했는데?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "방과 후에 학교 친구들과 함께 시내로 외출을 나가기로 했어요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "무얼 하고 놀지 벌써부터 기대가 되네요! 헤헤…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "title": "소녀는 그래도 포기하지 않는다(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 02:20:00",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [126]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "선생님…… 헤헤. ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "오늘은 운수가 좋은 날이에요. ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "상한 편의점 도시락에 핀 버섯 같은 제 인생에도 이런 일이 벌어지나 보네요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋은 일이라도 있었어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "네. 실은 오늘",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "아아 직접 보는 게 빠르겠네요 잠시만요",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "사진을 보낼게요. ",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "선생님? 선생님? 보고 계신가요? ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "왜 또 이러죠? 선생님?? 전송되지 않았습니다? 라니 무슨 소리인가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "으아아앙- 또 와이파이가 끊겼잖아요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "역시 그럴 줄 알았어요. 혹시나하면 역시나예요! 괴롭네요 고통스러워요 마치",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……기다려. 만나서 얘기하자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "전송도 안되고 버벅이는 제 고물 휴대폰 네? 오, 오신다고요? 여길요? 지금요? ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "선생님…… 생각해보니까 감사인사를 못 드린 거 같아서…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "가, 감사해요…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "또 선생님한테 신세를 진 걸 알게 되면 모두에게 혼나버리기 때문에……. ",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 126, "index": 1 },
+      "content": "사주신 잡지는 저 혼자만의 비밀로 해둘게요…….",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

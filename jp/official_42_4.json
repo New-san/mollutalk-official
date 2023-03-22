@@ -1,0 +1,162 @@
+[
+  {
+    "title": "보이고 싶지 않은 모습",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:40:35",
+    "replyNo": 7,
+    "replyGroup": 6,
+    "chars": [48]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "선생님, 지난번에 부탁했던 자전거 바퀴의 수리가 모두 끝났어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "다음에 밀레니엄 학원에 올 때 엔지니어부 부실에 들러서 찾아가.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "생각보다 빨리 끝났네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "역시 밀레니엄의 마이스터야!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "뭐, 내가 아니더라도 이 정도의 고장을 수리하는 건 어려운 일이 아니니까.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "선생님도 나중에 직접 수리해보면 알게 될 거야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "우타하가 물건을 수리하는 모습을 옆에서 직접 보고 싶은데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "……그건 곤란해. 엔지니어부의 작업실에는 위험한 물건이 많거든.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "게다가 수리라는 건 단순 작업의 반복이라, 옆에서 지켜봐도 별 재미도 없다고.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "얌전히 있을 테니까 제발~.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "어린 아이도 아니잖아. 떼쓰지 마.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "어차피 지금은 딱히 수리할 물건도 없으니까…… 나중에 기회가 생기면 다시 말해줄게.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아까 자전거 보관소에서 봤는데 천둥이가 혼자 엎어져서 헛돌고 있던데.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "뭐, 천둥이가?!?!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

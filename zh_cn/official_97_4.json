@@ -1,0 +1,102 @@
+[
+  {
+    "title": "블랙 앤 화이트",
+    "nickname": "Molru",
+    "date": "2022-10-23 22:20:53",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [45]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "베리타스의 부원들이 자꾸 멋대로 흥미 위주의 해킹을 시도해서 고민이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "다행히 큰 문제로 커지지는 않는 것 같지만 자꾸 이렇게 말썽을 부리다니…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "이러다간 해커 동아리로서의 이미지가 실추되겠어…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "해커는 그런 이미지가 있는데. ……역시 편견인가?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "물론 요즈음은 <해커>라 하면 다들 그런 블랙 해커를 떠올리지만…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "원래의 해커는 지금의 화이트 해커에 가까운, 보안 전문가를 의미하는 말이었다고.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "으으, 시간이 날 때마다 부원들에게 올바른 해커 윤리에 대해 똑똑히 가르쳐주어야 했는데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "바빠서 부실에 자주 들리지 못하는 게 이럴 땐 아쉽네.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 45, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

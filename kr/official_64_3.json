@@ -1,0 +1,122 @@
+[
+  {
+    "title": "부끄럼쟁이의 아르바이트 1",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:21:53",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "게임을 개발하는 데 이렇게 많은 돈이 필요할 줄은 예전에는 미처 몰랐어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "저번 개발 때는 서버를 유지할 돈이 부족해서",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "중간에 데이터가 날아가는 일도 있었을 정도니…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "(ﾟﾛﾟ;) 큰일이잖아. 그래서 어떻게 되었어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "다행히 백업해 둔 자료가 있어서 데이터를 완전히 날리지는 않았지만,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "사흘 치의 작업이 물거품이 되고 말았어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "게임 개발의 세계는 냉혹하구나.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "네…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "차기작을 개발할 때는 같은 실수를 반복하지 않도록",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "미리 부지런히 개발비를 모아둬야겠어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

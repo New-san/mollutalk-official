@@ -1,0 +1,112 @@
+[
+  {
+    "title": "치즈 인 더 트랩",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:03:06",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [98]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "선생, 요즘 심심하지 않아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "선생님은 일하느라 바빠.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "에이, 딱딱하게 굴지 말고. 안 그래도 내가 재미있어 보이는 보드 게임을 하나 구한 것이다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "마음 같아서는 빨리 플레이해보고 싶은데, 2인용이라 같이 할 사람을 찾기가 어려워서 말이야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "선생도 관심이 있다면 언제 한 번 연구실에 놀러 오는 것이다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "내키면 한 번 놀러 갈게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "으으, 이런 단순한 게임에서 나님이 지다니…… 분해!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "다음번에는 절대로 지지 않을 테니까! 각오해 두는 것이다, 선생!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "게임보다는 우선 치즈에 대한 집착부터 끊는 게 좋지 않을까……?",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

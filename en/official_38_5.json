@@ -1,0 +1,152 @@
+[
+  {
+    "title": "사랑의 묘약",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:04:38",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [98]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "선생…… 오늘은 선생에게 할 중요한 이야기가 있다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "중요한 이야기? 그게 뭔데?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "그건…… 아니, 문자로는 말할 수 없어……!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "아주 중요한 이야기니까……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "오늘은 샬레의 일이 끝나자마자 바로 연구실로 와주었으면 한다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "기다리고 있을테니까.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "선생, 아까 낮잠을 자다가 끝내주는 꿈을 꾼 것이다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "정신을 차리고 보니 나님의 눈앞에 거대한 치즈 덩어리가 있는 게 아닌가.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "그렇게 치즈를 원 없이 먹은 건 꿈에서도 처음인 것이다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "그나저나 선생의 팔은 왜 그렇게 상처투성이인 것이냐?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "들짐승하고 싸우기라도 했어?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "…….",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

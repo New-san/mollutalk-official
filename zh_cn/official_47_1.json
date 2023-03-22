@@ -1,0 +1,152 @@
+[
+  {
+    "title": "책이 좋은 소녀",
+    "nickname": "Molru",
+    "date": "2022-10-23 13:43:26",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [79]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "안녕하세요, 선생님! 시미코예요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "혹시 괜찮으시다면, 언제 한 번 인사차 뵐 수 있을까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "이번에 공공도서관으로 파견근무를 가게 되었는데,",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "마침 위치가 선생님이 계신 곳 근처더라고요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "가까운 곳이니, 언제든 편하실 때 들러주세요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그래.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "(・∀・*) 네! 그럼 기다리겠습니다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "오늘은 정말 즐거웠어요, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "한동안은 이 도서관에서 계속 지내게 됐답니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "그러니 언제든 다시 들러주세요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "가능하다면 다음번에는 좀 더 다소곳한 느낌으로……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "아무튼!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 79, "index": 1 },
+      "content": "항상 기다리고 있겠습니다! (・∀・*)",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

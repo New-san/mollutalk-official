@@ -1,0 +1,102 @@
+[
+  {
+    "title": "격렬하게 둘이서 하네츠키!",
+    "nickname": "Molru",
+    "date": "2022-10-23 21:07:31",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [11]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "선생님! 엄청나게 하네츠키가 하고 싶어졌어!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "갑자기 하네츠키를……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "지난번의 패배를, 하네츠키로 설욕해 줄 테니까!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "선생님, 그럼 승부야!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "기다리고 있을게!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "이번 새해에도, 선생님과 함께해서 엄청 재미있었어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "새해에도, 그리고 앞으로도.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 11, "index": 3 },
+      "content": "나랑 잔뜩 놀아줘야 해? 선생님♡",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

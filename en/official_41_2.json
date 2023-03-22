@@ -1,0 +1,112 @@
+[
+  {
+    "title": "메리 씨의 전파",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:31:57",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [44]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "선생님, <메리 씨의 전화>라는 괴담을 알고 있으신가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "잘 모르겠는데.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "<메리 씨의 전화>는 어느 소녀가 메리라는 이름의 인형을 버리자, 그 인형이 소녀에게 직접 전화를 걸어온다는 내용의 괴담입니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "이 괴담의 무서운 포인트는 전화를 걸 때마다 메리의 위치가 점점 소녀에게 가까워지다가 마지막에는 등 뒤에서 인형이 나타난다는 점이지요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그런데 갑자기 괴담은 왜?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "그냥, 갑자기 궁금해져서 그렇습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "이 전화를 역추적한다면 메리 씨는 어디서 전화를 걸고 있는 것으로 표시될까요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "언젠가 메리 씨가 제 핸드폰에도 전화를 걸어왔으면 좋겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무, 무서워……!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 44, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

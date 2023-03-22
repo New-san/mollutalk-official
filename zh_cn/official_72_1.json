@@ -1,0 +1,132 @@
+[
+  {
+    "title": "여름 데뷔!",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:11:57",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [65]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "선생님, 오후에 시간 괜찮으신가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "오늘 방과 후에 시바타운에 있는 대형 쇼핑몰에 수영복을 사러 가려했거든요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "어떤 수영복이 제게 어울리는지 선생님이 꼭 봐주셨으면 좋겠어요. (≧∇≦)",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그래. 같이 가자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그나저나 전에 쓰던 수영복은 없는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "학교에서 쓰는 평범한 스쿨미즈가 있긴 하지만……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "그건 너무 평범해요! 평범한 수영복으로는 안 된다고요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "뭐가 안 되는데……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "여름의 해변은 모두가 숨겨왔던 매력을 드러내는 각축장……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "그곳에 평범한 수영복을 입고 가는 건 총알 없이 전장에 나가는 것과 다름없어요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "……말하자면, 여름 데뷔예요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 4 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

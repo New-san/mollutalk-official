@@ -1,0 +1,132 @@
+[
+  {
+    "title": "높게 높게",
+    "nickname": "Molru",
+    "date": "2022-10-22 23:15:07",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [102]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "선생님, 아까 보니 매화원의 학생들에게 재밌어 보이는 걸 해주고 계시던데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "재밌어 보이는 것?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "학생들의 팔을 잡고 하늘로 높이 들어 올리는 놀이…… <높게높게> 말이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "괜찮으시다면 제게도 해주실 수 있나요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "하지만 슌에게는 조금 위험하지 않을까……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "괜찮아요. 저는 선생님이 생각하시는 것보다 훨씬 유연하니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "후후, 자세한 건 직접 만나서 말씀드릴게요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "매화원의 아이들과 언제나 즐겁게 놀아 주셔서 감사합니다, 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "다만 오늘 하지 못한 <높게높게>는 다음에 꼭 받아 낼 거예요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 102, "index": 1 },
+      "content": "각오하세요, 선생님!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그러니까 슌에게는 너무 위험한 놀이라고 해도…….",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

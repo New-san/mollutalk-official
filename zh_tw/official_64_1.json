@@ -1,0 +1,152 @@
+[
+  {
+    "title": "캐비닛 속의 안식처",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:19:37",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "선생님은 휴식 시간에는 어디서 시간을 보내시나요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "샬레 생활관.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "화장실.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "그렇군요. 확실히 샬레 생활관에는 쉬기 편한 공간이 많으니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "……조금 습하긴 해도 나쁘지 않은 공간이네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "저는…… 사람이 지나다니지 않는 어둡고 그늘진 장소가 좋아요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "아무에게도 방해받지 않는 저만의 안식처…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "그곳에 있으면 마음이 편안해져서, 얼마든지 머무를 수 있어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "선생님, 다음부터는 다른 캐비닛을 알아봐 주세요…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "게임개발부의 캐비닛은 제 전용 캐비닛이에요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "유즈의 캐비닛이 좋아.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "그렇게 말씀하셔도…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "안 되는 건 안 된다고요.",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

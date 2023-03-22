@@ -1,0 +1,202 @@
+[
+  {
+    "title": "학생회장의 겨울휴가",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:34:53",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [104]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "연말의 학원은 정말 정신없이 바쁘군.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "초인적인 체력을 가진 이 몸조차도 계속되는 격무로 인해 피로가 쌓이는 게 느껴질 정도야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "그래서 이번 주말에는 업무에서 벗어나 모처럼 겨울 휴가를 즐기기로 했다네!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "호화로운 휴양지에서 푹 쉬고 나면 컨디션을 완전히 회복할 수 있겠지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "휴식이라면 평소에도 충분히 하고 있지 않아?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "그게 무슨 소리인가, 콤라드.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "일과 중에 즐기는 휴식과 휴가는 엄연히 다르다고?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "사무국에서 자는 짧은 낮잠으로는 피로를 완전히 씻어낼 수 없는 법!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "그런 의미에서 이번에는 휴가를 제대로 즐길 수 있도록, 호화로운 온천장을 통째로 대절했다네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "콤라드도 피로가 쌓였다면 이 몸과 함께 겨울 휴가를 즐기는 게 어떻겠는가?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "으으…… 으으…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "어째서지? 이 몸의 휴가 계획은 완벽했을 텐데…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "온몸이 추를 매달아 놓은 것처럼 무거워…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "안 하던 운동을 하니까 그렇지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "근육통이 온 거 아냐?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "이 몸은 그저 즐거운 휴가를 보내고 싶었을 뿐인데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "아껴 둔 최고급 푸딩을 빼앗긴 것으로도 모자라, 없었던 근육통까지 생겨버리다니……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 104, "index": 3 },
+      "content": "겨울 휴가, 이 얼마나 무시무시한 녀석이란 말인가…….",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

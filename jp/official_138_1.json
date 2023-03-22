@@ -1,0 +1,132 @@
+[
+  {
+    "title": "계속 성장했어(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:36:58",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [70]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "선생님. 혹시 지금 시간 괜찮으실까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "다름이 아니라 이번에 열릴 황륜대제와 관련해서 검토해야 할 사항이 있는데,",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "다른 학교도 관련된 일이다 보니, 괜찮으시다면 함께 봐주실 수 있을까 해서 연락드렸습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "물론이야. 바로 갈게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "감사합니다, 선생님. ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "지금 바로 장소를 알려드리겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "오늘 일은 정말로 감사드립니다. 선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "같이 검토해 주만 해도 감사한데, 집까지 바래다주시다니…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "그러고 보니 선생님께서도 이번에 오신다고 알고 있습니다만.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "대회장에서도, 꼭 뵐 수 있었으면 좋겠습니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 70, "index": 3 },
+      "content": "그럼 모쪼록 조심해서 들어가세요.",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

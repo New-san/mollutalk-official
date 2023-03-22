@@ -1,0 +1,112 @@
+[
+  {
+    "title": "부끄럼쟁이의 아르바이트 2",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:22:53",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "지난번에 한 아르바이트는 최악이었어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "손님 앞에만 서면 자꾸 몸이 얼어붙어서 실수만 연발하고…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "점장님도 괜찮다고는 하셨지만, 분명 크게 실망하셨을 거예요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그럼 다른 새로운 아르바이트를 해보지 않을래?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "네? 새로운 아르바이트요……?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "무, 무리예요! 지난번의 편의점 아르바이트도 겨우 해냈는걸요…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "괜찮아. 이번 아르바이트는 사람의 얼굴을 직접 보지 않아도 할 수 있거든.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "사람의 얼굴을 직접 보지 않아도 할 수 있는 아르바이트…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "그, 그렇다면 괜찮을지도…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 41, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "대식가 출입 금지",
+    "nickname": "Molru",
+    "date": "2022-10-23 00:30:41",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [17]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "무한리필은 정말 멋진 문화인 것 같아요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "가격에 구애받지 않고 원하는 음식을 원하는 만큼 먹을 수 있다니…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "이 아이디어를 낸 사람은 천재(天才)일 게 분명해요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어제 아카리가 방문한 무한리필 가게 주인으로서는 천재(天災)였겠지만…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 17, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

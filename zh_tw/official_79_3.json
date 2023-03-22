@@ -1,0 +1,102 @@
+[
+  {
+    "title": "사야의 맛있는 식당",
+    "nickname": "Molru",
+    "date": "2022-10-23 19:10:35",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [98]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "선생. 지난번에는 한정 메뉴 사는 걸 도와줘서 고마웠던 것이다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "답례의 의미로 이번에는 나님이 현무상회에서 맛있는 음식을 살게.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "선생은 뭐가 먹고 싶은 것이냐?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "볶음밥이 좋겠어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "야키소바가 먹고 싶어!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "아, 그러고 보니 이번 주는 현무상회의 가게들이 새로 개발한 라멘 메뉴를 내놓는 라멘 주간인데…",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "선생! 이번 휴일은 현무상회에서 함께 라멘을 먹는 것이다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……내 의견은 왜 물어본 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 98, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

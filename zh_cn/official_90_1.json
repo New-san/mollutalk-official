@@ -1,0 +1,152 @@
+[
+  {
+    "title": "온천 수행 - 가이세키 요리 편",
+    "nickname": "Molru",
+    "date": "2022-10-23 20:52:30",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [109]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "오늘도 공무를 수행하시느라 대단히 수고 많으셨습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "선생님만 괜찮으시다면 피곤하신 몸을 돌봐 드리고 싶은데, 어떠신지요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……이건 무슨 컨셉이야?\"",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "사람이 모처럼 예의를 차려 인사를 했는데 무슨 컨셉이냐니, 실례잖아요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "앗",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "아무것도 아니랍니다, 선생님. 호호…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……무슨 문제라도 있는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "아뇨. 그저 심경의 변화가 생겼을 뿐이에요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "지난 온천장 운영을 통해 저는 여러 가지를 배웠답니다.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "탕을 깨끗하게 청소하는 법부터, 목욕용품의 재고 정리까지…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "하지만 접객에는 부족함이 많았던 탓에, 온천장을 찾아 주신 손님들께 여러모로 실례를 저지른 것 같아요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "그래서 다음번에는 실수하지 않도록 미리 예행연습을 해두려고요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "다시 말하자면…… 온천 수행입니다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 109, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

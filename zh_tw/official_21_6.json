@@ -1,0 +1,72 @@
+[
+  {
+    "title": "게릴라 악수회",
+    "nickname": "Molru",
+    "date": "2022-10-22 21:28:28",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [65]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "선생님, 이번 주말에 시간 괜찮으신가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "보충수업부에서 쓸 비품을 구매하러 공용 아레나 근처에 갈 일이 있어서요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "괜찮으시다면 같이 쇼핑하러 가지 않으시겠어요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋아. 나도 마침 근처에 볼일이 있었거든.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "다행이네요. 그럼 돌아오는 주말에 키보토스 공용 아레나 앞에서 뵈어요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 65, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

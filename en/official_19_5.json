@@ -1,0 +1,72 @@
+[
+  {
+    "title": "상처",
+    "nickname": "Molru",
+    "date": "2022-10-22 21:02:38",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [53]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 53, "index": 1 },
+      "content": "작전 완료, 미션 클리어. 선생님, 수고 많았어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "아까 보니 팔에서 피가 나던데, 치료하지 않아도 되겠어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 53, "index": 1 },
+      "content": "괜찮아, 살짝 긁힌 수준인걸.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 53, "index": 1 },
+      "content": "작전 중에 이 정도의 상처를 입는 건 흔한 일이야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "안 돼. 상처를 소독해 줄 테니 양호실로 와.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 53, "index": 1 },
+      "content": "나는 정말 괜찮다니까…….",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

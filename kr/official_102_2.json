@@ -1,0 +1,112 @@
+[
+  {
+    "title": "보안위원장의 추리",
+    "nickname": "Molru",
+    "date": "2022-10-23 22:48:50",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [106]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "선생, 또 사건이다. 예의 스파이 문제야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "그 괘씸한 스파이 녀석이 이번에는 체리노 회장의 푸딩을 훔쳐 간 모양이더군.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어째서 스파이의 소행이라고 단정 짓는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "그야 붉은겨울 학원의 보안은 언제나 완벽하기 때문이지!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "스파이가 기어들어 와 사보타주라도 하지 않는 이상, 문제가 생길 다른 이유는 없어!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "그러니 이번 사건도 스파이의 소행임이 분명해.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "……하지만 어째서인지 체리노 회장께서는 내가 푸딩을 훔쳐 갔다고 생각하시는 것 같더군.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "물론 짚이는 바가 없는 건 아니지만…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "이번에야말로 멋지게 스파이를 잡아 내 무죄를 증명해 내겠어!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

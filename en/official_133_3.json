@@ -1,0 +1,202 @@
+[
+  {
+    "title": "세미나 서기 노아의 평범한 일과(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:01:51",
+    "replyNo": 7,
+    "replyGroup": 6,
+    "chars": [172]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "밀레니엄의 학생들이 만든 발명품을 보고 있노라면 깜짝 놀랄 때가 많아요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "저는 생각지도 못했던 새로운 기술이나 아이디어를 매번 가져오거든요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "그럴 때마다 저는 밀레니엄의 가치에 제대로 공헌하고 있는지, 스스로를 반성하게 되네요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "노아 정도면 열심히 하는 거 아냐?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "잔인한 이야기지만, 열심히 하는 것과 잘하는 것은 다르니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "제게는 다른 천재들과 같은 번뜩이는 창의성도, 섬세한 손재주도 없답니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "그나마 가지고 있는 잡기라고 해도……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "……기계의 제작에 필요한 청사진을 통째로 외울 수 있는 것 정도?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "엄청난 스킬이잖아……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "선생님, 나쁜 소식이 있습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "전에 말씀드렸던 <선생님의 행동 패턴을 수집하여 현재 위치를 예측하는 장치>의 특허 신청이……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "안타깝게도 총학생회의 이의제기로 인해 반려된 모양이에요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "당연하지!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그런 특허가 허가될 리가 없잖아.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "하지만 특허라는 건 얼마든지 목적을 바꿔가며 같은 물건을 다시 출원할 수 있으니까요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "계속해서 양식을 바꾸어 가며 특허를 신청하다 보면……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 172, "index": 1 },
+      "content": "언젠간 진짜 특허 등록이 될지도……?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "제발 그만둬……!",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

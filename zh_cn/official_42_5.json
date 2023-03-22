@@ -1,0 +1,92 @@
+[
+  {
+    "title": "마이스터의 훈장",
+    "nickname": "Molru",
+    "date": "2022-10-23 01:44:02",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [48]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "<서벌>에서 새로운 작업용 장갑을 출시하려는 모양이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "지난번에 <마나슬루>에서 구입한 장갑은 너무 두꺼워서 새로운 것을 찾던 중이었는데…… 마침 잘 되었네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그러고 보니 우타하는 실내에서도 언제나 작업용 장갑을 끼고 있네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 특별한 이유라도 있어?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "특별한 이유라고 할 것은 없고…… 내 손가락은 그다지 예쁜 편이 아니거든.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "어릴 적부터 기름과 금속을 만지고 살았더니 끝이 갈라지고 기름때가 스며들어서 보기에 흉해.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "그래서 장갑을 끼고 다니는 것뿐이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 48, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

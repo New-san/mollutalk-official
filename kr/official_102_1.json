@@ -1,0 +1,192 @@
+[
+  {
+    "title": "보안위원장의 심문",
+    "nickname": "Molru",
+    "date": "2022-10-23 22:47:51",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [106]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "수상하군. 수상해…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "무슨 일이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "최근 들어 급양부에 보관 중인 간식이 계속 사라지는 것 같다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "특히 푸딩의 개수가 장부상에 기록된 숫자에 비해 터무니없이 부족해.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "개수를 잘못 센 거 아냐?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "누가 몰래 먹은 거 아냐?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "아니, 그럴 리는 없다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "다른 보안위원들과 함께 몇 번이나 다시 세어 보았으니까!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 3,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "아니, 그럴 리는 없다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 3,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "급양부의 시설은 우리 보안위원들이 철통같이 지키고 있으니까!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "개수를 잘못 센 것도, 누가 먹은 것도 아니라면 이는 분명……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "붉은겨울 학원을 음해하려는 스파이의 사보타주 행위가 분명하다!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "스파이?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "음. 붉은겨울 학원은 워낙 넓은 데다가, 학생기록부의 전산화가 완전히 이루어지지 않아 사무국에서 파악하지 못한 학생들도 제법 있으니까.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "그중에 외부 학원에서 보낸 스파이가 섞여 있다 하더라도 이상하지 않은 일이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "분명 그 스파이는 이런 허점을 노려 붉은겨울 학원에 내분을 일으키려 했던 거겠지. 괘씸한 녀석 같으니라고.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "그런고로 오늘부터…… 특별 스파이 색출 작전을 개시한다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 106, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

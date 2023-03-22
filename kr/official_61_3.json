@@ -1,0 +1,142 @@
+[
+  {
+    "title": "초회한정판이에요. 선생님.",
+    "nickname": "Molru",
+    "date": "2022-10-23 16:00:48",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [40]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "선생님! 속보예요! 속보! 어마어마한 속보요",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "미도리, 진정해. 컴다운.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그 정도로 속보야? 어떡하지? 폭죽을 준비할까?!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "후우후우, 네, 지, 진정했어요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 1,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "그래서, 무슨 일이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "그, 그 정도까지 해야 할 일인가 하면, 그, 글쎄요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "어, 어쨌거나!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "이번에 전설의 명작 고전 게임의 후속작이 나왔대요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "그 게임의 초회한정판을 반드시 입수하고 싶어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "선생님, 어울려 주실 거죠?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "오늘 고마웠어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 40, "index": 1 },
+      "content": "다음에 같이 플레이해요. 선생님.",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

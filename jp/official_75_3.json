@@ -1,0 +1,82 @@
+[
+  {
+    "title": "선도부원의 가벼운 일탈",
+    "nickname": "Molru",
+    "date": "2022-10-23 18:42:35",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [8]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "선생님, 출동이야!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "방금 들어온 신고에 따르면 바다의 집 앞에서 불량 학생들이 행패를 부리고 있나 봐.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "게헨나 선도부의 스페셜리스트로서 이런 만행을 두고 볼 수는 없지!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "지금 바로 바다의 집으로 따라 나와줘.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "물에 들어가야 할지도 모르니 수영복 챙겨오는 것도 잊지 말고!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "……잠깐, 나도 가야 하는 거야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 8, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

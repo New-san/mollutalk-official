@@ -1,0 +1,82 @@
+[
+  {
+    "title": "새해에는 새 옷으로!(번역)",
+    "nickname": "Molru",
+    "date": "2022-12-29 22:29:42",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [16]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "선생님, 오늘 바빠?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "너무 바쁘지 않다면 내가 아르바이트 하는 곳에 와 볼래?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "어디였더라…… <르와조 블뢰>였던가?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "맞아. 잘 기억하고 있네.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "조금, 보여 주고 싶은 게 생겼거든.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "기다리고 있을 테니까!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 16, "index": 4 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

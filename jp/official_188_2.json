@@ -1,0 +1,142 @@
+[
+  {
+    "title": "새해의 종소리(번역)",
+    "nickname": "Molru",
+    "date": "2023-03-22 19:59:29",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [13]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생, 선생은 한 해의 마지막 날 자정에는 무얼 하는 편이야?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "해넘이 국수를 먹으면서 보내.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "연말 특집 방송을 보면서 지내.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "후후, 그것도 나쁘지 않네.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "content": "나는 보통은 제야의 타종을 들으러 사찰을 찾아가는 편이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "1년에 한 번만 들을 수 있는 종소리라는 점이 매력적이라",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "뭔가 로망이 느껴지네",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "그래서 말인데, 선생.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "content": "올해 마지막 날에는 같이 제야의 타종을 들으러 가지 않을래?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "좋은 종소리로 유명한 숨겨진 명소가 있다고 해서.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "좋아. 같이 가자.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "content": "응. 그럼 그 날 저녁에 역 앞에서 보자.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 13, "index": 3 },
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

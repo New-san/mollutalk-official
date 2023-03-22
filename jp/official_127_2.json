@@ -1,0 +1,92 @@
+[
+  {
+    "title": "당신에게 보여주고 싶은 것(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 04:17:00",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [89]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "선생님, 나 반짝임을 찾다가-",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "바닷가에서 엄청난 걸 발견했어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "치세가 엄청나다고 말할 정도라니- 그거 엄청 신경 쓰이는걸.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "응, 나, 선생님에게도 보여주고 싶어서.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "아, 마침 잘됐다-",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "같이 보러 가자. 선생님.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "기다리고 있을게~",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 89, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

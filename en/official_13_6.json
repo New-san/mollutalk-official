@@ -1,0 +1,62 @@
+[
+  {
+    "title": "아쿠아리움!",
+    "nickname": "Molru",
+    "date": "2022-10-22 16:01:18",
+    "replyNo": 2,
+    "replyGroup": 2,
+    "chars": [2]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 2, "index": 1 },
+      "content": "선생, 저번에 얻은 아쿠아리움 티켓 말야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 2, "index": 1 },
+      "content": "슬슬 기간이 다 되어 가니까, 이번에 같이 가지 않을래?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 2, "index": 1 },
+      "content": "아쿠아리움 앞에서 기다리고 있을게.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "알았어. 거기서 봐.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 2, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]

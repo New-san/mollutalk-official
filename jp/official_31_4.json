@@ -1,0 +1,112 @@
+[
+  {
+    "title": "게임은 즐거워요",
+    "nickname": "Molru",
+    "date": "2022-10-22 23:55:16",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [4]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "응……. 지난번에 사간 오셀로 게임, 다 같이 했는데 저만 한 번도 못 이겼어요.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "다들 너무 잘해서…… 특히 호시노 선배! 엄청 강해요!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "안 되겠어요, 특훈을 해야겠어요!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "특훈……? 파이팅!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "힘내.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "네! 힘낼게요! 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "잘 들어가셨나요, 선생님?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "저는 오늘 무척 즐거웠어요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 4, "index": 1 },
+      "content": "다음에도 같이 둘이서 오셀로를 할 수 있었으면 좋겠어요☆",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]
