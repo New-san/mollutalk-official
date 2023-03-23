@@ -2,6 +2,8 @@
 
 This is a translation file for the [MolluTalk Official](https://mollutalk.com/official/en/1)
 
+Please modify the "content" of [lang]/official_[series_no]_[series_idx].json to match the language and make a full request.
+
 If there is a typo or correction, please make a full request.
 
 twitter - [@Raun0129](https://twitter.com/Raun0129)
@@ -49,7 +51,7 @@ There is information about the Blue Archive momotalk.
 ]
 ```
 ----
-## lang/official_[series_no]_[series_idx].json
+## [lang]/official_[series_no]_[series_idx].json
 
 Blue Archive momotalk. Mollutalk ver.
 
