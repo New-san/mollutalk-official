@@ -1,6 +1,6 @@
 [
   {
-    "title": "실종된 아이 찾기",
+    "title": "行方不明の子は",
     "nickname": "Molru",
     "date": "2022-10-23 22:35:47",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "혹시 자리에 계신가요?",
+      "content": "今、大丈夫でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "うん、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "그",
+      "content": "実は",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "다름이 아니라 도움이 필요한 일이 있어서……",
+      "content": "できれば少し、助けていただきたく……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "아니, 이런 걸 선생님께 부탁드려도 괜찮을지 모르겠는데",
+      "content": "その、こういうことを先生に頼んで良いのか",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "별건 아니고",
+      "content": "それはちょっとわからないのですが",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "친하게 지내던 아이 하나가 실종된 상태라…….",
+      "content": "仲良しの子が、行方不明に",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭐라고!?",
+      "content": "……なんだって！？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 바로 갈게",
+      "content": "すぐ行く",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "아니",
+      "content": "いえ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "선생님 그게",
+      "content": "先生、その",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "말을 끝까지",
+      "content": "話を",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "오늘 일은 정말로 감사했습니다. 선생님.",
+      "content": "今日は本当に、ありがとうございました。先生",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "늦은 시간까지 감사했습니다.",
+      "content": "こんな、遅い時間まで……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "그거 말고도",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "여러 가지로, 배려해 주셔서 감사했습니다.",
+      "content": "それ以外のことも、と言いましょうか……ありがとう、ございます",
       "isFirst": false,
       "file": ""
     }
