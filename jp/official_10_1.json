@@ -1,6 +1,6 @@
 [
   {
-    "title": "마이스터라 불러줘.",
+    "title": "マイスターって呼んで",
     "nickname": "Molru",
     "date": "2022-10-18 17:24:37",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "안녕. 선생님. 지난번에 연락 온 이후로 답장이 없는데.",
+      "content": "おはよう、先生。この前連絡して以来、返事がなかったけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "무슨 일 있어? 샬레로 가봐도 될까?",
+      "content": "何かあった？シャーレに行ってみてもいい？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "핸드폰이 고장 나서 답변을 못했어.",
+      "content": "スマホが壊れて返事できなかったんだ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금도 통신 상태가 불량해.",
+      "content": "直ったかと思ったら、今もまだ通信状態が怪しくて……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "…… 뭐?",
+      "content": "そうだったんだ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "…… 잘됐네.",
+      "content": "……タイミングばっちり。良かった",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어? 잘못된거 아냐?",
+      "content": "え？良くないことだと思うけど……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "아냐. 왜 그런지는 곧 알게 될거야.",
+      "content": "ううん、別の意味で。どういうことかは、すぐ分かるよ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님 방의 모든 전자기기에 자폭 장치를 설치하는 건 어떨까?",
+      "content": "先生の部屋のありとあらゆる電子機器に自爆機能を付けるのはどう？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "TV 나 냉장고나 노트북이나",
+      "content": "TVとか冷蔵庫とかノートパソコとか、",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "전자레인지나 청소기나 헤어드라이기나",
+      "content": "電子レンジとか掃除機とかドライヤーとか、",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "전부 폭발할 수 있도록 준비해줄 수 있어.",
+      "content": "何でも爆発するようにできるよ",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "…… 농담이야.",
+      "content": "……冗談",
       "isFirst": true,
       "file": ""
     }
