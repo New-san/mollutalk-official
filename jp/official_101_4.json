@@ -1,6 +1,6 @@
 [
   {
-    "title": "피크닉 가방",
+    "title": "ピクニックに持っていくもの",
     "nickname": "Molru",
     "date": "2022-10-23 22:45:49",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "오늘은 모처럼 저에게 업무가 없는 날이랍니다.",
+      "content": "実は今日、お休みでして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그래서 말인데 그",
+      "content": "それで",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그으…….",
+      "content": "その",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그……?",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이니?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "괜찮으시면 제가 선생님의 시간을 좀 써도 괜찮을까요……?",
+      "content": "よろしければ少し、お時間を頂けませんでしょうか……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아아. 물론 괜찮아.",
+      "content": "もちろん、大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응! 나야 환영이지!",
+      "content": "大歓迎だよ。",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "!!!",
+      "content": "！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "감사합니다. 그럼 먼저 장소를 잡고 있을게요.",
+      "content": "あ、ありがとうございます！では先に行って、場所を行っておきますので……！",
       "isFirst": false,
       "file": ""
     },
