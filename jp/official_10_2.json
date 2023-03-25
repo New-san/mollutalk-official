@@ -1,6 +1,6 @@
 [
   {
-    "title": "마음으로 타오르는 불꽃",
+    "title": "心に打ち上がる炎",
     "nickname": "Molru",
     "date": "2022-10-18 17:25:12",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "불꽃놀이용 기계를 제작해 달라는 요청을 받았어.",
+      "content": "花火を打ち上げるための機械を作ってほしいって依頼を受けたの",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "괜찮다면, 밀레니엄으로 와서 도와줄 수 있을까?",
+      "content": "よかったらミレニアムに来て、手伝ってくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "불꽃놀이?",
+      "content": "花火？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 도움이 될까?",
+      "content": "私、役に立てるかな？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "와주면 기쁠거야.",
+      "content": "来てくれると嬉しい",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "부상자가 발생하지 않은게 정말 다행이야.",
+      "content": "負傷者がでなくてよかった",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "역시 선생님과 있으면…… 두근거리는 일이 많이 생기는 것 같아.",
+      "content": "やっぱり先生といると……ドキドキすることがよく起きるね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님은…… 오늘 어땠어?",
+      "content": "先生は……今日、どうだった？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "즐거웠어.",
+      "content": "楽しかったよ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "죽는 줄 알았어.",
+      "content": "死ぬかと思った",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "오늘은 엉망이었지만, 다음에는 진짜 불꽃을......",
+      "content": "今日はめちゃくちゃだったけど、いつか本当にすごい花火を……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "아니 더 정말 굉장한 것을 보여줄게. 기대해줘.",
+      "content": "ううん、それよりもっとすごいものを見せてあげるから、期待してて",
       "isFirst": false,
       "file": ""
     }
