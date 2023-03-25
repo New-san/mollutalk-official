@@ -1,6 +1,6 @@
 [
   {
-    "title": "갑작스러운 제안",
+    "title": "突然の提案",
     "nickname": "Molru",
     "date": "2022-10-23 22:36:41",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "선생님.",
+      "content": "先生、今お時間ありますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "제안하고 싶은 일이 생겼습니다만……. 혹시 괜찮으실까요?",
+      "content": "少々ご提案したいこと、と言いますか……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 '제안'이라고?",
+      "content": "突然、「提案」って？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나야 괜찮지만, 무슨 일이야?",
+      "content": "大丈夫だけど、どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "감사합니다. 선생님.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "그럼 잘 준비해 둘 테니",
+      "content": "では、準備をしておきますので",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "언제든 방문해주시기 바랍니다.",
+      "content": "いつでも来ていただければと",
       "isFirst": false,
       "file": ""
     },
