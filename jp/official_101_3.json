@@ -1,6 +1,6 @@
 [
   {
-    "title": "수풀 속에서",
+    "title": "茂みの中で",
     "nickname": "Molru",
     "date": "2022-10-23 22:44:34",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님, 히나타예요.",
+      "content": "先生、こんにちは",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "오늘은 성당 뒤편의 공원을 관리하는 날이라 밖으로 나와 있습니다.",
+      "content": "今日は、聖堂の裏手にある公園に行く予定なんです。管理のお仕事の一環でして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "아",
+      "content": "あ、その",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "무슨 일이 있어서 드리는 말씀은 아니에요.",
+      "content": "特に何かお願い事があったわけではないのですが",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "오히려 그냥 잘 지내고 있다는 말씀을 드리고 싶었습니다.",
+      "content": "むしろ元気ですということを、ただお伝えしたくって",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님 덕분이에요.",
+      "content": "これも、先生のおかげです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "즐거워 보여서 다행이야.",
+      "content": "たいしたことはしてないよ。また今度会いに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아. 그럼 확인차 놀러 한번 갈까?",
+      "content": "せっかくだし、私も遊びに行こうかな？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "!!",
+      "content": "もちろんです、それはもうぜひ！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "후후. 물론이죠. 언제든 좋답니다!",
+      "content": "ご連絡いただければ、すぐ迎えに行きますので！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그…….",
+      "content": "あの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "저기……. 선생님…….",
+      "content": "今日はバタバタしてしまってすみません。それとは別の件なのですが、その……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히나타?",
+      "content": "ヒナタ？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "何かあった？",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그",
+      "content": "えっと",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "다름이 아니라 뭔가",
+      "content": "実は、何と言いますか",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "최근 저한테 이상한 소문들이 계속 붙는 거 같아요.",
+      "content": "遠回しに聞かれたのですが、何だか変な噂が回っているかもしれなくって",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "사람 없는 창고나 성당 한쪽 구석이나",
+      "content": "誰もいない倉庫や、聖堂の裏",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "혹은 수풀 속에서 뭔가를 하는 것 같다……는 그런 소문들이…….",
+      "content": "茂みの中で何をしていたのか、というようなことを聞かれまして……",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "……그 '뭔가'라는 게 뭘까요? 다들 대답을 안 해 주시는데…….",
+      "content": "「何を」と言われましても、何のことだか分からず……",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나, 나도 잘 모르겠는걸.",
+      "content": "わ、私もよく分からないなぁ……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……응. 내 탓인가 봐. 미안해.",
+      "content": "……その噂自体は、私のせいかも。ごめん。",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "……네?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님……?",
+      "content": "えっと",
       "isFirst": false,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님?",
+      "content": "……先生？",
       "isFirst": true,
       "file": ""
     }
