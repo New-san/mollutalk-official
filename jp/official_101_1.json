@@ -1,6 +1,6 @@
 [
   {
-    "title": "성당의 관리자",
+    "title": "聖堂の管理者",
     "nickname": "Molru",
     "date": "2022-10-23 22:40:01",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "평화와 안녕이 함께하시기를!",
+      "content": "今日もみなさんに、平和と安寧がありますように！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "트리니티의 성당에 들르실 일이 있으시면 뭐든 말씀만 주세요. 제가 도와드리겠습니다.",
+      "content": "トリニティの聖堂に立ち寄ることがありましたら、何でも手伝いますのでお申し付けください",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고마워. 든든한걸.",
+      "content": "ありがとう。心強いね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐든지……?",
+      "content": "何でも良いの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "아",
+      "content": "あっ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그",
+      "content": "ただ、その",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "성당 안이나 그 근처에서만……이긴 해요.",
+      "content": "私にできる範囲で、になりますが……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "이것도 저에게 맡겨진 책무의 일환이니까요.",
+      "content": "あまり遠出したりは、ちょっと難しくって……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그럼, 만나 뵐 날을 기다리고 있겠습니다!",
+      "content": "それ以外でしたら、ぜひいつでも！",
       "isFirst": true,
       "file": ""
     },
