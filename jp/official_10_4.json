@@ -1,6 +1,6 @@
 [
   {
-    "title": "만약 꿈을 꾼다면, 당신과의 하루를.",
+    "title": "もしも夢を見られるのなら、あなたと共に一日を",
     "nickname": "Molru",
     "date": "2022-10-22 13:27:34",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "오늘, 깜짝 낮잠을 자버렸는데……",
+      "content": "今日、ちょっとうたた寝をしちゃったんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님의 꿈을 꿨어.",
+      "content": "先生の夢をみたんだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어떤 꿈이었어?",
+      "content": "どんな夢だったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "후훗. 그건 비밀이야.",
+      "content": "ふふっ、それは秘密",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "그래도……",
+      "content": "でも……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "어쩐지, 보고 싶네.",
+      "content": "なんだか、今すぐ先生に会いたい気分",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님. 큰일이야.",
+      "content": "先生、大変",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "생각보다 실신 쇠파이프가 날개 돋친 듯 판매되기 시작했어.",
+      "content": "想像以上の事態。失神鉄パイプが、飛ぶように売れてる",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "말도 안 돼.",
+      "content": "本当に！？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇게 많은 학생들이 불면증에 시달렸단 말야?",
+      "content": "そんなに多くの生徒たちが、不眠症に悩まされてたなんて……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "정말이야.",
+      "content": "本当だよ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "올해의 여고생 IT 아이템으로",
+      "content": "今年の女子生徒の人気のITアイテムとして",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "패션잡지에도 올라갔고",
+      "content": "ファッション誌にも取り上げられたんだよ",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "유명 브랜드마다 신상 실신 쇠파이프를 잇달아 발매하기 시작했어.",
+      "content": "有名ブランドもそれぞれに失神鉄パイプを相次いで発売しはじめたんだ",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "……나도 전혀 예상 못했어.",
+      "content": "……私も、ここまでとは予想してなかった",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "밀레니엄 학생들이 쇠파이프를 들고 다녀도",
+      "content": "ミレニアムの生徒たちがみんな、鉄パイプを持って歩く……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "너무 놀라지 않길 바라.",
+      "content": "そんな光景が見られるようになるかもしれないけど……気にしないでね",
       "isFirst": false,
       "file": ""
     }
