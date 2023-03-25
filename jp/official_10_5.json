@@ -1,6 +1,6 @@
 [
   {
-    "title": "비가 내리면 센티멘탈",
+    "title": "雨が降る日のセンチメンタル",
     "nickname": "Molru",
     "date": "2022-10-22 13:34:09",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "때로는 나도 감상적으로 되는 날이 있어.",
+      "content": "たまには私も、感傷的になる日がある",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "비 오는 날에는, 특히 그래.",
+      "content": "雨が降る日なんかは、特に",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "의외네.",
+      "content": "意外だね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "비는 사람의 감성을 자극하지.",
+      "content": "雨って、どこか感性に訴えかけるものがあるよね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "실례야.",
+      "content": "ごめんね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "이럴 때는 역시……",
+      "content": "こんなときはやっぱり……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "그래.",
+      "content": "うん",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "맞아.",
+      "content": "そうだよね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "어쩐지 내 마음이, 제어가 안 되는 느낌이야.",
+      "content": "なんだか自分の心が、コントロールできなくなる感じ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "이런 날에는 작업실에 가는 것보다……",
+      "content": "こういう日は作業するより、もっと……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "더 의미 있는 시간을 보낼 수 있는 장소로 가야겠어.",
+      "content": "普段とは違う意義のある時間を過ごせる場所に行くのが、良いかもしれない",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "오늘은 도서관이나 가볼까.",
+      "content": "今日は、図書館にでも行ってみようかな",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님. 어깨가 젖는 거, 봤어.",
+      "content": "先生。肩が濡れてたの、見てたよ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "내가 젖지 않게…… 신경 써줘서 고마워.",
+      "content": "私が濡れないように気を遣ってくれて……ありがとう",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "우산이 두 개였다면, 알 수 없는 심리였겠지……. 역시 심리학은 재미있네.",
+      "content": "傘が二つあったら、知らないままの心理だった……やっぱり心理学は面白い",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님의 행동은, 분명 내 마음에 작용을 일으키고 있으니까.",
+      "content": "先生の行動はきっと、私の心に影響を及ぼしている",
       "isFirst": false,
       "file": ""
     }
