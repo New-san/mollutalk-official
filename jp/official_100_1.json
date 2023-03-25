@@ -1,6 +1,6 @@
 [
   {
-    "title": "고서관의 주인",
+    "title": "古書館の主",
     "nickname": "Molru",
     "date": "2022-10-23 22:34:13",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "진짜…….",
+      "content": "はあ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "정말 힘드네요",
+      "content": "参りましたね……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "바깥 사람들이란…….",
+      "content": "これだから外の方たちは……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "우이……?",
+      "content": "ウイ……？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "그",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "별건 아니고……. 그냥 어제 또 바깥사람들과 엮일 일이 있었습니다…….",
+      "content": "大したことではないのですが……ただちょっと昨日、外の方々と関わった際に……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "음 역시 계속해서 좋을 이야긴 아니네요. 이건 여기까지",
+      "content": "いえ、やっぱり聞かなかったことにしてください……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "아 물론 선생님 이야기는 아니에요.",
+      "content": "あ、もちろん先生のことではありませんので",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "혹시나 해서 말씀드립니다…….",
+      "content": "念のため……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "감사합니다, 선생님. 오늘 덕분에 즐거웠어요.",
+      "content": "ありがとうございました、先生。おかげさまで今日は楽しかったです",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "다음에도 언제든 오실 때 꼭 연락주세요.",
+      "content": "またいつでも、ご連絡ください。待っておりますので",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 다음부턴 출발 전에 연락할게.",
+      "content": "うん、またすぐに連絡するね",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "문전박대도 꽤 재밌었어.",
+      "content": "門前払いも面白かったよ",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -174,27 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 80, "index": 1 },
-      "content": "으음",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 4,
-      "sCharacter": { "no": 80, "index": 1 },
-      "content": "…….",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 80, "index": 1 },
-      "content": "……네.",
+      "content": "……は、はい",
       "isFirst": true,
       "file": ""
     }
