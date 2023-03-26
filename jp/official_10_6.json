@@ -1,6 +1,6 @@
 [
   {
-    "title": "이 밤을 당신에게!",
+    "title": "この夜をあなたに！",
     "nickname": "Molru",
     "date": "2022-10-22 13:38:36",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "선생님. 긴급 상황이야.",
+      "content": "先生、緊急事態",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "진정해.",
+      "content": "落ち着いて",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "어떡하지.",
+      "content": "どうしよう",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "문자로는…… 설명하기 어려운데.",
+      "content": "テキストだと、説明が難しいのだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "도와줄 수 있을까?",
+      "content": "手伝ってほしい",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 바로 갈게.",
+      "content": "すぐに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "밀레니엄으로 가면 될까?",
+      "content": "ミレニアムに向かえばいい？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "응! 부탁해!",
+      "content": "うん、お願い……！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "오늘의 야경은 내게…… 정말 소중한 추억이 될 거야.",
+      "content": "今日の夜景は私にとって……本当に、大切な思い出になった",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "앞으로도 잘 부탁해.",
+      "content": "これからもよろしくね",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 1 },
-      "content": "…… 선생님.",
+      "content": "……先生",
       "isFirst": false,
       "file": ""
     }
