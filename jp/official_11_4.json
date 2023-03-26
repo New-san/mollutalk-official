@@ -1,6 +1,6 @@
 [
   {
-    "title": "따뜻한 햇볕의",
+    "title": "暖かい陽射し",
     "nickname": "Molru",
     "date": "2022-10-22 14:07:43",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "선생.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "오늘 말인데…….",
+      "content": "今日は、この間の仕事の",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘 햇볕이 좋아. 히나 쨩.",
+      "content": "今日は陽射しが気持ちいいよ、ヒナ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "날씨가 완전 좋아.",
+      "content": "すごくいい天気",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "응?",
+      "content": "え？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "날씨?",
+      "content": "天気……？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "하아…… 그런 건 됐고.",
+      "content": "別に、天気が良くても何も変わらない",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이런 날엔 산책이지!",
+      "content": "こんな日は散歩だよ！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "산책 가자!!",
+      "content": "仕事より散歩に行こう！！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "산책?",
+      "content": "散歩……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "어, 어어……",
+      "content": "えっと……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "지금?",
+      "content": "今から？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "아…… 알았어. 잠깐이라면…….",
+      "content": "……まあ、ちょっとだけなら……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "선생…….",
+      "content": "全く……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "진짜…….",
+      "content": "先生は本当に……",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "……하아.",
+      "content": "……全くもう",
       "isFirst": false,
       "file": ""
     }
