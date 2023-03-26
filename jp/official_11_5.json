@@ -1,6 +1,6 @@
 [
   {
-    "title": "어쩐지 신비한 밤",
+    "title": "どこか神秘的な夜",
     "nickname": "Molru",
     "date": "2022-10-22 14:14:45",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "며칠 전부터 철야 근무 중이라서 정신이 없어.",
+      "content": "ここ数日、徹夜でバタバタしっぱなし……ほんと面倒",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "거기에 파견 임무까지 겹치고, 처리해야 하는 서류는 쌓여가고…….",
+      "content": "遠出が必要な件も多くて、処理できてない書類は溜まっていく一方だし……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "무슨 일만 생기면 다들 내 얼굴만 쳐다보고…….",
+      "content": "何か起こるとみんな私の方ばっかり見るし……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……ふう",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "심지어 모두 다 쉬는 날에도 이렇게 혼자 나와서 일하고 있다니…….",
+      "content": "そのせいで、みんなが休んでる日にもこうして一人で仕事……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "귀찮고 짜증 나.",
+      "content": "めんどくさい、ムカつく",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "하아…….",
+      "content": "はあ……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히나는 모두에게 기대받으니까.",
+      "content": "ヒナはみんなに期待されているんだね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히나는 선도부장이니까.",
+      "content": "委員長は大変だね、お疲れ様",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "미안. 선생님에게 투덜대려는 게 아니었는데.",
+      "content": "ごめん、つい愚痴になった",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "잊어줘.",
+      "content": "忘れて",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "저기……",
+      "content": "えっと……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "어제 내가 무슨 이상한 소릴 하진…… 않았지?",
+      "content": "昨日の夜、私、何か変なこと言ったり……してない？",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "꿈인지 아닌지 잘 기억나진 않는데……. 뭔가……",
+      "content": "夢だったのかはっきりしなくて、あまり思い出せないけど……なんだか……",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "엄청 부끄러운 얘기를…….",
+      "content": "ものすごく恥ずかしいことを……",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "설마……",
+      "content": "いや……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "아니지?",
+      "content": "そんなことない、よね？",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "글쎄? 무슨 얘긴지 잘…….",
+      "content": "さて、何の話かわからないな……",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꿈을 꾼 게 아닐까?",
+      "content": "夢を見てたんじゃないかな？",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "……음. 그래. 역시 그렇겠지?",
+      "content": "うん、そういうことにしておく",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "……고마워.",
+      "content": "……ありがとう",
       "isFirst": false,
       "file": ""
     }
