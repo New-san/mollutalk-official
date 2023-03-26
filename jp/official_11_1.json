@@ -1,6 +1,6 @@
 [
   {
-    "title": "심야의 회의",
+    "title": "深夜の会議",
     "nickname": "Molru",
     "date": "2022-10-22 13:48:53",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "선생님. 급작스럽겠지만 당신과 논의할 일이 있어.",
+      "content": "先生。急だけど話したいことがあるの",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "내 업무가 끝나는 심야에 잠깐 만날 수 있을까?",
+      "content": "私の仕事が終わった後、深夜だけど少し会える？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이야. 히나의 부탁이라면.",
+      "content": "もちろん、ヒナの頼みなら",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "업무가 심야에 끝나는구나…….",
+      "content": "深夜に仕事が終わるの……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "응. 늦은 시간에 미안하지만…… 약속 장소는 내가 알려줄게.",
+      "content": "遅い時間にごめん、じゃあ場所は……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "내가 선생님의 수면 시간을 방해한 게 아니었을까.",
+      "content": "私のせいで睡眠時間が短くなってたりしない？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "만약 그런 거였다면 말해 줘.",
+      "content": "もしそうだったら言って",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "폐를 끼치고 싶진 않으니까.",
+      "content": "迷惑はかけたくないから",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히나 쨩이라면 잔뜩 폐를 끼쳐 줘도 괜찮아.",
+      "content": "ヒナのためならいくらでも",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮으니 잠을 좀 자도록 해.",
+      "content": "大丈夫。いっぱい寝てるよ",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "……응. 고마워.",
+      "content": "……ん、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "잘 자. 선생님.",
+      "content": "おやすみ、先生",
       "isFirst": true,
       "file": ""
     }
