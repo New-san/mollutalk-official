@@ -1,6 +1,6 @@
 [
   {
-    "title": "타인의 취향",
+    "title": "大人とか子供とか",
     "nickname": "Molru",
     "date": "2022-10-22 14:03:31",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "선생.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "이번 달의 전술 사격훈련의 보고서 말인데…….",
+      "content": "今月の射撃訓練の報告書のことでちょっと……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 것보다, 히나 쨩.",
+      "content": "そんなことより、ヒナちゃん",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금은 더 중요한 게 있어.",
+      "content": "今はもっと重要なことがあるよ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "응?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "으, 으응.",
+      "content": "なに？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "뭐지?",
+      "content": "何か忘れてる議題でも……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나랑 같이 쇼핑몰에 가줘야겠어.",
+      "content": "一緒にショッピングにでも行こう",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "……응?",
+      "content": "……は？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "쇼",
+      "content": "え？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "쇼핑몰?",
+      "content": "ショッピング？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "거긴 왜?",
+      "content": "……どうして？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "해야 할 일이 있어서.",
+      "content": "約束だから",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "중요한 일이 있어서.",
+      "content": "大事なことだから",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "그치만 쇼핑몰이라면 밤에는 문을 닫잖아…….",
+      "content": "でも、ショッピングモールとか夜は閉まってるし……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "24시간 하는 곳이라면…….",
+      "content": "24時間営業のところか、",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "普通にお昼に",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "아.",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "무, 무슨 말인지 이해했어.",
+      "content": "……ごめん、今理解した",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "그래……. 약속했으니까.",
+      "content": "……うん、約束したんだった",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "알았어.",
+      "content": "わかった",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "어떻게든 시간을 내볼게.",
+      "content": "時間作るから、待ってて",
       "isFirst": false,
       "file": ""
     },
