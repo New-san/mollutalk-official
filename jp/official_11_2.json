@@ -1,6 +1,6 @@
 [
   {
-    "title": "당당한 이유",
+    "title": "堂々たる理由",
     "nickname": "Molru",
     "date": "2022-10-22 13:56:58",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "선생님. 이번 휴일의 심야 시간에 시간 괜찮을까?",
+      "content": "先生。今度の休みの日の深夜、時間ある？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "아아. 나는 그때 일이 끝나거든.",
+      "content": "こっちは前と同じくらいの時間に仕事が終わる予定",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "일정이 안 맞으면 어쩔 수 없지만.",
+      "content": "都合が悪かったら大丈夫",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 그때 보자.",
+      "content": "全然問題ないよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "생각해봤는데, 너무 주변 시선을 신경 쓰는 것도 좋지 않을 것 같아.",
+      "content": "あの後も少し考えてみたけど、周りの視線を気にしすぎるのも良くないかも",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "어디까지나 업무상의 미팅이니까.",
+      "content": あくまでも業務上のミーティングだから",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "다음엔 시간을 내서 좀 더 밝은 날에 볼 수 있었으면 좋을지도…….",
+      "content": "今度からは、もっと明るい昼間に時間を作って会うとか……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "밝은 날의 히나 쨩이라…… 기대되네.",
+      "content": "明るい時間帯からヒナに会えるなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "즐거울 거 같아.",
+      "content": "楽しみにしてるよ",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "무, 무슨 생각하는 거야!",
+      "content": "何を言ってるの……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "데이트 같은 게 아니야! 알고 있지?",
+      "content": "デートとかじゃないから、分かってる？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "업무라고, 업무!",
+      "content": "これは仕事だから",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "밝은 날에 히나 쨩과 업무라…… 기대되네.",
+      "content": "明るい時間帯から始めるヒナとのお仕事……楽しみだなぁ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "하아.",
+      "content": "はあ……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "뭐, 맞아. 나도 조, 조금은…….",
+      "content": "もういい。私も、まあ……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "기대하고 있으니까.",
+      "content": "少しは、楽しみにしてる",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 7, "index": 1 },
-      "content": "잘 자, 선생.",
+      "content": "はい、話はこれで終わり。おやすみ、先生",
       "isFirst": false,
       "file": ""
     }
