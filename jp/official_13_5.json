@@ -1,6 +1,6 @@
 [
   {
-    "title": "행운을 잡는 법",
+    "title": "幸運を掴む方法",
     "nickname": "Molru",
     "date": "2022-10-22 15:57:48",
     "replyNo": 10,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "책을 좀 사고 싶은데 말야. 선생, 도와줄 수 있어?",
+      "content": "ちょっと本を買いたいんだけど。先生、一緒について来てくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "내가 찾고 있는 책은 이 동네에는 없어서 말이지…….",
+      "content": "この辺では買えない本で、遠出しないといけないんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래. 쇼핑몰의 서점으로 가볼까?",
+      "content": "うん、いいよ。ショッピングモールの方まで行ってみる？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "오, 그래. 아비도스에서 좀 멀지만",
+      "content": "そうしよっか～、アビドスからはちょっと遠いけど",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "거기라면 찾는 책이 있겠는데?",
+      "content": "あそこならありそうだしね～",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "같이 가줄 거지?",
+      "content": "というか、一も二も無くＯＫなんだね、さっすが先生～",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지. 호시노 쨩의 부탁인데.",
+      "content": "それはもちろん、ホシノの頼みだからね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "근처에서 만나서 같이 가자.",
+      "content": "近くで待ち合わせして一緒に行こうか",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "이야. 오늘 완전 대박이었어.",
+      "content": "いや～、びっくりしたよ～",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "근성으로 운을 잡아채는 거 잘 봤어, 선생. 이것이 바로 어른의 힘인가. 나도 배워야겠어. 음음.",
+      "content": "幸運を根性で掴み取ろうとするなんて、さすが先生。おじさん驚きだよ",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이것이 어른의 힘이다!",
+      "content": "これぞ大人の力！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "……그런데 그 돈으로 그냥 티켓을 샀으면 됐을 텐데 말이지.",
+      "content": "……でもよく考えると、そのお金で普通にチケット買えたかもね",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그걸 언급하는 건 반칙이야!",
+      "content": "それは言わないで",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "살다보면 물러설 수 없는 싸움을 해야 하는 법.",
+      "content": "大人にはね、後には退けない時があるんだ",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으헤헤헤, 그런가? 뭐, 암튼.",
+      "content": "うへへ、そっか～",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "고마워.",
+      "content": "まあとにかく、ありがとね",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "……아쿠아리움, 다음에 같이 가지 않을래? 표도 2장이고 하니…….",
+      "content": "……えっと、あのアクアリウム、一緒に行かない？チケットも2枚だし……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아쿠아리움이라…… 나라도 괜찮다면.",
+      "content": "私で良ければ喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지. 언제든지 환영이야.",
+      "content": "もちろん、ありがとね",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "그래?",
+      "content": "……うへへ",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "……에헤헤-",
+      "content": "……言ったね、先生？",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "그럼 약속한 거야?",
+      "content": "約束したからね？",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "다음에 시간 날 때 얘기하라고, 선생!",
+      "content": "じゃあ今度、お互いに都合の良いときにでも行こっか。また連絡する～",
       "isFirst": false,
       "file": ""
     }
