@@ -1,6 +1,6 @@
 [
   {
-    "title": "희미하지만 빛나는",
+    "title": "うっすらだけど輝いてる",
     "nickname": "Molru",
     "date": "2022-10-22 15:38:35",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생, 알고 있었어?",
+      "content": "先生、知ってた？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "심해에 사는 물고기 중에는 빛을 만들어서 자기를 보호하는 녀석들도 있대.",
+      "content": "深海に住んでいる魚には、体から光を放って身を守るのもいるんだって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "아, 그리고 오늘도 보물찾기 할 건데 올래?",
+      "content": "それはそれとして、今日も宝探しやるけど来る？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "과연. 오늘도 출동인가.",
+      "content": "了解、今日も行くよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "몰랐어. 바다는 심오하구나.",
+      "content": "知らなかった。海の世界は奥が深いね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생, 선생! 이것 봐!",
+      "content": "先生、見てこれ！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오오, 천정에 붙였구나?",
+      "content": "おお、天井につけたの？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "예쁜데?",
+      "content": "すごい、綺麗だね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으헤, 멋지지? 누워서 보면 정말 굉장하다고!",
+      "content": "へっへっへ～、良いでしょ？これは想像以上だったな～",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "오늘은 엄청 즐거웠어. 선물도 고마웠고!",
+      "content": "今日は楽しかったよ、プレゼントありがと",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "그럼 또 다음에 같이 어디든 가는 걸로.",
+      "content": "じゃ、また次も一緒にどっか行こうね。約束",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래. 잘 자.",
+      "content": "うん。おやすみ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "별빛 아래의 침대구나. 로망이네~",
+      "content": "光に包まれたベッド、ロマンチックだね",
       "isFirst": false,
       "file": ""
     }
