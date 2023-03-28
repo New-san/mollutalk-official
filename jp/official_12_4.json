@@ -1,6 +1,6 @@
 [
   {
-    "title": "늦잠",
+    "title": "寝坊",
     "nickname": "Molru",
     "date": "2022-10-22 14:34:06",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선생님, 오늘 아침에 또 지각하셨더군요.",
+      "content": "先生、今朝もまた遅刻をされたとか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "아무리 감시하는 사람이 없다고는 하지만, 너무 자주 지각하시는 게 아닌가요?",
+      "content": "いくら先生に先生はいないからって、遅刻が多すぎませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 어제는 일이 많아서 늦게 잠자리에 들었는걸…….",
+      "content": "でも、昨日は仕事が多くて、遅くまで起きてたから……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "유우카가 깨우러 와주면 지각하지 않을 텐데…….",
+      "content": "ユウカが起こしに来てくれれば……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "그렇다 하더라도 지각해도 괜찮은 건 아니라고요!",
+      "content": "だからって、遅刻はいけません！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "어리광 부리지 마세요! 어른이시잖아요?",
+      "content": "大人なんですから甘えないでください！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "샬레는 학교처럼 교칙이 적용되지 않으니까 너무 느슨해지신 것 같아요.",
+      "content": "シャーレには校則が無いからといって、気が緩み過ぎです",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "벌이에요! 내일부터 지각하시면 제가 시키는 명령을 한 가지 들어주셔야겠어요!",
+      "content": "罰則を設けましょう。明日から遅刻一回につき、私の命令を1つ聞くこと！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼 유우카가 늦으면 내가 명령을 내릴 수 있는 거야?",
+      "content": "じゃあユウカが遅刻したら逆に私が命令してもいい？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "네? 제가 지각을 할 리가 없잖아요?",
+      "content": "何を言っているんですか、私が遅刻するわけないでしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "여하튼 내일은 절대로 늦으시면 안 돼요. 절대로요!",
+      "content": "とにかく、明日は絶対に遅刻しないでくださいね。絶対ですよ！",
       "isFirst": false,
       "file": ""
     },
