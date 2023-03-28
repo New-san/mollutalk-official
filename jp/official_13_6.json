@@ -1,6 +1,6 @@
 [
   {
-    "title": "아쿠아리움!",
+    "title": "アクアリウム！",
     "nickname": "Molru",
     "date": "2022-10-22 16:01:18",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생, 저번에 얻은 아쿠아리움 티켓 말야.",
+      "content": "先生、この間のアクアリウムの話なんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "슬슬 기간이 다 되어 가니까, 이번에 같이 가지 않을래?",
+      "content": "有効期限がもうそろそろだから、今度の週末にでもどう？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "아쿠아리움 앞에서 기다리고 있을게.",
+      "content": "問題なければアクアリウムの前で待ち合わせってことで、よろしく～",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 거기서 봐.",
+      "content": "うん、大丈夫。楽しみにしてるね",
       "isFirst": true,
       "file": ""
     },
