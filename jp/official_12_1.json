@@ -1,6 +1,6 @@
 [
   {
-    "title": "123",
+    "title": "消費は計画的に",
     "nickname": "Mollu",
     "date": "2022-10-22 19:09:11",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "안녕하세요, 선생님. 유우카입니다.",
+      "content": "こんにちは、先生。ユウカです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "저 기억하고 계시죠?",
+      "content": "私のこと、覚えてますか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아아. 당연하지.",
+      "content": "うん、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……누구?",
+      "content": "……誰？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "뭐, 그럼 다행이구요.",
+      "content": "良かった、覚えていただいて幸いです",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "하야세 유우카예요! 그새 잊어버리신 건가요?!",
+      "content": "早瀬ユウカです！忘れてしまったんですか！？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선생님의 연락처를 받아두길 잘했네요.",
+      "content": "先生のご連絡先をもらっておいて正解でした",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "모모톡으로 연락드린 건 다름이 아니라…….",
+      "content": "そうだ、要件なのですが",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "지난번 샬레 탈환 당시 사용했던 탄환의 경비 처리가 늦어지고 있어서요.",
+      "content": "以前のシャーレ奪還作戦時の弾丸の経費について、振込が確認できておらず",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "경비는 언제쯤 청구받을 수 있을까요?",
+      "content": "請求書はシャーレに届いてるはずですが、お支払いはいつ頃になりますか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이쪽에서 처리해야 하는 거였어……?",
+      "content": "こっちで処理しなきゃいけないんだっけ……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "물론이죠. 탄환도 공짜는 아니니까요.",
+      "content": "もちろんです、弾丸だって無料ではないのですから",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "청구서를 작성해서 보내주시면 총학생회에서",
+      "content": "お仕事での経費扱いでしょうし、連邦生徒会に請求すれば、",
       "isFirst": false
     },
     {
@@ -143,7 +143,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "대신 잔금을 치러줄 거예요.",
+      "content": "シャーレに支払われるはずです。その分をそのままこちらに頂ければと",
       "isFirst": false
     },
     {
@@ -152,7 +152,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "청구서는 어떻게 써야 하지…….",
+      "content": "ユウカ、請求書ってどうやって作れば良いの……？",
       "isFirst": true,
       "file": ""
     },
@@ -162,7 +162,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "청구서 양식이라면 밀레니엄 학원에서 쓰는 것이 있어요.",
+      "content": "……ふう。ミレニアムで使っている請求書のひな型がありますので、",
       "isFirst": true,
       "file": ""
     },
@@ -172,7 +172,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "다음에 샬레를 방문할 때 가져다드릴게요.",
+      "content": "今度、シャーレに伺う時に持って行きます",
       "isFirst": false,
       "file": ""
     },
@@ -182,7 +182,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "도와줘서 고마워.",
+      "content": "ありがとう……！",
       "isFirst": true,
       "file": ""
     },
@@ -192,7 +192,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "어려운 일도 아닌걸요.",
+      "content": "いえ、大したことではありませんし",
       "isFirst": true,
       "file": ""
     },
@@ -202,7 +202,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "그럼 좋은 하루 되세요.",
+      "content": "では、今日も良い一日を",
       "isFirst": false,
       "file": ""
     },
@@ -222,7 +222,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선생님! 어째서 샬레의 경비 청구서에 장난감 영수증이 포함되어 있는 건가요?",
+      "content": "先生！何でまたおもちゃのレシートがあるんですか！？",
       "isFirst": true,
       "file": ""
     },
@@ -232,7 +232,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "장난감 구입은 공무와는 상관없는 일이라고요!",
+      "content": "おもちゃはお仕事とは関係ないでしょう！？",
       "isFirst": false,
       "file": ""
     },
@@ -242,7 +242,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 일을 하는 데 꼭 필요한 물건이었는걸…….",
+      "content": "でも、仕事をするのには必要なもので……",
       "isFirst": true,
       "file": ""
     },
@@ -252,7 +252,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "한 번만 눈감아주면 안 될까?",
+      "content": "今回だけ、今回だけ目を瞑ってもらえれば……",
       "isFirst": false,
       "file": ""
     },
@@ -262,7 +262,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "안 돼요! 선생님이시면 선생님답게 학생들에게 모범을 보이셔야죠!",
+      "content": "ダメです！先生は生徒たちの模範なんですから！",
       "isFirst": true,
       "file": ""
     },
@@ -272,7 +272,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "이 엉망인 청구서는 제가 대신 작성해 둘 테니 그렇게 아세요!",
+      "content": "そういうのはちゃんと除いて、整理させてもらいますよ！",
       "isFirst": false,
       "file": ""
     },
@@ -282,7 +282,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "설마…… 청구서를 작성하기 귀찮아서 일부러 엉망으로 쓴 건 아니시겠죠?",
+      "content": "……まさか、書類仕事が面倒だからって、雑にやってたりしませんよね？",
       "isFirst": true,
       "file": ""
     },
@@ -292,7 +292,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선—생—님—!!",
+      "content": "……先生！！！！",
       "isFirst": false,
       "file": ""
     }
