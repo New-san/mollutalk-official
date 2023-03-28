@@ -1,6 +1,6 @@
 [
   {
-    "title": "계산할 수 없는 가치",
+    "title": "計算できない価値",
     "nickname": "Molru",
     "date": "2022-10-22 14:27:51",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선생님, 오늘 방과 후에 학생 사무실에 들러 주실 수 있으신가요?",
+      "content": "先生、今日の放課後、生徒会室に寄っていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "그게 제 능력으로는 도저히 계산하기 어려운 문제와 맞닥뜨려서…….",
+      "content": "ちょっと私の力では計算できない、難しい問題に直面していまして……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "유우카도 풀지 못한 문제라면 내게도 어려울 텐데…….",
+      "content": "ユウカにも解けない問題って、私でも相当怪しいと思うけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "아뇨, 그렇지 않아요.",
+      "content": "いえ、その、そういった件ではなく……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "어른인 선생님의 도움이 꼭 필요해요!",
+      "content": "先生のお力が必要なんです",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 해결할 수 있는 문제라면 도와줄게.",
+      "content": "私に解決できることであれば、喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "네, 그럼 학생 사무실에서 기다리고 있을게요.",
+      "content": "ありがとうございます、それでは生徒会室でお待ちしておりますね",
       "isFirst": true,
       "file": ""
     },
