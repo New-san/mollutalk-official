@@ -1,6 +1,6 @@
 [
   {
-    "title": "잠자는 고래",
+    "title": "眠る鯨",
     "nickname": "Molru",
     "date": "2022-10-22 15:03:30",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "음, 선생. 휴일에 대책위원회 동아리실로 와줄 수 있겠어?",
+      "content": "先生、もし時間があったら次の休日、対策委員会の教室まで来てくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생 도움이 좀 필요한데",
+      "content": "ちょっと先生に手伝ってほしくって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "아 그리고, 고래는 물 속에서 숨을 참고 있는 거래. 알고 있었어?",
+      "content": "あと全然関係ないけど、鯨は水中で呼吸を我慢してるんだって、知ってた？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "대책위원회 동아리실로? 알았어.",
+      "content": "対策委員会の教室？わかった",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "몰랐어. 과연 포유류구나.",
+      "content": "知らなかった。確かに哺乳類だあもんね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으으…… 선생, 자고 일어났더니 허리가 부러질 듯 아프고……. 삭신이 쑤시는데…….",
+      "content": "先生、起きたら腰が折れそうなぐらい痛いんだけど……悲鳴を上げてる……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "오리털이라는 건 원래 이런 거야?",
+      "content": "羽毛ってこういうものなの？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "역시 이 나이에는 딱딱한 바닥이 아니면 안 되는 건가…….",
+      "content": "やっぱりこの歳だと、柔らかすぎるのはダメか……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다음부턴 제대로 침대에서 자.",
+      "content": "ちゃんとしたベッドで寝たほうが良いよ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으음…… 저 매트를 쓰는 건 일단 보류해둬야겠어.",
+      "content": "うーん……あのマットはまた倉庫に逆戻りかなあ……",
       "isFirst": true,
       "file": ""
     }
