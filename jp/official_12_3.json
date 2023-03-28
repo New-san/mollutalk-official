@@ -1,6 +1,6 @@
 [
   {
-    "title": "인간 계산기",
+    "title": "人間計算機",
     "nickname": "Molru",
     "date": "2022-10-22 14:31:24",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "정말이지…… 트리니티나 게헨나 학원의 학생들은 도대체 비품 관리를 어떻게 하고 있는 건가요?",
+      "content": "まったく……トリニティやゲヘナはどうやって備品管理してるんでしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "또 왜 그렇게 화가 났어?",
+      "content": "今回はまた、何があってそんなに怒ってるの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "‘또’ 라니요. 누가 보면 제가 매일 화만 내는 줄 알겠어요.",
+      "content": "「また」って……先生から見た私、そんないつも怒ってるように見えます？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "블랙마켓의 밀수품 말이에요.",
+      "content": "ブラックマーケットの密輸品のことです",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "이번에 압수한 무기들의 출처를 조사해 보니",
+      "content": "今回没収した武器の出所を調べてみたのですが、",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "또 트리니티와 게헨나에서 흘러나간 물건이더군요.",
+      "content": "そのほとんどがトリニティとゲヘナから流れていたものでした",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "교표가 찍힌 총기는 물론이고 전차까지 암시장에서 돌아다니는 걸 보면,",
+      "content": "校章が刻印された銃器はもちろんのこと、戦車まで闇市に流れてますし……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "두 학원이 관리라는 걸 하고 있는지가 의심스러울 정도예요.",
+      "content": "どちらの学園もしっかり管理しているとは思えません",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "물론 저희 밀레니엄 학원의 관리는 엄격하기 때문에",
+      "content": "もちろん、私たちミレニアムの管理は万全かつ厳重ですので、",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "비품이 유출되는 일은 절대 없답니다!",
+      "content": "美品が流出するなんてことは絶対にありません！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "정말……?",
+      "content": "本当に？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "뭐, 학생들이 멋대로 개조해서 팔아 치우는 사제품만 제외한다면 말이죠…….",
+      "content": "まあ、生徒達が勝手に改造して売りさばいている私物を除けば、ですが……",
       "isFirst": true,
       "file": ""
     },
