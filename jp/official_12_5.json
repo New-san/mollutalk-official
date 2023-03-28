@@ -1,6 +1,6 @@
 [
   {
-    "title": "포커페이스",
+    "title": "ポーカーフェイス",
     "nickname": "Molru",
     "date": "2022-10-22 14:39:06",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "선생님, 샬레의 집무실에 방치된 게임 보드가 있던데,",
+      "content": "シャーレの執務室に放置されたボードゲームがあったのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "사용하지 않는 물건이라면 제가 써도 괜찮을까요?",
+      "content": "もし使っていないのでしたら、私が頂いてもいいですか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "상관없지만…… 유우카도 게임을 좋아해?",
+      "content": "うん、良いよ。ユウカもゲーム好きなんだ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "물론 좋아하고 말고요.",
+      "content": "もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "보드 게임도 좋아하고, 온라인 게임도 좋아한답니다.",
+      "content": "ボードゲームもそうですし、オンラインゲームも嗜みます",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "의외네.",
+      "content": "意外かも",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "무언가 오해를 하신 모양인데,",
+      "content": "何か勘違いされてるかもしれませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "저도 다른 학생들만큼 게임을 좋아하는 편이에요.",
+      "content": "私も他の生徒たちと同じくらい、ゲームは普通に好きですよ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "어려운 적을 상대로 여러가지 공략법을 연구하는 건 수학 문제를 푸는 것만큼 즐겁거든요.",
+      "content": "敵の攻略法を考えるのは、数学の問題を解くのと同じくらい楽しいですから",
       "isFirst": false,
       "file": ""
     },
