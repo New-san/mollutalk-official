@@ -1,6 +1,6 @@
 [
   {
-    "title": "한밤중의 순찰자",
+    "title": "真夜中のパトロール",
     "nickname": "Molru",
     "date": "2022-10-22 15:50:38",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "하암. 새벽까지 깨어있으면 역시 다음 주까지 힘들단 말야.",
+      "content": "うへ～、やっぱり夜中まで起きてると次の日まで引きずるねえ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "나이가 들어서 그런가?",
+      "content": "歳のせいもあるのかな～",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생도 새벽에 돌아다니면 안 돼.",
+      "content": "先生もあんまり夜中にでかけたりしちゃダメだよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "몸조심해야지~",
+      "content": "お互い気をつけて行こうね～",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "새벽까지 왜 깨어있는 거야?",
+      "content": "ホシノはどうして夜中まで起きてるの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일찍 일찍 자는 게 좋아.",
+      "content": "早寝早起きしたほうがいいよ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으헤~ 뭐, 여러 사정이 있달까…….",
+      "content": "おじさんの方はまあ色々事情があるというか……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "그건 그렇고 걱정해주는 거야?",
+      "content": "というか先生、心配してくれてるの？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "이 아저씨는 감동이네~",
+      "content": "おじさん感激しちゃうな～",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그냥 잔소리하는 거야.",
+      "content": "素行の良くない生徒への注意だよ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "솔직하지 못하긴. 선생도. 으헤헤-",
+      "content": "素直じゃないなあ先生は、うへへ～",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "선생, 오늘 일은 모두에겐 비밀이야? 선생이라면 입이 무거운 건 알고 있지만.",
+      "content": "先生、今日のことはみんなには秘密だよ？先生の口が堅いのは知ってるけど",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "음…… 여러 가지로 부끄러우니까.",
+      "content": "その……色々恥ずかしいし",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 1 },
-      "content": "으헤헤, 그럼 다음에 봐.",
+      "content": "うへ、じゃあまたね",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "호시노도 잘 자~",
+      "content": "うん、おやすみ",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다음에 봐~",
+      "content": "またね",
       "isFirst": false,
       "file": ""
     }
