@@ -1,6 +1,6 @@
 [
   {
-    "title": "암산의 여왕(번역)",
+    "title": "暗算の女王",
     "nickname": "Molru",
     "date": "2023-01-25 04:06:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "회계를 하다 보면",
+      "content": "数値系の作業をしていると、こう……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "세상이 숫자로 이루어진 것 같다는 생각이 들곤 하죠……",
+      "content": "世の中が全部、数値で出来ている気がしてきません？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "위험한 세계의 향기가…….",
+      "content": "危険な世界の香りが……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "위험, 한가요?",
+      "content": "危険、ですかね？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "저는 그렇게 생각하지 않는데요.",
+      "content": "私はそうは思いませんが",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "딱히, 숫자로 모든 것을 설명할 수 있는 세계가 바람직하다고 말하는 것도 아니고요.",
+      "content": "別に、数字で全てが説明できる世界が望ましいと言っているわけではありません",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "그저 조금,",
+      "content": "ただ、その",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "사람들이 숫자의 중요성을 알아준다면",
+      "content": "もう少し各々がその重要性を分かってくれれば",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "제 일도 좀 줄어들지 않을까, 하는 생각이 들어서요.",
+      "content": "私の仕事も楽にらるなと……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "또 장부가 안 맞아?",
+      "content": "もしかして、また計算が合わないとか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "정확해요.",
+      "content": "はい、その通りです",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "마침 계산기 배터리가 다 돼서",
+      "content": "ちょうど電卓の電池が切れてしまったので",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 1 },
-      "content": "충전 중에 푸념해 봤답니다……",
+      "content": "入れ替えがてら、ちょっと軽く愚痴を言ってみた次第です",
       "isFirst": true,
       "file": ""
     },
