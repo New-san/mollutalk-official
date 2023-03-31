@@ -1,6 +1,6 @@
 [
   {
-    "title": "공원 잡초 뽑기",
+    "title": "公園で草むしり",
     "nickname": "Molru",
     "date": "2022-10-22 16:29:43",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "이번 알바가 정해졌어! 선생님도 올 거지?",
+      "content": "次のバイトが決まったよ！先生も来るよね？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "휴일 오전에 공원에서 봐!",
+      "content": "次の休日の午前中、公園に来てね！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으…… 알았어.",
+      "content": "りょうかーい",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "하루종일 고개를 숙이고 있었더니 허리가 부러질 거 같아…….",
+      "content": "うう、腰が痛い……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선생님은 허리 안 아파?",
+      "content": "先生は大丈夫なの？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "욕조에 좀 담구고 있으면 괜찮을까 해서 지금",
+      "content": "お風呂に浸かったらちょっとは良くなるかなと思って、今",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "ㅇㅁㄴㅓㅎㅎㅎㅣㅏ",
+      "content": "！＠＃％％＃＾＊",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "ㅏㅏㅏ",
+      "content": "＠＃＃",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "우, 우아아 폰을 욕조에 떨어트릴 뻔했어!!",
+      "content": "危なかった、スマホをお風呂に落とすとこだった……！！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "역시 목욕할 때 폰을 가지고 오면 안 돼…….",
+      "content": "やっぱりお風呂に入る時にスマホは良くないかも……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선생님. 그럼 다음에 봐.",
+      "content": "一旦外に置いてお風呂入るから、またあとでね",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어…… 저기…….",
+      "content": "ええと……あの……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세리카…… 그러니까…….",
+      "content": "セリカ、写真が……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "응?",
+      "content": "写真？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "으아아아아아아?! 저게 왜 찍혔어?",
+      "content": "うああああああ？！なんでこんなのが撮れてるの！？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "보, 보지 마! 보지마!",
+      "content": "み、見ないで！見るなぁ！",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "나중에 검사할 거야? 죽인다??????",
+      "content": "見たら殺す！！！！！！！！！！",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "지워!! 알았지?",
+      "content": "まさか保存してないよね！？消して！！分かった！？",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "나중에 검사할 거야??",
+      "content": "ちゃんと消したかどうかあとで確認するからね！！",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저는 아무 것도 보지 않았습니다…….",
+      "content": "私はなにも見ていないよ",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "못 봤어요. 지웠습니다. 네.",
+      "content": "消しました、はい",
       "isFirst": false,
       "file": ""
     }
