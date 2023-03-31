@@ -1,6 +1,6 @@
 [
   {
-    "title": "셀카의 세계",
+    "title": "自撮りの世界",
     "nickname": "Molru",
     "date": "2022-10-22 16:49:25",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "캬아ㅏ아ㅏㅏㅏㅏㅏㅏㅏ",
+      "content": "きゃあぁあぁぁぁぁぁぁぁ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "키히히키키키킼키킼ㅋ",
+      "content": "きぃひひっききききっひっひひっっ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "아. 실례했습니다.",
+      "content": "失礼しました……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "부디 저에게 도움을 주실 수 있을까요?",
+      "content": "その、先生に手伝っていただきたいことがあるのですが",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "부탁드리겠습니다.",
+      "content": "お願いできますか",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일인지는 모르겠지만 물론이야.",
+      "content": "よくわからないけど、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠루기의 부탁이라면 얼마든지.",
+      "content": "ツルギの頼みなら、喜んで",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "가, 감사합니다!",
+      "content": "あ、ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그, 그, 그러면…… 학원 근처에서 뵙는 걸로……!",
+      "content": "そ、そ、それでは……トリニティの辺りでお会いできればと……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그, 저기…… 선생님.",
+      "content": "えっと、その……先生",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "요즘 유행한다는 보정 어플로 사진을 찍어봤는데…….",
+      "content": "最近流行ってる写真加工アプリで撮ってみたんですが……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "괘, 괜찮을까요?",
+      "content": "い、いかがでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "굉장해! 엄청 잘 나왔네!",
+      "content": "すごい！可愛い！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다행이다! 이거라면 괜찮겠어!",
+      "content": "いいね！これなら大丈夫だよ",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그, 그렇습니까…….",
+      "content": "そ、そうですか、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "요즘 기술력이라는 건 굉장하네요.",
+      "content": "最近の技術力はすごいですね……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "이걸 학원에 제출해도 되는지는 모르겠지만…….",
+      "content": "これを提出して問題ないかは分かりませんが……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "아, 아무튼 오늘 감사했습니다! 선생님!",
+      "content": "と、とにかく、今日はありがとうございました！",
       "isFirst": true,
       "file": ""
     }
