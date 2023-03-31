@@ -1,6 +1,6 @@
 [
   {
-    "title": "아르바이트 보조",
+    "title": "アルバイトのお手伝い",
     "nickname": "Molru",
     "date": "2022-10-22 16:19:02",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선생님!",
+      "content": "先生！!",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선새애애앵님!!",
+      "content": "先生！！！！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "시간 있어??? 있지?",
+      "content": "時間ある？あるよね？よしっ！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어…… 어?",
+      "content": "え、え？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "어차피? 한가하잖아? 그럼 나랑 알바 같이 하자!",
+      "content": "どうせ暇でしょ？だったら私と一緒にバイトして！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "내가 하는 거 보조만 하면 돼. 하는 거다?",
+      "content": "私のお手伝いをしてくれればいいから、ＯＫ？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "그럼 조금 이따가 봐!",
+      "content": "じゃあまたあとで？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……네? 저기요?",
+      "content": "……あれ？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세리카 씨?",
+      "content": "セリカさん……？",
       "isFirst": false,
       "file": ""
     },
