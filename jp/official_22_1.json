@@ -1,6 +1,6 @@
 [
   {
-    "title": "그녀의 오해",
+    "title": "彼女の誤解",
     "nickname": "Molru",
     "date": "2022-10-22 21:33:36",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님, 그 소문 들었어?",
+      "content": "先生、あの噂聞いた？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 소문?",
+      "content": "何の噂？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "듣자 하니 최근 외진 골목길에서 여학생들의 치마 속을 훔쳐보려는 변태가 출몰한다나 봐.",
+      "content": "女子生徒のスカートを覗こうとするヘンタイが出没してる、って噂があって",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "참, 세상 흉흉하기도 하지.",
+      "content": "まったく、嘆かわしい世の中だ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그것참 큰일이네…….",
+      "content": "それは大変だね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님도 혹시 수상한 변태를 보거든 게헨나 선도부에 바로 연락해줘.",
+      "content": "先生も、もし怪しいヘンタイを見かけたら、すぐ風紀委員会に連絡して",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알겠어, 맡겨둬.",
+      "content": "分かった、任せて",
       "isFirst": true,
       "file": ""
     },
