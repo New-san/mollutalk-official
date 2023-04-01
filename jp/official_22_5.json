@@ -1,6 +1,6 @@
 [
   {
-    "title": "선생의 오해",
+    "title": "先生の誤解",
     "nickname": "Molru",
     "date": "2022-10-22 21:44:27",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님, 이 문자를 보면 게헨나 정문 앞의 3거리 주택가로 와줘……",
+      "content": "先生、このメッセージを見たら、ゲヘナ正門前の住宅街3丁目に……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "조금…… 사소한 문제가 생겼어.",
+      "content": "ちょっと……アクシデントがあって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 문제인데?",
+      "content": "アクシデントって、どんな？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "아무튼 묻지는 말고 빨리 와 줘!",
+      "content": "いいから、早く来て！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "그리고 다른 학생들에게는 내가 여기 있다는 걸 절대 알리지 마!",
+      "content": "あと！他の生徒たちには、絶対に私がここにいるって言うなよ！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님!!!",
+      "content": "先生！！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "방금 메일로 보낸 이 사진은 뭐야?!",
+      "content": "さっき送られてきたこの写真、何でまだ持ってるんだ！！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 찍혔지?",
+      "content": "よく撮れてるから、、もしかしたら欲しいかなって",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "귀엽지 않아?",
+      "content": "可愛く撮れてるでしょ？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "잘 찍히긴 뭐가 잘 찍혔어!",
+      "content": "いるか！！！！！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "귀엽긴 뭐가 귀여워!",
+      "content": "何が可愛いんだ！！！！！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "내가 아까 분명히 사진은 지우라고 했잖아!",
+      "content": "消してって言ったじゃん！",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "어째서 아직도 가지고 있는 거야!",
+      "content": "何でまだ持ってるんだ！",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "지워! 당장 지우라고!",
+      "content": "消して！今すぐ！",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "내 말 듣고 있는 거야? 빨리 지우라고!",
+      "content": "聞いてる！？ちょっと！！",
       "isFirst": true,
       "file": ""
     }
