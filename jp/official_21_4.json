@@ -1,6 +1,6 @@
 [
   {
-    "title": "고민 상담",
+    "title": "お悩み相談",
     "nickname": "Molru",
     "date": "2022-10-22 21:23:21",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "세상에는 어째서 이렇게 고통받는 사람들이 많은 걸까요?",
+      "content": "どうして世の中には、こんなに苦しんでる人が多いのでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "모두가 행복할 수 있다면 무엇이든 할 텐데…….",
+      "content": "みんなが幸せになるために、できれば何かしたいのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "저는 아무것도 할 수 없어서, 늘 속상해요.",
+      "content": "私には、何もできなくて……悲しいです",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 걱정거리라도 있는 거니, 히후미?",
+      "content": "大丈夫？何か心配事とかあったりする？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "아니요. 아무것도 아니에요…….",
+      "content": "いえ、私は大丈夫なのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "제 고민을 들어 주셔서 감사합니다, 선생님.",
+      "content": "お話を聞いてくださってありがとうございました、先生",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "가슴에 담고 있던 고민을 털어놓았더니 한결 개운해진 느낌이에요.",
+      "content": "ずっと胸の内に押し込めていたものを打ち明けられて、すっきりしました",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "저…… 선생님께서 괜찮으시다면, 다음에 고민이 생겼을 때 또 이야기를 하러 와도 괜찮을까요?",
+      "content": "あの……もしまた悩んでしまった時には、お話を聞いてくれますか？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "언제든지 괜찮아.",
+      "content": "いつでも任せて",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "감사합니다, 선생님.",
+      "content": "ありがとうございます、先生",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "선생님이 곁에 계셔주셔서 얼마나 다행인지 몰라요.",
+      "content": "先生がそばにいてくれて、本当に良かったです",
       "isFirst": false,
       "file": ""
     }
