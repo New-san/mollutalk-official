@@ -1,6 +1,6 @@
 [
   {
-    "title": "최신 유행 연구 1",
+    "title": "最新の流行を研究（１）",
     "nickname": "Molru",
     "date": "2022-10-22 20:36:37",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "선생님, 최근 고민이 하나 생겼는데…….",
+      "content": "先生、私、最近一つ悩みあって……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고민? 세미나의 임무와 관련된 일이야?",
+      "content": "悩み？セミナーの仕事に関係すること？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "아니, 임무와 관련된 일은 아니고, 아주 개인적인 것이라.",
+      "content": "ううん。それとは関係ない、すごく個人的なことなんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "선생님이 들어줬으면 좋겠어.",
+      "content": "先生に、聞いてほしくて",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나라도 괜찮다면 언제든지 들어줄게.",
+      "content": "私で良ければ、いつでも聞くよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "역시 선생님에게 물어보길 잘했어…….",
+      "content": "うん、お願い",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "고마워, 선생님.",
+      "content": "……ありがとう、先生",
       "isFirst": false,
       "file": ""
     },
