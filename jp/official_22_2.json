@@ -1,6 +1,6 @@
 [
   {
-    "title": "교정에서의 휴식",
+    "title": "校庭での休憩",
     "nickname": "Molru",
     "date": "2022-10-22 21:35:12",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님, 최근 게헨나 학원으로 자주 출장을 오던 것 같던데……",
+      "content": "先生最近、ゲヘナによく出張に来てるみたいだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "최근 게헨나 학원과 관련된 업무가 많아져서.",
+      "content": "このところ、ゲヘナ学園に関する仕事が多くって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이오리 쨩을 자주 보고 싶은 마음에 그만…….",
+      "content": "イオリちゃんに会いたいと思って……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "그렇구나……. 수고가 많네.",
+      "content": "……そうなんだ。お疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "……하아? 무슨 소리를 하는 거야?",
+      "content": "……はあ？何を言ってるんだ？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "그나저나 정작 학원에서는 선생님과 마주친 일이 거의 없네.",
+      "content": "でも実際、学園ではあまり会わないな",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "출장을 오면 주로 어디서 시간을 보내는 거야?",
+      "content": "出張に来る時は、どこにいるんだ？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "게헨나 학원 교정.",
+      "content": "校庭とか",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "……교정? 거기에 뭐가 있는데?",
+      "content": "……校庭？何のために？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나중에 만나게 되면 알려줄게.",
+      "content": "今度会った時に教えてあげるね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "어쩐지 수상한데…….",
+      "content": "なんか怪しいな……",
       "isFirst": true,
       "file": ""
     },
