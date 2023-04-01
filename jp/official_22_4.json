@@ -1,6 +1,6 @@
 [
   {
-    "title": "상냥한 치료",
+    "title": "優しい治療",
     "nickname": "Molru",
     "date": "2022-10-22 21:40:09",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "오늘 선도부 활동에서는 꽤나 신세를 졌네. 고마워.",
+      "content": "今日の風紀委員会の活動では世話になった、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나야말로",
+      "content": "私の方こそありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "게헨나 선도부에게 큰 도움을 받았어. 고마워.",
+      "content": "イオリはもちろん、ゲヘナの風紀委員にも色々助けてもらったから",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "선생님은 학생들과는 달리 총에 맞으면 정말로 위험할 수도 있으니까.",
+      "content": "先生は私たちと違って、銃で撃たれたら本当に危ないんだから",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "총을 사용하는 위험한 임무에는 우리가 함께하는 게 당연하지.",
+      "content": "ああいう危険な任務なら、私たちが一緒に行くのは当たり前",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 이오리도",
+      "content": "うん、ありがとね。そいえばイオリ、",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아까 작전 중에 등을 다치지 않았어?",
+      "content": "さっき作戦中に背中を怪我してなかった？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "아…… 등의 그 상처 말인가.",
+      "content": "ああ……そういえばそうだった",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 8, "index": 1 },
-      "content": "신경 쓰지 마. 대수롭지 않은 생채기일 뿐이니까.",
+      "content": "気にしないで、大した怪我じゃない",
       "isFirst": false,
       "file": ""
     },
