@@ -1,6 +1,6 @@
 [
   {
-    "title": "어른의 데이트",
+    "title": "大人のデート",
     "nickname": "Molru",
     "date": "2022-10-22 16:53:31",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "선생님. 핑크빛 연애라는 건 대체 무엇일까요.",
+      "content": "先生、キラキラした恋愛って、いったいどんなものなのでしょう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "잡지나 소설에는 많이 있지만, 도무지 현실성이 없어서-",
+      "content": "雑誌や小説にはたくさん書いてあるのですが、どうにも現実味がなくて",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "캬ㅏ아아아ㅏㅏㅏ아ㅏㅏ",
+      "content": "……きえええぇぇぇえええぇぇっっ！！！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "죄송합니다. 쓸데없는 소리를.",
+      "content": "すみません、変なことを聞きました",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "핑크빛……?",
+      "content": "キラキラした恋愛……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠루기……? 괜찮아?",
+      "content": "ツルギ……？大丈夫？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그, 저기…….",
+      "content": "あのう、その……。",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그러니까…….",
+      "content": "えっと……。",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "캬아아아아아아아아아ㅏㅏㅏㅏㅏ",
+      "content": "きえぇぇぇああああぁぁぁぁああｒｒｒｒｒｒｒｒ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "아, 아무것도 아닙니다…….",
+      "content": "な、なんでもありません……。",
       "isFirst": true,
       "file": ""
     },
