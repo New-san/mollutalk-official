@@ -1,6 +1,6 @@
 [
   {
-    "title": "진정한 미식",
+    "title": "真の美食",
     "nickname": "Molru",
     "date": "2022-10-22 21:12:26",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "한동안 개인 미식 활동을 쉬고 있어요.",
+      "content": "突然なのですが、個人としての美食活動はしばらくお休みしようかと",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "여러 가지 느낀 바가 많아서…….",
+      "content": "色々と、考えることがありまして……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기운 내. 하루나.",
+      "content": "元気だして、ハルナ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 도와줄 게 없을까?",
+      "content": "私に何か手伝えることある？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "후후후.",
+      "content": "ふふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "다정하기도 하셔라.",
+      "content": "先生は優しいですね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "그 말씀으로도 충분히 위로가 되었어요.",
+      "content": "そのお言葉だけでも、十分元気を頂きました",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "고마워요.",
+      "content": "ありがとうございます",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "함께 먹은 붕어빵은 근래 먹은 것 중에 최고의 미식이었습니다.",
+      "content": "今日のたい焼きは間違いなく、最近食した物の中で最も美味しいものでした",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "이유가 무엇이었을까요?",
+      "content": "……その理由、先生はお分かりになりますか？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음. 글쎄……. 평범한 붕어빵이었는데.",
+      "content": "うーん……普通のたい焼きだったけどなあ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 모르겠는걸…….",
+      "content": "ちょっと私には分からなかったかも……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "후후.",
+      "content": "ふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "저는 조금 알 것 같아요.",
+      "content": "そうでしょうね。それでこそ先生ですわ",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어? 진짜?",
+      "content": "ハルナは分かるの？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "하지만 알려드리진 않을 거예요.",
+      "content": "はい、ですがお教えすることはできません",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "아직은 저만의 비밀로 간직해두겠습니다.",
+      "content": "私だけが知っている秘密、ということで",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "후후. 그럼, 선생님. 다음에 또 맛있는 걸 같이 먹어요.",
+      "content": "それでは、また一緒に美味しいものを食べに行きましょうね、先生",
       "isFirst": true,
       "file": ""
     }
