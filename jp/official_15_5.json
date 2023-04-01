@@ -1,6 +1,6 @@
 [
   {
-    "title": "뜻밖의 횡재",
+    "title": "思いがけない幸運",
     "nickname": "Molru",
     "date": "2022-10-22 16:37:32",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선생님. 이번엔 밤늦게까지 이어지는 야시장 보조야!",
+      "content": "先生、今度は夜の市場でアルバイトだよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "각오 단단히 해두라고!",
+      "content": "夜中までやるらしいから覚悟しておいてね！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알겠습니다. 보스.",
+      "content": "わかりました、ボス",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "밤샘을 각오해야겠네.",
+      "content": "徹夜かもね、了解",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "엄청 배불러. 오늘 장난 아니게 먹었어.",
+      "content": "お腹いっぱーい、ちょっと食べ過ぎたかも",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "작은 마을인데도 재미있는 게 꽤 많더라.",
+      "content": "小さい街だったけど、面白いものがたくさんあったね",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "뭐, 그래도 우리 마을보단 크지만…….",
+      "content": "まあ小さいって言っても、うちよりは大きかったけど……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "오늘 알바비 절반을 먹는데 써버렸지만……. 뭐, 가끔은 이런 것도 괜찮지 않겠어? 후후.",
+      "content": "結局バイト代半分近く使っちゃったけど、たまにはこういうのも良いよね？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "그럼 내일 봐, 선생님.",
+      "content": "じゃあまた明日、先生。お疲れ様",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "배탈 나지 않게 조심해.",
+      "content": "お腹を壊さないように気をつけてね",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "푹 쉬어.",
+      "content": "うん、お疲れ様。またね",
       "isFirst": false,
       "file": ""
     }
