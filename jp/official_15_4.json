@@ -1,6 +1,6 @@
 [
   {
-    "title": "뒤늦은 깨달음",
+    "title": "遅い悟り",
     "nickname": "Molru",
     "date": "2022-10-22 16:33:01",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "아야네 쨩이 그러는데 요즘 대책위원회 앞으로 익명 기부가 들어온대.",
+      "content": "アヤネちゃんから聞いたんだけど、対策委員会に匿名の寄付が来たんだって",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "금액이 많은 건 아닌데 하루 알바 일당 정도의 돈이 가끔씩 들어오나 봐.",
+      "content": "金額はそんなに多くないけど、バイト一日分くらいはある金額らしくって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "역시 우리의 활약을 좋게 봐준 시민들의 기부금인가. 헤헤헤.",
+      "content": "私たちのことを見てくれてる市民の人からなのかな、えへへ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "이번에도 거기서 봐, 선생님!",
+      "content": "あ、今度も例の場所で会おうね、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "오후에 시내에서!",
+      "content": "また午後に！",
       "isFirst": false,
       "file": ""
     },
