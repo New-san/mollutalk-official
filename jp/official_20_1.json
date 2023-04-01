@@ -1,6 +1,6 @@
 [
   {
-    "title": "금지된 연구",
+    "title": "禁じられた研究",
     "nickname": "Molru",
     "date": "2022-10-22 21:05:14",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "미식에 대한 탐구는 오늘도 계속될 예정……이지만,",
+      "content": "美食の探究は今日も続く……予定だったのですが",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "벽에 부딪히고 말았습니다.",
+      "content": "壁にぶつかってしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "이 난관을 어떻게 해결할지 고민이 필요하겠네요.",
+      "content": "この難問をどう解決すれば良いのか……少し考える必要がありますわね",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어떤 난관인지는 모르겠지만…… 힘내!",
+      "content": "どんな内容か分からないけど、頑張って！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "아아.",
+      "content": "ああ、良いことを思いつきました",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "물론 선생님의 도움이 필요할 것 같네요.",
+      "content": "先生、少々お手伝いしていただけませんでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "후후후.",
+      "content": "ゲヘナでお待ちしておりますね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "생각해보니 맛술로 끓여도 비슷하지 않았을까 하는 생각이 드네요.",
+      "content": "よく考えてみたら、料理酒でも良かったかもしれませんわね",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "맛술과 포도주스. 참고해둬야겠습니다.",
+      "content": "料理酒とぶどうジュース、次はこれで試してみましょうか",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "조심해서 연구해…….",
+      "content": "気をつけて料理してね……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안전이 중요하니까 조심해…….",
+      "content": "安全第一でね……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "후후. 걱정해주시는 건가요?",
+      "content": "ふふ、心配してくださるのですか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 18, "index": 1 },
-      "content": "기쁘네요.",
+      "content": "嬉しいですわね。ふふっ、ありがとうございます",
       "isFirst": false,
       "file": ""
     }
