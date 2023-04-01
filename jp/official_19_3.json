@@ -1,6 +1,6 @@
 [
   {
-    "title": "최신 유행 연구 2",
+    "title": "最新の流行を研究（２）",
     "nickname": "Molru",
     "date": "2022-10-22 20:41:03",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "선생님, 지난번에 여학생들이 좋아하는 것을 조사하는 데 협조해 주겠다고 했지?",
+      "content": "先生この前、女子生徒が好きな物の調査に協力するって言ってくれたよね？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇게 말하긴 했지만…….",
+      "content": "うん、まあ言ったけど……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "새로운 조사야.",
+      "content": "次の調査をしよう",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "키보토스 시내 중심가로 바로 나와줘.",
+      "content": "キヴォトスの中心街に来てほしい",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기? 지금 바로?",
+      "content": "今から？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "응, 지금 당장.",
+      "content": "うん、今から",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "밀폐된 공간에서 노래를 부르는 건 의외로 즐겁네…….",
+      "content": "密閉空間で歌うことが、あんなに楽しいなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "적을 향해 탄환을 난사할 때처럼 묘한 고양감이 느껴져.",
+      "content": "敵に対して銃を乱射する時みたいな高揚感があった",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "……그럼 노래방에서 총을 쏘면 더 즐겁지 않을까?",
+      "content": "……いっそのこと、カラオケで銃を撃てばもっと楽しかったり？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 안 돼!",
+      "content": "それは絶対にダメ！",
       "isFirst": true,
       "file": ""
     }
