@@ -1,6 +1,6 @@
 [
   {
-    "title": "체온 조절",
+    "title": "体温調節",
     "nickname": "Molru",
     "date": "2022-10-22 20:34:59",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "선생님, 요새 날씨가 부쩍 더워진 것 같지 않아?",
+      "content": "先生、最近ぐっと暑くなった感じがしない？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "작전을 마치고 나면 더 후덥지근하게 느껴지기도 하고……",
+      "content": "作戦を終えた後とか、すごく蒸し暑い……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런가? 아직 여름이 오려면 멀었는데…….",
+      "content": "そう？夏はまだ遠いと思うけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "작전을 너무 열심히 수행해서 그런 게 아닐까?",
+      "content": "作戦中に一生懸命頑張ったからじゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "그런가…… 내 착각이려나……?",
+      "content": "そうかな、私の勘違い……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "아, 참, 선생님.",
+      "content": "あ、そういえば先生",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "아까 아이스크림 가게 앞에서 보니",
+      "content": "さっきアイスクリーム屋さんの前で、",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "민트초코맛 아이스크림을 사 먹는 트리니티의 여학생들이 보이던데……",
+      "content": "チョコミントのアイスを食べてるトリニティの生徒をみたんだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "치약 같은 맛의 아이스크림을 먹는 건 체온 조절에 도움이 되는 걸까……?",
+      "content": "歯磨き粉味のアイスってもしかして、体温調節に役立つのかな……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "민트 아이스크림을 먹는 사람의 기분은 잘 모르겠어…….",
+      "content": "チョコミントを食べる人の気持ちはよくわからないなあ……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치약 같은 맛이라니, 민트에게 사과해!",
+      "content": "歯磨き粉味なんかじゃないよ！チョコミントに謝って！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "그렇지?",
+      "content": "そうだよね？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 5,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "어라……? 화내는 부분이 그쪽?",
+      "content": "あっ……先生、そっち側の人？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "여고생의 세계는 심오하네…….",
+      "content": "やっぱり女子高生の世界は奥が深い……",
       "isFirst": true,
       "file": ""
     }
