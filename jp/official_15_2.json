@@ -1,6 +1,6 @@
 [
   {
-    "title": "하드한 밤샘 알바",
+    "title": "ハードな夜通しバイト",
     "nickname": "Molru",
     "date": "2022-10-22 16:20:15",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "선생님. 이번에도 알바가 들어왔어. 거기서 볼까?",
+      "content": "先生、また別のバイトが入ったから、前のところで待ち合わせね！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 1 },
-      "content": "이번엔 좀 특별한 일이야!",
+      "content": "今回はちょっと特殊なバイトだよ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 특별한 일……?",
+      "content": "特殊な……？",
       "isFirst": true,
       "file": ""
     },
