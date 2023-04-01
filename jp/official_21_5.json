@@ -1,6 +1,6 @@
 [
   {
-    "title": "우연한 외출",
+    "title": "偶然のおでかけ",
     "nickname": "Molru",
     "date": "2022-10-22 21:26:40",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "선생님, 내일 오후에 예정된 샬레의 당번 활동을",
+      "content": "先生、明日の午後に予定していたシャーレの当番のお仕事なのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "오전으로 바꿀 수 있을까요?",
+      "content": "午前中に変更しても大丈夫でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "오후에 갑자기 친구들과 약속이 잡혀버려서요.",
+      "content": "午後にちょっと、別の予定を入れたくって……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 친구들과 무슨 약속을 했는데?",
+      "content": "うん、大丈夫だよ。ちなみにどんな予定なの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "방과 후에 학교 친구들과 함께 시내로 외출을 나가기로 했어요!",
+      "content": "学園の友達と一緒に、どこかへ遊びに行こっかというお話になりまして",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 1 },
-      "content": "무얼 하고 놀지 벌써부터 기대가 되네요! 헤헤…….",
+      "content": "何をして遊ぶか、今から楽しみです！えへへ……！",
       "isFirst": false,
       "file": ""
     },
