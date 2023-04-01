@@ -1,6 +1,6 @@
 [
   {
-    "title": "상처",
+    "title": "傷",
     "nickname": "Molru",
     "date": "2022-10-22 21:02:38",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "작전 완료, 미션 클리어. 선생님, 수고 많았어.",
+      "content": "作戦終了、ミッションクリア。お疲れ様、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아까 보니 팔에서 피가 나던데, 치료하지 않아도 되겠어?",
+      "content": "さっきすれ違った時、腕から血が出てた気がするけど、もう手当した？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "괜찮아, 살짝 긁힌 수준인걸.",
+      "content": "大丈夫、ちょっと擦りむいただけだから",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "작전 중에 이 정도의 상처를 입는 건 흔한 일이야.",
+      "content": "作戦中に、これぐらいの怪我はよくあること",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안 돼. 상처를 소독해 줄 테니 양호실로 와.",
+      "content": "それはダメ。消毒するから、保健室に来て",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "나는 정말 괜찮다니까…….",
+      "content": "大丈夫なのに……",
       "isFirst": true,
       "file": ""
     }
