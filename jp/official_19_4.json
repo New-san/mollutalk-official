@@ -1,6 +1,6 @@
 [
   {
-    "title": "패션의 완성",
+    "title": "ファッションの完成",
     "nickname": "Molru",
     "date": "2022-10-22 21:01:51",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "선생님, 오늘은 여성복 매장에 새 옷을 사러 갈 거야.",
+      "content": "先生、今日は新しい服を買いに行く",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "예쁜 옷을 찾을 수 있었으면 좋겠네.",
+      "content": "素敵な服が見つかるといいね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "내게 잘 어울리는 옷이 있는지 선생님이 같이 가서 봐주었으면 좋겠는데……",
+      "content": "私に似合う服かどうか、先生に見てほしくって……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "오늘 방과 후에 시간 괜찮아?",
+      "content": "今日の放課後、空いてる？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 여유로워.",
+      "content": "あ、うん。大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 53, "index": 1 },
-      "content": "좋아, 그럼 키보토스 중심가의 쇼핑몰에서 보자.",
+      "content": "良かった。じゃあキヴォトスの中心街の、ショッピングモールで待ち合わせ",
       "isFirst": true,
       "file": ""
     },
