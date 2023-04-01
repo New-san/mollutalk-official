@@ -1,6 +1,6 @@
 [
   {
-    "title": "거리감이 중요해!",
+    "title": "大事なのは距離感！",
     "nickname": "Molru",
     "date": "2022-10-22 16:42:33",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "키아아아아아악-!",
+      "content": "きえええええええぇぇぇっ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "캬아아아악-",
+      "content": "きひゃあああぁぁっ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "아아아악-",
+      "content": "あああああぁーーっ！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "캬아아아오오아…….",
+      "content": "きゃあああおおぁ……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "갸아아…….",
+      "content": "ぎぇあぁ……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 뭐지?!",
+      "content": "何、どうしたの！？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠루기……?",
+      "content": "ツルギ！？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "죄송합니다. 문자 잘못 보냈습니다.",
+      "content": "すみません、間違えて送ってしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "츠루기 배상.",
+      "content": "ツルギ　拝具",
       "isFirst": false,
       "file": ""
     },
