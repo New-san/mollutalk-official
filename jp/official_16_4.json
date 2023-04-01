@@ -1,6 +1,6 @@
 [
   {
-    "title": "특별한 상자(번역)",
+    "title": "特別な箱",
     "nickname": "Molru",
     "date": "2023-01-25 03:56:47",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "선생님. 혹시",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "아닙니다. 실례하였습니다.",
+      "content": "いえ、やはり大丈夫です。失礼しました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠루기?",
+      "content": "ツルギ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 무슨 일이야?",
+      "content": "どうかした？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "죄송합니다. 경황이 없어서……",
+      "content": "すみません、今はその",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "조금 더 정리되면 다시 말씀드리도록 하겠습니다.",
+      "content": "もう少し整理ができたら、もう一度お声がけします",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "츠루기 배상.",
+      "content": "ツルギ　拝具",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "선생님. 다시 생각해 보니 제가 또 실례를 저질렀던 것 같습니다.",
+      "content": "先生、その",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "죄송합니다.",
+      "content": "お呼び立てしておいて、大変失礼しました",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "전혀 그렇지 않아.",
+      "content": "全然、そんなことないよ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "즐거워 보여서 좋았어.",
+      "content": "むしろ楽しかったよ",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그, 그렇습니까. 그렇게 말씀해 주신다면 감사하지만…….",
+      "content": "そ、そう仰っていただけるとありがたいです",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그러고 보니 막상 선생님께 같이 볼 걸 제안해 드리기로 했지만",
+      "content": "その、今度一緒に見るものについて……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "그……. 그런 걸 별로 해 본 적이 없는지라, 제대로 할 수 있을지 모르겠습니다.",
+      "content": "こういうのは初めてなので、不手際が多いかもしれませんが",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "모쪼록 양해를 부탁드립니다.",
+      "content": "何卒ご了承いただけますと",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "평소처럼 말해도 돼.",
+      "content": "いつもどおり選んでくれていいよ",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어떻게 말해도 알 수 있으니 걱정하지 않아도 돼.",
+      "content": "ツルギが選んでくれたものなら、何でも嬉しいよ",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "크헤…….",
+      "content": "きひ",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "키히히히히!!!",
+      "content": "きひひひひ！！！",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 1 },
-      "content": "……히히.",
+      "content": "ひひっ",
       "isFirst": false,
       "file": ""
     }
