@@ -1,6 +1,6 @@
 [
   {
-    "title": "음식을 더욱 맛있게 먹는 법",
+    "title": "すっごく美味しくなる方法",
     "nickname": "Molru",
     "date": "2022-10-22 22:16:21",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "선생님!",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "나 어제 책에서 굉장한 걸 읽었어!",
+      "content": "昨日私、すごい本を読んだの！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "굉장한 거?",
+      "content": "すごい本？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "응! 운동선수의 자서전이었는데……..",
+      "content": "うん！アスリートの人の自伝だったんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "거기에 평범한 음식을 더욱 맛있게 먹는 법이 쓰여 있던 거 있지!",
+      "content": "そこに、食べ物がすっごく美味しくなる方法が書いてあったの！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "평범한 음식을 더욱 맛있게 먹는 법?",
+      "content": "すっごく美味しくなる方法？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "운동선수 자서전에 왜 그런 게……?",
+      "content": "アスリートの自伝になぜそんなことが……？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "이건 미식연구회의 부원으로서 그냥 넘어갈 수 없어.",
+      "content": "これは美食研究会のメンバーとして、試さずにはいられないわね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "시험해보자. 선생님!",
+      "content": "善は急げだよ、先生！",
       "isFirst": false,
       "file": ""
     },
