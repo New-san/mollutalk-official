@@ -1,6 +1,6 @@
 [
   {
-    "title": "지각 대소동",
+    "title": "遅刻大騒動",
     "nickname": "Molru",
     "date": "2022-10-22 22:04:24",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "하아. 요새 지각이랑 결석을 너무 많이 해서 출결이 아슬아슬하네.",
+      "content": "最近遅刻と欠席のしすぎで、出席日数がギリギリでよぉ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "방법이 없을까.",
+      "content": "何か良い方法でもねぇかな……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "성실하게 출석하면 된다고 생각합니다만.",
+      "content": "ちゃんと出席すればいいと思う",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "근면한 학생이 되면 된다고 생각합니다만.",
+      "content": "真面目な学生になればいいと思う",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "그, 그런 정론 말고!",
+      "content": "そういう正論は今求めてねえ！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "뭔가 요령 같은 게……!",
+      "content": "なんかこう、都合のいい方法とかねぇのか！？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 건 없습니다.",
+      "content": "そんなものはありません",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그러면 안되죠.",
+      "content": "ズルはダメ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "\"그…… 그렇겠지.",
+      "content": "……まあ、そうだよな",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "쳇. 나, 나도 알고 있다구!",
+      "content": "ちっ、わーったわーった！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "성실하게 다니면 되니까!",
+      "content": "真面目にやればいいんだろ！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "지각 따윈 안 하면 그만이지!",
+      "content": "遅刻も欠席もしなきゃいいだけの話だ！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "파이팅!",
+      "content": "頑張って！",
       "isFirst": true,
       "file": ""
     },
