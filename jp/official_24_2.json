@@ -1,6 +1,6 @@
 [
   {
-    "title": "네루에게 병문안",
+    "title": "ネルへのお見舞い",
     "nickname": "Molru",
     "date": "2022-10-22 22:01:19",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "아카네…… 모두에게…… 연락 부탁……",
+      "content": "アカネ……みんなに……連絡頼む……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "나도 믿을 수 없지만…… 아무래도 감기에 걸린 모양이다.",
+      "content": "信じられねえけど……どうやら風邪引いたみたいだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "나 지각할 거 같다…… 아마도……",
+      "content": "遅刻するわ……たぶん……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "네루? 문자를 잘못 보낸 거 같은데?",
+      "content": "ネル？もしかしてメッセージ送る相手間違えてない？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "네루 아픈 거야?",
+      "content": "風邪引いたの、ネル？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "어이 선생. 죽은 맛없었어.",
+      "content": "よお、先生。あのおかゆ、微妙な味だったぞ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "음…… 그치만 병문안 와준 건 고마웠어.",
+      "content": "……でも、お見舞いに来てくれてありがとな",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "이 빚은 언젠가 갚아줄 테니까 말이야, 각오하라고.",
+      "content": "この借りは絶対いつか返すから、覚悟しとけよ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "얼른 나아, 네루 쨩.",
+      "content": "早く良くなってね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기다리고 있을게.",
+      "content": "楽しみにしてるよ",
       "isFirst": false,
       "file": ""
     }
