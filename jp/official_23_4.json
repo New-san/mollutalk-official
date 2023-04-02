@@ -1,6 +1,6 @@
 [
   {
-    "title": "미화 정비",
+    "title": "美化活動",
     "nickname": "Molru",
     "date": "2022-10-22 21:54:43",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "선생님! 얼마 전에 치른 재시험에서 만점을 받았어!",
+      "content": "先生！この前のテスト、満点だったよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "후후, 선생님이 저번에 가르쳐 준 특별 수업 덕분이야.",
+      "content": "ふふっ、先生がこの前勉強見てくれたおかげ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "축하해. 마키도 공부하느라 수고 많았어.",
+      "content": "おめでとう、マキも勉強頑張ったね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "나 잘했지? 더 칭찬해 줘, 더~!",
+      "content": "偉いでしょ？もっと褒めて～！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼 시험공부를 하느라 수고한 마키를 위해 시내에서 아이스크림을 사줄게.",
+      "content": "じゃあ頑張ったマキのために、市内でアイスクリームを買ってあげようかな",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "정말? 약속한 거다, 선생님!",
+      "content": "本当！？約束だよ、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "이 메시지, 캡처해두었으니까 나중에 무르기 없기야!",
+      "content": "もうスクショ撮ったから、後で知らんぷりとかダメだからね！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "쓰레기 치우는 거 도와줘서 고마워, 선생님.",
+      "content": "ゴミの片づけ手伝ってくれてありがと、先生",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "……그리고 몰래 낙서한 것도 모른 척해줘서 고마워.",
+      "content": "それから、見逃してくれたのも。ありがとね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번에는 좋은 일을 하려고 했던 거니까.",
+      "content": "今回のことは、善意だったんでしょ？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "우으…… 그래도 경찰 아저씨에게 걸려서 혼나면 어쩌지?",
+      "content": "うん！あっ……でも、お巡りさんに見つかって怒られたらどうしよう……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 46, "index": 1 },
-      "content": "그때는 선생님이 꼭 경찰에게 잘 말해줘야 해. 꼭이야!",
+      "content": "その時は先生が「違うんです」って言ってね！絶対だよ！",
       "isFirst": true,
       "file": ""
     }
