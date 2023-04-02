@@ -1,6 +1,6 @@
 [
   {
-    "title": "빛나는 밤",
+    "title": "輝く夜に",
     "nickname": "Molru",
     "date": "2022-10-22 22:07:30",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "선생~",
+      "content": "なあ先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "뭔가 엄청 멋진 걸 구경할 생각 없어?",
+      "content": "ちょっと良いものでも見たくねえか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "엄~청 멋진 거?",
+      "content": "なかなかに悪くねぇもんだぜ？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수상한데…….",
+      "content": "怪しい……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그게 뭐야?",
+      "content": "何それ……？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "크하핫!",
+      "content": "ははっ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "궁금하면 이쪽으로 잠깐 시간 내서 와 달라구?",
+      "content": "気になるなら、今晩ミレニアムに来な",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "엄~청 멋지니까. 기대해!",
+      "content": "損はさせねえからさ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "그 장소에 가고 싶으면 나한테 얘기해! 같이 가는 거야!",
+      "content": "あの場所に行きたいときはあたしに言えよ！一緒に行くから！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "혼자 가면 죽인다?!",
+      "content": "一人で行ったらぶっ殺すからな！？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 약속할게.",
+      "content": "うん、分かった。約束。今日はありがとね",
       "isFirst": true,
       "file": ""
     }
