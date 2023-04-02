@@ -1,6 +1,6 @@
 [
   {
-    "title": "네루의 병문안",
+    "title": "ネルのお見舞い",
     "nickname": "Molru",
     "date": "2022-10-22 22:02:19",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "여어- 선생.",
+      "content": "よお先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "괜찮아? 감기 걸렸다는 얘기가 있던데.",
+      "content": "風邪引いたって聞いたけど？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "정말이야?",
+      "content": "本当なのか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기침…… 열…… 으으으…….",
+      "content": "咳が……熱が……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "몸이 으슬으슬…….",
+      "content": "体がだるい……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "좋아, 각오하고 있어.",
+      "content": "はっ、だっせえな。覚悟しとけよ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "샬레로 간다.",
+      "content": "今からシャーレに行ってやっからな",
       "isFirst": false,
       "file": ""
     },
