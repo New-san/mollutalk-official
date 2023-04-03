@@ -1,6 +1,6 @@
 [
   {
-    "title": "나이 들지 않았는 걸!",
+    "title": "まだそんな歳ではありません！",
     "nickname": "Molru",
     "date": "2022-10-22 23:12:06",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "오늘은 컨디션이 나빠서…… 매화원에 들르지 않고 먼저 들어가 보겠습니다.",
+      "content": "すみません、体調が悪くて……梅花園には寄らず、このまま失礼します",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "감기에라도 걸린 거야?",
+      "content": "大丈夫？風邪でも引いちゃったのかな？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "아뇨, 단순한 컨디션 난조라…… 걱정하지 않으셔도 괜찮아요.",
+      "content": "ちょっと具合が悪いだけですので……ご心配をおかけしてしまいすみません",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님도 건강 주의하세요.",
+      "content": "先生も、健康には気を付けてくださいね",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "후후, 선생님과 이야기를 나누었더니 금세 기분이 나아졌네요.",
+      "content": "ふふ、先生とお話ししていたら、気分が明るくなりました",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "어쩐지 선생님 앞에 서면 저도 나이를 잊고 어린 아이가 되어버리는 것 같아요.",
+      "content": "なんだか先生の前だと私も、普通の子供に戻ってしまうみたいです",
       "isFirst": false,
       "file": ""
     }
