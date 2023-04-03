@@ -1,6 +1,6 @@
 [
   {
-    "title": "식사 후에는 깨끗이 양치를",
+    "title": "食事の後は、綺麗に歯磨き",
     "nickname": "Molru",
     "date": "2022-10-22 23:11:00",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님, 오늘 오후에는,",
+      "content": "実は今日のお昼ごろに、",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "매화원 아이들이 깨끗이 이를 닦을 수 있도록 인형극을 할 예정이에요.",
+      "content": "梅花園の子たちが進んで歯磨きしてくれるよう、人形劇をやる予定なんです",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "인형극이라, 재미있어 보이네.",
+      "content": "人形劇か、楽しそうだね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "네.",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "나쁜 충치균을 물리치는 전대물 느낌의 인형극이라, 학생들의 반응도 뜨겁답니다.",
+      "content": "悪い虫歯菌を倒す戦隊モノの人形劇で、反応も毎回すごく良いんです",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "그런데 오늘은 <충치> 역할을 맡아줄 교관이 없어서......",
+      "content": "ただ、「虫歯」役をやってくれるアシスタントの方が今いなくて……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "혹시 선생님께서 연극을 도와주실 수 있을까요?",
+      "content": "よろしければ先生、手伝ってくださいませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 나는 연기에는 자신이 없는걸…….",
+      "content": "私、演技に自信は無いんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "후후, 괜찮아요. 제가 옆에서 연기하는 걸 도와드릴게요.",
+      "content": "ふふ、大丈夫ですよ。私がすぐ隣でお手伝いしますので",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님의 도움 덕분에 인형극을 성공적으로 끝마칠 수 있었어요. 후후.",
+      "content": "先生のおかげで、人形劇を無事に終えることができました！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님도 식사 후에는 이를 닦는 것, 꼭 잊지 마세요!",
+      "content": "先生もお食事の後の歯磨き、これからも忘れないでくださいね！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "네, 슌 교관님!",
+      "content": "はい、シュン教官！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 어린아이가 아닌데…….",
+      "content": "私は子どもじゃないんだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "후후, 참 잘했어요.",
+      "content": "ふふ、良い子ですね。なんて",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "어른에게도 이를 깨끗이 닦는 건 중요한 일이에요!",
+      "content": "大人でも歯磨きは大事なことですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "다음번에도 충치 검사를 할 테니 그때까지 이를 깨끗이 잘 닦아두셔야 해요!",
+      "content": "また抜き打ち検査しますので、これからも忘れないようにしてくださいね！",
       "isFirst": true,
       "file": ""
     }
