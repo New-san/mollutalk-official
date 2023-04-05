@@ -1,6 +1,6 @@
 [
   {
-    "title": "거리 두기",
+    "title": "僅かな距離",
     "nickname": "Molru",
     "date": "2022-10-22 22:59:06",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "오늘 등교 중에 사막여우를 봤어.",
+      "content": "今日、通学路でフェネックを見かけた",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "사막여우라니 신기하네.",
+      "content": "フェネックって珍しいね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "야생동물인가.",
+      "content": "野生のフェネックなのかな",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "응. 최근에 가끔 보이는 것 같아.",
+      "content": "うん、最近あの辺に時々いるみたい",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "어제 새벽에는 유성우 같은 것도 봤어.",
+      "content": "それから、昨日の夜は流星群も見たの",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "러닝하다보면 이런저런 걸 보게 되니까.",
+      "content": "ランニングをしてると色んなものを見かける",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "그건 즐거운 거 같아.",
+      "content": "走ることだけじゃなくて、そういうのも楽しい",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "같이 달리진 못하지만 응원할게.",
+      "content": "良いね。一緒には走ってあげられないけど、応援してる",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "……응.",
+      "content": "……ん",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "응원. 받는 거 익숙지가 않아서.",
+      "content": "ごめん。そうやって優しいことを言ってもらえるの、あんまり慣れてなくて",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "그러니까.",
+      "content": "えっと",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "고마워. 선생님.",
+      "content": "ありがとう、先生",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "선생님, 오늘 일 말인데…….",
+      "content": "先生、今日のことは、その……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안. 내가 섬세하지 못했어.",
+      "content": "ごめんね。私の配慮が足りなかった",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "신경 썼어야 하는데. 미안해.",
+      "content": "もっと早く気づくべきだった、ごめんね",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "아…….",
+      "content": "あ……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "으, 으응…….",
+      "content": "ん、その……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "미안하다니, 내가 사과해야 할 일인데.",
+      "content": "そんなことはない、私の方こそごめん……",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "음…….",
+      "content": "えっと、じゃあこれで終わりってことで……",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "고마워. 다음에 봐.",
+      "content": "今日はありがとう、じゃあまた",
       "isFirst": false,
       "file": ""
     }
