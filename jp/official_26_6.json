@@ -1,6 +1,6 @@
 [
   {
-    "title": "개인 면담",
+    "title": "個人面談",
     "nickname": "Molru",
     "date": "2022-10-22 23:06:29",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "오늘.",
+      "content": "今日ね、その……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "할말이 있어. 시로코.",
+      "content": "シロコに話したいことがあって",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘됐네. 나도 얘기할 게 있어.",
+      "content": "良かった。私も話したいことがあって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "……응?",
+      "content": "……ん？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "나한테?",
+      "content": "私に？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "선생님이?",
+      "content": "先生が？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "중요한 일이야.",
+      "content": "大事なことでね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "둘이서 보자.",
+      "content": "二人で話したいな",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "아.",
+      "content": "……ん",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "음……. 알았어.",
+      "content": "分かった",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "그럼 방과 후에 교실에서 기다리고 있을게.",
+      "content": "それじゃあ放課後、教室で待ってる",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "이상한 얘기겠지만.",
+      "content": "私、変なこと言ってるかもしれないけど",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "앞으로도 혼낼 일이 있으면",
+      "content": "これからも、何か私が良くないことをしてると思ったら、",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "얘기를 해줘.",
+      "content": "その時は、怒ってほしい、かも",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "……신경 써주는 어른이 있다는 건",
+      "content": "気にかけてくれる大人がいるってことは、",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "뭐랄까.",
+      "content": "その、何ていうか……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "……기쁜 일이네.",
+      "content": "嬉しいなって、思って",
       "isFirst": true,
       "file": ""
     }
