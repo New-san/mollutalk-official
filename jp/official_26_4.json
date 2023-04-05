@@ -1,6 +1,6 @@
 [
   {
-    "title": "지하철",
+    "title": "地下鉄",
     "nickname": "Molru",
     "date": "2022-10-22 23:01:58",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "샬레가 있는 D.U.에는 지하철이 있지?",
+      "content": "シャーレがあるD.U.って、たくさん地下鉄が通ってるよね",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "음. 그럼 선생님은 지하철도 자주 타겠네?",
+      "content": "先生もよく使うの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 샬레 근방으로 이동할 땐 자주 타니까.",
+      "content": "うん、シャーレから移動する時はよく乗ってるよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "직장인의 출퇴근은 역시 지하철이지.",
+      "content": "サラリーマンといえば地下鉄だよね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 1 },
-      "content": "음…… 고마워. 참고할게.",
+      "content": "そうだよね、ありがとう。……参考にする",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……응?",
+      "content": "……参考に？",
       "isFirst": true,
       "file": ""
     },
