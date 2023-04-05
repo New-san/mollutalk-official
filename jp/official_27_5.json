@@ -1,6 +1,6 @@
 [
   {
-    "title": "선물 고르기",
+    "title": "プレゼント選び",
     "nickname": "Molru",
     "date": "2022-10-22 23:16:53",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님, 오늘 오후에 시간 괜찮으신가요?",
+      "content": "先生、今日の午後はお時間ありますでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 괜찮아. 무슨 일인데?",
+      "content": "うん、大丈夫だよ。どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "그게 매화원에서는 매달 생일을 맞은 아이들에게 선물을 해주곤 하는데,",
+      "content": "梅花園では毎月誕生日の子たちにプレゼントを渡すのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "매번 선물을 고르는 게 고민이라서요.",
+      "content": "毎回プレゼント選びに悩んでしまっていまして……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "괜찮으시다면 잡화점에서 같이 선물 고르는 걸 도와주실 수 있으실까요?",
+      "content": "よろしければ今日、一緒にプレゼント選びを手伝っていただけませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이야.",
+      "content": "もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "후후, 그럼.",
+      "content": "ふふ、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "방과 후에 키보토스 시내의 쇼핑몰에서 뵐게요.",
+      "content": "それでは放課後、キヴォトス市内のショッピングモールでお願いしますね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "선생님께서 소개해주신 그 가게의 케이크, 다들 좋아하더라구요.",
+      "content": "先生が紹介してくださったあのケーキ、みんな喜んでいました",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "좋은 가게를 소개해주셔서 감사합니다.",
+      "content": "良いお店を紹介してくださって、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "입맛에 맞은 것 같아 다행이네.",
+      "content": "それは良かった",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 1 },
-      "content": "네, 다음번에도 잘 부탁드릴게요!",
+      "content": "また次回も、ぜひお願いしますね！",
       "isFirst": true,
       "file": ""
     }
