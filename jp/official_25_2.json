@@ -1,6 +1,6 @@
 [
   {
-    "title": "맛있는 푸딩 이야기",
+    "title": "美味しいプリン",
     "nickname": "Molru",
     "date": "2022-10-22 22:17:19",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "선생님! 선생님!",
+      "content": "先生！先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "오늘부터 게헨나 중앙광장에서 길거리 음식 페스티벌이 열린대!",
+      "content": "今日から中央広場で、屋台がいっぱい出店するフェスが開かれるの！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이즈미, 신났나 보네.",
+      "content": "そうなんだ。イズミ、すごく楽しそうだね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "응! 나, 쭉 오늘만을 기다려 왔어!",
+      "content": "うん！私、ずっとこの日を待ってたの！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "오늘은 특히 푸딩으로 엄청나게 유명한 가게가 참가하거든!",
+      "content": "今日は特に、プリンですごく有名なあのお店が参加するし……！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 1 },
-      "content": "이건 꼭 먹어봐야 해!",
+      "content": "あれは絶対に食べないと！",
       "isFirst": true,
       "file": ""
     },
