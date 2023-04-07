@@ -1,6 +1,6 @@
 [
   {
-    "title": "트레이너와 데이트",
+    "title": "デート",
     "nickname": "Molru",
     "date": "2022-10-22 23:29:51",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "트레이너.",
+      "content": "トレーナー、こんにちは",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "괜찮다면, 이번 주말에 잠시 뵐 수 있을까요?",
+      "content": "よかったら、今週末ちょっと会えませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히익! 아직 근육이….",
+      "content": "その、まだ筋肉痛が……！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "운동이라면 열심히 하고 있습니다!",
+      "content": "運動なら、自分で頑張ってるよ！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "아아…… 아뇨, 트레이너.",
+      "content": "あ、いえ、その……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "운동 때문은 아닙니다.",
+      "content": "運動関連のお話ではなく……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇다면 오케이!",
+      "content": "なら何でもばっちこい！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "알겠습니다.",
+      "content": "ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "그럼 그때 뵙겠습니다.",
+      "content": "それでは後ほど！",
       "isFirst": false,
       "file": ""
     },
