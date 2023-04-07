@@ -1,6 +1,6 @@
 [
   {
-    "title": "트레이너 등장!",
+    "title": "トレーナー参上！",
     "nickname": "Molru",
     "date": "2022-10-22 23:21:12",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "안녕하세요. 트레이너.",
+      "content": "おはようございます、トレーナー",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "혹시 오늘 시간 괜찮으실까요?",
+      "content": "今日、お時間大丈夫でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 무슨 일이야?",
+      "content": "うん、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "딱히 바쁘지는 않아.",
+      "content": "それほど忙しくないよ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "네, 다름이 아니라.",
+      "content": "はい、実は、",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "이전에 약속드렸던 트레이닝용 시간표를 준비했습니다.",
+      "content": "この前お話していた、トレーニングメニューができたんです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "가능하다면 오늘 확인받고 싶은데, 헬스장으로 와주실 수 있을까요?",
+      "content": "よろしければ確認をしていただきたくて、ジムまで来ていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "기다리고 있겠습니다.",
+      "content": "お待ちしています！",
       "isFirst": false,
       "file": ""
     },
