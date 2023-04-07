@@ -1,6 +1,6 @@
 [
   {
-    "title": "트레이너도 함께",
+    "title": "トレーナーも一緒に",
     "nickname": "Molru",
     "date": "2022-10-22 23:27:46",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "트레이너, 오늘은 제가 트레이너를 위해 특별히 준비한 것이 있습니다.",
+      "content": "トレーナー、今日はトレーニングのために、特別なものを準備しました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "오늘 오후 헬스장에서 뵙겠습니다.",
+      "content": "今日の午後、ジムでお会いしましょう",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "트레이너.",
+      "content": "お疲れ様でした、トレーナー",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "몸은 좀 어떠신가요?",
+      "content": "身体の調子はいかがですか？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 괜찮아.",
+      "content": "うん、大丈夫",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으으윽, 근육이….",
+      "content": "筋肉が、悲鳴を……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "역시 트레이너, 건강하시군요.",
+      "content": "やはり、トレーナーはさすがですね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "운동이 조금 과했나 보군요.",
+      "content": "ちょっと強度が高かったかもしれませんね……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "다음에 만나면 제가 스트레칭을 돕겠습니다.",
+      "content": "次にお会いした時に、ストレッチのお手伝いをしますね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "참, 아마 지금쯤이면 트레이너의 사무실에",
+      "content": "そうだ、おそらくそろそろトレーナーの事務所に、",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "제가 보낸 단백질 보충제가 도착했을 겁니다.",
+      "content": "私がお送りしたプロテインが届いてると思います",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 54, "index": 1 },
-      "content": "하루에 4번, 잊지 마시고 챙겨 드시길 바랍니다.",
+      "content": "一日4回、忘れずに飲んでくださいね",
       "isFirst": true,
       "file": ""
     }
