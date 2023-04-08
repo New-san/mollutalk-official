@@ -1,6 +1,6 @@
 [
   {
-    "title": "네즈스케의 행방불명",
+    "title": "行方不明のネズ助",
     "nickname": "Molru",
     "date": "2022-10-23 01:05:44",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "서, 서, 서, 선생! 큰일인 것이다! 대사건이라고!",
+      "content": "先生先生！大変！大事件なのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "이 문자 메시지를 보면 바로 연구실로 와 줘!",
+      "content": "このメッセージを見たらすぐに研究室に来て！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "오늘 네즈스케를 찾는 걸 도와줘서 고마워, 선생.",
+      "content": "一緒にネズ助探してくれてありがとう、先生。これからもよろしくなのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "네즈스케를 무사히 찾아서 다행이야.",
+      "content": "ネズ助が見つかってよかったね",
       "isFirst": true,
       "file": ""
     },
@@ -64,17 +64,17 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어려운 일도 아니었는걸.",
+      "content": "大事にならなくてよかったね",
       "isFirst": false,
       "file": ""
     },
     {
-      "type": "reply",
-      "replyNo": 3,
-      "replyGroup": 2,
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
       "replyDepth": 0,
-      "sCharacter": { "no": 0, "index": 1 },
-      "content": "생각해보니 그동안 내가 네즈스케에게도, 선생에게도 너무 심하게 굴었던 것 같아…….",
+      "sCharacter": { "no": 98, "index": 1 },
+      "content": "考えてみれば今まで、ネズ助にも先生にも、ひどいことをし過ぎたのだ……",
       "isFirst": true,
       "file": ""
     },
@@ -84,8 +84,8 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "오늘의 일을 교훈 삼아 이제 심한 장난은 치지 않을 테니까…… 앞으로도 잘 부탁하는 것이다!",
-      "isFirst": true,
+      "content": "もうこれからひどい悪戯はしないから……これからもよろしくなのだ！",
+      "isFirst": false,
       "file": ""
     },
     {
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 잘 부탁해, 사야.",
+      "content": "うん。これからもよろしくね、サヤ",
       "isFirst": true,
       "file": ""
     }
