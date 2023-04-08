@@ -1,6 +1,6 @@
 [
   {
-    "title": "미지의 보물찾기",
+    "title": "宝物を求めて",
     "nickname": "Molru",
     "date": "2022-10-23 13:47:13",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "선생님, 혹시 지금 바쁘신가요?",
+      "content": "先生、今お忙しいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "오늘은 조금, 특별히 부탁드리고 싶은 게 있어서요.",
+      "content": "ちょっとお願いしたいことがありまして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "괜찮으시다면 같이 어울려 주실 수 있을까요?",
+      "content": "よろしければ、付き合っていただけませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "데이트라도 가는 건가?",
+      "content": "デートのお誘いかな？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "후후후",
+      "content": "ふふっ、それは秘密です",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "비밀이에요. 와서 보시면 알아요.",
+      "content": "来ていただけたらすぐに分かりますよ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "일종의 보물찾기니까요! (・∀・*)",
+      "content": "ヒントを出しますと、「宝探し」みたいなものです！ (・∀・*)",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "오늘 정말로 감사했습니다, 선생님!",
+      "content": "今日は本当にありがとうございました、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "선생님이 아니었다면 불가능했을 일이었네요!",
+      "content": "先生にご連絡して正解でした、楽しかったです！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "왠지 으음",
+      "content": "何て言えばいいんでしょう、その、",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "선생님과 함께할 때마다 좋은 일이 생기는 거 같아요.",
+      "content": "先生と一緒だといつも楽しくて、毎回良いことが起きるような気がします",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그러니 앞으로도 잘 부탁드릴게요! 선생님! (・∀・*)",
+      "content": "これからもよろしくお願いしますね！先生！ (・∀・*)",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "거절하기 없기예요.",
+      "content": "……返却不可、ですからね？",
       "isFirst": true,
       "file": ""
     }
