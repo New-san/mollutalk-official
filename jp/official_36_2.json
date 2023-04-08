@@ -1,6 +1,6 @@
 [
   {
-    "title": "마늘은 포기할 수 없어",
+    "title": "ニンニク抜きだなんて",
     "nickname": "Molru",
     "date": "2022-10-23 00:29:45",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "선생님은 어떤 라멘을 드실 때 면부터 드시나요, 아니면 국물부터 드시나요?",
+      "content": "先生はラーメンを食べる時、麺から行きますか？それともスープからです？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "면부터 먹어.",
+      "content": "麺からかな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "국물부터 마셔.",
+      "content": "スープから飲むよ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "선생님은 라멘의 면발을 중시하는 편이시군요.",
+      "content": "なるほど、そうでしたか",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "선생님은 라멘의 국물을 중시하는 편이시군요.",
+      "content": "先生はラーメンのスープを重視するのですね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "저는 국물부터 마시는 걸 선호해요.",
+      "content": "個人的にはスープ一択ですね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "진한 국물이야말로 라멘의 맛이 모두 담긴 정수라 할 수 있으니까요.",
+      "content": "スープこそ、ラーメンの全てが詰まった精髄と言っても過言ではありません",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "거기에 으깬 마늘의 알싸한 맛을 더하면…… 정말 참을 수가 없어요!",
+      "content": "そこにすり潰したニンニクが加わった日には……ああ、なんて素晴らしい！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어쩐지 아저씨 같은 취향인걸…….",
+      "content": "なんだか、おじさんみたいな好みだね……",
       "isFirst": true,
       "file": ""
     },
