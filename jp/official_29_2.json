@@ -1,6 +1,6 @@
 [
   {
-    "title": "음양부의 아이돌",
+    "title": "陰陽部のアイドル",
     "nickname": "Molru",
     "date": "2022-10-22 23:33:35",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "선생님, 한가, 해?",
+      "content": "先生は今、暇だったり、する？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "하이쿠 시집 신간이 나와서 사러 가고 싶어.",
+      "content": "新しい俳句集が出たから、買いに行きたい",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치세를 위해서라면 당연히 한가하지.",
+      "content": "うん、大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "한가하지 않아도 치세를 위해서라면 얼마든지……!",
+      "content": "暇がなくてもチセのためならいくらでも……！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "그으래?",
+      "content": "そうなの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "그럼, 같이 사러 가자.",
+      "content": "じゃあ、行こっか",
       "isFirst": true,
       "file": ""
     },
