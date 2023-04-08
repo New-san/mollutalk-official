@@ -1,6 +1,6 @@
 [
   {
-    "title": "그거라면 제대로 찾아오셨습니다!",
+    "title": "私に尋ねてくれたのは正解です！",
     "nickname": "Molru",
     "date": "2022-10-23 00:38:03",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "궁금한 게 있으시면 언제든 말해주세요!",
+      "content": "気になることがあればいつでも言ってくださいね！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "궁금증 해결은 언제나 코토리와 함께!",
+      "content": "知的好奇心の傍には、いつもコトリがいますから！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "고맙습니다, 선생님! 감동했습니다!",
+      "content": "ありがとうございました、先生！感動しました！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "설마 이해해주는 사람이 있을 줄은 몰랐는데!",
+      "content": "まさかここまでの速さで理解してくれるなんて！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "그러니 선생님께는 앞으로도 종종",
+      "content": "……えっと、先生、もしよろしければ時々でも良いので、",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "……종종 부탁드릴게요!",
+      "content": "……よろしくお願いしますね！",
       "isFirst": true,
       "file": ""
     }
