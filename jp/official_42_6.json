@@ -1,6 +1,6 @@
 [
   {
-    "title": "모든 것이 교체되더라도(번역)",
+    "title": "全てが入れ替わっても",
     "nickname": "Molru",
     "date": "2023-01-25 04:19:20",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "혹시 오늘 시간 괜찮을까.",
+      "content": "今日、時間はあるかい？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮은데, 무슨 일이야?",
+      "content": "大丈夫だよ。何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "그냥 공구를 좀 사러 갈 일이 있어서.",
+      "content": "ちょっと工具を新調しようと思って",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "나만 아는 공구 전문점이 있는데",
+      "content": "私が贔屓にしてる工具専門店があるんだ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "괜찮으면, 소개해 줄까 해서.",
+      "content": "先生さえ良ければ、紹介しようかなと",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "얼마든지!",
+      "content": "喜んで！",
       "isFirst": true,
       "file": ""
     },
