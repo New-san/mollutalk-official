@@ -1,6 +1,6 @@
 [
   {
-    "title": "성실함의 보상",
+    "title": "誠実さのご褒美",
     "nickname": "Molru",
     "date": "2022-10-23 00:17:55",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "으으…… 맛있는 음식은 어째서 이렇게 비싼 걸까…….",
+      "content": "うう……美味しい物って、なんでこんなに高いんだろう……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "일하지 않고 돈을 벌고 싶어…….",
+      "content": "働かずにお金に欲しい……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "요행을 기대하지 말고 제대로 된 일을 해야지..",
+      "content": "一攫千金とか期待し過ぎないで、きちんとコツコツ仕事をしないとね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 일하지 않고 돈을 벌고 싶어…….",
+      "content": "私も働かないでお金が欲しい",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "그건 그렇긴 하지만…….",
+      "content": "うぅ、それはその通りだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "잠깐, 선생님이 그런 말을 해도 괜찮은 거야?",
+      "content": "ちょっと、先生がそんなこと言っていいの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "뭐, 말은 그렇게 해도 아르바이트할 때는 나도 진지하다고.",
+      "content": "まあこれも本音だけど、アルバイトの時は私も真剣にやってるよ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준코가 아르바이트를……?",
+      "content": "ジュンコが、アルバイト……！？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "뭐야, 그 대사.",
+      "content": "ねえ、なにその反応！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "내가 아르바이트를 하는 게 뭐가 어때서!",
+      "content": "私がアルバイトしてたら変！？",
       "isFirst": false,
       "file": ""
     },
