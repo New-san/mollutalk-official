@@ -1,0 +1,168 @@
+[
+  {
+    "title": "당신과 함께 수행하기 좋은 곳",
+    "nickname": "Molru",
+    "date": "2022-10-23 00:15:39",
+    "replyNo": 6,
+    "replyGroup": 5,
+    "chars": [87]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "선생님, 수행하기 좋은 장소를 발견했어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "수행이라면 잠자기 말이지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "응. 맞아~",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "어디인지, 특별히 선생님에게 먼저 알려줄게.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "하지만 잠자기 좋은 장소라니…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "그게 말이야.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "여기……. 엄청…….",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "엄청…?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "엄청……. 아, 토끼.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "저기, 츠바키?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "토끼라니? 저기요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 87,
+        "index": 1
+      },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]
