@@ -1,6 +1,6 @@
 [
   {
-    "title": "마이스터의 훈장",
+    "title": "マイスターの勲章",
     "nickname": "Molru",
     "date": "2022-10-23 01:44:02",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "<서벌>에서 새로운 작업용 장갑을 출시하려는 모양이야.",
+      "content": "「サーバル」から今度、新しい作業用手袋が発売されるらしい",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "지난번에 <마나슬루>에서 구입한 장갑은 너무 두꺼워서 새로운 것을 찾던 중이었는데…… 마침 잘 되었네.",
+      "content": "以前買った「マナスル」のは少々厚すぎたから、良いタイミングだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그러고 보니 우타하는 실내에서도 언제나 작업용 장갑을 끼고 있네.",
+      "content": "そういえばウタハ、屋内でもずっと手袋を着けてるね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 특별한 이유라도 있어?",
+      "content": "何かマイスター的に特別な理由があるの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "특별한 이유라고 할 것은 없고…… 내 손가락은 그다지 예쁜 편이 아니거든.",
+      "content": "大した理由ではないけど、私の指はあまり人に見せられたものではないから",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "어릴 적부터 기름과 금속을 만지고 살았더니 끝이 갈라지고 기름때가 스며들어서 보기에 흉해.",
+      "content": "昔からずっと油と金属を触ってきたせいで、決して綺麗とは言えない",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "그래서 장갑을 끼고 다니는 것뿐이야.",
+      "content": "だから、ね",
       "isFirst": true,
       "file": ""
     },
