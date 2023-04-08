@@ -1,6 +1,6 @@
 [
   {
-    "title": "예상치 못한 상황(번역)",
+    "title": "思いがけない",
     "nickname": "Molru",
     "date": "2022-10-27 06:06:47",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "안녕하세요, 선생님. 치나츠입니다.",
+      "content": "先生、おはようございます。チナツです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "혹시 언제 한번 일정 좀 내주실 수 있을까요?",
+      "content": "近頃は、お忙しいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "다른 게 아니라 부탁드리고 싶은 게 있어서……",
+      "content": "実は、お願いしたいことがありまして……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치나츠와의…… ‘일정’……!?",
+      "content": "これは、まさか……！？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "별 일은 아니고요.",
+      "content": "大したことではないのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "아니",
+      "content": "いえ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "그",
+      "content": "その",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "갑자기 그렇게 말씀하시면",
+      "content": "そういう類では無いと言いますか",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 2,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "……후우……",
+      "content": "えっと……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "일과 관련된 일입니다. 선생님. 서류 작업이요.",
+      "content": "お仕事のご相談、です。書類作業のお手伝いをお願いできればと思いまして",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "혼자 하기에는 좀 양이 많아서, 시간 있으실 때 부탁드리려고 했어요.",
+      "content": "ちょっとひとりで行うには量が多くて……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "바쁘시다면 괜찮습니다.",
+      "content": "もちろん、お忙しいようでしたら無理にとは言えないのですが",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아냐. 지금 바로 갈게.",
+      "content": "大丈夫、すぐに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "네.",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "……네?",
+      "content": "えっと、それほど急がなくても大丈夫ですので",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "지금……이요?",
+      "content": "ありがとうございます　～チナツ～",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "오늘 일은 다시 한번 감사드립니다. 선생님.",
+      "content": "今日は本当にありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "선생님 아니었다면 큰일이었을 거예요.",
+      "content": "先生に来ていただけてなかったら、終わってなかったと思います",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "……",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "혹시",
+      "content": "もし",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "혹시 선생님께서만 괜찮으시다면 다음에도……",
+      "content": "もしよろしければ、なのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "다음 번에도 비슷하게 부탁드려도 될까요?",
+      "content": "また何かあれば、お願いをしてもよろしいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "うん、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "감사합니다. 선생님.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -274,7 +274,57 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "그때는 이번 같은 실수를 방지하기 위해, 장소도 새로 선정해 둘 테니……",
+      "content": "その時は、きちんと別の場所を",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 10, "index": 1 },
+      "content": "あ",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 10, "index": 1 },
+      "content": "えっと",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 10, "index": 1 },
+      "content": "……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 10, "index": 1 },
+      "content": "すみません",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 10, "index": 1 },
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -294,57 +344,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "그",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 10, "index": 1 },
-      "content": "아니",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 10, "index": 1 },
-      "content": "음",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 10, "index": 1 },
-      "content": "역시 다음 번에도",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 10, "index": 1 },
-      "content": "……",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 10, "index": 1 },
-      "content": "같은 곳에서 부탁드리겠습니다. -치나츠.",
+      "content": "同じ場所で、大丈夫です",
       "isFirst": true,
       "file": ""
     }
