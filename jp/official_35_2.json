@@ -1,6 +1,6 @@
 [
   {
-    "title": "가짜 음식",
+    "title": "偽料理",
     "nickname": "Molru",
     "date": "2022-10-23 00:20:09",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "선생님, 선생님!",
+      "content": "先生、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "내가 엄청난 사실을 알아냈어!",
+      "content": "私、すごいこと知っちゃった！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일인데?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "내가 저렴한 비용으로 고급 해산물을 잔뜩 먹을 수 있는 방법을 찾아냈어!",
+      "content": "お手頃価格で、高級な海鮮食材をたくさん食べられる方法を見つけたの！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그게 정말이야?",
+      "content": "本当なの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준코, 고급 해산물이 먹고 싶어도 범죄는 저지르면 안 돼.",
+      "content": "ジュンコ、いくらそういうのが食べたいからって犯罪はダメだよ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "물론이지. 자세한 방법은 비밀이지만…… 후후.",
+      "content": "もちろん！詳しい方法は秘密だけど……ふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "나를 뭐로 보는 거야? 범죄를 저지르려는 게 아니거든?",
+      "content": "私のことを何だと思っているの！？犯罪とかじゃないから！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "자세한 내용이 궁금하다면 오늘 저녁 시간에 맞춰 게헨나의 학원 식당으로 찾아와.",
+      "content": "詳しいことが知りたかったら、今夜ゲヘナの学食に来て！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "절대 늦으면 안 돼!",
+      "content": "遅くならないようにね！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "으으,",
+      "content": "うう……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "가짜 음식을 실험하느라 푸딩을 구입하지만 않았어도 오늘 저녁은 호화롭게 먹을 수 있었을 텐데…….",
+      "content": "あんな実験のために材料を買わなければ、贅沢な食事ができたのに……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준코.",
+      "content": "ねえねえジュンコ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "왜?",
+      "content": "ん、なに？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "방금 인터넷에서 봤는데 오이에 꿀을 바르면 멜론 맛이 난대.",
+      "content": "ネットで見たんだけど、キュウリに蜂蜜を塗るとメロンの味がするらしいよ",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "또 인터넷 사기냐! 게다가 꿀은 멜론보다 더 비싸잖아!",
+      "content": "またネットの情報じゃん！それに蜂蜜って十分高いよ！",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "가짜 음식에는 더는 안 속아!",
+      "content": "もう騙されないんだからぁっ！",
       "isFirst": false,
       "file": ""
     }
