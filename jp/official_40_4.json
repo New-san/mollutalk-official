@@ -1,6 +1,6 @@
 [
   {
-    "title": "트리니티식 외과 수술법",
+    "title": "トリニティ式の外科手術",
     "nickname": "Molru",
     "date": "2022-10-23 01:22:35",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "얼마 전에 트리니티 도서관에서 오래된 의학 서적을 발견했는데, 처음 보는 치료법이 잔뜩 적혀 있더라구요.",
+      "content": "図書館で古い医学書を見つけたのですが、知らない治療法だらけでした！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "혹시 현대에 전승되지 못한 금단의 의술 같은 걸까요?",
+      "content": "もしかして……現代では秘匿された、禁断の医術なのでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "민간에서 전해지던 대체요법 같은 게 아닐까?",
+      "content": "民間療法みたいなものじゃないかな？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "그런가요…….",
+      "content": "そういうことでしたか……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "그럼 다음에 선생님이 다치시면 여기 적힌 새로운 치료법으로 치료해 드릴게요.",
+      "content": "ですが何事も挑戦です。もし先生が今度怪我をされたら試してみましょう！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "기대하고 계세요!",
+      "content": "楽しみにしててくださいね！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 다치는 걸 기대하고 있어도 곤란한데…….",
+      "content": "怪我を楽しみにっていうのはちょっと……",
       "isFirst": true,
       "file": ""
     },
