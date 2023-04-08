@@ -1,6 +1,6 @@
 [
   {
-    "title": "제 설명을 들어요!",
+    "title": "私の説明を聞いてください！",
     "nickname": "Molru",
     "date": "2022-10-23 00:36:57",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "궁금한 게 생기면 언제든 무엇이든!",
+      "content": "気になることがあったら、いつでも何でも何度でも！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "멀리 갈 필요 없습니다, 이 코토리에게 물어보세요!",
+      "content": "わざわざ調べに行かずとも、ぜひこのコトリに聞いてください！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "과학적인 지식 이야기야?",
+      "content": "コトリの専門は自然科学全般だっけ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "'무엇이든'?",
+      "content": "「何でも」？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "음……",
+      "content": "えっと、そうですね……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "그렇네요. 비록 과학 쪽이 제 전공이긴 하지만",
+      "content": "一応私の専攻は主に自然科学全般ですが、",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "사실 뭐든지 상관없죠!",
+      "content": "基本的には、何でも大丈夫です！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "‘설명’이라면!",
+      "content": "私に説明出来ることでしたら、何でもどんとこいです！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "선생님? 어디 가셨어요?",
+      "content": "先生？どこへ行かれたんですか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "……설마 도망치신 건 아니시죠?",
+      "content": "まさか、逃げたわけではありませんよね？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "……선생님?",
+      "content": "……先生？",
       "isFirst": true,
       "file": ""
     }
