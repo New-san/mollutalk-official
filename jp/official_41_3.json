@@ -1,6 +1,6 @@
 [
   {
-    "title": "말할 수 없는 비밀",
+    "title": "言えないこと",
     "nickname": "Molru",
     "date": "2022-10-23 01:33:44",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "선생님, 혹시 최근에 이상한 내용의 전화를 받으신 적은 없으십니까?",
+      "content": "先生、もしかして最近、変な電話がかかってきませんでしたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "뭔가 위험해 보이는 사람이 위험한 말을 한다던가…….",
+      "content": "怖い人から電話がかかってきたとか、怪しい内容の電話が来たとか……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "특별히 기억에 남는 전화는 없는데. 왜?",
+      "content": "特に無かったと思うけど、どうして？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "그게 사실은…….",
+      "content": "実は……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "아니, 나중에 말씀드리겠습니다.",
+      "content": "いえ、後ほど直接お話します",
       "isFirst": true,
       "file": ""
     },
