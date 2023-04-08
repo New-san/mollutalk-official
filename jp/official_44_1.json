@@ -1,6 +1,6 @@
 [
   {
-    "title": "트리니티의 천사",
+    "title": "トリニティの天使",
     "nickname": "Molru",
     "date": "2022-10-23 01:58:50",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "언제나 건강이 최고랍니다. 선생님.",
+      "content": "何をするにしても、健康が一番なんですよ、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "바쁘셔도 무리는 안 돼요. 일도 쉬어 가면서 하셔요.",
+      "content": "いくら忙しくても無理はせず、仕事の合間にはきちんと休んでくださいね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고마워.",
+      "content": "ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마음은 굴뚝같지만……",
+      "content": "休みたいのは山々なんだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "후후. 뭘요.",
+      "content": "ふふっ、いえいえ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "당연히 제가 챙겨드려야죠.",
+      "content": "これくらい当然の行いですから",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "저런……",
+      "content": "あら……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "알겠습니다. 꼭 기억해 둘게요.",
+      "content": "わかりました",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "여러모로요. `(*>﹏<*)′",
+      "content": "ちょっと待っててくださいね `(*>﹏<*)′",
       "isFirst": false,
       "file": ""
     },
