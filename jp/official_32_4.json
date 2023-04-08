@@ -1,6 +1,6 @@
 [
   {
-    "title": "비 오는 날의 골목",
+    "title": "雨の降る日の路地裏",
     "nickname": "Molru",
     "date": "2022-10-23 00:01:28",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "선생, 일기예보를 보니 오늘 오후에는 비가 온다고 하네.",
+      "content": "天気予報で、今日の午後は雨だって",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "오늘은 출근할 때 잊지 말고 우산 챙겨가.",
+      "content": "傘、忘れないようにね",
       "isFirst": true,
       "file": ""
     },
