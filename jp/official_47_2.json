@@ -1,6 +1,6 @@
 [
   {
-    "title": "비밀이 생겼어요",
+    "title": "二人の秘密",
     "nickname": "Molru",
     "date": "2022-10-23 13:45:19",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그러고 보니 혹시 선생님도 늦은 밤까지 책을 보시나요?",
+      "content": "そういえば先生も、夜遅くまで起きて本を読んだりしますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "아, 책을 보는 게 아니라……",
+      "content": "あっ、先生の場合は本ではなく……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "업무를 보고 계시려나요?",
+      "content": "お仕事の書類、でしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "직장인을 너무 놀리지 마……",
+      "content": "先生をあんまりからかわないで……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오? 너도?",
+      "content": "シミコ、結構夜型なんだね",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "ㅎㅎㅎ;;",
+      "content": "笑",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그러네요.",
+      "content": "そうですね",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그런 점에서 저희들……",
+      "content": "結構遅くまで起きてて、本を読んでいることが多いです",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "비슷한 활동 시간대를 가진 걸지도요!",
+      "content": "私たち、活動する時間帯が近いかもしれません(・∀・*)",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "모두가 자는 시간이라도, 심심하면 놀러 오세요!",
+      "content": "深夜でも全然大丈夫ですので、いつでも暇な時には遊びに来てくださいね！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "선생님께 만큼은 24시간 열려 있는 곳이니까요!",
+      "content": "先生が来てくださるのであれば、24時間いつでも開けておきますので！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "잘 들어가셨나요?",
+      "content": "無事にシャーレに着きましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "오늘 있었던 일들은 비밀로 해주세요.",
+      "content": "今日のことは秘密ですよ",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "이상한 소문이 날 수도 있으니까요. ㅎㅎ;;",
+      "content": "その、噂になってしまうかもしれませんし……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "저도 비밀로 해 둘게요! (・∀・*)",
+      "content": "私も秘密にしておきますね！ (・∀・*)",
       "isFirst": true,
       "file": ""
     }
