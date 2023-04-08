@@ -1,6 +1,6 @@
 [
   {
-    "title": "나팔꽃 관찰일기",
+    "title": "アサガオの観察日記",
     "nickname": "Molru",
     "date": "2022-10-23 01:23:49",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "샬레의 집무실은 어쩐지 조금 삭막한 느낌이 들어요.",
+      "content": "シャーレの執務室はなんだか、少し殺風景な気がします",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "꽃병이라도 하나 가져다 놓으면 좋을 텐데…….",
+      "content": "花瓶なんか置いてみたら、素敵になるんじゃないでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "선생님은 어떤 꽃을 좋아하시나요?",
+      "content": "先生はどんなお花が好きですか？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꽃이라면 무엇이든 좋아해.",
+      "content": "お花ならだいたい好きだよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꽃가루가 날리지 않는 종류의 꽃.",
+      "content": "花粉が飛ばない種類の花がいいなあ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "그럼 제가 좋아하는 꽃 중에서 몇 가지를 찾아볼게요.",
+      "content": "それでは、私が好きなお花をいくつか見繕ってみますね！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하나에는 무슨 꽃을 제일 좋아해?",
+      "content": "ハナエは何の花が一番好き？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "음…… 저도 꽃이라면 대부분 괜찮지만, 그중에서도 나팔꽃이 제일 좋아요.",
+      "content": "うーん……私もお花は何でも好きですが、一番はアサガオですね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "아침에 활짝 핀 나팔꽃을 보면 아침을 알리기 위해 트럼펫을 부는 작은 천사가 떠오르거든요.",
+      "content": "花開いたアサガオは、まるでトランペットで朝を知らせる天使みたいです",
       "isFirst": false,
       "file": ""
     },
