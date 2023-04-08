@@ -1,6 +1,6 @@
 [
   {
-    "title": "불로불사의 영약",
+    "title": "不老不死の霊薬",
     "nickname": "Molru",
     "date": "2022-10-23 00:59:53",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "선생, 다시 한번 연구실에 와줄 수 있을까?",
+      "content": "先生、もう一度研究室に来てくれないか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어째 수상한데…….",
+      "content": "怪しい……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "아니야, 이번에야말로 진짜 불로불사의 영약을 만든 것이다!",
+      "content": "心配無用、今度こそ本当の不老不死の霊薬が完成したのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "믿기지 않는다면 나님의 연구실에 찾아와서 직접 확인해보라고!",
+      "content": "信じられないならぼく様の研究室に来て、直接確かめてみて！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "나님이 이런 실수를 하다니…… 미안, 선생.",
+      "content": "ぼく様があんなミスをするなんて……ごめん、先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그 사소한 실수가 이렇게 큰 변화를 가져올 줄은 나님도 상상하지 못한 것이다.",
+      "content": "こんなことになるなんて、ぼく様もビックリなのだ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "대신이라기는 뭣하지만",
+      "content": "代わりにってわけじゃないけど、",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "다음에 만나면 상회에서 맛있는 국수를 사줄게.",
+      "content": "次に会った時は、玄武商会で美味しいラーメンを奢ってあげるのだ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "……그런데 혹시 괜찮다면 그 윤기 나는 회색 털을 조금만 얻을 순 없을까?",
+      "content": "……それと、もしよかったら……あのツヤツヤの灰色の毛、少し貰えない？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "거절한다.",
+      "content": "断る",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "으으…… 불로장생의, 연단술의 미래가…….",
+      "content": "うう……不老不死の、錬丹術の未来が……",
       "isFirst": true,
       "file": ""
     }
