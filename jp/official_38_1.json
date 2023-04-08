@@ -1,6 +1,6 @@
 [
   {
-    "title": "사야의 연구실에 어서 오세요!",
+    "title": "サヤの研究室へようこそ！",
     "nickname": "Molru",
     "date": "2022-10-23 00:58:29",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "선생, 잠깐 나님의 연구실로 와줄 수 있을까?",
+      "content": "先生、ちょっとぼく様の研究室に来てくれないか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 연구실에는 왜?",
+      "content": "急にどうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "나님의 연구와 관련된 아주 중대한 문제가 발생한 것이다!",
+      "content": "ぼく様の研究に関係がある、とても大事なことなのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "게다가 선생만이 해결할 수 있는 특별한 문제라고!",
+      "content": "しかも先生にしか解決できない、特別な問題……！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그럼 나님의 연구실에서 기다리고 있을게!",
+      "content": "そういうわけで、研究室で待ってるのだ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "선생, 반짝거리는 건 이제 좀 괜찮아?",
+      "content": "キラキラするの、もう治まった？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아직도 얼굴이 반짝거려서 거울을 쳐다보기가 어려워…….",
+      "content": "顔がまだキラキラしてて、鏡を見るたびに目が……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "거울을 마주하기 어려울 정도의 안광이라니, 그것참 멋진 일이네.",
+      "content": "鏡に向き合えないほどの輝きだなんて、素敵なことなのだ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하나도 멋지지 않거든!",
+      "content": "素敵とかそういうのじゃないんだけど！？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그나저나 괜찮다면 피부에서 떨어져 나온 금박을 한 조각만 돌려받을 순 없을까?",
+      "content": "ところでもしよかったら、肌から剥がれた金箔をひとかけらだけくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "성분을 조사해서 다음 연구에 써보려는 것이다.",
+      "content": "その成分を調査して、次の研究に使ってみようと思ってるのだ",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "거절한다.",
+      "content": "断る",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "으읏! 어째서 거절하는 것이냐!",
+      "content": "ううっ！どうしてなのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "이것도 연단술의 발전을 위해 꼭 필요한 일이라고!",
+      "content": "これも錬丹術の発展のために必要なことなのに！",
       "isFirst": false,
       "file": ""
     }
