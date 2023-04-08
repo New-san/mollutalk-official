@@ -1,6 +1,6 @@
 [
   {
-    "title": "깨닫지 못한 사실",
+    "title": "気がつかなかった事実",
     "nickname": "Molru",
     "date": "2022-10-22 23:38:48",
     "replyNo": 2,
@@ -17,7 +17,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "선생님. 제 멋대로인 부탁이지만……",
+      "content": "先生、我が儘を言ってしまって申し訳ないのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -30,7 +30,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "저번에 못다 한 상담을 다시 받을 수 있을까요.",
+      "content": "先日出来なかった相談、あらためてお願いしてもよろしいでしょうか……？",
       "isFirst": true,
       "file": ""
     },
@@ -43,7 +43,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "응. 물론이야. 이번에야말로 상담을 끝내자.",
+      "content": "うん、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -56,7 +56,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "아아…….",
+      "content": "ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -69,7 +69,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "넵. 감사합니다.",
+      "content": "お忙しいのにすみません、よろしくお願いいたします",
       "isFirst": false,
       "file": ""
     },
@@ -82,7 +82,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "기다리고 있겠습니다.",
+      "content": "えっと、では場所は……",
       "isFirst": false,
       "file": ""
     },
@@ -108,7 +108,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "선생님…….",
+      "content": "先生……",
       "isFirst": true,
       "file": ""
     },
@@ -121,7 +121,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "오늘 일도…… 잊어주세요…….",
+      "content": "今日のことも……忘れてください……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
         "no": 70,
         "index": 1
       },
-      "content": "부탁드리겠습니다…….",
+      "content": "お願いします……",
       "isFirst": true,
       "file": ""
     }
