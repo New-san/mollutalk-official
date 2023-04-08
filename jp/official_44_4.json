@@ -1,6 +1,6 @@
 [
   {
-    "title": "드디어 잡았다!",
+    "title": "その手のひらに",
     "nickname": "Molru",
     "date": "2022-10-23 13:16:14",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "안녕하세요, 선생님!",
+      "content": "おはようございます、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "오늘도 활기찬 하루 되시길 바랄게요!\n (✿˘‿˘)",
+      "content": "今日も良い一日になりますように！\n (✿˘‿˘)",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 오늘도 잘 부탁해.",
+      "content": "うん。今日もよろしくね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기다리고 있을 게.",
+      "content": "待ってるよ、セリナ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "네!",
+      "content": "はい！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "……음? 잘 부탁……해?",
+      "content": "……あれ？えっと……今日、何か予定ありましたっけ……？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "네? 그게 무슨 뜻이에요……?",
+      "content": "え？それはどういう意味ですか？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "……선생님?",
+      "content": "……先生？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "오늘은 정말로 감사했습니다. 선생님.",
+      "content": "今日は本当にありがとうございました、先生",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "생각지도 못했던 일인지라 더더욱 기억에 남네요.",
+      "content": "つい驚いてしまいましたが、その分もあって大切な思い出になりそうです",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "뭐랄까……",
+      "content": "何と言えば良いのでしょうか……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "사실 잘 모르겠어요. 챙김을 받는다는 느낌은 처음이라……",
+      "content": "あそこまで、何もかもを自分のためにしてもらうなんて……なんだか、不思議な感じがしてしまって",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "하지만 한 가지는 확실하네요.",
+      "content": "まだ気持ちがふわふわしていて、この感情を上手く言い表せないのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "……",
+      "content": "……ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "기뻐요! ♪(´▽｀)",
+      "content": "私、とっても幸せです！ (´▽｀)♪",
       "isFirst": true,
       "file": ""
     }
