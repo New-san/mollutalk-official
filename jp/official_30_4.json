@@ -1,6 +1,6 @@
 [
   {
-    "title": "스트레스의 원인",
+    "title": "ストレスの原因",
     "nickname": "Molru",
     "date": "2022-10-22 23:46:09",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "음……. 요즘 잠을 잘 못 자고 있는데요.",
+      "content": "最近あまり眠れてなくって……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "두통도 있고……. 원인이 뭘까요.",
+      "content": "頭痛もひどくって、原因も分からないんですよね……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음…… 글쎄. 병원을 가보는 게 좋지 않을까?",
+      "content": "病院に行ってみた方が良いかも……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "네…… 역시 그게 맞지만……",
+      "content": "やっぱりそうですよね……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "이런 일로 자리를 비울 수는 없는 노릇이라…….",
+      "content": "ただ、今は委員会の仕事で立て込んでいてなかなか席を外せず……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "역시 아무것도 아닙니다. 선생님.",
+      "content": "すみません、ご心配をおかけしてしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "또 심려를 끼쳐드렸네요.",
+      "content": "ありがとうございます、先生",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "하지만 다이어트를 그만두진 않겠어요.",
+      "content": "今日はありがとうございました、先生",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "잘 설명은 할 수 없지만…….",
+      "content": "でも、ダイエットはまだ諦めません",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "이대로라면 스스로에게 지는 느낌이 드니까요.",
+      "content": "何と言いますか、このままでは自分に負けてしまったような気がしますので",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "………하스미가 괜찮다면 괜찮은 거겠지.",
+      "content": "……ハスミが大丈夫なら大丈夫なのかもしれないけど",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "복잡하구나. 마음이라는 건…….",
+      "content": "乙女心は複雑だもんね……無理だけはしないでほしいな",
       "isFirst": false,
       "file": ""
     }
