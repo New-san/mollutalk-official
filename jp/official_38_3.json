@@ -1,6 +1,6 @@
 [
   {
-    "title": "다이어트약",
+    "title": "ダイエット薬",
     "nickname": "Molru",
     "date": "2022-10-23 01:01:54",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "지난번 일은 정말로 미안했던 것이다, 선생.",
+      "content": "この前はごめんなのだ、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "사과의 의미로 맛있는 국수를 대접할 테니까, 현무상회 앞에서 기다려 줘!",
+      "content": "お詫びに美味しいラーメンを奢るから、玄武商会の前で待ってて！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "맛있는 국수……?",
+      "content": "美味しいラーメン……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "응, 내가 자주 가는 상회의 맛집이 있는 것이다.",
+      "content": "うん、ぼく様がよく行くお店があるのだ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "검증된 맛집이니, 선생도 맛을 보면 분명 그 국수가 좋아지게 될 거다!",
+      "content": "すっごく美味しいお店だから、先生も味わったらきっと気にいるはず！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "저번에 같이 먹은 국수는 정말 맛있었지?",
+      "content": "この間一緒に食べたラーメン、本当に美味しかったのだ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "다음에 또 같이 현무상회에 놀러 가는 것이다.",
+      "content": "また今度一緒に、玄武商会に遊びに行こう！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그나저나 그때 다이어트약을 건네받은 헬멧단은 어떻게 된 거야?",
+      "content": "うん、ぜひ。そういえば、あの薬を渡したヘルメット団は、どうなったの？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "응……? 아, 그 녀석들 말인가…….",
+      "content": "うん……？そういえばそんな奴らもいたっけ……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "글쎄, 어디선가 설탕이라도 퍼먹고 있지 않으려나?",
+      "content": "まあ、どこかで砂糖でも舐めてるんじゃないか？",
       "isFirst": false,
       "file": ""
     }
