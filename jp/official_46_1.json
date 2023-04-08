@@ -1,6 +1,6 @@
 [
   {
-    "title": "트리니티의 자경단",
+    "title": "トリニティの自警団",
     "nickname": "Molru",
     "date": "2022-10-23 13:37:03",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "안녕하세요, 선생님. 스즈미입니다. 기억하고 계시려는지요.",
+      "content": "こんにちは、先生。スズミです。覚えていらっしゃいますでしょうか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "안부 차 연락드렸습니다. 바쁘셨다면 죄송합니다.",
+      "content": "まずは挨拶だけでもと、ご連絡しました。お忙しいところすみません",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "다시 한번 만나 뵐 기회가 있다면 좋을 것 같습니다.",
+      "content": "またいつかお会い出来たら嬉しいです",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그럼 이만.",
+      "content": "それでは、また",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "스즈미입니다. 선생님 무사히 들어가셨습니까?",
+      "content": "スズミです。先生、無事にお家に着きましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "덕분에. 정말 고마워.",
+      "content": "うん、おかげさまで。本当にありがとね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "아닙니다. 다행입니다.",
+      "content": "いえ、それでしたら良かったです",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그리고",
+      "content": "その、",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그",
+      "content": "えっと、",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "음",
+      "content": "何と言えばいいのか……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "언제든 제가 필요하면 말씀 주십시오. 찾아뵙도록 하겠습니다.",
+      "content": "私が必要な時はいつでも言ってください。すぐにそばに行きます",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "……",
+      "content": "……えっと、",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그냥 에스코트 이야기입니다.",
+      "content": "エスコートの話、です",
       "isFirst": true,
       "file": ""
     }
