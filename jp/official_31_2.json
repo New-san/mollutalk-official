@@ -1,6 +1,6 @@
 [
   {
-    "title": "청소할 시간이에요",
+    "title": "清掃の時間です",
     "nickname": "Molru",
     "date": "2022-10-22 23:51:34",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "오늘은 대책위원회 동아리실 대청소를 하는 날이에요!",
+      "content": "今日は対策委員会の教室を、大掃除しようかと思います！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "선생님이 오셨을 때, 전보다 더 깔끔한 동아리 실이 기다리고 있을 거예요☆",
+      "content": "先生がお越しになる頃には、前よりずっと綺麗になってるはずです☆",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "응응. 그러니까, 또 놀러 오셔야 해요?",
+      "content": "終わった頃にでも、ぜひ見に来てくださいね？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 시간 내서 갈게.",
+      "content": "お疲れ様、楽しみにしてるね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "너무 무리하지 마.",
+      "content": "無理はしないでね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "오늘은 정말 수고하셨습니다!",
+      "content": "今日はお疲れ様でした！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "아직 지난번의 보답도 못했는데…… 어쩌죠?",
+      "content": "まだ前回のお返しもできていないのに、どうしましょう……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "선생님께 받은 게 점점 더 많아지고 있어요.",
+      "content": "先生に、色々していただいてばかりになってしまっていますね",
       "isFirst": false,
       "file": ""
     }
