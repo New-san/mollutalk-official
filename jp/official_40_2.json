@@ -1,6 +1,6 @@
 [
   {
-    "title": "불면증",
+    "title": "不眠症",
     "nickname": "Molru",
     "date": "2022-10-23 01:19:24",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "선생님, 요새 잠은 제대로 주무시고 계시는가요?",
+      "content": "先生、最近きちんと眠れてますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "눈 밑에 다크서클이 진한 게, 얼굴에 피로가 가득해 보여요…….",
+      "content": "目の下のクマもひどかったですし、すごく疲れた顔をしていましたが",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "요새 불면증이 심해져서…….",
+      "content": "最近ちょっと不眠症っぽくてね……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어쩐지 밤에 잠이 잘 오질 않아…….",
+      "content": "なぜか夜眠れないんだよね……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "잠은 제때 제대로 주무셔야죠!",
+      "content": "やっぱり、そうだったんですか",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "피로는 만병의 원인! 잠을 자꾸 설치면 건강도 나빠지고, 병에 걸릴 수도 있다고요.",
+      "content": "疲れは万病のもと！きちんと睡眠をとらないと病気になってしまうかもです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "안 되겠어요. 선생님께서 잠을 푹 주무실 수 있도록 제가 좋은 방법을 준비해두고 있을 테니,",
+      "content": "先生がぐっすり眠れるよう、何か良い方法を探しておきますね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "내일 점심시간에 양호실을 찾아주세요!",
+      "content": "明日のお昼、保健室に来てください！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "역시 허브차는 잠이 오는 데까지 걸리는 시간이 너무 긴 것 같아요.",
+      "content": "ハーブティーは良かったのですが眠るまで少し時間がかかってしまいますね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "그래서 인터넷에서 잠이 더 잘 오는 차를 조사해보았답니다.",
+      "content": "そこで、ネットでもっと効果のあるものを見つけてきました！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 1 },
-      "content": "음…… 투구꽃 뿌리로 달인 차는 어떠신가요?",
+      "content": "トリカブトの根っこ……？というもので淹れたお茶が良さそうです！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "죽일 셈이냐!",
+      "content": "殺す気！？",
       "isFirst": true,
       "file": ""
     }
