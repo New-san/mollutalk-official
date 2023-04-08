@@ -1,6 +1,6 @@
 [
   {
-    "title": "어른의 비밀",
+    "title": "大人の秘密",
     "nickname": "Molru",
     "date": "2022-10-23 01:30:24",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "선생님, 선생님.",
+      "content": "先生、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "선생님은 특별히 좋아하는 물건이 있으십니까?",
+      "content": "先生は、何かいつも大事にしているものはありますか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 그렇게 물어봐도 잘 모르겠는데…….",
+      "content": "パッと思いつくものは無いかな……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "특별히 좋아해서 수집하는 물건은 없으신가요?",
+      "content": "特別に好きで、集めているものは？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "특별히 좋아해서 하루 종일 들고 다니는 물건은 없으신가요?",
+      "content": "お気に入りで、一日中持ち歩いているものは？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "특별히 좋아해서 몸에서 조금이라도 떨어지면 불안을 느끼는 물건은 없으신가요?",
+      "content": "肌身離さず持っていて、少し手放すと不安になるもの、何かありませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……그런 특별한 취향은 내게 없어.",
+      "content": "そこまで執着するようなものは、私にはないかなあ……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "그런가요……. 조금 어렵게 되었군요.",
+      "content": "そうですか……難しいですね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐가 어렵다는 말이야?",
+      "content": "何が難しいの？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "아무것도 아닙니다.",
+      "content": "いえ、何でもありません",
       "isFirst": true,
       "file": ""
     },
