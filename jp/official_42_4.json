@@ -1,6 +1,6 @@
 [
   {
-    "title": "보이고 싶지 않은 모습",
+    "title": "見せられないもの",
     "nickname": "Molru",
     "date": "2022-10-23 01:40:35",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "선생님, 지난번에 부탁했던 자전거 바퀴의 수리가 모두 끝났어.",
+      "content": "先生、この前頼まれた自転車の修理が終わったから",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "다음에 밀레니엄 학원에 올 때 엔지니어부 부실에 들러서 찾아가.",
+      "content": "今度ミレニアムに来た時に、エンジニア部に寄って受け取ってくれるかい？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "생각보다 빨리 끝났네.",
+      "content": "すごい、早いね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "역시 밀레니엄의 마이스터야!",
+      "content": "やっぱりミレニアムのマイスターだ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "뭐, 내가 아니더라도 이 정도의 고장을 수리하는 건 어려운 일이 아니니까.",
+      "content": "まあ、私でなくてもこのくらいなら、それほど難しい修理ではないさ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "선생님도 나중에 직접 수리해보면 알게 될 거야.",
+      "content": "先生も今度、自分で修理してみたらきっと分かるよ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "우타하가 물건을 수리하는 모습을 옆에서 직접 보고 싶은데…….",
+      "content": "むしろ、ウタハが修理するところを隣で見てたいな",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "……그건 곤란해. 엔지니어부의 작업실에는 위험한 물건이 많거든.",
+      "content": "それは、どうなんだろうな……作業室には、危険なものも多いからね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "게다가 수리라는 건 단순 작업의 반복이라, 옆에서 지켜봐도 별 재미도 없다고.",
+      "content": "それに、修理は単純作業の繰り返しだ。あまり面白いものでは無いと思うよ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "얌전히 있을 테니까 제발~.",
+      "content": "大人しくしてるから～",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "어린 아이도 아니잖아. 떼쓰지 마.",
+      "content": "そんな子供みたいに……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "어차피 지금은 딱히 수리할 물건도 없으니까…… 나중에 기회가 생기면 다시 말해줄게.",
+      "content": "どちらにせよ今は修理するものもないから……またの機会にね",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아까 자전거 보관소에서 봤는데 천둥이가 혼자 엎어져서 헛돌고 있던데.",
+      "content": "そういえばさっき駐輪場で、雷ちゃんがひとりでに変な動きしてたよ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "뭐, 천둥이가?!?!",
+      "content": "なっ、雷ちゃんが！？！？",
       "isFirst": true,
       "file": ""
     },
