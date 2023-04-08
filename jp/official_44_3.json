@@ -1,6 +1,6 @@
 [
   {
-    "title": "언제나 어디서나 세리나",
+    "title": "いつでもどこでもセリナも",
     "nickname": "Molru",
     "date": "2022-10-23 13:13:58",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "오늘도 언제 어디서나, 도움이 필요한 곳에선 구호기사단!",
+      "content": "今日も救護騎士団は、いつでもどこでも助けが必要なところに向かいます！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "힘찬 하루 되세요, 선생님! 곤란한 일 있으면 꼭 말씀하시고요!",
+      "content": "先生も無理なさらず、もし困ったことがあったらすぐに言ってくださいね！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래, 고마워.",
+      "content": "うん、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "넵! ㅎㅎㅎ (@^0^@)/",
+      "content": "(@^0^@)/",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "저기 선생님 ♪(´▽｀)",
+      "content": "先生♪(´▽｀)",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "그",
+      "content": "……あの",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "그게",
+      "content": "えっと……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "혹시나 해서 드리는 말씀인데……",
+      "content": "念のため、なのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "이상하게 생각하시는 건 아니시죠……?",
+      "content": "変だな、とか、思ってたりしないですよね……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "대충 슈퍼맨 같은 거라고 생각하기로 했어.",
+      "content": "スーパーヒーローみたいなものかなって思うことにした",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "일단은……네……",
+      "content": "えっと……はい……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "감사합니다……_(┐「ε:)_",
+      "content": "そういうことにしておいてください…… _(┐「ε:)_",
       "isFirst": true,
       "file": ""
     }
