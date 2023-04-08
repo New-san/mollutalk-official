@@ -1,6 +1,6 @@
 [
   {
-    "title": "당분이 필요해요",
+    "title": "糖分摂取",
     "nickname": "Molru",
     "date": "2022-10-23 13:53:05",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님~",
+      "content": "先生～",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "오늘은 좋은 하루를 보내고 계시는가요?",
+      "content": "最近はいかがですか、相変わらずお忙しいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "여전히 바쁘네.",
+      "content": "相変わらず忙しいよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "분신술이 필요해…….",
+      "content": "分身の術を覚えたい……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "오늘도 바쁘시군요.",
+      "content": "今日もお忙しいんですね……お疲れ様です……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야, 아이리?",
+      "content": "何かあったの？大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "잠깐, 카페에 디저트를 먹으러 갈까 했는데 선생님 생각이 나서요.",
+      "content": "スイーツを食べに行こうと思ったら、ふと先生のことを思い出しまして",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "바쁘시면 다음에 같이 먹어요~\n(*￣▽￣*)ブ",
+      "content": "お忙しいならまた今度ぜひ～\n(*￣▽￣*)",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아이리와 디저트라니, 놓칠 순 없지!",
+      "content": "アイリとスイーツ！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "선생님, 지금 갑니다!",
+      "content": "すぐに行く！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "네? 선생님?",
+      "content": "え？だ、大丈夫なんですか？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "지금 오시려고요? ╚(•⌂•)╝",
+      "content": "先生！？╚(•⌂•)╝",
       "isFirst": false,
       "file": ""
     },
