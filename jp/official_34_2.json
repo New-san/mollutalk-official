@@ -1,6 +1,6 @@
 [
   {
-    "title": "츠바키의 수행법 : 도구편",
+    "title": "ツバキの修行法：道具編",
     "nickname": "Molru",
     "date": "2022-10-23 00:12:14",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "선생님…….",
+      "content": "先生……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠바키? 무슨 일이야?",
+      "content": "ツバキ？どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "완전히 너덜너덜해졌어…….",
+      "content": "ボロボロになっちゃった……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "이걸 어쩌지…….",
+      "content": "どうしよう……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 응? 너덜너덜……?",
+      "content": "え、え？ボロボロ？何が……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 뜻이야……?",
+      "content": "どういう意味……？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "내가 평소 아끼던 수행 도구가…….",
+      "content": "ずっと大事にしてた、修行道具が……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수, 수행 도구?",
+      "content": "しゅ、修行道具？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "도와줘. 선생님……",
+      "content": "助けて、先生……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기다리고 있어. 츠바키. 바로 갈게!",
+      "content": "待っててツバキ、すぐ行くから！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "오늘, 베개를 같이 골라줘서 고마워. 선생님.",
+      "content": "今日、一緒に枕を探してくれてありがとう。先生",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "다음번에 같이 수행하자.",
+      "content": "また今度、一緒に修行しようね",
       "isFirst": false,
       "file": ""
     }
