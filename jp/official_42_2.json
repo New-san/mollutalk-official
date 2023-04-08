@@ -1,6 +1,6 @@
 [
   {
-    "title": "장인은 도구를 가리지 않는다",
+    "title": "弘法筆を選ばず？",
     "nickname": "Molru",
     "date": "2022-10-23 01:37:41",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "선생님, 샬레 하우스의 화장실 불이 나간 것 같아.",
+      "content": "先生、シャーレのトイレの電気が切れたみたいだ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "스위치 버튼을 눌러봤는데 불이 들어오지 않더라고.",
+      "content": "スイッチを押したのに、明かりが点かなかった",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래? 수리 기사를 불러야겠네…….",
+      "content": "あ、そうなんだ、ありがとう。修理業者を呼ばないと……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "괜찮아. 전선이 끊어진 것뿐이니 간단하게 고칠 수 있어.",
+      "content": "大丈夫、電線が切れただけみたいだから、簡単に直せるはず",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "전선 슬리브 압착기는 어디에 있어? 내가 수리할게.",
+      "content": "圧着工具はどこかな？私が直すよ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇게 전문적인 공구는 샬레에 없는데…….",
+      "content": "そんな専門的な工具は、シャーレにはないけど……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "……샬레에 압착기가 한 자루도 없다고?",
+      "content": "……無いのかい？ひとつも？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 48, "index": 1 },
-      "content": "……정말?",
+      "content": "……そうか",
       "isFirst": false,
       "file": ""
     },
