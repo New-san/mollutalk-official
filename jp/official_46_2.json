@@ -1,6 +1,6 @@
 [
   {
-    "title": "눈이 멀 정도로 빛나게",
+    "title": "目が眩むほどに輝いて",
     "nickname": "Molru",
     "date": "2022-10-23 13:39:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "선생님, 스즈미입니다.",
+      "content": "先生、スズミです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "전에도 말씀드렸듯, 에스코트가 필요하시면 언제든 말씀해주십시오.",
+      "content": "今日みたいに、エスコートが必要な時はいつでも言ってください",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "제가 선생님의 목적지까지 안전하게 모셔드리겠습니다.",
+      "content": "私が先生の目的地まで安全にお送りしますので",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고마워. 부탁할게.",
+      "content": "ありがとう、よろしくね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "여고생들이 무서워요! 지켜주세요!",
+      "content": "女子高生が怖い！助けて！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "넵. 찾아주셔서 감사합니다.",
+      "content": "はい、お任せください",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "저기 일단은",
+      "content": "そこはとりあえず",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "저도 그 여고생입니다만……",
+      "content": "私もその女子高生ですが……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "네. 아무튼",
+      "content": "はい。とにかく……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그럼 나오실 때 맞춰 앞에 도착해 있겠습니다.",
+      "content": "では、今日のお出かけの時間までにシャーレ前に行きますので",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "그때 뵙겠습니다.",
+      "content": "また後ほど",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "스즈미입니다. 오늘은 즐거웠습니다.",
+      "content": "スズミです。今日はありがとうございました。楽しかったです",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 81, "index": 1 },
-      "content": "다음번에 다시 뵙겠습니다, 선생님.",
+      "content": "また今度お会いしましょう、先生",
       "isFirst": false,
       "file": ""
     }
