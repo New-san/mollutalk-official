@@ -1,6 +1,6 @@
 [
   {
-    "title": "잠깐의 데이트",
+    "title": "ちょっとしたデート",
     "nickname": "Molru",
     "date": "2022-10-23 13:58:43",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님~ (～￣▽￣)～",
+      "content": "先生～  (～￣▽￣)～",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "오늘도 행복한 하루 보내고 계시는가요?",
+      "content": "最近はいかがですか、お忙しいですか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "(｡´・_・｀｡) 음, 선생님?",
+      "content": "あれ、先生？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "많이 바쁘신가 봐요.",
+      "content": "お忙しいみたいですね……(｡´・_・｀｡)",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "그럼 힘내세요!",
+      "content": "お仕事、頑張ってください！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "아이리가 항상 응원할게요! ヾ(^▽^*)))",
+      "content": "アイリはいつも応援していますから！\nヾ(^▽^*)))",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님, 오늘은 정말 감사했어요.o(^▽^)o",
+      "content": "先生、今日は本当にありがとうございました！.o(^▽^)o",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "앞으로도 종종.",
+      "content": "これからもたまに、その……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님과 산책할 수 있을까요?",
+      "content": "一緒に、お散歩に行きませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "물론, 아이스크림도 함께요.",
+      "content": "その時はまた、ぜひアイスクリームも買って",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼, 당연하지.",
+      "content": "もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나야말로 영광이지.",
+      "content": "こちらこそ、ぜひ",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "하핫, 감사해요.",
+      "content": "あ、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "제가 항상 선생님을 응원할게요!",
+      "content": "私、いつも先生のこと、応援してますから！",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "그럼 오늘도 행복한 하루 되세요~!\n(✿•‿•✿)",
+      "content": "それでは今日も明日も、良い一日を！\n(✿•‿•✿)",
       "isFirst": true,
       "file": ""
     }
