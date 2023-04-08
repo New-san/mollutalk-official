@@ -1,6 +1,6 @@
 [
   {
-    "title": "락 스피릿",
+    "title": "ロック・スピリッツ",
     "nickname": "Molru",
     "date": "2022-10-23 00:00:48",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "선생은 특별히 즐겨 듣는 음악 장르가 있어?",
+      "content": "先生は、好きな音楽のジャンルとかある？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "대중가요려나.",
+      "content": "ポピュラー音楽かな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "클래식이려나.",
+      "content": "クラシックかな",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "그렇구나. 무난한 편이네.",
+      "content": "そっか、まあ似合ってると思う",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "카요코는 어떤 음악을 좋아해?",
+      "content": "カヨコはどんな音楽が好きなの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "나도, 뭐…… 평범한 걸 좋아해서. 선생이랑 음악 취향은 비슷할 것 같아.",
+      "content": "私は……まあ、普通のやつ。先生と結構好み近いかも",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "선생, 내가 추천해 준 2집 앨범은 다 들었어?",
+      "content": "あの2ndアルバム、聞き終わった？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "어때, 역시 블랙 데스 포이즌의 곡은 최고지?",
+      "content": "ブラック・デス・ポイズン、最高じゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭔가 인상적이었어.",
+      "content": "……脳にガツン！って来る感じだった",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭔가 전위적이었어.",
+      "content": "……時代を先取りしてる感じだった",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "역시 선생은 그 곡의 진가를 알아보는구나. 다행이야.",
+      "content": "さすが、先生なら分かってくれると思った",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "2집 앨범은 1집 앨범에 비해 가사는 많이 순화되었지만,",
+      "content": "2ndアルバムは1stアルバムに比べて歌詞はわかりやすくなったけど、",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "사운드가 거칠어서 진짜 헤비메탈 팬들은 이쪽을 더 좋아하는 편이지.",
+      "content": "サウンドはますます激しくなってるから、こっちの方が好きって人は多くて",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "블랙 데스 포이즌의 2집이 마음에 들었다면 이번에는 3집을 빌려줄게.",
+      "content": "もし気に入ったなら、今度3rdアルバムを貸してあげる",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "헤비메탈은 이제 괜찮아…….",
+      "content": "考えとくね……",
       "isFirst": true,
       "file": ""
     }
