@@ -1,6 +1,6 @@
 [
   {
-    "title": "노력의 결정체(번역)",
+    "title": "努力の結晶",
     "nickname": "Molru",
     "date": "2023-01-25 04:17:29",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "선생님, 선생님!",
+      "content": "先生、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준코가 신나서 나를 찾다니, 뭔가 신선하네.",
+      "content": "楽しそうだね、ジュンコ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기념으로 이 모모톡, 캡처해서 보존해 둘까?",
+      "content": "このモモトークのキャプチャを保存しようかな？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "또 무슨 이상한 소리야!",
+      "content": "ちょっと、どういうことよ！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "……혹시나 해서 묻는 건데,",
+      "content": "……念のため聞くけど",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "진짜 캡처한 건 아니지?",
+      "content": "本当に保存したわけじゃないよね？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아닙니다……",
+      "content": "してないです……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "그럼 됐어.",
+      "content": "ならいいんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "나, 드디어 완성했거든!",
+      "content": "それでね……なんと、ついに完成したの！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "완성했다니, 뭘?",
+      "content": "完成したって、何が……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "후후후…… 만나서 보면 알게 될 거야.",
+      "content": "ふふっ……今、シャーレよね？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "지금 샬레에 있지?",
+      "content": "直接見せてあげる！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 1 },
-      "content": "그리로 갈게!",
+      "content": "待ってて、すぐ行くから！",
       "isFirst": false,
       "file": ""
     },
