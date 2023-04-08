@@ -1,6 +1,6 @@
 [
   {
-    "title": "사무실 청소",
+    "title": "事務所の掃除",
     "nickname": "Molru",
     "date": "2022-10-22 23:58:50",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "선생, 전에 구해달라고 의뢰했던 물건이 방금 들어왔어.",
+      "content": "先生、前に探してほしいって言ってたの、ようやく手に入ったよ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오, 드디어 들어왔구나!",
+      "content": "やった、ありがとう！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "후후, 반응을 보니 오랫동안 기대했던 물건인가 보네.",
+      "content": "その反応、相当探してたんだね。なら良かった",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "오후에 시간 되면 우리 흥신소에 들러서 찾아가.",
+      "content": "今日の午後にでも、もし時間があったら便利屋に寄って受け取っていって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "샬레의 일이 끝나면 바로 찾아갈게.",
+      "content": "シャーレの仕事が終わったら、すぐに行くね",
       "isFirst": true,
       "file": ""
     },
