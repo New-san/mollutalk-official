@@ -1,6 +1,6 @@
 [
   {
-    "title": "황혼의 시간",
+    "title": "黄昏れの時間",
     "nickname": "Molru",
     "date": "2022-10-22 23:40:10",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "가끔은 혼자 있는 시간이 좋을 때가 있습니다.",
+      "content": "時々、ひとりの時間が恋しくなることってありませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "딱히 고독을 즐기는 성격은 아닌데도 말이죠.",
+      "content": "特段孤独が好きなわけではないのですが、時折そういう気持ちになるんです",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "감수성이 높구나.",
+      "content": "感受性が高いんだね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "소녀구나. 하스미는.",
+      "content": "思春期の乙女だね！良いと思う！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "네……? 네?!",
+      "content": "え、あ、その……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "그, 그런 걸까요?",
+      "content": "すみません、何だか恥ずかしくなってしまいました……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "뭔가 부끄럽네요. ……죄송합니다.",
+      "content": "自分から言いだしておいてごめんなさい……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "오늘은 고생하셨습니다.",
+      "content": "今日もお疲れ様でした",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "어쩐지 아무것도 안 한 것 같지만.",
+      "content": "なんだか今日は、何もしていないような気もしますが",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "그것만으로도 충분히 감사합니다.",
+      "content": "素敵な時間を過ごせました、ありがとうございます",
       "isFirst": true,
       "file": ""
     }
