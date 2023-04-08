@@ -1,6 +1,6 @@
 [
   {
-    "title": "한없이 투명에 가까운 백색(번역)",
+    "title": "まっしろで透き通るような",
     "nickname": "Molru",
     "date": "2022-10-27 05:47:14",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "……아.",
+      "content": "……あ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "그게…… 컴퓨터와 연결된 이어폰을 착용하고 있다는 사실을 잊은 채 자리에서 일어나는 바람에 의자 위로 넘어질 뻔 했습니다.",
+      "content": "パソコンにイヤホンを繋げたまま立ち上がって、危うく転びそうに",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음악에 몰두하다보면 흔히 있는 일이지.",
+      "content": "夢中になってるとよくあるよね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "네, 의외로 사람의 청각은 반복되는 자극에 쉽게 무디어지는 법이니까요.",
+      "content": "はい。聴覚というものは、繰り返しの刺激には簡単に慣れてしまうものですから",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "코타마는 평소에는 주로 어떤 음악을 들어?",
+      "content": "コタマは普段、どんな音楽を聴くの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "제가 듣는 음악, 말입니까?",
+      "content": "私がよく聞く音楽……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "어, 그게…….",
+      "content": "えっと、それは……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "비밀입니다.",
+      "content": "秘密です",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어째서?!",
+      "content": "なんで！？",
       "isFirst": true,
       "file": ""
     },
