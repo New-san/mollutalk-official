@@ -1,6 +1,6 @@
 [
   {
-    "title": "야근에 내려온 천사",
+    "title": "深夜に舞い降りた天使",
     "nickname": "Molru",
     "date": "2022-10-23 13:10:25",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "피로에 찌들 땐 언제든 말씀 주세요, 선생님.",
+      "content": "具合が悪くなくても、疲れたなと思った時もぜひ私に言ってくださいね",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "언제 어디서라도 선생님을 돌봐 드릴게요.",
+      "content": "いつどこにいても、先生のもとに行きますので",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래.",
+      "content": "ありがとう、その時はよろしくね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "넵 ㅎㅎㅎ! O(∩_∩)O",
+      "content": "はいっ！ O(∩_∩)O",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "피로에 지친 선생님께는 언제든 세리나가 찾아갑니다!",
+      "content": "先生がお疲れの時は、いつでも駆けつけますからね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "필요하시면 언제든 또 불러주세요, 선생님!",
+      "content": "必要な時はいつでも呼んでください！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아까 전에는 고마웠어.",
+      "content": "さっきはありがとうね、セリナ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……혹시 오늘 찾아왔었어?",
+      "content": "……もしかしてセリナ、さっきまでシャーレに来てた？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "네?",
+      "content": "え？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 1 },
-      "content": "정말로 많이 피곤하셨나 보네요 ㅎㅎㅎ\n(✿˘‿˘)",
+      "content": "本当にお疲れだったんですね\n(✿˘‿˘)",
       "isFirst": true,
       "file": ""
     }
