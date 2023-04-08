@@ -1,6 +1,6 @@
 [
   {
-    "title": "점심 대신 디저트",
+    "title": "お昼代わりのスイーツ",
     "nickname": "Molru",
     "date": "2022-10-23 13:50:12",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님, 선생님!",
+      "content": "先生、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "이번에 <카페 밀피유> 에서 신상 디저트가 나왔다는데,",
+      "content": "今回「カフェ・ミルフィーユ」から新作のスイーツが出たみたいですね！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "같이 가시지 않을래요?",
+      "content": "一緒に行きませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안. 오늘은 좀 바빠서….",
+      "content": "ごめんね。今日はちょっと忙しくて……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내일의 해를 내가 볼 수 있다면….",
+      "content": "ちゃんと明日の太陽を拝めたらぜひ……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "어…. 많이 바쁘신가요?",
+      "content": "あ……そんなに忙しいんですね……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님? (⊙_⊙;)",
+      "content": "大丈夫ですか、先生？ (⊙_⊙;)",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님.",
+      "content": "先生～",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "오늘 드신 컵케이크는 어떠셨나요?",
+      "content": "今日のカップケーキ、いかがでしたか？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "맛있으셨나요?",
+      "content": "美味しかったですか？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 맛있었어.",
+      "content": "うん、美味しかったよ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잇츠 베리 딜리셔스~",
+      "content": "イッツベリーデリシャス～",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "후훗, 다행이에요. (❁´▽`)",
+      "content": "それは良かったです (❁´▽`)",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "그럼 오늘 하루도 좋은 하루 되세요~!",
+      "content": "それではまた今度！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님~ o(^▽^)o",
+      "content": "o(^▽^)o",
       "isFirst": false,
       "file": ""
     }
