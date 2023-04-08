@@ -1,6 +1,6 @@
 [
   {
-    "title": "대식가 출입 금지",
+    "title": "出禁",
     "nickname": "Molru",
     "date": "2022-10-23 00:30:41",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "무한리필은 정말 멋진 문화인 것 같아요.",
+      "content": "食べ放題といのは、本当に素敵な文化だと思います",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "가격에 구애받지 않고 원하는 음식을 원하는 만큼 먹을 수 있다니…….",
+      "content": "一定の価格で、食べたいものを好きなだけ食べられるなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "이 아이디어를 낸 사람은 천재(天才)일 게 분명해요!",
+      "content": "このアイデアを出した方は、天才に違いありません！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어제 아카리가 방문한 무한리필 가게 주인으로서는 천재(天災)였겠지만…….",
+      "content": "アカリをお客さんとして迎える側にとっては天災だね……",
       "isFirst": true,
       "file": ""
     },
