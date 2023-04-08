@@ -1,6 +1,6 @@
 [
   {
-    "title": "준비만전",
+    "title": "準備は万端だったのに",
     "nickname": "Molru",
     "date": "2022-10-23 00:49:36",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "궁금한 게 있으시면 언제든 말해주세요!",
+      "content": "おはようございます！何か気になることがありましたら、いつでも仰ってください！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "궁금증 해결은 언제나 코토리와 함께!",
+      "content": "疑問や質問があれば、いつでもぜひこのコトリに！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "……음.",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "뭔가 늘 똑 같은 메시지를 보내는 느낌이 드는데…….",
+      "content": "念のためなのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "혹시 해서 여쭤보는 거지만, 스팸 등록이라던가……. 그런 걸 당한 건 아니겠죠, 저?",
+      "content": "その、ミュート設定されてたり、しないですよね……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "간혹 당하는 경우가 있어서…….",
+      "content": "時々、そういうこともあるので……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아냐. 마침 물어보고 싶은 게 있었어.",
+      "content": "いや、ちょうど聞きたいことがあったんだ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "타이밍이 좋네요. 질문이 있습니다!",
+      "content": "ナイスタイミング、質問がありますコトリさん！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "헉.",
+      "content": "ほ",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "……!!!!!!!! 정말인가요!!",
+      "content": "本当ですか！？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "좋아요!! 좋습니다. 뭐든지 대답해 드릴 게요!",
+      "content": "お任せください、何でもお答えしますよ！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "코토리! 지금 바로 갑니다!! >_<!!",
+      "content": "それではコトリ！今すぐそちらへ参りますので！>_<",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "죄",
+      "content": "すみま",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "죄송합니다, 선생님……. 너무 생각지도 못 한 질문이라 저도 모르게 그만…….",
+      "content": "すみませんでした、先生……その、あまりにも予想外の質問だったと言いますか……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "정말로, 그런 종류의 질문이실 거라곤 상상도 못 했어서…….",
+      "content": "本当にその、不意を突かれたと言いますか……",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "그러고 보니 전에도 이런 일이 있었던 것 같은데…….",
+      "content": "すみません、前にもこんなことがあった気がしますね……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "음. 으음…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "그…….",
+      "content": "その",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "다음에",
+      "content": "今度よろしければ",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "다음에 혹시 괜찮으시면, 언젠가 저도 준비가 됐을 때!",
+      "content": "いえ、私の準備ができてないので、すぐではないのですが",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "다시 부탁드리겠습니다…….",
+      "content": "その時でも、良いですか？",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "그땐 꼭",
+      "content": "ちゃんと",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 49, "index": 1 },
-      "content": "잘 대답해 보겠습니다…….",
+      "content": "ちゃんと答えを、出しますので",
       "isFirst": false,
       "file": ""
     }
