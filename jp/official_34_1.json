@@ -1,6 +1,6 @@
 [
   {
-    "title": "오늘도 열심히 꾸벅꾸벅 수행",
+    "title": "今日も頑張ってうとうと修行",
     "nickname": "Molru",
     "date": "2022-10-23 00:10:45",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "선생님…….",
+      "content": "先生、どう……？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "평소에도 수행 열심히 하고 있어~?",
+      "content": "いつも通り、修行頑張ってる？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 수행이라니?",
+      "content": "急に修行って？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "もちろん",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "우리 수행부 고문이라면 당연히 빼놓을 수 없는 수행…….",
+      "content": "私たち修行部の顧問なら当然欠かせない修行……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "잠자기 말이야.",
+      "content": "寝ることだよ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "특히 선생님은 평소에 너무 바빠서 잠도 제대로 못 자고 있잖아?",
+      "content": "特に先生は普段忙しくて寝不足なんでしょ？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "그래~?",
+      "content": "本当に～？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "흐음, 의심스러운걸…….",
+      "content": "うーん、怪しい……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "응……, 기왕 이렇게 된 거 잘됐다.",
+      "content": "うーん……こうなったらせっかくだし、よし",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "이번 기회에 내가 직접 수행의 시범을 보여줄게.",
+      "content": "この機会に私が直接、修行のお手本を見せてあげる",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "약속 장소에서 보자. 선생님~",
+      "content": "じゃあ、約束の場所でね～、先生",
       "isFirst": true,
       "file": ""
     },
