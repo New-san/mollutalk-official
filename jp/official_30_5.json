@@ -1,6 +1,6 @@
 [
   {
-    "title": "짧지만 사치스러운",
+    "title": "短いけれど贅沢な",
     "nickname": "Molru",
     "date": "2022-10-22 23:47:32",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "요즘 늦게까지 동아리 업무가 이어지고 있어서…….",
+      "content": "この頃連日のように、遅くまで委員会の仕事が終わらなくって……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "선생님도 야근이 잦으시죠?",
+      "content": "でも、先生も残業で大変なんですよね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "저도 힘내겠습니다.",
+      "content": "私も頑張ります",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 하스미도 힘내!",
+      "content": "うん、ハスミも頑張ってね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "함께 힘내자!",
+      "content": "一緒に頑張ろう！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "감기 걸리지 않게 뜨거운 물에 목욕하시고",
+      "content": "風邪をひかないよう、暖かいお風呂に入って、",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "푹 쉬세요.",
+      "content": "ゆっくり休んでくださいね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 1 },
-      "content": "그럼, 다음에 또.",
+      "content": "それでは、また",
       "isFirst": true,
       "file": ""
     }
