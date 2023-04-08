@@ -1,6 +1,6 @@
 [
   {
-    "title": "당신과 함께 수행하기 좋은 곳",
+    "title": "あなたとの修行にぴったりの",
     "nickname": "Molru",
     "date": "2022-10-23 00:15:39",
     "replyNo": 6,
@@ -17,7 +17,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "선생님, 수행하기 좋은 장소를 발견했어.",
+      "content": "修行にぴったりの場所を見つけたよ、先生",
       "isFirst": true,
       "file": ""
     },
@@ -30,7 +30,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "수행이라면 잠자기 말이지?",
+      "content": "修行って、つまり寝ることだよね？",
       "isFirst": true,
       "file": ""
     },
@@ -43,7 +43,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "응. 맞아~",
+      "content": "うん、そうだよ～",
       "isFirst": true,
       "file": ""
     },
@@ -56,7 +56,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "어디인지, 특별히 선생님에게 먼저 알려줄게.",
+      "content": "その場所、先生に一番最初に教えてあげるね",
       "isFirst": false,
       "file": ""
     },
@@ -69,7 +69,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "하지만 잠자기 좋은 장소라니…….",
+      "content": "ありがとう。でも、寝るのにちょうどいい場所って……",
       "isFirst": true,
       "file": ""
     },
@@ -82,7 +82,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "그게 말이야.",
+      "content": "実はね、",
       "isFirst": true,
       "file": ""
     },
@@ -95,7 +95,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "여기……. 엄청…….",
+      "content": "ここ、すごく……",
       "isFirst": false,
       "file": ""
     },
@@ -108,7 +108,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "엄청…?",
+      "content": "すごく……？",
       "isFirst": true,
       "file": ""
     },
@@ -121,7 +121,7 @@
         "no": 87,
         "index": 1
       },
-      "content": "엄청……. 아, 토끼.",
+      "content": "すっごく……あっ、ウサギ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "저기, 츠바키?",
+      "content": "え、ツバキ？",
       "isFirst": true,
       "file": ""
     },
@@ -147,7 +147,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "토끼라니? 저기요?",
+      "content": "え、ウサギがどうしたの？ツバキ？ツバキ！？",
       "isFirst": false,
       "file": ""
     },
