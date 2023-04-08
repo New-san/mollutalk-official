@@ -1,6 +1,6 @@
 [
   {
-    "title": "좀 더 자주자주(번역)",
+    "title": "何度も何度も",
     "nickname": "Molru",
     "date": "2022-10-27 05:50:56",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "필요하신 책이 있으면 언제든 말씀만 주세요, 선생님!",
+      "content": "先生は最近、本読まれてますか？何かあればいつでも相談してください！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마침 잘 됐어.",
+      "content": "ちょうど良かった",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇잖아도 찾고 있는 게 있었는데.",
+      "content": "ありがとう、ちょうど探してるものがあって",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "?",
+      "content": "？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "어",
+      "content": "え",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "정말이에요?",
+      "content": "本当ですか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 갈게. 잘 부탁해.",
+      "content": "今から図書館に行っても良い？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "네",
+      "content": "はい",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "네!! 기다리고 있을게요! :D !!",
+      "content": "はいっ！お待ちしてます！！ :D",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "잘 들어가셨나요, 선생님?",
+      "content": "本も先生も、無事に帰られましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "전 덕분에 오늘은 평소보다 좀 더 즐거운 도서관이었답니다.",
+      "content": "先生が来てくれたおかげで、とっても楽しかったです",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "빌려 가신 책은 기한 내에 꼭 반납해주세요.",
+      "content": "あ、本は期間内に返却してくださいね",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그리고",
+      "content": "それから",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "혹시 괜찮으시다면",
+      "content": "よろしければ、またその時",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그때에도 새로운 책을 또 빌려 가셨으면 좋겠어요.",
+      "content": "ぜひ、新しい本を借りていってください。おススメもお教えしますので",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "그래야",
+      "content": "そうすれば",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "음",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "또",
+      "content": "……",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 79, "index": 1 },
-      "content": "반납 때문에라도, 들러 주실 테니까요.",
+      "content": "……また、来てくれますよね？",
       "isFirst": true,
       "file": ""
     }
