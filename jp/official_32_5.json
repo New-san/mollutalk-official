@@ -1,6 +1,6 @@
 [
   {
-    "title": "음반 매장",
+    "title": "レコード屋",
     "nickname": "Molru",
     "date": "2022-10-23 00:02:33",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "트리니티에는 세상의 모든 책을 모아 놓은 거대한 도서관이 있다고 하는데……",
+      "content": "トリニティに世界中の全ての本を集めた巨大な図書館があるらしいけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "세상의 모든 음반을 모아 놓은 음반 매장은 어디 없으려나?",
+      "content": "世界中のレコードを集めたレコード屋とか、どこかにないのかな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "키보토스 상점가에 있는 <레코드 빌딩>은 어때?",
+      "content": "商店街の「ザ・レコードビル」とかは？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "세상의 모든 음반이 있는 건 아니지만…… 레코드 빌딩 정도면 나쁘지 않지.",
+      "content": "あそこも世界中ってわけじゃないけど……品揃えは確かに悪くない",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "장르를 불문한 다양한 음반을 모아 놓고 있으니까.",
+      "content": "ジャンルを問わず、色々なレコードが集められてるから",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 1 },
-      "content": "나도 휴일에는 음악을 감상하러 자주 놀러 가곤 해.",
+      "content": "休みの日とか、よく行く",
       "isFirst": true,
       "file": ""
     },
