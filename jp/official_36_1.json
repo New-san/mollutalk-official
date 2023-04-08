@@ -1,6 +1,6 @@
 [
   {
-    "title": "페이스 메이커",
+    "title": "ペースメーカー",
     "nickname": "Molru",
     "date": "2022-10-23 00:28:21",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "문득 궁금해졌는데, 규동 가게에서는 어째서 킹 사이즈보다 큰 규동을 팔지 않는 걸까요?",
+      "content": "どうして特盛より上の大きさの牛丼は売られていないのでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "킹 사이즈 정도면 충분히 크지 않아?",
+      "content": "特盛で十分大きくない……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "안 돼요. 킹 사이즈 한 그릇으로는 배가 충분히 차지 않는다고요.",
+      "content": "いえ、特盛一杯ではお腹いっぱいになれません",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아카리는 어째서 그렇게 한 번에 많은 음식을 먹는 거야?",
+      "content": "どうしてアカリはそんなにたくさん食べるの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "후후, 우문이군요. 제가 한 번에 많은 음식을 먹는 이유는 간단하답니다.",
+      "content": "フフッ、愚問ですね。私がたくさん食べる理由は簡単です",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 17, "index": 1 },
-      "content": "그 이유는…… 그곳에 음식이 있으니까!",
+      "content": "なぜなら……そこに食べ物があるからです！",
       "isFirst": false,
       "file": ""
     },
