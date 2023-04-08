@@ -1,6 +1,6 @@
 [
   {
-    "title": "아이리의 고민",
+    "title": "アイリの悩み",
     "nickname": "Molru",
     "date": "2022-10-23 13:54:54",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님.",
+      "content": "先生、ちょっとお伺いしたいのですが",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "혹시 트리니티 학원에는 언제 오세요?",
+      "content": "近々トリニティにいらっしゃる予定ってありますか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "조만간 한번 들를 것 같은데.",
+      "content": "うん、ちょうど行く予定あるよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "와, 정말요? ヾ(•ω•`)o",
+      "content": "あっ、本当ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "그럼 오실 때 연락 한 번만 주시겠어요?",
+      "content": "よければ来る時に、ご連絡をいただけませんか？ ヾ(•ω•`)o",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "선생님과 상담하고 싶은 일이 있거든요.",
+      "content": "先生に相談したいことがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래, 그럼 그때 보자.",
+      "content": "うん、了解",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아이리와의 상담, 접수 완료.",
+      "content": "アイリの相談であれば喜んで",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "와아~ 네!",
+      "content": "わ、ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 57, "index": 1 },
-      "content": "감사합니다! 선생님! (((o(≧∇≦)o)))",
+      "content": "お待ちしてますね、先生！\n (((o(≧∇≦)o)))",
       "isFirst": false,
       "file": ""
     },
