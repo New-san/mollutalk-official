@@ -1,6 +1,6 @@
 [
   {
-    "title": "건강해지는 거예요",
+    "title": "健康になりましょう",
     "nickname": "Molru",
     "date": "2022-10-22 23:56:40",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "선생님, 아령 필요하세요?",
+      "content": "先生、ダンベル欲しかったりしませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "시로코 쨩에게 선물하려고 샀던 것 중에 몇 개가 남아서.",
+      "content": "シロコちゃんにプレゼントしようと買ったものが、いくつか余ってしまって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 1 },
-      "content": "괜찮으시다면 나중에 가져가셔도 돼요.",
+      "content": "アビドスのグラウンドにありますので、よかったら持っていってください",
       "isFirst": false,
       "file": ""
     },
