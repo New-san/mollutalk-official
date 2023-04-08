@@ -1,6 +1,6 @@
 [
   {
-    "title": "츠바키의 수행법 : 실행편",
+    "title": "ツバキの修行法：実践編",
     "nickname": "Molru",
     "date": "2022-10-23 00:14:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "선생님, 까먹지 마.",
+      "content": "先生、覚えてるよね？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "오늘은 같이 수행하기로 한 날이야.",
+      "content": "今日、一緒に修行する日だよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "금시초문인데?",
+      "content": "初耳なんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 그랬었나?",
+      "content": "あ、そうだっけ？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "어, 분명 약속했었는데.",
+      "content": "え、確かに約束したのに",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "으음, 내 꿈에서 한 약속이었나?",
+      "content": "うーん、夢で約束したのかな？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "뭐어, 됐나~?",
+      "content": "まあ、いいか～",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "응, 맞아. 그러니 샬레에서 기다리고 있어. 선생님.",
+      "content": "うん、そうだよ。シャーレで待っててね。先生",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 87, "index": 1 },
-      "content": "내가 샬레로 찾아갈게. 선생님.",
+      "content": "私の方からシャーレに行くから、待っててね。先生",
       "isFirst": true,
       "file": ""
     },
