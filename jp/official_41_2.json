@@ -1,6 +1,6 @@
 [
   {
-    "title": "메리 씨의 전파",
+    "title": "メリーさんの電波",
     "nickname": "Molru",
     "date": "2022-10-23 01:31:57",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "선생님, <메리 씨의 전화>라는 괴담을 알고 있으신가요?",
+      "content": "先生、「メリーさんの電話」という怪談をご存知ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 모르겠는데.",
+      "content": "聞いたことないかも",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "<메리 씨의 전화>는 어느 소녀가 메리라는 이름의 인형을 버리자, 그 인형이 소녀에게 직접 전화를 걸어온다는 내용의 괴담입니다.",
+      "content": "ある少女の元に、昔捨てたはずのメリーという人形から電話が来るんです",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "이 괴담의 무서운 포인트는 전화를 걸 때마다 메리의 위치가 점점 소녀에게 가까워지다가 마지막에는 등 뒤에서 인형이 나타난다는 점이지요.",
+      "content": "怖いのは、電話が来るたびにメリーさんが徐々に近づいてくるという……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런데 갑자기 괴담은 왜?",
+      "content": "そういう話なんだ……ところで、どうして急にそんな怪談を？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "그냥, 갑자기 궁금해져서 그렇습니다.",
+      "content": "特に意味はありません、何となくです",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "이 전화를 역추적한다면 메리 씨는 어디서 전화를 걸고 있는 것으로 표시될까요?",
+      "content": "……その電話を逆探知したら、メリーさんの居場所が分かりますね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 44, "index": 1 },
-      "content": "언젠가 메리 씨가 제 핸드폰에도 전화를 걸어왔으면 좋겠습니다.",
+      "content": "メリーさん、私のスマホに電話をかけてきてくれないでしょうか",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무, 무서워……!",
+      "content": "怖いよ……",
       "isFirst": true,
       "file": ""
     },
