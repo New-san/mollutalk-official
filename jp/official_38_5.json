@@ -1,6 +1,6 @@
 [
   {
-    "title": "사랑의 묘약",
+    "title": "恋の妙薬",
     "nickname": "Molru",
     "date": "2022-10-23 01:04:38",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "선생…… 오늘은 선생에게 할 중요한 이야기가 있다.",
+      "content": "先生……今日は先生に、大事な話があるのだ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "중요한 이야기? 그게 뭔데?",
+      "content": "大事な話？どんなこと？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그건…… 아니, 문자로는 말할 수 없어……!",
+      "content": "それは……いや、こんな形じゃ言えない……！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "아주 중요한 이야기니까……",
+      "content": "その、すごく大事な話だから……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "오늘은 샬레의 일이 끝나자마자 바로 연구실로 와주었으면 한다.",
+      "content": "今日、シャーレの仕事が終わったら、すぐに研究室に来てくれる？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "기다리고 있을테니까.",
+      "content": "先生のこと、待ってるのだ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "선생, 아까 낮잠을 자다가 끝내주는 꿈을 꾼 것이다.",
+      "content": "先生、さっき昼寝をしてたら、素晴らしい夢を見たのだ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "정신을 차리고 보니 나님의 눈앞에 거대한 치즈 덩어리가 있는 게 아닌가.",
+      "content": "気が付いたらぼく様の目の前に、巨大なチーズの塊があって……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그렇게 치즈를 원 없이 먹은 건 꿈에서도 처음인 것이다.",
+      "content": "チーズをあんなに好きなだけ食べたのは、夢の中でも初めてだったのだ！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "그나저나 선생의 팔은 왜 그렇게 상처투성이인 것이냐?",
+      "content": "ところで、先生の腕はなんであんなに傷だらけだったのだ？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 1 },
-      "content": "들짐승하고 싸우기라도 했어?",
+      "content": "野生動物と喧嘩でもした？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     }
