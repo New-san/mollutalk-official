@@ -1,6 +1,6 @@
 [
   {
-    "title": "달밤, 특별한, 하이쿠짓기",
+    "title": "月夜　作句　特別な",
     "nickname": "Molru",
     "date": "2022-10-22 23:34:53",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "이머-전-시.",
+      "content": "エマージェンシー",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이머전시?",
+      "content": "エマージェンシー？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치세, 갑자기 무슨 일이야?",
+      "content": "急にどうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "동아리 출품",
+      "content": "締め切りが",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "마감이 코앞인데",
+      "content": "目の前なのに",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "뭘 써야 할까?",
+      "content": "白めいて",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치세……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "선생님, 공원.",
+      "content": "公園",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 89, "index": 1 },
-      "content": "기다리고 있을게.",
+      "content": "待ってるね",
       "isFirst": true,
       "file": ""
     },
