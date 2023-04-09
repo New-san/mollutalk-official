@@ -1,6 +1,6 @@
 [
   {
-    "title": "미숙하더라도 할 수 있는 것.(번역)",
+    "title": "未熟な私にできること",
     "nickname": "Molru",
     "date": "2022-12-29 22:16:00",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "선생님, 저기…….",
+      "content": "先生、その",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 주리, 무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……설마 또 혼났다거나?",
+      "content": "……まさかまた怒られた？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "앗, 아니요! 딱히 무슨 일이 있는 건 아니에요.",
+      "content": "あっ、その、特に今回は何か怒られたわけではなく！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "오히려 칭찬을 받고 싶을 정도랍니다!",
+      "content": "むしろ褒めていただきたいくらいです！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "오늘은 아직 요리하면서 냄비가 한 번도 폭발하지 않았거든요! 엣-헴!",
+      "content": "何せ、今日はまだ鍋が爆発してません！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 응, 그렇구나……. 그건 잘됐네…….",
+      "content": "それは、良かったね……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "후후, 저도 점점 성장하고 있으니까요!",
+      "content": "はい、私も日々成長していますので！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "오늘 선생님께 연락을 드린 건 다름이 아니라.",
+      "content": "あ、それでご用件なのですが",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그게. 저…….",
+      "content": "よろしければ、その",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "선생님. 혹시 이번 주말에 시간, 괜찮으실까요?",
+      "content": "今週末に、お時間をいただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "마침 이번 주말은 게헨나 급양부의 정기 동아리 활동이 있는 날이니까…….",
+      "content": "ちょうどその日は給食部の用事で学校に行くのですが",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "주말에 저를 좀 도와주셨으면 해서요.",
+      "content": "できれば先生に見せたいものがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그거라면 딱히 상관없지만……. ",
+      "content": "うん、了解",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "후훗-! 네에!",
+      "content": "ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그럼 이번 주말, 학생식당에서 기다릴게요!",
+      "content": "では、学食でお待ちしておりますね！",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "오, 오늘 민폐를 끼쳐서 죄송해요. 선생님.",
+      "content": "今日はご迷惑をおかけしてすみません……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "몸은 괜찮아? 역시 날이 너무 뜨거웠던 걸까.",
+      "content": "ううん、気にしないで。体調は平気？陽射しのせいかな？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "몸은 괜찮아요! ",
+      "content": "身体は全然大丈夫です！",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "이번엔 그, 그런 게 아니라.",
+      "content": "恐らくですがその、聞いたところによると、もしかしたら……",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "？",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "아, 아니요! 그, 그러니까 다음에!",
+      "content": "いえ、やはり何でもありません！",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "네! 다음에 또 같이 텃밭을 가꾸도록 해요. 선생님!",
+      "content": "ま、また今度ぜひお手伝いいただけますと嬉しいです！",
       "isFirst": false,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그때는 그게, 햇볕이 강하지 않은 날……. 조건적으로…….",
+      "content": "その時はえっと、陽射しがあまり強くない日の方が、条件的に……",
       "isFirst": false,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "아, 아무튼 앞으로도 잘 부탁드려요!",
+      "content": "と、とにかく、引き続きお願いしますね！",
       "isFirst": true,
       "file": ""
     }
