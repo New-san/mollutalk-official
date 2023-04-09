@@ -1,6 +1,6 @@
 [
   {
-    "title": "아야네의 취미 생활",
+    "title": "アヤネの趣味",
     "nickname": "Molru",
     "date": "2022-10-23 14:50:07",
     "replyNo": 9,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "안녕하세요, 선생님. 아야네입니다.",
+      "content": "こんにちは、先生。アヤネです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "혹시 잠깐 시간 괜찮으세요?",
+      "content": "少し、お時間よろしいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 무슨 일이야?",
+      "content": "大丈夫だよ、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "매우 바쁘지만, 아야네를 위해서라면 괜찮습니다.",
+      "content": "それなりに忙しいけど、アヤネのためなら全然大丈夫！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "네. 다름이 아니라……",
+      "content": "はい。実は……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아, 아하하……. 가, 감사해요.",
+      "content": "え、えっと、あはは……。あ、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "다름이 아니라…….",
+      "content": "実は……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "상담이랄까, 의논이랄까…….",
+      "content": "ご相談と言いますか、聞いていただきたいことがあると言いますか……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "잠깐 얘기를 했으면 해서요.",
+      "content": "少し、お話したいことがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "귀찮게 해서 죄송합니다!",
+      "content": "突然のことですみません！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어.",
+      "content": "うん、わかった",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 문제없지.",
+      "content": "全然、問題ないよ",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "네! 감사합니다! 그럼 휴일에 아비도스 학교에서 뵙겠습니다!",
+      "content": "あ、ありがとうございます！では次の休日、学校でお会いしましょう！",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "선생님. 그 책 있잖아요.",
+      "content": "先生、あの本なのですが",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "상점가의 앤티크 샵에 의뢰해봤는데……",
+      "content": "商店街のアンティークショップに依頼してみたところ、",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "큰 가치가 없는 오래된 통속 소설이라고 하더라구요…….",
+      "content": "あまり価値のない、古い大衆小説だそうです……",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저런.",
+      "content": "そっか……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "역시 그렇구나.",
+      "content": "やっぱり、そうなの……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아하하…… 그치만 그래도 1200엔이나 받았어요.",
+      "content": "あはは……ですが、1200円も頂いてしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "가치가 없다고는 해도 그 정도는 되나 봐요.",
+      "content": "価値は無いと言っても、これぐらいにはなったみたいです",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "시간 낭비는 아니었네.",
+      "content": "時間の無駄じゃなかったね",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래도 다행이네.",
+      "content": "良かったね",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아하하…… 그러게요.",
+      "content": "はい、そうですね",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "그럼 선생님, 다음에도 쓸데없는 상담 부탁드리겠습니다.",
+      "content": "また何か変なご相談をするかもしれませんが、よろしくお願いします。先生",
       "isFirst": false,
       "file": ""
     }
