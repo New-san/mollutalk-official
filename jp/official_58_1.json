@@ -1,6 +1,6 @@
 [
   {
-    "title": "백야당의 간판 아가씨는 아이돌!",
+    "title": "百夜堂の看板娘",
     "nickname": "Molru",
     "date": "2022-10-23 15:25:02",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「~백야당 x 키보토스 딸기천국~ 캠페인 개최!」",
+      "content": "「～百夜堂✕キヴォトス苺天国～コラボキャンペーン開催！」",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「딸기 찹쌀떡! 딸기 팥빵! 딸기 만쥬! 딸기 야츠하시! 거기다 딸기 안미츠까지!」",
+      "content": "「苺大福や苺どら焼き、苺饅頭に苺八つ橋！それに苺あんみつまで！」",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「키보토스 각지의 딸기가 담긴 백야당의 전통 디저트를 맛보자!」",
+      "content": "「キヴォトス各地の苺を揃える『キヴォトス苺天国』と、伝統的な甘味喫茶『百夜堂』のコラボレーションをご賞味あれ！」",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「오늘부터 앞으로 일주일! 계속되는 스트로베리 페스티벌의 향연에 참가하세요!」",
+      "content": "「今日から一週間開催しておりますので、ぜひお越しください！」",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「방문 시, 이 문자를 보여주신다면 10% 할인가 적용!」",
+      "content": "「来店時にこのメッセージを見せていただくと、お会計時に10%割引！」",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "「그럼 백야당에서 기다리고 있을게요! 냥냥!」",
+      "content": "「それでは、百夜堂でお待ちしておりますね！にゃんにゃん！」",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응……?",
+      "content": "うん……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "냥냥……?",
+      "content": "にゃんにゃん……？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "에헤헷, 선생님!",
+      "content": "えへへっ、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "백야당에서 이벤트가 개최되었어요!",
+      "content": "実はお送りした通り、百夜堂でイベントを開催中なんです！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "그걸 기념해 선생님에게 완벽한 접대 서비스를 보여드리고 싶어요.",
+      "content": "せっかくですのでこのタイミングで、あらためて先生をしっかりおもてなししたいなと思いまして",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "꼭 찾아와 주실 거죠?",
+      "content": "来てくれますよね？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 일정을 확인한 다음에…….",
+      "content": "ちょっと日程を確認してから……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "꼭 찾아와 주실 거죠……?",
+      "content": "来 て く れ ま す よ ね ？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭐, 시즈코의 부탁이라면.",
+      "content": "シズコの頼みなら！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "에헤헷! 네에!",
+      "content": "えへへっ！ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "시즈코, 기다리고 있을게요!",
+      "content": "お待ちしてますね！",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "이번엔 먹히지 않았지만.",
+      "content": "今回は色々と失敗してしまいましたが、",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "다음번엔 반드시 선생님을 공략해주겠어요!",
+      "content": "次こそは必ず先生を攻略してみせます！",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "덜렁이 파워로!",
+      "content": "私のおっちょこちょいパワーで！",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이미 「덜렁이」가 아니지 않아...?",
+      "content": "それ先に言ったら\n「おっちょこちょい」じゃないんじゃ……？",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "각오하시라구요!",
+      "content": "覚悟しておいてくださいね！",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐어, 네…….",
+      "content": "えっと、はい……。",
       "isFirst": true,
       "file": ""
     }
