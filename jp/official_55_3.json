@@ -1,6 +1,6 @@
 [
   {
-    "title": "함께 걷는 시간",
+    "title": "共に歩む時間",
     "nickname": "Molru",
     "date": "2022-10-23 15:00:01",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님. 오늘도 좋은 하루 되세요.",
+      "content": "ご主人様、今日も良い一日をお過ごしくださいませ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "저는 오늘도 중요한 임무가 있어서 블랙마켓에 간답니다.",
+      "content": "私は今日、重要な任務がありますので、ブラックマーケットに向かいます",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "블랙마켓? 그곳은 위험할 텐데",
+      "content": "ブラックマーケット？危なくない？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "중요한 임무?",
+      "content": "重要な任務？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "네. 위험해요.",
+      "content": "はい、危ないかもしれませんね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "제 타겟이 된 상대들이 말이죠.",
+      "content": "私のターゲットになったお相手の方々が、ですけれど",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "그보다 저는…… 지난번에 뵈었던 것처럼.",
+      "content": "それより私は、以前のように……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "C&C의 메이드라면, 일종의 에이전트니까요.",
+      "content": "Ｃ＆Ｃのメイドは、エージェントとしての顔もあります",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "오늘도 밀레니엄을 위해, 의미 있는 일을 하러 갈 시간이에요.",
+      "content": "今日もミレニアムのために、任務を片付けなければなりません",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "그저 바라는 바가 있다면……",
+      "content": "ただ、願わくば……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "오늘도 우연히, 선생님과 만났으면 좋겠다……",
+      "content": "今日も偶然、先生にお会いできたら良いのに……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "그런 생각을 해봤답니다.",
+      "content": "なんて、思ってしまいます",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님은 저에게 행운을 주는, 네잎클로버 같은 존재인 걸까요?",
+      "content": "ご主人様は私にとって、四つ葉の白詰草のような存在なのかもしれません",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "아니요.",
+      "content": "ですがそれ以上に、",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님을 만난 것 자체가, 저에게 가장 커다란 행운이었던 것 같아요.",
+      "content": "ご主人様と出会えたことが、私にとって最大の幸運です",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 생각해도 그 말이 맞아.",
+      "content": "そうでしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 아카네를 만나 다행이야.",
+      "content": "こちらこそ、アカネと会えてよかった",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "어머. 겸손이라는 걸 모르는 분이시네요.",
+      "content": "あら、仰るのですね？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "후훗. 하지만 싫진 않아요.",
+      "content": "ふふっ、でも、そういうご主人様も嫌いじゃないです",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "후훗. 그렇게 말씀해 주셔서 기쁘네요.",
+      "content": "ふふっ、そう仰っていただけると嬉しいです",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "선생님께도 오늘 행운이 가득하시길 바랄게요.",
+      "content": "先生が今日も一日、幸運に恵まれますように",
       "isFirst": true,
       "file": ""
     }
