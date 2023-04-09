@@ -1,6 +1,6 @@
 [
   {
-    "title": "빛나는 오후를 맞이하며",
+    "title": "輝く午後を迎えて",
     "nickname": "Molru",
     "date": "2022-10-23 15:04:41",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님. 제가 부탁드린 일은 전부 마치셨나요?",
+      "content": "ご主人様、私がお願いしていたこと、もう全部終えていただけましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "조금만 기다려 주세요.",
+      "content": "そろそろ到着予定です",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "보답을, 시작합니다.",
+      "content": "お返しのお時間、始めましょうか",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "자, 잠깐만! 부탁한 일이 너무 많아!",
+      "content": "待って待って！やることが多すぎる！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "보답…… 이라고?",
+      "content": "お返し……？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "기다리세요~",
+      "content": "ふふっ、もうすぐ着きますよ～",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "선생님이 눈을 뜬 그 순간.",
+      "content": "先生が目を覚ました時や、お戻りになった時",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "처음 만나는 사람이 저였으면 좋겠다고……",
+      "content": "最初に目に入る相手がいつも、私だったらいいのに……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "그런 생각을 하게 되었습니다.",
+      "content": "最近よく、そんなことを思ってしまいます。ふふっ",
       "isFirst": true,
       "file": ""
     }
