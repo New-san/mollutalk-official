@@ -1,6 +1,6 @@
 [
   {
-    "title": "주군과 함께 있는 지금을.",
+    "title": "一緒にいられるこの今を",
     "nickname": "Molru",
     "date": "2022-10-23 15:36:25",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "닌자에게 가장 중요한 것.",
+      "content": "忍者にとって一番大事なこと……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그건 역시 평소에도 쉴 틈 없이 꾸준히 수행을 하는 것이라고 생각합니다. 주군!",
+      "content": "それは普段から休むことなく、常在戦場の心持ちで修行を続けることだと思います！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하긴, 단련은 중요하지.",
+      "content": "確かに、鍛錬は大事だからね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "건강한 몸에 건강한 정신이라고도 하니까.",
+      "content": "健全な肉体に健全な精神は宿るとも言うからね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "네, 주군의 말씀대로예요!",
+      "content": "はい、その通りかと！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "진정한 닌자가 되기 위해서라면 평소부터…….",
+      "content": "真の忍者になるために……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그러니까 걷고 있을 때일지라도, 밥을 먹고 있을 때일지라도.",
+      "content": "普段から歩いている時も、ご飯を食べている時も",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "설령 쿨쿨 자고 있을 때일지라도 끊임없이 탐구하는 자세를 갖춰야 하는 법!",
+      "content": "ぐっすり眠っている時でも、絶えず鍛錬の姿勢と心意気を崩さないこと！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇게까지?!",
+      "content": "寝てる時も！？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "네! 그렇게까지!",
+      "content": "はい！そうです！一日中ですので！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그러니 주군……!",
+      "content": "ですので、主殿……！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "닌자를 탐구하기 위한, 이즈나의 수행에 어울려주세요!",
+      "content": "さらに忍者の道を追求するため、イズナの修行に付き合ってくれませんか！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 좋아.",
+      "content": "うん。まだよく分かってないけど、良いよ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "와아! 해냈다!",
+      "content": "やった！ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "오늘, 수행에 어울려주셔서 감사했습니다. 주군!",
+      "content": "今日は修行に付き合ってくださって、ありがとうございました！主殿！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런데 이즈나, 오늘은 결국 수행이었던 게 아니라…….",
+      "content": "どういたしまして。ところで、今日のって結局修行というか……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "앗, TV에서 새로운 시대극이 시작하겠어요!",
+      "content": "あっ、時代劇が始まってしまいます！",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그럼 나중에 뵙겠습니다! 주군!",
+      "content": "それではまた後程！",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "닌닌!",
+      "content": "ニンニン！",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 응…….",
+      "content": "う、うん。また後で……",
       "isFirst": true,
       "file": ""
     }
