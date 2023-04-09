@@ -1,6 +1,6 @@
 [
   {
-    "title": "잠든 숲 속의 메이드",
+    "title": "眠れる森のメイド",
     "nickname": "Molru",
     "date": "2022-10-23 15:01:16",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "오늘은 주인님과 함께 임무를 하는 날이네요. 기대가 돼요.",
+      "content": "今日は、ご主人様と一緒に任務へ向かう日ですね。楽しみです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님도…… 오늘을 기대해 주셨나요?",
+      "content": "ご主人様も……今日の日を楽しみにしてくださっていましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "저는 오늘이 오는 걸 기다리며, 밤새 잠을 이루지 못했답니다.",
+      "content": "私は今日この時間が楽しみで、一晩中眠れませんでした",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수면은 중요해.",
+      "content": "睡眠は大事だよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮겠어?",
+      "content": "大丈夫？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "후훗. 걱정 마세요.",
+      "content": "ふふっ、ご心配なさらず",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "선생님과 함께라면, 아카네는……",
+      "content": "先生と一緒であれば、私は……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "언제나 최고의 컨디션이니까요.",
+      "content": "いつも、最高のコンディションですので",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "악당들은 C&C의 활약에 의해, 모두 법정으로 갔답니다.",
+      "content": "悪党たちは無事、Ｃ＆Ｃの手によって全員確保しました",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "하지만 오늘의 MVP는…… 바로 주인님이에요!",
+      "content": "ですが、今日のＭＶＰは間違いなくご主人様だと思います！",
       "isFirst": false,
       "file": ""
     }
