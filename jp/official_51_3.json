@@ -1,6 +1,6 @@
 [
   {
-    "title": "소녀는 극복하고 싶어.",
+    "title": "克服したい気持ち",
     "nickname": "Molru",
     "date": "2022-10-23 14:30:28",
     "replyNo": 9,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "또, 혼나버렸어요…….",
+      "content": "また怒られてしまいました……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으음, 또 무슨 일이야?",
+      "content": "今度は何があったの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "오늘 점심시간에 제가 만들었던 꽁치구이가 갑자기 도망치는 바람에…….",
+      "content": "今日のお昼、私が作ったサンマの塩焼きが逃げてしまいまして……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잠깐, 뭐가 도망쳤다고?",
+      "content": "ちょっと待って、何が逃げたって……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "네? 꽁치구이……인데요?",
+      "content": "ちょっと待って、何が逃げたって……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "보통, 꽁치구이가 도망치고 그래?",
+      "content": "焼いたサンマが、物理的に逃げるなんてことある？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그…….",
+      "content": "えっと、はい……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "부끄럽게도……",
+      "content": "お恥ずかしながら……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "네, 가끔…….",
+      "content": "その……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "일주일에 한 번 정도는…….",
+      "content": "一週間に一度くらいの頻度で……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그게 부끄러워할…… 일인, 가?",
+      "content": "それは恥ずかしいというか……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "정기적으로 도망치는구나……!",
+      "content": "結構定期的に逃げるんだね",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "으음, 제가 요리를 할 때마다 어째서 이런 일이 벌어지는 건지.",
+      "content": "どうして私が料理をすると、こうやって色んなことが起きるのでしょうか",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "어쩌면 좋을까요. 선생님……!",
+      "content": "先生、どう思いますか……？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼, 어디 한 번 실험해보자.",
+      "content": "じゃあ、一度実験してみない？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "실험이요?",
+      "content": "実験……ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "주리가 만든 요리에서 왜 그런 일이 벌어지는지.",
+      "content": "ジュリの作った料理でなぜそんなことが起こるのか",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "실험해서 이유를 확인해보는 거야.",
+      "content": "条件を揃えたり実験をしてみて、原因を追究する",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "과연…….",
+      "content": "なるほど……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "원인을 알면, 문제도 해결할 수 있을지도 모른다.",
+      "content": "原因さえ分かれば、問題も解決できる……",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "이 말씀이시군요!",
+      "content": "確かにそうかもしれません！",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "네! 알겠습니다!",
+      "content": "ありがとうございます、ぜひよろしくお願いします！",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그럼 오늘 학생식당에서 뵐게요!",
+      "content": "では今日、学食までお越しいただけますか？よろしくお願いします！",
       "isFirst": false,
       "file": ""
     },
