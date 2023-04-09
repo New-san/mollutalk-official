@@ -1,6 +1,6 @@
 [
   {
-    "title": "좋은 아침입니다 주인님.",
+    "title": "おはようございます、ご主人様",
     "nickname": "Molru",
     "date": "2022-10-23 15:03:23",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "너무 이른 시간이라, 이 메시지를 받지 못하실 수도 있겠지만……",
+      "content": "まだこんな時間ですし、モモトークは見られていないかもしれませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "저 지금, 출발했어요.",
+      "content": "私は今、出発したところです",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "어디로요? 주인님의 집으로요.",
+      "content": "どこに向けてかと言いますと、ご主人様のお家に、です",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…… 지금? 새벽인데?",
+      "content": "……今？まだ夜中なのに……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꿈인가……?",
+      "content": "夢……？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "기대해 주세요~",
+      "content": "楽しみにしていてくださいね～",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "다음에 만나는 날은, 저희의 기념일이 될 거예요~",
+      "content": "次会うときは、私たちの記念日になるはずですから",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기념일?",
+      "content": "記念日？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "후훗. 기.대.하.세.요~",
+      "content": "ふふっ。お楽しみに、ですっ！",
       "isFirst": true,
       "file": ""
     }
