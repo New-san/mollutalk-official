@@ -1,6 +1,6 @@
 [
   {
-    "title": "그래서 이즈나는 호위한다.",
+    "title": "そしてイズナは護衛する",
     "nickname": "Molru",
     "date": "2022-10-23 15:32:48",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이즈나, 주군의 충고를 가슴 깊이 새겼습니다.",
+      "content": "イズナ、先日の主殿からの忠告、心に深く刻みました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 충고?",
+      "content": "忠告？何の話だっけ……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "저번에 말씀하셨던……,",
+      "content": "この前、主殿が仰っていた……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "미행은 좋지 않다던 말씀이요!",
+      "content": "無断での尾行は良くないというお話です！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 말을 한 적이…… 있었, 나?",
+      "content": "そんなこと言ったこと、あったっけ？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 확실히 그런 말을 한 적이 있었지…….",
+      "content": "そういえばそんなこともあったね……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그때의 말씀을 받들어, 이즈나.",
+      "content": "あの時主殿よりしかと頂いたお言葉を、あらためて勘考しました",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "주군을 몰래 호위하는 건 그만두겠습니다!",
+      "content": "イズナ、今後は主殿をこっそり護衛することはやめます！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으응, 그래…….",
+      "content": "あっ、うん……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "대신 오늘부터는 앞에서 호위하겠습니다!",
+      "content": "代わりに今日からは、主殿の前で護衛しますね！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그럼 이따 뵐게요! 주군!",
+      "content": "ではまた！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응……?",
+      "content": "うん……？",
       "isFirst": true,
       "file": ""
     },
