@@ -1,6 +1,6 @@
 [
   {
-    "title": "피로회복 고민상담",
+    "title": "疲れた時には",
     "nickname": "Molru",
     "date": "2022-10-23 14:04:01",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "안녕하세요, 선생님.",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "혹시 괜찮으시다면, 선생님께서 여유로운 시간대를 알려주시겠습니까?",
+      "content": "もしよかったら、先生のご都合の良いお時間帯を教えていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "개인적으로 상담하고 싶은 일이 있습니다.",
+      "content": "個人的に相談したいことがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘 일 끝나면 가능해",
+      "content": "今日の仕事が終わった頃とかどう？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 바로 가능하지!",
+      "content": "今すぐ大丈夫だよ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "네.",
+      "content": "承知しました、ではそれでお願いします",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "시간 내 주셔서 감사합니다.",
+      "content": "お時間いただきありがとうございます",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "이번엔 제가 찾아뵙도록 하겠습니다. -치나츠",
+      "content": "お伺いしますね　～チナツ～",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "피곤한 일이 생기시면 언제든 연락주세요, 선생님.",
+      "content": "疲れたと感じた時には、いつでも連絡してください",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "아니.",
+      "content": "いえ、",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "피곤할 것 같은 일이 생기시면, 미리 연락주시길 바랍니다.",
+      "content": "これは疲れそうだなと思うようなことがありましたら、私を呼んでください",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "피로를 느끼시지 않으시도록, 제가 옆에서 돕겠습니다.",
+      "content": "また疲労が溜まってしまわないよう、私もお手伝いしますので",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "그럼 좋은 하루 되시길 바랍니다. -치나츠",
+      "content": "それではまた　～チナツ～",
       "isFirst": true,
       "file": ""
     }
