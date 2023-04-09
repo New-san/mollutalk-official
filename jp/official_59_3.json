@@ -1,6 +1,6 @@
 [
   {
-    "title": "그래서 이즈나는 좋아한다.",
+    "title": "そしてイズナは好きになる",
     "nickname": "Molru",
     "date": "2022-10-23 15:34:17",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "주군! 주군!",
+      "content": "主殿！主殿！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "속보예요! 급보예요! 큰일이에요!",
+      "content": "速報です！特報です！一大事です！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잔뜩 흥분해서, 무슨 일이야?",
+      "content": "そんなに興奮して、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "우연히 이즈나가 좋아하는 명작 닌자 시대극 시리즈를 구했어요!",
+      "content": "イズナの大好きな名作、忍者の時代劇シリーズをついに手に入れました！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "시대극이라면, 옛날 드라마?",
+      "content": "時代劇って、昔のドラマ？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "네!",
+      "content": "はい！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이번에 구한 건 또, 구하기 어려운 명작이거든요!",
+      "content": "これ、なかなか手にはいらない名作なんです！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "같이 봐주실 거죠! 주군!",
+      "content": "一緒に見てくれますよね！主殿！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이즈나의 집에서 감상회예요!",
+      "content": "イズナの家で鑑賞会をしましょう！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아, 알았어.",
+      "content": "うん、じゃあお邪魔しようかな",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "괘, 괜찮으신 거죠?!",
+      "content": "あ、ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "에헤헷! 그럼 기다리고 있을게요!",
+      "content": "えへへっ！ではお待ちしていますね！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "주군과 닌자에 대해 더 자세히 알 수 있어서 기뻤어요!",
+      "content": "主殿と、忍者についてさらに知ることができて嬉しかったです！",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "다음번엔 좀 더 완벽한 닌자로 찾아뵙겠습니다! 주군!",
+      "content": "次はイズナも、さらに完璧な忍者になった状態でお会いできますね、主殿！",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그, 그래…….",
+      "content": "そ、そうだね……？",
       "isFirst": true,
       "file": ""
     }
