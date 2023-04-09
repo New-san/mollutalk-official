@@ -1,6 +1,6 @@
 [
   {
-    "title": "누군가는 해야만 하는 일",
+    "title": "誰かがやるべきこと",
     "nickname": "Molru",
     "date": "2022-10-23 14:00:26",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "치나츠입니다. 기억하고 계실는지요.",
+      "content": "お久しぶりです、チナツです。私のこと覚えていますか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "지난번에는 경황이 없어 제대로 인사드리지 못했습니다.",
+      "content": "この前はバタバタしていて、きちんとご挨拶ができませんでしたので",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "다시 한번 정식으로 인사드릴 기회가 있었으면 좋겠습니다.",
+      "content": "そのうち、あらためてご挨拶をする機会がありましたら嬉しいです",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "-치나츠.",
+      "content": "～チナツ～",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "오늘 일은 정말로 감사드립니다. 선생님.",
+      "content": "今日は本当にありがとうございました、先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "이 일을 어떻게 보답해야 할지……",
+      "content": "このご恩はどうお返しすればいいのか……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "언젠가는 보답해드릴 기회가 오겠지요.",
+      "content": "いつか絶対に、お返しさせてくｄさい",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "……",
+      "content": "……で、では",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 1 },
-      "content": "앞으로도 잘 부탁드립니다. -치나츠.",
+      "content": "これからもよろしくお願いします　～チナツ～",
       "isFirst": true,
       "file": ""
     }
