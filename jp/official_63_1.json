@@ -1,6 +1,6 @@
 [
   {
-    "title": "훈장 수여식",
+    "title": "勲章授与式",
     "nickname": "Molru",
     "date": "2022-10-23 16:13:52",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "기뻐하게나, 콤라드.",
+      "content": "喜べ、カムラッド！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "콤라드의 노력을 치하하기 위해",
+      "content": "カムラッドのこれまでの努力を称えて",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "우리 붉은겨울 연방학원에서 콤라드에게",
+      "content": "我がレッドウィンター連邦学園からカムラッドに新たな勲章",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "<특별 학생 우호 훈장>을 수여하기로 했다네!",
+      "content": "「特別友好章」を授与することにしたのだ！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "특별 학생 우호 훈장은 지난번에도 받지 않았어?",
+      "content": "あれ……特別友好章って、この前も貰わなかったっけ？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "무슨 소리인가. 지난번에 수여한 훈장은 <특별 학생 우정 훈장> 이었다고.",
+      "content": "何を言っている、この前授与した勲章は「特別友情章」だ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "훈장의 종류를 벌써부터 헷갈리면 어쩌자는 건가.",
+      "content": "勲章の種類を間違えるとはけしからん",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "훈장이 몇 종류나 있는 거야…….",
+      "content": "勲章ってそんなに色々あるんだ……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "붉은겨울 연방학원에서는 학원의 발전에 크게 기여한 학생들을 표창하기 위해",
+      "content": "レッドウィンターでは、学園の発展に大きく貢献した者を表彰するために、",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "총 247가지의 훈장을 보유하고 있지.",
+      "content": "計247種類の勲章が存在する",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "체리노는 그중 몇 가지의 훈장을 받았어?",
+      "content": "すごい数だね。チェリノはいくつの勲章を持ってるの？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "후후, 어리석은 질문이로군. 콤라드.",
+      "content": "ふふ、バカげた質問だな。カムラッド",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "……247종 전부다!",
+      "content": "……247種、全部だ！",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "이것 보거라, 콤라드. 이 몸이 그린 새로운 훈장의 디자인이니라!",
+      "content": "見ろカムラッド。あの後おいらの手で仕上げた、新しい勲章のデザインだ！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "후후, 디자인만으로도 광채가 나지 않느냐?",
+      "content": "ふふ、デザインからしてすでに光り輝いているだろう？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "인상적이네.",
+      "content": "……頑張ったね！",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이런 디자인의 훈장은 처음 봐…….",
+      "content": "こんなデザイン初めて見たよ……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "그렇지? 좀 더 칭찬해도 괜찮느니라!",
+      "content": "ふふっ、もっと褒めても良いぞ！",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "어쩌면 이 몸에게는 훌륭한 디자이너의 자질이 있을지도……!",
+      "content": "もしかしたらおいらには、デザイナーの素質まであるのかもしれない……！",
       "isFirst": false,
       "file": ""
     }
