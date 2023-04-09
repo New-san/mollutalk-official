@@ -1,6 +1,6 @@
 [
   {
-    "title": "당신이 저의 주인님입니까? 1",
+    "title": "あなたが私のご主人様ですか？（１）",
     "nickname": "Molru",
     "date": "2022-10-23 14:56:30",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "안녕하세요. 나의 주인님.",
+      "content": "おはようございます、私のご主人様",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "신종 보이스 피싱……?",
+      "content": "新手のフィッシング詐欺……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "주인님, 아니다. 선생님이다.",
+      "content": "ご主人様じゃなくて、先生だよ？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "유머 감각이 있으신 분이군요.",
+      "content": "ふふっ、ユーモラスなお方ですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "당신의 메이드 아카네, 인사드립니다.",
+      "content": "あなたのメイド、アカネです。ここにあらためてご挨拶申し上げます",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…… 네?",
+      "content": "……え？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "후훗. 오늘은 즐거웠어요.",
+      "content": "ふふっ、今日は楽しかったです",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "주인님이 위기에 빠진 순간이면, 반드시 등장하는 메이드라, 그것도 괜찮네요.",
+      "content": "ご主人様のピンチに颯爽と駆けつけるメイド……良いと思いません？",
       "isFirst": false,
       "file": ""
     }
