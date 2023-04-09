@@ -1,6 +1,6 @@
 [
   {
-    "title": "고장난 아스나(번역)",
+    "title": "壊れたアスナ",
     "nickname": "Molru",
     "date": "2022-10-27 05:58:18",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "큰 일이야, 주인님! 큰 일!",
+      "content": "大変！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "도움이 필요해! 지금 바로!",
+      "content": "大変だよご主人様！今すぐ助けて！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭔가 또 지루하거나 따분해진 거야?",
+      "content": "何か退屈しちゃったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어쩐지 최근 별 일 없다 싶었더니, 또……",
+      "content": "ど、どうしたの……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "어",
+      "content": "え？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "방금 나 뭐라고 했던가? 방금 뭐라고 했었어?",
+      "content": "今の私、どうしたんだろ？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……? 예?",
+      "content": "ど、どういうこと……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "1분도 안 돼서 말한 걸 잊어버린 거야?",
+      "content": "自分で言ったことがわからなくなったの？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "어어",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "응",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "맞아! 그런 느낌이야!",
+      "content": "そう！そんな感じ！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "이번에는 진짜인 걸. 진짜라고, 진짜! 진짜 도움이",
+      "content": "今回は本当だよ、本当に助けが",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "필요",
+      "content": "必要",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "?",
+      "content": "？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "에? 무슨 일이야, 주인님?",
+      "content": "あれ？どうしたの、ご主人様？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "何かあった？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "집에 도착-!",
+      "content": "とうちゃーく！",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "주인님은 잘 들어갔어? 덕분에 오늘은 완전 편했네!",
+      "content": "ご主人様はちゃんとシャーレまで戻れた？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "뭔가 엄청나게 도움만 받은 거 같아서 미안한 걸.",
+      "content": "今日はおかげで助かったけど、なんて言うか、ごめんね",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "신경 쓰지 마. 그것도 내 일인 걸.",
+      "content": "気にしないで、私はアスナの先生だから",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 아스나가 좋았다면야…….",
+      "content": "大丈夫、アスナが好きだから",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "근데 왜 풀린 거지? 무슨 자극이 있었던 걸까.",
+      "content": "でも、どうして急に治ったんだろうね？",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "으음~. 글쎄…… 잘 모르겠지만",
+      "content": "うーん、そういえばあの時……",
       "isFirst": true,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "어쨌든 도움받았다는 건 마찬가지지!",
+      "content": "まあ、とりあえずご主人様のおかげで助かったことは確かだね！",
       "isFirst": false,
       "file": ""
     },
@@ -274,7 +274,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "뭐, 봉사하는 게 메이드의 일이니까. 앞으로 은혜 갚을 기회는 많겠지!",
+      "content": "メイドさんとして、その御礼のご奉仕をたくさんしないと！",
       "isFirst": true,
       "file": ""
     },
@@ -284,7 +284,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "그럼 또 봐, 주인님!",
+      "content": "じゃあまたね、ご主人様！",
       "isFirst": true,
       "file": ""
     },
@@ -294,7 +294,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 1 },
-      "content": "다시 한번 오늘 정말 고마웠어!",
+      "content": "あらためて、今日は本当にありがとう！",
       "isFirst": false,
       "file": ""
     }
