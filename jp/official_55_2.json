@@ -1,6 +1,6 @@
 [
   {
-    "title": "당신이 저의 주인님입니까? 2",
+    "title": "あなたが私のご主人様ですか？（２）",
     "nickname": "Molru",
     "date": "2022-10-23 14:57:53",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "그립네요. 얼마 지나지 않았는데,",
+      "content": "懐かしいですね。そんなに経ってないのに、",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "벌써 오랜 시간이 흐른 것 같아요.",
+      "content": "まるで昔の事のように感じます",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "선생님과 처음 만났던 그때…… 저는……",
+      "content": "先生と初めて会った時、私……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "살짝- 두근♡거렸답니다.",
+      "content": "少しだけ……ドキッ♡っとしてしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "선생님은 어떠셨나요?",
+      "content": "先生もそうでしたか？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "두근거렸어. ……건물이 폭발했으니까.",
+      "content": "ドキドキしたよ……建物が爆発したからね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "난 어제 일처럼 생생한데.",
+      "content": "私はとっては、昨日の事のように鮮明だよ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "어머. 기쁘네요.",
+      "content": "あら、それは嬉しいですね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "눈을 감으면…… 저도 선생님과 처음 만난 그날이 떠오른답니다.",
+      "content": "目を閉じると、先生と初めてお会いした日のことが鮮明に脳裏に浮かびます",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "최고의 인연은 언제나, 강렬한 첫 만남에서 시작하죠.",
+      "content": "素敵な縁は往々にして、強烈な出会いから始まるものだと思います",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 1 },
-      "content": "앞으로도 잘 부탁드려요.",
+      "content": "これからも、末永くよろしくお願いしますね",
       "isFirst": false,
       "file": ""
     }
