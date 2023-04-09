@@ -1,6 +1,6 @@
 [
   {
-    "title": "그래서 이즈나는 미행한다.",
+    "title": "そしてイズナは尾行する",
     "nickname": "Molru",
     "date": "2022-10-23 15:31:24",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "주군, 저 이즈나, 최근 들어 고민 때문에 밤잠을 이루지 못했습니다.",
+      "content": "主殿。イズナ、最近悩みごとがあって夜眠れないんです……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고민이라고?",
+      "content": "悩みごと？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나라도 괜찮다면 상담해줄게.",
+      "content": "私で良ければ相談に乗るよ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "역시 주군……!",
+      "content": "さ、さすが主殿……！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이즈나가 괴로워하고 있을 땐, 바로 응해주시는군요!",
+      "content": "イズナが苦しんでる時は、すぐに答えてくれるんですね！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "하지만 괜찮습니다.",
+      "content": "……ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이미 고민은 해결되었으니까요!",
+      "content": "悩み、解決しました！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이미 해결된 거냐……!",
+      "content": "もう解決したの！？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "네!",
+      "content": "はい！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "이즈나는 닌자를 목표로 삼은 몸.",
+      "content": "イズナは忍者を目指していますので。",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그렇다면 고민으로 밤잠을 이루기보다 직접 실천하는 것이 우선!",
+      "content": "であれば先生のように素早く対応、まずは悩むより実行！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "그런 고로 오늘부터 닌자답게!",
+      "content": "ということで、今日からさらに忍者らしく！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "실천하겠습니다. 닌닌!",
+      "content": "まずは実践することにします、ニンニン！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어디 가서 다치진 말고.",
+      "content": "危ないことをして怪我しないようにね。",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 92, "index": 1 },
-      "content": "에헤헷, 네!",
+      "content": "えへへっ、はい！",
       "isFirst": true,
       "file": ""
     },
