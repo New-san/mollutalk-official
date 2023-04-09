@@ -1,6 +1,6 @@
 [
   {
-    "title": "오늘은 재충전",
+    "title": "元気リチャージ中",
     "nickname": "Molru",
     "date": "2022-10-23 15:29:28",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "후후, 후후, 후후후후!",
+      "content": "ふふふっ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "쿠헤헤?",
+      "content": "ぐへへ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "후후…….?",
+      "content": "ふふ……？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "쿠헤헤! 하고 아저씨처럼 웃은 적 없어요!",
+      "content": "「ぐへへ」なんて下品な笑い方したことありませんけど！？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "바로 위에 쓰여 있잖아요! 후후후! 라고!",
+      "content": "ちゃんと上に「ふふふっ」って書いてあるじゃないですか！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래서, 무슨 일이야?",
+      "content": "急にどうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "선생님께서 말씀하셨죠.",
+      "content": "先生、おっしゃいましたよね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "정말로 힘들 때라면, 말해달라고.",
+      "content": "疲れ時は休んで、眠い時は寝るのが良いって",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "그러니 오늘, 선생님께서 책임져 주셔야 할 일이 있어요.",
+      "content": "今日は、先生にその言動の責任を取ってもらおうかと思いまして",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "백야당에서 기다릴게요.",
+      "content": "百夜堂で待ってますので",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 1 },
-      "content": "Ps. 아, 그리고 정문이 아니라,\n뒷문으로 들어와 주세요.",
+      "content": "P.S.\n正面玄関ではなく、裏手から入ってきてください",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……음?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     }
