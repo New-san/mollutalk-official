@@ -1,6 +1,6 @@
 [
   {
-    "title": "달려라 아야네",
+    "title": "走れアヤネ",
     "nickname": "Molru",
     "date": "2022-10-23 14:52:19",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "선생님. 좋은 소식이에요.",
+      "content": "先生、良いニュースです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "새로운 물건들을 발견했는데요.",
+      "content": "とある物を学校で見つけたのですが",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "어쩐지 돈이 될 것 같은 물건들이 잔뜩 있어서…….",
+      "content": "結構良いお金になりそうでして",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "후후……. 횡재한 느낌이네요.",
+      "content": "ふふっ、もしかしたら棚ぼたかもしれません",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 물건인데?",
+      "content": "どういうもの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "음……. 고철 더미인데,",
+      "content": "普通の鉄みたいなのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "고철값을 받을 수 있지 않을까 싶어서…….",
+      "content": "量があるのでそれなりのお金になるのではないかと",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 가볼게.",
+      "content": "私も見に行っていい？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "네?",
+      "content": "え？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아, 아뇨. 굳이 귀찮으실 텐데 굳이…….",
+      "content": "あ、はい、もちろん大丈夫ですが……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "고생 많으셨습니다. 선생님.",
+      "content": "お疲れ様でした、先生",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아……?",
+      "content": "大丈夫……？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "네. 괜찮아요.",
+      "content": "はい、大丈夫です",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "교복이 다 찢어졌고 안경도 한쪽 다리가 흔들리지만…….",
+      "content": "メガネもぐらついてますし、その、制服も少し破れてしまいましたが……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "2배나 더 비싸게 팔 수 있었으니까요!",
+      "content": "2倍になりましたし！私たちの勝利です！",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…… 수고 많았어…….",
+      "content": "お疲れ様……",
       "isFirst": true,
       "file": ""
     }
