@@ -1,6 +1,6 @@
 [
   {
-    "title": "학교 수리 잔혹극",
+    "title": "アヤネの悲惨な修理劇",
     "nickname": "Molru",
     "date": "2022-10-23 14:54:59",
     "replyNo": 12,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "최근 학교 시설이 자주 고장 나서 걱정이에요.",
+      "content": "最近、学校の施設の故障が続いているのが、ちょっと心配でして",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "어제는 정전이 2시간이나 계속되기도 했고…….",
+      "content": "昨日は停電が2時間も続きましたし……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "그저께는 수도가 끊기기도 했었어요.",
+      "content": "一昨日は水道も止まってしまいました",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "지하에 있는 시설들 중에 뭔가 문제가 생긴 걸까요…….",
+      "content": "地下の施設に、何か問題でも起きたのでしょうか……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기술자를 불러보는 건 어때?",
+      "content": "誰か分かる人を呼んで、見てもらったらいいんじゃない？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "사람을 불러서 봐달라고 해.",
+      "content": "人を呼んで修理してもらおう",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아하하…… 고장 난 곳을 모두 봐달라고 하면 돈이 남아나지 않을 거예요.",
+      "content": "怪しい所を全部業者さんに見てもらうと、すごい金額になりそうなので……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "이런 건 짬짬이 쉬는 날 제가 고치거나 해야 해서…….",
+      "content": "時間を見つけて、少しずつお休みの日にでも直さないと……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 도울까?",
+      "content": "私にできることはある？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "같이 고쳐보자.",
+      "content": "一緒に直そう",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아…… 정말요?",
+      "content": "あ……本当ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "그러면 기꺼이 신세를 지겠습니다, 선생님.",
+      "content": "それでは、お言葉に甘えて。ありがとうございます、先生",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "오늘 고생하셨습니다. 선생님.",
+      "content": "今日はお疲れ様でした。先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "다행히 별일 없이 학교 수리를 끝마칠 수 있었어요.",
+      "content": "おかげさまで、無事に修理を終えることができました",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 수고 많았어.",
+      "content": "うん、お疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아야네도 고생했어.",
+      "content": "アヤネもお疲れ様",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "음…… 저기……",
+      "content": "えっと……あの……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "그러니까……",
+      "content": "その……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응?",
+      "content": "うん？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "왜 그래?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "다음에 또…… 불러도 되죠? 그러니까…….",
+      "content": "また……お呼びしてもいいですか？その……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "제가 오늘 민폐를……. 끼쳤지만…… 그래도…….",
+      "content": "今日は、ご迷惑をおかけしてしまったのですが……私、先生と……",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이야.",
+      "content": "もちろんだよ",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "당연하지. 언제든지 불러줘.",
+      "content": "当然、いつでも呼んで",
       "isFirst": false,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "아하하…… 고맙습니다, 선생님.",
+      "content": "……ありがとうございます、先生",
       "isFirst": true,
       "file": ""
     },
@@ -274,7 +274,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 1 },
-      "content": "그럼 다음에 또.",
+      "content": "それでは、またご連絡しますね",
       "isFirst": false,
       "file": ""
     }
