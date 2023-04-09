@@ -1,6 +1,6 @@
 [
   {
-    "title": "가장 중요한 향신료",
+    "title": "いちばん大事な調味料",
     "nickname": "Molru",
     "date": "2022-10-23 14:24:02",
     "replyNo": 10,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "선생님, 요리에서 가장 중요한 향신료가 무엇이라고 생각하시나요?",
+      "content": "先生は、料理で一番重要な調味料って何だと思いますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "설탕?",
+      "content": "砂糖？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "소금?",
+      "content": "塩？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "물론 그것들도 있어서 나쁠 건 없지만.",
+      "content": "そうですね、それらも勿論大切なのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "있어서 나쁠 것 없는 수준의 이야기야?!",
+      "content": "ですが……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "네? 하지만 그래도…….",
+      "content": "本当に大事な調味料……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "진짜로 중요한 향신료는 따로 있는걸요.",
+      "content": "それは、砂糖や塩など、そういった普通のものではありません",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "정답은 바로…….",
+      "content": "正解は……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "사랑이에요!",
+      "content": "愛情です！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "사랑……?",
+      "content": "愛情……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 확실히 그런 의견도 있긴 하지.",
+      "content": "確かにそういう意見もあるね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그렇죠?",
+      "content": "でしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "하지만 그렇다면 저, 한 가지 의문이 생겼어요.",
+      "content": "ただ、私ひとつ疑問があるんです",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "의문?",
+      "content": "疑問？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "요리에 있어, 사랑이 최고의 향신료라는 건 의문의 여지가 없지만.",
+      "content": "料理にとって最高の調味料は愛情、それに異存はありません",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그럼 과연…….",
+      "content": "それは良いとして……",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "요리에 넣는 사랑은, 어느 정도가 적정량인 걸까요?",
+      "content": "料理に入れる愛情って、どれくらいが適量なのでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저, 적정량……?",
+      "content": "……適量？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "아주 약간의 스파이스가 될 정도로만?",
+      "content": "ほんの少し、隠し味程度でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "아니면 확실히 어필할 수 있을 정도로?",
+      "content": "それとも、はっきりと分かるくらいに？",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그것도 아니라면 잔뜩 마구 넣는 게 최고인 걸까요……?",
+      "content": "はたまたどっさり入れた方が効果的だったり……？",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "저, 신경 쓰여요!",
+      "content": "私、気になって夜も眠れません！",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 으음?",
+      "content": "えっと、それは……",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 25, "index": 1 },
-      "content": "그 답을 알기 위해서라도, 절 도와주시겠어요?",
+      "content": "その答えを探そうと思うのですが、手伝っていただけませんでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 7,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 으으으음……?",
+      "content": "うん、いいけど……",
       "isFirst": true,
       "file": ""
     },
