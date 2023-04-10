@@ -1,6 +1,6 @@
 [
   {
-    "title": "무슨 소릴 하는 거야?",
+    "title": "何言ってるの？",
     "nickname": "Molru",
     "date": "2022-10-23 16:47:45",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "그",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선ㅅ",
+      "content": "せｎ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "ㅅ",
+      "content": "ｓ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "아니",
+      "content": "いや",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "아니야",
+      "content": "なんでもない",
       "isFirst": false,
       "file": ""
     },
