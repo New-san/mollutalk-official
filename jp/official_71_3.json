@@ -1,6 +1,6 @@
 [
   {
-    "title": "여름 바다의 계단",
+    "title": "夏の海 憧憬 感慨",
     "nickname": "Molru",
     "date": "2022-10-23 17:21:33",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "크히",
+      "content": "くひ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "크히히히히헤케에엨-",
+      "content": "くひひひひけへへへへっ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "켁……",
+      "content": "きひっ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "?",
+      "content": "あ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "죄송합니다.",
+      "content": "すみません",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "音声入力？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "츠루기?",
+      "content": "ツルギ？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "아",
+      "content": "すみません",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "아닙니다. 아무 문제도 없습니다. 신경 쓰이게 해드려서 죄송합니다.",
+      "content": "何でもありません、失礼いたしました",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "츠루기 배상.",
+      "content": "ツルギ　拝具",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "선생님. 츠루기입니다.",
+      "content": "先生、ツルギです",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "덕분에 그간 쌓아 두고 있던 고민도 많이 사라졌습니다.",
+      "content": "おかげさまで、スッキリしました",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "즐겁게 지냈냐, 라고 물어보시면. 그랬다고 답변드릴 수 있다고 생각합니다.",
+      "content": "もし帰ってから楽しかったかと聞かれたら、迷わず答えられると思います",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "다시 한번 정말로 감사드립니다.",
+      "content": "あらためて、本当にありがとうございます",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "그",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "……",
+      "content": "もしまた機会があれば、先生さえよろしければ。また、一緒に",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "다음에도 기회가 되면, 선생님께서만 괜찮으시다면 또 비슷한 것들을 부탁드리고 싶습니다.",
+      "content": "いえ。えっと、とにかくその……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "앞으로도 잘 부탁드립니다.",
+      "content": "これからも、よろしくお願いいたします",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "츠루기 배상.",
+      "content": "ツルギ　拝具",
       "isFirst": false,
       "file": ""
     }
