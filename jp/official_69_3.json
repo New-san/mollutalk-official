@@ -1,6 +1,6 @@
 [
   {
-    "title": "한눈에 들어오는 것",
+    "title": "私の世界",
     "nickname": "Molru",
     "date": "2022-10-23 17:07:22",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "……선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "아직이야. 생각해 보니 아직 충분하지 않아.",
+      "content": "……何かが足りない気がする",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "내 전술적 직감이 말해주고 있어.",
+      "content": "私の戦術的直感がそう告げている",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "분명 여기엔 뭔가가 더 있다고 말이야.",
+      "content": "きっとまだ、この夏には何かがあるって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……갑자기 전술적 직감?",
+      "content": "戦術的直感が？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "또 뭔가 하고 싶은 것이 생겼구나.",
+      "content": "何かやり残したことが、ってことかな？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "응.",
+      "content": "それについて、戦略的な話し合いが必要",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "그래서 그것에 대해, 전략적인 논의가 필요해.",
+      "content": "時間はあまり残されていない",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "방금 전엔 '전술적'이라고 했던 거 같은데……",
+      "content": "「戦術」と「戦略」ってややこしいよね……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "어디로 가면 되지?",
+      "content": "とにかく、今から先生のところに行く",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "내가 선생님께 찾아가겠어.",
+      "content": "今、どこにいる？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "선생님. 말하지 않고 잊은 게 있어.",
+      "content": "先生、一つ言い忘れてた",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "오늘 있었던 일, 오늘 내가 했던 말들.",
+      "content": "今日のこと、それから今日私が言ったこと",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "당연한 이야기지만 모두 대외비로 처리해줘.",
+      "content": "全部機密事項だから、誰にも言わないで",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "알았지?",
+      "content": "分かった？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "극비사항인 거야?",
+      "content": "そうなの……？とりあえず、了解",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "당연하지.",
+      "content": "忘れないで",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "극비사항이야. 새어 나가면 반드시 선생님이 범인이지.",
+      "content": "もしこの秘密が漏れたとしたら、間違いなく犯人は先生だから",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "선생님 이외에는, 아무도 본 적 없는 거니까.",
+      "content": "先生以外の人に知られたら、困る",
       "isFirst": false,
       "file": ""
     }
