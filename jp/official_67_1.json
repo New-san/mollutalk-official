@@ -1,6 +1,6 @@
 [
   {
-    "title": "무슨 생각을 하는 거야?",
+    "title": "何考えてるの？",
     "nickname": "Molru",
     "date": "2022-10-23 16:46:52",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "시간 있어?",
+      "content": "今って暇？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "다른 건 아니고……",
+      "content": "実は……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "그냥 물어보고 싶은 게 좀 있어.",
+      "content": "ちょっと聞きたいことがあって",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "순수하게. 학생으로서. 선생님한테.",
+      "content": "純粋に。生徒として、先生に",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "공부와 관련된 거야?",
+      "content": "勉強関連のこと？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "굳이 그걸 강조하시는 이유는……",
+      "content": "そんなに強調されると……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "일절. 다른 이유 없이.",
+      "content": "別に他意は無いから",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "강조한 거 아냐 절대 아냐",
+      "content": "強調したわけじゃない！絶対違うから",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "장소는 내가 정해 둘 테니까",
+      "content": "場所は後でまた連絡する",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "다시 한번 이야기하는 거지만, 정말로 공부 때문이야.",
+      "content": "もう一度言うけど、本当に勉強のためだから",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "일절 다른 이유는 없으니까",
+      "content": "それ以外の変なこととか期待しないでよね",
       "isFirst": false,
       "file": ""
     },
