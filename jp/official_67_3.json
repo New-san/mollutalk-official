@@ -1,6 +1,6 @@
 [
   {
-    "title": "무슨 용무로 부른 거야?",
+    "title": "何の用？",
     "nickname": "Molru",
     "date": "2022-10-23 16:49:33",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선생님……",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "지금 어디야",
+      "content": "今どこ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "또 어딘가에서 이상한 생각을 하고 있는 건 아니겠지?",
+      "content": "またどこかで、変なこと企ててたりしないよね？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 또 무슨 소릴……",
+      "content": "突然どうしたの……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……들켰나?",
+      "content": "……バレた？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "시치미 떼도 소용없어……",
+      "content": "隠しても無駄なんだから……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "……역시……",
+      "content": "……やっ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "역시!!",
+      "content": "やっぱり！！！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "으으으…… 역시 안 되겠어.",
+      "content": "このままじゃダメ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "내가 감시하지 않으면……",
+      "content": "私がしっかり監視しないと……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "그런 고로",
+      "content": "うん、仕方ない",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "지금 바로 나와줘야겠어.",
+      "content": "今すぐに来て",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "위치는 내가 정한 곳에서, 기다리고 있을 테니까.",
+      "content": "場所はこの後すぐに送る。待ってるから",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "……",
+      "content": "……えっと",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "선생님?",
+      "content": "先生？",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "비밀로 할 테니 걱정 마.",
+      "content": "大丈夫、秘密にするよ。そういう時期もあるよね",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다음부턴 좀 더 잘 숨기는 게 좋을 거 같아.",
+      "content": "次からはもっと上手に隠したほうがいいと思うよ",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "으으……",
+      "content": "……",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 64, "index": 1 },
-      "content": "……응",
+      "content": "……うん",
       "isFirst": false,
       "file": ""
     }
