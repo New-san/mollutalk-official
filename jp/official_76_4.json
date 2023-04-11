@@ -1,6 +1,6 @@
 [
   {
-    "title": "마지막 포인트",
+    "title": "帰ってくる場所",
     "nickname": "Molru",
     "date": "2022-10-23 18:51:07",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "선생님. 도착했어.",
+      "content": "先生、そろそろ着きそう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "이제 나오면 될 것 같아.",
+      "content": "もう出てきても大丈夫",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나오다니, 어디로?",
+      "content": "出るってどこへ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "'도착했다'니?",
+      "content": "えっと、どこに着いたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "음…….",
+      "content": "んと……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "일단 나오면 알 수 있을 거야.",
+      "content": "とにかく、出てきたら分かるから",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼 기다리고 있을게.",
+      "content": "待ってるね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "생각해 보니",
+      "content": "そういえば",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "이번에 키보토스 종단을 성공적으로 마쳤으니까",
+      "content": "今回、キヴォトス縦断ができたから",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "다음번에는 키보토스 횡단을 해볼까 해.",
+      "content": "次はキヴォトス横断をしてみようかなって",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "응. 진짜 횡단은 아니고 기분만 내는 거지만.",
+      "content": "これも本当の横断じゃなくて、だいたいそんな感じってだけなんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "선생님만 괜찮다면, 다음번에는 같이 달릴까 하는데…….",
+      "content": "先生さえよかったら、その、一緒に走ったり……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "직접 참여는 조금…….",
+      "content": "自分で走るのはちょっと……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "서포터로 충분합니다…….",
+      "content": "サポーターとして、全力で支えさせてもらうね……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "으음……. 역시 그런가.",
+      "content": "うーん……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아쉽네.",
+      "content": "そっか、残念",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼 다음번에도 서포터로…….",
+      "content": "じゃあ……これからも、サポーターとして",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "잘 부탁해. 선생님.",
+      "content": "よろしくね、先生",
       "isFirst": false,
       "file": ""
     }
