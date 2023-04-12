@@ -1,6 +1,6 @@
 [
   {
-    "title": "계획",
+    "title": "計画",
     "nickname": "Molru",
     "date": "2022-10-23 16:42:43",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "웰시코기가 리트리버에게.",
+      "content": "コーギーよりレトリバーへ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "D-Day야.",
+      "content": "D-dayだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "설마 잊은 건 아니겠지?",
+      "content": "まさか忘れてないだろうな？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "기억하고 있다면 응, 이라고 대답해.",
+      "content": "覚えていたら、うん、とだけ応答せよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "D-Day? 무슨 이야기?",
+      "content": "D-day？何の話……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "이야기했었잖아.",
+      "content": "この前言っただろう",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "좋아. 그럼 곧바로 시작하자.",
+      "content": "よし、それでは早速始めるとしよう",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "이곳 생활에서의 적응을 위한 적응훈련.",
+      "content": "ここでの生活に慣れるための訓練だ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "웰시코기는 준비가 됐어. 리트리버도 그러기를 바라지.",
+      "content": "コーギーはすでに準備できている、レトリバーもそうであるといいが",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "리트리버.",
+      "content": "レトリバー",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "여기는 웰시코기.",
+      "content": "こちらコーギー",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 일이야?",
+      "content": "何かあった？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아직도 궁금한 게 남았어?",
+      "content": "まだ聞きたいことがある？",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "아니.",
+      "content": "いや",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "……",
+      "content": "その……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "그냥 보내 본 것뿐이야.",
+      "content": "ただ、呼んでみただけ",
       "isFirst": false,
       "file": ""
     }
