@@ -1,6 +1,6 @@
 [
   {
-    "title": "유성우를 볼 수 있는 곳",
+    "title": "流星群が見られる場所",
     "nickname": "Molru",
     "date": "2022-10-23 16:31:01",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님, 그 소식 들으셨나요?",
+      "content": "先生、聞きましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "유성우에요, 유성우!",
+      "content": "流星群ですよ、流星群！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……유성우?",
+      "content": "流星群？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "네, 신문에서 봤는데, 이번 보름에 사자자리 유성우가 찾아온대요!",
+      "content": "はい、ニュースで見たんですが、今度の満月の日にしし座流星群が見られるみたいです！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "게다가 이번 보름에 오는 사자자리 유성우는 붉은겨울 학원 자치구에서도 볼 수 있다고 하네요.",
+      "content": "その上、今回のしし座流星群は、レッドウィンターの自治区でも見られるそうで！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "지난번 유성우는 이 근처에서 관측할 수 없어서 정말 아쉬웠는데…….",
+      "content": "この前の流星群は、この辺りでは観測できなくて本当に残念でしたが、今度こそ……！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "직접 보는 유성우는 얼마나 아름다울까요?",
+      "content": "実際に見たら、どれほど綺麗なんでしょうね？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "벌써부터 기대가 되네요!",
+      "content": "今から楽しみです！",
       "isFirst": true,
       "file": ""
     },
