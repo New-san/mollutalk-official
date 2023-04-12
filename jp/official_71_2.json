@@ -1,6 +1,6 @@
 [
   {
-    "title": "여름 바다의 놀이",
+    "title": "夏の海での遊び方",
     "nickname": "Molru",
     "date": "2022-10-23 17:19:37",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "저번에는 크게 실례했습니다. 죄송합니다.",
+      "content": "あの件は大変失礼いたしました。申し訳ありませんでした",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 신경 쓰지 마.",
+      "content": "気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금은 좀 괜찮아? 상황은 어때?",
+      "content": "落ち着いた？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "에, 그러니까 상황은……",
+      "content": "はい。ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "실은 크게 달라진 건 없습니다만……",
+      "content": "結局、お化けは捕まりませんでした……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "다른 곳으로 가도 계속 비슷한 상황이 이어져서, 해결책을 모색 중입니다.",
+      "content": "他のところに行っても同じ状況なので、どうしようかなと",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 내가 그리로 갈게.",
+      "content": "じゃあ今からそっちに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "역시 이 선생님이 나설 차례로군.",
+      "content": "私の出番ということだね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "역시 그렇습니까…… 네. 감사합니다.",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "네?",
+      "content": "はい？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "선생님?",
+      "content": "先生？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "정말로 감사했습니다. 선생님.",
+      "content": "本当にありがとうございました、先生",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "덕분에 기대했던 것을 만끽한 것 같은 느낌을 받았습니다.",
+      "content": "おかげさまで初めて、想像していた通りに海を満喫できた気がします",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "아직은 정확하게 잘 모르겠지만…… 선생님께서 해 주신 것이니 분명 맞겠지요.",
+      "content": "それも先生とだなんて",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "그럼 다음에 다시 연락드리겠습니다.",
+      "content": "すみません、今のは忘れてください",
       "isFirst": false,
       "file": ""
     }
