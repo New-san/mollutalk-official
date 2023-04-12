@@ -1,0 +1,192 @@
+[
+  {
+    "title": "백귀야행의 홍보대사 카호 님(번역)",
+    "nickname": "Molru",
+    "date": "2023-04-12 20:15:35",
+    "replyNo": 7,
+    "replyGroup": 6,
+    "chars": [91]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "안녕하십니까? 선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아, 안녕…이 아니라. …누구?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "아, 그러고 보면 공적인 자리가 아닌 곳에서의 인사는 이번이 처음이었지요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "content": "제 이름은 쿠와카미 카호. 백귀야행 연합학원 음양부 소속 부부장이자,",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "백귀야행 관광문화산업 홍보지원팀의 전략홍보팀장을 맡고 있습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "content": "늦었지만 샬레의 선생님께, 인사드립니다.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "전략… 홍보… 으응…?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아, 안녕…. 그런데 갑자기 어쩐 일로….",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "다름이 아니라, 지난번에 앞서 전달 드린 ‘예의 건’과 관련한 이야기입니다만.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "지난번? 예의 건…? ",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "해당 건의 상담을 위해 찾아뵙고 싶습니다만, 혹시 괜찮으실까요?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아, 응. 오늘은 괜찮아.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "네, 감사합니다. 그럼 지금 바로 샬레로 찾아가겠습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어…? 이렇게나 갑자기…?!",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    }
+  ]
+]

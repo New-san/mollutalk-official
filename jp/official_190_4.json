@@ -1,0 +1,156 @@
+[
+  {
+    "title": "카호 님의 진정한 영업전략",
+    "nickname": "Molru",
+    "date": "2023-04-12 20:33:41",
+    "replyNo": 5,
+    "replyGroup": 5,
+    "chars": [91]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "후후훗.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "카호? 뭔가 좋은 일이라도 있었어…?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "선생님. 놀라지 말고 들어주세요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "드디어… 마침내.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "드디어… 마침내?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "저희 음양부에서 이번에 새롭게 특별 발주한 백귀야행 홍보용 굿즈가 도착했답니다!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "과연, 축하해.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "흠흠. 괜찮으시다면, 선생님께도 나눠드리고 싶은데. 어떠신가요?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "content": "물론…. 괜찮으시다면…의 이야기입니다만.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "앗, 고마워! 그럼 지금 바로 갈게.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "후훗. 네. 기다리고 있겠습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

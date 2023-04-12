@@ -1,0 +1,132 @@
+[
+  {
+    "title": "카호 님의 완벽한 에스코트",
+    "nickname": "Molru",
+    "date": "2023-04-12 20:32:05",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [91]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님, 오늘 시간 괜찮으실까요?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아, 카호. 시간이라면 문제없는데. 어쩐 일이야?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "일전의 약속을 이루고 싶어서….",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "content": "그러니까 그… ",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "에스코트를 해드리고자 이렇게 다시금 연락하였습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "content": "그래서 말이지만, 선생님. 만약 괜찮으시다면….",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "응, 괜찮아. 바로 갈게.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "네. 감사합니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그럼 잠시 후 뵙겠습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 91,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]
