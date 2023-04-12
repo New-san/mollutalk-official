@@ -1,6 +1,6 @@
 [
   {
-    "title": "설원의 암살자",
+    "title": "雪原の暗殺者",
     "nickname": "Molru",
     "date": "2022-10-23 16:16:30",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "콤라드, 어서 창밖을 보게나!",
+      "content": "カムラッド、外を見ろ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "눈이야, 눈이 내리고 있다고!",
+      "content": "雪だ、雪がすごい降っているぞ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "샬레는 구름 한 점 없이 화창한데.",
+      "content": "シャーレの方は、雲一つない晴天だよ……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "그럼 바로 붉은겨울 자치구로 오게나!",
+      "content": "なにっ！？それなら、今すぐ我がレッドウィンター連邦学園に来い！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "이곳에 오면 눈사람도, 눈토끼도 원하는 만큼 만들 수 있다고!",
+      "content": "ここに来れば雪だるまも雪うさぎも、好きなだけ作れるぞ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일이 끝나고 갈게.",
+      "content": "仕事が終わったら行くね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "안 돼! 눈이 언제 그치고 녹아버릴지도 모르는데, 여유를 부릴 틈은 없다고!",
+      "content": "ダメだ！いつ雪が止んでしまうかも分からないのに、そんな余裕はない！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "지금 당장, 바로 오게나!",
+      "content": "今すぐ！今すぐ来るのだ！",
       "isFirst": false,
       "file": ""
     },
