@@ -1,6 +1,6 @@
 [
   {
-    "title": "관찰일기",
+    "title": "観察日記",
     "nickname": "Molru",
     "date": "2022-10-23 16:30:00",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님, 오늘은 쭉 샬레에만 계시나요?",
+      "content": "先生、今日はずっとシャーレにいらっしゃるんですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 샬레에만 있는데. 무슨 용무라도 있어?",
+      "content": "うん、その予定。何か用事あったりする？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "아뇨, 아무 일도 없어요.",
+      "content": "いえ大丈夫です、今は特にありません",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "그냥 여쭤본 것뿐이에요. 헤헤.",
+      "content": "ただ聞いてみただけです、えへへ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "???",
+      "content": "？？？",
       "isFirst": true,
       "file": ""
     },
