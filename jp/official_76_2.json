@@ -1,6 +1,6 @@
 [
   {
-    "title": "나만의 서포터",
+    "title": "私だけの特別な",
     "nickname": "Molru",
     "date": "2022-10-23 18:48:04",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "선생님. 연락이야.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아비도스를 완전히 빠져나왔어. 곧 있으면 해안 도로에 도착할 거야.",
+      "content": "今アビドスを完全に抜けたところ、もうすぐ海岸道路に着きそう",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "벌써 거기까지? 대단한걸.",
+      "content": "もうそんなに？すごいね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "전문가 같아.",
+      "content": "プロ選手みたいな速度だね……今のところ順調？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "어……",
+      "content": "ん",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "음……",
+      "content": "あ、そういえば……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "시로코?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아니.",
+      "content": "あ、いや",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "응.",
+      "content": "ごめん、やっぱり大丈夫",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "고마워.",
+      "content": "ありがとう",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "다음엔 해안도로 중간까지 쭉 달릴 거야.",
+      "content": "この後は、海岸道路沿いにずっと走るつもり",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼 그때 다시 연락할게. 선생님.",
+      "content": "じゃあまた連絡するね、先生",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "덕분에 계속해서 달릴 수 있었어.",
+      "content": "ありがとう、先生。色々と助かった",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "역시 가방 안에 든 것들은 시간이 지나면서 조금씩 식으니까.",
+      "content": "カバンの中に入れてると、どうしても飲み物はぬるくなっちゃうし",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "막 챙겨 온 드링크가 훨씬 시원한 것 같아.",
+      "content": "持ってきてくれたドリンク、すっごく冷たくて嬉しかった",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "타올도",
+      "content": "タオルも",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "……아.",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그러고 보니 나에게서 받아 간 타올은 어떻게 됐어?",
+      "content": "そういえばさっき先生に渡したタオル、良ければ……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세탁해서 잘 보관해뒀어.",
+      "content": "洗濯してちゃんと保管しておいたよ。今度返すね",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "……아,",
+      "content": "えっと",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "응…….",
+      "content": "うん、やっぱりそうだよね……",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "역시 그렇겠지. 고마워.",
+      "content": "ううん、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아무튼",
+      "content": "んと",
       "isFirst": false,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "다음에 또 연락할게. 선생님.",
+      "content": "じゃあ",
       "isFirst": false,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼.",
+      "content": "また連絡するね、先生",
       "isFirst": true,
       "file": ""
     }
