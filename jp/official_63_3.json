@@ -1,6 +1,6 @@
 [
   {
-    "title": "체리노는 아홉 살?",
+    "title": "チェリノは九歳？",
     "nickname": "Molru",
     "date": "2022-10-23 16:15:37",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "후후후, 콤라드.",
+      "content": "ふふふ、カムラッド",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "지난번에 시내에서 푸딩을 사주겠다는 약속은 잊지 않았겠지?",
+      "content": "この前の、プリンを買ってくれるという約束は忘れていないだろうな？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론 잊지 않고 있어.",
+      "content": "もちろん、覚えているよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "역시 콤라드야. 말뿐인 약속을 늘어놓는 어른들과는 다르다니까.",
+      "content": "流石はカムラッド、口だけの約束をするような大人ではないということだな",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "콤라드가 사주는 푸딩을 잔뜩 먹기 위해",
+      "content": "せっかくカムラッドに奢ってもらうのだし、たくさん食べるために何と",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "오늘은 점심 간식도 거르고 기대하고 있었느니라.",
+      "content": "今日はお昼のおやつも抜いたのだ！ふふ、楽しみだな……！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "오늘 방과 후, 가게 앞에서 기다리고 있을 테니 늦으면 안 돼!",
+      "content": "今日の放課後、お店の前で待っているから遅れないように！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "푸딩을 여러 개 사주겠다는 말은 한 적이 없는 것 같은데…….",
+      "content": "たくさん買ってあげるとは、言ってないような……？",
       "isFirst": true,
       "file": ""
     },
