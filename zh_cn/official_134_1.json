@@ -1,0 +1,168 @@
+[
+  {
+    "title": "마이스터의 은밀한 취미(번역)",
+    "nickname": "Molru",
+    "date": "2022-10-27 05:04:53",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [47]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "선생님은 주말에 보통 무얼 하면서 시간을 보내?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아무것도 안 하는데……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "밀린 잔업을 하면서 보내.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "휴식도 중요한 일과 중 하나지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 1,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "선생님이 제대로 휴일을 즐기고 있는 것 같아서 다행이야.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "……너무 무리하는 거 아냐?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "휴식 없이 연달아 일하는 건 오히려 더 비효율적일 수도 있어.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "히비키는 주말을 어떻게 보내?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "……나 말이야?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "내가 주말에 하는 일이라면……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "역시 무언가를 만드는 것이려나.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 47,
+        "index": 3
+      },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]
