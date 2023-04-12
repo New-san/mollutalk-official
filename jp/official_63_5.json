@@ -1,6 +1,6 @@
 [
   {
-    "title": "악몽",
+    "title": "悪夢",
     "nickname": "Molru",
     "date": "2022-10-23 16:17:40",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "콤라드. 콤라드는 특별히 무서워하는 게 있는가?",
+      "content": "カムラッドは、何か怖い物とかないのか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 귀신이 무서워.",
+      "content": "うーん、お化けとかかな……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 만쥬가 무서워.",
+      "content": "まんじゅう怖い",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "후후, 귀신을 무서워하다니 콤라드도 어린아이 같은 구석이 있군.",
+      "content": "ふふん。お化けが怖いなんて、カムラッドにも子供みたいなところがあるのだな",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "걱정 말게나, 콤라드. 설령 귀신이 정말로 나타나더라도 이 몸이 무찔러줄 테니!",
+      "content": "心配するな、カムラッド。仮にお化けが現れたとしても、おいらがやっつけてやる！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "으응? 달콤한 만쥬가 무섭다니, 그게 무슨 소리인가?",
+      "content": "え？甘いまんじゅうが怖いって、何を言ってるんだ？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "콤라드도 알 수 없는 소리를 자꾸 하는군…….",
+      "content": "カムラッドも時々訳の分からないことを言うな……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "체리노는 무얼 무서워해?",
+      "content": "チェリノは怖いものとかある？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "그 무슨 망언인가! 이 몸이 무서워하는 것이라니!",
+      "content": "お、おいらに怖いものなんてあるわけないだろう！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "위대한 지도자에게 공포란 불필요한 감정!",
+      "content": "偉大なる指導者にとって、恐怖など必要の無い感情だ！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 1 },
-      "content": "붉은겨울 학원의 서기장이자 학생회장이자, 미화부장이자, 청소부장인 이 몸에게 두려움 따윈 없느니라!",
+      "content": "レッドウィンター連邦学園の生徒会長であり、書記長兼、環境美化部部長兼、清掃部部長のおいらに、恐れるものなど無い！",
       "isFirst": false,
       "file": ""
     },
