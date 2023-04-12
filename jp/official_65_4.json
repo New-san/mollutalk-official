@@ -1,6 +1,6 @@
 [
   {
-    "title": "유성우와 소원",
+    "title": "流星群と願い事",
     "nickname": "Molru",
     "date": "2022-10-23 16:31:47",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님! 이번 유성우가 절정을 이루는 순간은 밤 11시래요!",
+      "content": "先生！今夜の流星群のピーク時は夜の11時だろうです！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "그러니 꼭 그 전에 오셔야 해요!",
+      "content": "ですので、それよりも前に来てくださいね！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알고 있어. 여유 있게 한 시간 전에 가도록 할게.",
+      "content": "分かった、余裕を持って一時間前には行くようにするね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "절대로 늦으시면 안 돼요!",
+      "content": "遅れちゃダメですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알고 있다니까……",
+      "content": "分かった分かった",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "꼭이에요! 꼭!",
+      "content": "絶対ですよ！絶対！",
       "isFirst": true,
       "file": ""
     },
