@@ -1,6 +1,6 @@
 [
   {
-    "title": "보호 대상",
+    "title": "護衛対象",
     "nickname": "Molru",
     "date": "2022-10-23 17:03:12",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "선생님. 한 가지 확인할 게 있어.",
+      "content": "先生、急いで確認したいことがある",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "지금 위치가 어디야?",
+      "content": "今どこ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "위치? 그건 왜?",
+      "content": "場所？どうして？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "아니. 문제가 생긴 건 아니야.",
+      "content": "いや、特に何か問題があったわけじゃない",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "하지만 생각해보니 이곳도 그리 안전하진 않으니까.",
+      "content": "ただ、よく考えてみたら、この辺りもそんなに安全ではないから",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "선생님의 신변을 위해서라도 내가 경호를 해줘야 할 거 같아.",
+      "content": "先生のことは、私が守らないと",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "즉 보호 대상이란 거지.",
+      "content": "先生は私の、護衛対象だから",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 내가 보호 대상??",
+      "content": "え？私が護衛対象？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "굳이 그래야 할 것 같진 않은데……",
+      "content": "そんなに危険かな……？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "……",
+      "content": "……ふぅ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "어디야 지금?",
+      "content": "それで、今はどこに？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "조금 전 일은…… 없었던 걸로 해.",
+      "content": "さっきのは、無しで……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "그렇네. 예상했던 것보다는……",
+      "content": "……でも",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "아주 조금은 안전할지도.",
+      "content": "確かに、もう少し肩の力を抜いても良いかもしれない",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "덕분에 조금은 편하게 이곳을 즐길 수 있겠어.",
+      "content": "おかげさまで、少しは楽しめそうだ",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 3 },
-      "content": "그럼 또 연락할게, 선생님.",
+      "content": "じゃあ、また後で連絡する",
       "isFirst": false,
       "file": ""
     }
