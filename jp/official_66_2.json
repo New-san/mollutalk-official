@@ -1,6 +1,6 @@
 [
   {
-    "title": "방호",
+    "title": "防護",
     "nickname": "Molru",
     "date": "2022-10-23 16:40:51",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "청설모. 응답하라. 청설모.",
+      "content": "こちらリス",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "여기는 다람쥐.",
+      "content": "ムササビ、応答せよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "지금부터 청설모굴에 방문할 예정이다.",
+      "content": "今からムササビの巣に向かう予定だ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "청설모는 굴에 있나?",
+      "content": "ムササビ、今は巣の中にいるのか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아즈사는 펭귄 아니었어?",
+      "content": "アズサはペンギンじゃなかったっけ……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "청설모가 아니라 오리인데요…….",
+      "content": "ムササビじゃなくて、アヒルだよ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "아니.",
+      "content": "せんせ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "선생님. 아니 청설모.",
+      "content": "いや、ムササビ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "음어라고. 음어.",
+      "content": "コードネームは、毎日変わるタイプのものもある",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "음어는 매일 바뀌지 않으면 의미가 없어.",
+      "content": "セキュリティ的な問題だ",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "자리에 있는 것을 확인했으니, 15분 후 방문토록 하겠다.",
+      "content": "席にいるのを確認した、15分後に向かう",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "용무는 보안상 도착하고 나서.",
+      "content": "用件は到着してから伝えよう",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "펭귄이.",
+      "content": "ペンギンからは以上",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "정정.",
+      "content": "訂正する",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "다람쥐가.",
+      "content": "リスからは以上。通信終わり",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "안전은 확인했으니 우선 돌아왔어.",
+      "content": "気持ちよさそうに寝てたから、静かにお暇させてもらった",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "방호도 중요하지만, 자신의 신체 건강도 스스로 챙기도록 해.",
+      "content": "セキュリティもそうだけど、少しは自分の健康も大事にした方が良い",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "알았다면 대답은 응, 이라고 대답해. 청설모.",
+      "content": "頭に入れたら、「うん」とだけ応答せよ",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "좋아. 그럼 그 훈련날짜까지 기다리고 있을게.",
+      "content": "よし、それではまた",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 63, "index": 1 },
-      "content": "이상. 다람쥐가.",
+      "content": "リスからは以上。通信終わり",
       "isFirst": false,
       "file": ""
     }
