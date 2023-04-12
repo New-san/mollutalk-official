@@ -1,6 +1,6 @@
 [
   {
-    "title": "여름 바다의 귀신",
+    "title": "夏の海といえば……",
     "nickname": "Molru",
     "date": "2022-10-23 17:17:57",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "선생님. 혹시 시간 좀 괜찮으실는지요.",
+      "content": "先生。今お時間大丈夫でしょうか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "조금 곤란한 상황에 처해 있는 관계로",
+      "content": "少々困った状況でして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "선생님께서만 괜찮으시다면 도움을 구하고 싶습니다.",
+      "content": "よろしければ、先生に助けていただきたいです",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 도움?",
+      "content": "助けが必要？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지. 지금 어디야?",
+      "content": "大丈夫？すぐに行くね",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "대단히 감사합니다. 선생님.",
+      "content": "ありがとうございます、先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "그럼, 해변에서 대기하고 있도록 하겠습니다.",
+      "content": "それでは、あの海辺で待機しております",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "그",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "대단히 죄송합니다. 선생님.",
+      "content": "申し訳ございません、先生",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "먼저 부탁해 놓고 염치가 없었습니다……",
+      "content": "自分からお呼びしておいて、あんな風に……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "신경 쓰지 마. 그럴 수도 있지.",
+      "content": "気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나중에 또 불러줘.",
+      "content": "またいつでも気軽に呼んで",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "아",
+      "content": "え",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "정말로 괜찮으신 겁니까……?",
+      "content": "本当に、良いのですか……？",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 69, "index": 3 },
-      "content": "네. 감사합니다.",
+      "content": "ありがとうございます。また連絡いたします",
       "isFirst": true,
       "file": ""
     }
