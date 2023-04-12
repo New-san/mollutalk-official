@@ -22,7 +22,7 @@ Blue Archive momotalk. Mollutalk ver.
 ### Structure
 ```
 [
-  {                                             // mollutalk header - unnecessary
+  {                                             // mollutalk header
     "title": "고서관의 주인",                    
     "nickname": "Molru",
     "date": "2022-10-23 22:34:13",
