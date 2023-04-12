@@ -1,6 +1,6 @@
 [
   {
-    "title": "구름을 찾아 떠나는 모험",
+    "title": "雲を探しに",
     "nickname": "Molru",
     "date": "2022-10-23 16:35:10",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님은 어떤 날씨를 제일 좋아하시나요?",
+      "content": "先生はどんな天気が好きですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "맑은 날.",
+      "content": "晴れかな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "비 내리는 날.",
+      "content": "雨の日だよ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "무난하네요. 다들 맑은 날을 좋아하죠.",
+      "content": "なるほど、晴れた日が好きという人は多いですよね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "드물긴 하지만 비 내리는 흐린 날도 인기가 많긴 하죠.",
+      "content": "たまにですけど雨の日が好きという人もいますよね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "뭐, 구름 하나 없이 맑은 날도, 자박자박 비가 내리는 날도 좋기는 하지만……",
+      "content": "私は、雲一つない晴れた空も、ポツポツと降る雨も好きですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "저는 구름이 잔뜩 흩뿌려진 하늘이 제일 좋아요!",
+      "content": "実は、雲一面の空が一番好きなんです！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "보세요, 선생님.",
+      "content": "見てください、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님을 위해 대신 예쁜 풍경을 찍어 왔어요. 어떤가요?",
+      "content": "約束の、撮ってきた写真です。どうですか？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "예쁜 하늘인걸.",
+      "content": "すごく綺麗だね",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "그렇죠? 제가 구름이 많은 날을 좋아하는 이유가 바로 이거예요.",
+      "content": "そうですよね！私が雲の多い日が好きなのは、こういった景色が好きだからなんです",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "선생님도 같이 왔으면 좋았을 텐데…….",
+      "content": "先生と一緒に行けたらもっと良かったのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 109, "index": 1 },
-      "content": "마, 마지막 문자는 신경 쓰지 마세요!",
+      "content": "い、今のメッセージは気にしないでください！",
       "isFirst": true,
       "file": ""
     }
