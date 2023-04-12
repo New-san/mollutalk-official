@@ -1,6 +1,6 @@
 [
   {
-    "title": "키보토스 롱 라이딩",
+    "title": "キヴォトス・ロングライド",
     "nickname": "Molru",
     "date": "2022-10-23 18:45:47",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "한동안은 자리를 비울 예정이야.",
+      "content": "しばらく遠出する予定なの",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "모두에게도 메시지는 보내 두었으니까.",
+      "content": "みんなにもメッセージは送っておいたんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "선생님도 알고 있었으면 해서.",
+      "content": "先生にも伝えておこうかなって",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……시로코?",
+      "content": "……遠出？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐야? 갑자기 무슨 일?",
+      "content": "なに？突然どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "으으응. 아무것도.",
+      "content": "大丈夫、大したことじゃない",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼 이만.",
+      "content": "じゃあ、またね。先生",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "쉬는 타이밍이라 연락했어.",
+      "content": "ちょうど休むタイミングだったから、連絡してみた",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이렇게 곧바로?",
+      "content": "まだそんなに経ってないのに",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "벌써 멀리 간 거야?",
+      "content": "もしかして、もう結構遠くまで行った感じ……？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "응?",
+      "content": "ん？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아니. 아직 요 앞 신호등.",
+      "content": "ううん、まださっき先生といた場所の近く",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "음",
+      "content": "ちょうど信号で、足を止めたから連絡してみた",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "멈출 때마다 연락하라고 해서 한 건데…….",
+      "content": "あれ……？",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "아무래도 뜻을 오해했나 봐.",
+      "content": "もしかして止まるたびにって、こういう意味じゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "……",
+      "content": "……ごめん、勘違いしてた",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 1, "index": 4 },
-      "content": "그럼 쉴 때 연락할게.",
+      "content": "じゃあ、えっと……休憩とかで自転車を降りたら、その度に連絡するね",
       "isFirst": false,
       "file": ""
     }
