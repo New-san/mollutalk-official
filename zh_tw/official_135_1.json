@@ -127,6 +127,16 @@
       "content": "나의 주인님.",
       "isFirst": true,
       "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 34, "index": 3 },
+      "content": "",
+      "isFirst": false,
+      "file": ""
     }
   ]
 ]
