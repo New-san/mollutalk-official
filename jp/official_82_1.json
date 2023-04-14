@@ -1,6 +1,6 @@
 [
   {
-    "title": "심야에 할 일",
+    "title": "アスナの生態",
     "nickname": "Molru",
     "date": "2022-10-23 19:29:53",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님! 지금 뭐 해? 자?",
+      "content": "ご主人様ー！今何してる？寝てる？寝てるかー",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "음~. 역시 잘 시간이려나. 좀 늦긴 했지?",
+      "content": "もうこんな時間だもんね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 아직 안 자.",
+      "content": "まだ起きてるよ、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아스나야말로 안 자?",
+      "content": "アスナはまだ寝ないの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "응?",
+      "content": "お",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "나?",
+      "content": "びっくり！起きてたんだ！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "나는 할 일이 좀 있어서 말이지.",
+      "content": "私は今、ちょっとやることがあって",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "지금 코인 세탁소에 있어.",
+      "content": "今は24時間空いてるコインランドリーにいるんだけど",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "참고로 임무는 아니니까 걱정하지 마~.",
+      "content": "あ、特にお仕事とかじゃないよ。それでなんとなく手持ち無沙汰で、連絡してみたの",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일이 아닌데 이 시간까지 깨어 있다……?",
+      "content": "仕事でもないのに、この時間までよく起きてるね……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아스나 한정으론 괜히 더 걱정되는걸.",
+      "content": "アスナは大丈夫なの？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "아하하!",
+      "content": "あははっ！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "걱정해주는 거야? 하지만 정말로 괜찮으니까!",
+      "content": "心配してくれてありがと、でも大丈夫！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그럼 좋은 밤!",
+      "content": "じゃあ、良い夜を！",
       "isFirst": true,
       "file": ""
     },
