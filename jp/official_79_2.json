@@ -1,6 +1,6 @@
 [
   {
-    "title": "천재의 휴일",
+    "title": "天才の休日",
     "nickname": "Molru",
     "date": "2022-10-23 19:09:29",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "후우…… 천재의 삶이란 정말 고독한 것이다.",
+      "content": "天才は孤独なのだ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "아무리 설명하려 해도 범인들은 이해해 주질 않으니…….",
+      "content": "いくら説明しても、理解されない……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 문제라도 있어?",
+      "content": "何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "어, 그러니까…….",
+      "content": "あ、そうだ、先生",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "아니, 아무것도 아니다!",
+      "content": "い、いや、何でもないのだ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "나님 혼자서도 충분히 해결할 수 있는 문제인 것이다!",
+      "content": "ぼく様だけでも、十分解決できる問題なのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "산해경 제일의 수재인 나님에게 불가능이란 없으니까! 음-하-하-핫!",
+      "content": "この山海経随一の天才であるぼく様に、不可能なんて無いからな！うーはっはっはっ！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭔가 수상한데.",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
