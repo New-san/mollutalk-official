@@ -1,6 +1,6 @@
 [
   {
-    "title": "목욕 보좌관(번역)",
+    "title": "お風呂の補佐官",
     "nickname": "Molru",
     "date": "2023-01-25 04:37:04",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "콤라드",
+      "content": "カムラッド",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "콤라드!",
+      "content": "カムラッド！？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야, 체리노?",
+      "content": "チェリノ？どうかした？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "으음. 무어라 이야기해야 좋을까.",
+      "content": "おお、いたか。うむ、何から話したものか……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "전산국 녀석들의 실수로 약간 귀찮은 일이 발생했는데……",
+      "content": "電算局のミスのせいで、ちょっと面倒なことになったのだ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "본래 규정대로라면 전원을 숙청해야 마땅하지만",
+      "content": "本来なら規定通りに全員粛清すべきだが",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "토모에의 간언도 있고, 결과적으로는 붉은겨울 학원의 재정에 도움이 되었으니",
+      "content": "結果的にレッドウィンターの財政に役立ったからな",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "이번만큼은 근신 처분으로 넘어가 주기로 했다네.",
+      "content": "トモエの助言もあって、今回だけは処分を免除することにしてやったんだ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "점점 더 영문을 모르겠는데……",
+      "content": "いまいち話が掴めてないんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "으으음",
+      "content": "むぅ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "일단 이 몸이 머무르고 있는 온천장으로 오게나.",
+      "content": "とりあえず、おいらの温泉郷に来てくれ！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "백 번 듣는 것보다 한 번 보는 게 낫다는 말도 있으니.",
+      "content": "百聞は一見に如かず！",
       "isFirst": false,
       "file": ""
     },
