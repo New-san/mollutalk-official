@@ -1,6 +1,6 @@
 [
   {
-    "title": "작다는 건 편리해!",
+    "title": "小さいのも良いですね！",
     "nickname": "Molru",
     "date": "2022-10-23 18:54:41",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "선생님, 전에 먹은 약의 부작용이 다시 생겨버린 것 같아요…….",
+      "content": "先生、実は、また副作用が出てしまったみたいで……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "또다시 몸이 어려지니 시선도 낮고,",
+      "content": "この姿はやはり目線も低いですし、",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "팔다리도 가벼운 게 어쩐지 어색한 느낌이네요.",
+      "content": "手足も軽いですし、何だか色々と変な感じですね",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아? 일단 오늘은 실내에서 쉬는 게 좋겠어.",
+      "content": "解毒剤が効くまで、あんまり外に出ない方が良いかもね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "……아니요. 이참에 평소에 가끔 가던 디저트 가게에 다녀와야겠어요.",
+      "content": "……いえ、この機を逃すわけにはいきません。先生、スイーツを食べに行きましょう！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "어린아이가 되었을 때, 꼭 먹어보고 싶은 음식이 있었거든요!",
+      "content": "子供になったら、ぜひ食べてみたいものがあったんです！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어린아이가 되었을 때 먹어보고 싶은 음식……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "몸이 어려졌다고는 하지만, 설마 입맛까지 어려졌으리라고는 생각지도 못했네요.",
+      "content": "まさか身体が小さくなると同時に、味覚まで変わっていたなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "이래서는 매화원의 아이들에게 올바른 식사 지도를 하기 어렵겠어요.",
+      "content": "このままの姿では、梅花園の子たちに「好き嫌いはダメ」とは言えませんね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "원래의 몸으로 되돌아갈 때까지 어른의 음식을 부지런히 먹어 입맛을 길들여놔야겠네요.",
+      "content": "少しずつ色んなものを食べて、私も苦手なものを克服しないとです",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "우선은 럼 레이즌에 들어가는 럼부터…….",
+      "content": "まずは順番に、ラムレーズンのラムから……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 안 돼!",
+      "content": "それはダメ！",
       "isFirst": true,
       "file": ""
     }
