@@ -1,6 +1,6 @@
 [
   {
-    "title": "실습명: 발굴",
+    "title": "3時間目「実習：発掘」",
     "nickname": "Molru",
     "date": "2022-10-23 19:40:07",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "오늘은 중대한 이벤트가 있어. 나 혼자서는 할 수 없는, 아주 중요한 일이지.",
+      "content": "今日は重大イベントがあるよ、私ひとりだけじゃできない大きなイベントが",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내 도움이 필요한가 보군!",
+      "content": "私の出番かな？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번에는 무슨 일이야?",
+      "content": "今回はどうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "후후. 아주 로맨틱한 일이야.",
+      "content": "ふふっ、今回は「ロマンティックなこと」だよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "단언컨대 세상에서 가장 로맨틱한 일 중 하나지.",
+      "content": "世の中でもかなーりロマンティック部類に入るね、間違いない",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "직접 와서 듣는 게 더 좋지 않겠어?",
+      "content": "そんなわけで",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "그럼 기다리고 있을게.",
+      "content": "ぜひ来ることをおススメするよ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "기다림과 기대를 담아. 유토리 나츠.",
+      "content": "じゃあ待ってるね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "선생님. 알고 있지?",
+      "content": "先生、念のためだけど",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "……오늘 일은 누구에게도 비밀이야.",
+      "content": "……今日のことは、みんなには秘密だよー？",
       "isFirst": true,
       "file": ""
     }
