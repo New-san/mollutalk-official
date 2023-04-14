@@ -1,6 +1,6 @@
 [
   {
-    "title": "아무튼 급한 일이에요!",
+    "title": "とにかく急用です！",
     "nickname": "Molru",
     "date": "2022-10-23 19:57:54",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "하아.",
+      "content": "全くもう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "못 해 먹겠네.",
+      "content": "本当にやってられませんね……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……아코?",
+      "content": "アコ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "왜 이렇게 꼬리에 꼬리를 물고……!",
+      "content": "どうしてこう次から次へと……！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기, 괜찮아……?",
+      "content": "えっと、大丈夫……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "선생님. 중요한 용건이 있습니다.",
+      "content": "先生、大切な用事が一つ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "아무튼 급한 일이니까 지금 당장 와 주셔야 해요.",
+      "content": "それも急ぎの用なので、すぐに来ていただけませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "도망칠 생각은 하지 마세요?",
+      "content": "まさかすっぽかしたりしませんよね？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "네, 네에……",
+      "content": "は、はい……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "오늘 수고 많으셨습니다.",
+      "content": "本日もお疲れ様でした",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그럼 다음에 또 신세 지도록 하겠습니다.",
+      "content": "それではまた、よろしくお願いいたしますね",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 사양할게…….",
+      "content": "またあるのがもう確定してるんだね……",
       "isFirst": true,
       "file": ""
     }
