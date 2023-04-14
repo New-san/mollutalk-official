@@ -1,6 +1,6 @@
 [
   {
-    "title": "유행의 법칙",
+    "title": "流れ行くもの",
     "nickname": "Molru",
     "date": "2022-10-23 19:11:47",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "으으, 으으으…….",
+      "content": "参ったのだ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 문제라도 있어?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "지난번에 개발한 특제 매운 소스가 생각 외로 큰 인기를 끄는 바람에……",
+      "content": "この前開発した特製の激辛ソースが、思った以上に大人気で……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "특제 소스를 만드느라 연구할 시간이 부족해진 것이다……",
+      "content": "そっちに時間を取られて、研究に手が回らないのだ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "정말이지, 다들 연단방을 무어라고 생각하는 것이냐?",
+      "content": "全く……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "연단방은 불로불사의 영약을 만드는 곳이지, 소스를 만드는 곳이 아니라고!",
+      "content": "錬丹術研究会はあくまで「不老不死の霊薬を作ること」を目的とした場所であって、ソースを作る場所じゃないのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "너무 바쁘다 보니 최근에는 네즈스케의 손이라도 빌리고 싶어질 정도니……",
+      "content": "もうネズ助の手も借りたいぐらい……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "잠깐. 만약 그 방법을 사용하면…….",
+      "content": "良いことを思いついた！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안 돼.",
+      "content": "やめておこう",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "응? 나님은 아직 아무 말도 하지 않았다만.",
+      "content": "ぼく様まだ何も言ってないのに！？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무얼 하려는지는 모르겠지만 안 돼.",
+      "content": "なんか嫌な予感がするし……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "쳇, 눈치 하난 빠르긴…….",
+      "content": "ぐっ、仕方ない……おとなしくソースを作るのだ……",
       "isFirst": true,
       "file": ""
     },
