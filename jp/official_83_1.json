@@ -1,6 +1,6 @@
 [
   {
-    "title": "강의명: 로망",
+    "title": "1時間目「科目：ロマン」",
     "nickname": "Molru",
     "date": "2022-10-23 19:36:50",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "가고 싶은 데로 가고, 자고 싶은 데에서 자고.",
+      "content": "行きたいところに行き、寝たい時に眠り",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "또한, 먹을 건 먹고 싶은 곳에서 먹는다.",
+      "content": "そして、食べたいものを食べたいところで食べる",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "얽매이지 않고, 제약을 모르고 뜻하는 바로 살아가리!",
+      "content": "何にも縛られず、制約など知ったことなく、思いのままに生きていく！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "마치 손끝에서 빚어진 쿠키의 삶처럼!",
+      "content": "それはまるで、手作りのクッキーのように！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 이야기야?",
+      "content": "何の話？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무언가의 명언이나 인용구?",
+      "content": "何かの名言？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "음…….",
+      "content": "うーむ……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "조금 의외인걸.",
+      "content": "まだまだだね",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "아쉬워. 참으로 아쉽다. 그런 반응이라니.",
+      "content": "その反応じゃあ足りないなー",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "로망이 부족하구만, 선생님.",
+      "content": "ロマンが足りないよ、先生",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "안 되겠어. 내가 선생에게 로망이 무엇인지 가르쳐줘야겠군.",
+      "content": "ではそんな先生に、私がロマンを教えてあげよっかな",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "후후.",
+      "content": "ふふっ、心配しないで良いよー",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "걱정 마. 지루하진 않게 할 테니.",
+      "content": "退屈はさせないからさ",
       "isFirst": false,
       "file": ""
     },
