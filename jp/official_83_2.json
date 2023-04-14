@@ -1,6 +1,6 @@
 [
   {
-    "title": "강의명: 포용",
+    "title": "2時間目「科目：包容」",
     "nickname": "Molru",
     "date": "2022-10-23 19:38:46",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "세상은 참으로 각박해.",
+      "content": "世の中は厳しい",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "사람들은 서로를 이해하지 못하고, 각자의 사상은 서로에게 받아들여지지 않지.",
+      "content": "自分と異なる思想を受け入れることは難しく、お互いを受け入れることがなかなかできない……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "그것을 넘는다면, 분명 새로운 경지에 도달할 수 있을 것인데.",
+      "content": "そこを乗り越えれば、新しい場所にたどり着けるはずなのに",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "실로 통탄할 일이야. 이 슬픈 현실에 대해 선생님은 어떻게 생각할까?",
+      "content": "嘆かわしい、実に嘆かわしい……先生はそう思わない？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번엔 꽤 무거운 담론이구나.",
+      "content": "今回は重いテーマだね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 일 있어?",
+      "content": "何か辛いことでもあった……？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "아니. 전혀.",
+      "content": "ううん、別にー",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "그저 이것은 불현듯 떠오른 감상.",
+      "content": "ただ、ふとそう思っただけ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "하지만",
+      "content": "でも",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "응. 맞아. 선생님이라면 괜찮을지도 모르겠어.",
+      "content": "うん、先生なら大丈夫かも",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "선생님.",
+      "content": "待ってて、先生",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "지금 찾아 갈게.",
+      "content": "すぐ行く",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "오늘은 고마웠어, 선생님.",
+      "content": "今日はありがとねー、先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "저번에도 그렇고, 선생님과 대화하고 나면 마음이 꽤 개운해지는 것 같아.",
+      "content": "この前もそうだったけど、何だか先生と話すとスッキリする",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "가끔씩, 선생님만 괜찮다면.",
+      "content": "先生さえ良ければだけど",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 55, "index": 1 },
-      "content": "또 비슷하게 부탁할게. 다시 한번 고마워, 선생님.",
+      "content": "また、こんな感じでよろしくね",
       "isFirst": false,
       "file": ""
     }
