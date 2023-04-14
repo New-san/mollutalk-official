@@ -1,6 +1,6 @@
 [
   {
-    "title": "비밀 기지",
+    "title": "それは秘密の",
     "nickname": "Molru",
     "date": "2022-10-23 18:58:12",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "선생님, 아까 보니 매화원 앞에서 무언가를 열심히 치우고 계시던데…….",
+      "content": "先生。先ほど梅花園の前で、何かを片付けてませんでしたか……？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "뭔가 이상한 물건이라도 있었나요?",
+      "content": "何か変な物でもありました？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "누가 분리수거장 뒤에 낡은 천과 의자로 텐트 같은 걸 만들어놨어.",
+      "content": "何か布と椅子でテントみたいなのが作られてて、危ないなって思って。少しだけ横にね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "하하…… 어린 원생들이 또 비밀기지를 만들었나 보네요.",
+      "content": "ああ、きっと秘密基地ですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "비밀기지?",
+      "content": "秘密基地？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "네, 어린아이들은 자신만의 공간을 갖고 싶어 하는 법이잖아요?",
+      "content": "はい。子どもたちってそういう、自分たちだけの空間を欲しがるじゃないですか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "그래서인지 가끔 교관들의 눈을 피해 작은 구조물을 만들곤 하더라고요.",
+      "content": "たまに私たちの目を盗んで、そういう秘密のスペースを作ったりしがちなんです",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "슌도 어릴 적에는 저런 비밀기지를 만든 적 있어?",
+      "content": "なるほどね。シュンも子どもの時に、作ったりしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "네. 저도 어릴 적에는 멋진 비밀기지를 하나 갖고 있었지요.",
+      "content": "はい、正にこのくらいの歳の頃に",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "후후…… 그러고 보니 그 비밀기지에도 가본 지 꽤 오래되었네요.",
+      "content": "そういえば、最後にその秘密基地に行ったのも、だいぶ前のことですね……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "선생님, 오후에 시간 나시면 매화원 근처의 놀이터에 들려주세요.",
+      "content": "先生。お時間があれば、これから梅花園に来ていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "……아무에게도 말한 적 없는 제 비밀을 알려 드릴게요. ♥",
+      "content": "……もし私の秘密が知りたければ、ですが♡",
       "isFirst": false,
       "file": ""
     },
