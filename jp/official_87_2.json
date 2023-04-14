@@ -1,6 +1,6 @@
 [
   {
-    "title": "푸딩보다 부드러운",
+    "title": "プリンよりも柔らかく",
     "nickname": "Molru",
     "date": "2022-10-23 20:36:12",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "혹시 콤라드는 온천 계란을 먹어본 적이 있는가?",
+      "content": "カムラッドは、「温泉卵」を食べたことがあるか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "평범한 계란과 온천수만으로 진미를 만든다니…….",
+      "content": "普通の卵と温泉水だけで生み出される珍味と聞いたが……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "이 몸이 온천에 대해서 문외한이라고는 하지만, 쉽게 믿기 어려운 사실이군.",
+      "content": "おいらは温泉に詳しくないとはいえ、安易には信じられない話だ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "온천 계란이라……",
+      "content": "温泉卵？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "확실히 푸딩처럼 부드럽고 맛있긴 하지.",
+      "content": "確かにプリンみたいに柔らかいし、美味しいよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "ㅍ, 푸딩?!",
+      "content": "プリン！？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "지금 푸딩이라고 했는가?",
+      "content": "今プリンと言ったか！？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "푸딩 하나를 만들기 위해서는 많은 재료가 필요한데",
+      "content": "プリンを作るためには、たくさんの材料が必要なのに",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "온천수와 계란만 가지고 푸딩과 같은 디저트를 만들 수 있다니…….",
+      "content": "温泉水と卵だけで、プリンのようなデザートが作れるだと……！？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "콤라드, 지금 이러고 있을 때가 아니다.",
+      "content": "カムラッド、こうしてる場合じゃない",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "지금 바로 온천 계란을 만들러 가는 거다!",
+      "content": "今すぐ温泉卵を作りに行くぞ！",
       "isFirst": false,
       "file": ""
     },
