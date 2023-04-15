@@ -1,6 +1,6 @@
 [
   {
-    "title": "조금은 길지도 모르는 휴식",
+    "title": "もう少しだけ",
     "nickname": "Molru",
     "date": "2022-10-23 21:14:19",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아, 선생님. 혹시 한가해?",
+      "content": "先生、今時間ある？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무지무지 한가합니다.",
+      "content": "無茶苦茶暇だよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "한가하지 않지만, 세리카를 위해서라면 한가하도록 노력할게!",
+      "content": "時間なら空けられるよ、どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "그, 그래? 아니, 다른 게 아니라.",
+      "content": "あ、そうなの……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "오늘 아르바이트가 좀 일찍 끝날 것 같아서 말이야.",
+      "content": "実は今日、バイトが少し早く終わりそうで",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "그래서 여유시간이 좀 생길 것 같아서 말이야…….",
+      "content": "時間に余裕ができそうだから、その……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아비도스의 모두에게 선물할 새해 선물을 고르고 싶어서 그런데.",
+      "content": "アビドスのみんなに、正月っぽいお土産でも買っていこうかなって思って",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "어울려주지 않을래?",
+      "content": "それを選ぶのに、付き合ってくれない？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "바로 갈게!",
+      "content": "すぐ行く！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "응, 기다리고 있을게.",
+      "content": "ありがと。待ってるね",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "오늘, 그……. 낮에 있었던 일, 말인데. 선생님.",
+      "content": "その……先生",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "엄청 굉장한 얼굴이 되어서, 날 찾았잖아.",
+      "content": "今日来てくれた時、すごい息を切らしてたけど……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "그게, 그러니까…….",
+      "content": "えっと……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 신경 쓰지 마.",
+      "content": "大丈夫、気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아, 그, 그래?",
+      "content": "う、うん……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다음번에 비슷한 일이 있다면, 그때는 미리 연락해 주면 더 좋고.",
+      "content": "もしできれば連絡くれると、膝に負担がかからなくて助かるかもってくらいで",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "으, 응. 아, 알았어.",
+      "content": "……うん、分かった",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "앞으로는 걱정시키지 않도록, 그, 노력할게.",
+      "content": "心配かけてごめんなさい",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "늘 고마워. 선생님♡",
+      "content": "いつもありがとう、先生♡",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "앗, 하트다.",
+      "content": "ハートマーク……！",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아, 아니, 지금 건 자동완성으로 덧붙여진 거니까!",
+      "content": "ち、違う！今のは自動変換で付いちゃっただけで……！",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "오, 오해하지 마~!",
+      "content": "違うからっ、絶対に違うから！",
       "isFirst": false,
       "file": ""
     }
