@@ -1,6 +1,6 @@
 [
   {
-    "title": "워커홀릭",
+    "title": "ワーカーホリック",
     "nickname": "Molru",
     "date": "2022-10-23 20:40:59",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "안녕하세요, 선생님.",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "어제 당번 활동을 마치고 돌아가는 길에 보니 밤늦게까지 샬레 사무실의 불이 켜져 있더군요.",
+      "content": "昨日、当番を終えて帰る時にもまだシャーレの電気が点いていましたが……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "지난주 주말에도 샬레의 일 때문에 과로를 하셨다고 들었는데……",
+      "content": "先週末も夜遅くまで残業していたとお聞きしましたし……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "휴식은 제대로 취하고 계시나요?",
+      "content": "お休みは、きちんと取られていますか？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일이 너무 많아서 어쩔 수가 없어.",
+      "content": "最近はなかなか……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "안 됩니다. 휴식도 엄연한 업무의 일부니까요.",
+      "content": "良くありませんよ、休息もれっきとした任務の一部です",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "게헨나 선도부의 보건 담당으로서 선생님의 건강이 악화되는 건 묵과할 수 없습니다.",
+      "content": "ゲヘナ風紀委員会の救護担当として、これは見過ごせません",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "최근 특별히 몸에 불편하신 점은 없으신가요?",
+      "content": "最近、お体で気になるところはございませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "눈이 자주 피로한 것 같아.",
+      "content": "疲れ目がひどいんだよね……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어깨가 자주 결리는 것 같아.",
+      "content": "最近は肩が凝ってるような……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "눈의 피로와 어깨 결림이라. 전형적인 만성 피로의 증상이군요.",
+      "content": "なるほど……典型的な慢性疲労の症状ですね",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "그러고보니 게헨나 학원에는 피로 해소에 도움이 되는 탕이 많이 있습니다.",
+      "content": "そういえば、ゲヘナ学園には疲労回復の効果がある温泉がたくさんあるんです",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "시간이 되실 때 게헨나 학원을 방문하셔서 온천을 즐겨보시는 건 어떠신가요?",
+      "content": "お時間がある時にでも、ゲヘナの温泉をご利用されてはいかがでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋은 생각이네.",
+      "content": "そうなんだ、それは良さそう",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "시간 날 때 한번 들를게.",
+      "content": "時間があるときに寄ってみようかな",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "네.",
+      "content": "はい、是非",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "그럼 언젠가 저희 학원을 방문하실 날을 기다리고 있겠습니다.",
+      "content": "少しでも先生の疲れが取れますように",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "- 치나츠",
+      "content": "～チナツ～",
       "isFirst": true,
       "file": ""
     },
