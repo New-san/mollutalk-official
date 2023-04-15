@@ -1,6 +1,6 @@
 [
   {
-    "title": "미묘한 거짓말은 실수에 가깝다",
+    "title": "微妙な嘘は、ほとんど誤りに近い",
     "nickname": "Molru",
     "date": "2022-10-23 20:50:35",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "선생님께서는 어떤 영화를 좋아하시나요?",
+      "content": "急なのですが、先生はどんな映画がお好きですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잔잔한 인디 영화를 좋아해.",
+      "content": "インディーズ映画とかかな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "화려한 블록버스터 영화를 좋아해.",
+      "content": "大ヒット映画とかかな",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "그렇군요. 후후, 선생님다운 취향이시네요.",
+      "content": "なるほど。最初は意外に思いましたが、よく考えると先生らしい好みですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "토모에가 제일 좋아하는 영화는 뭐야?",
+      "content": "トモエは？どんな映画が一番好き？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "제가 제일 좋아하는 영화요?",
+      "content": "私の一番好きな映画、ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "저는……",
+      "content": "私は……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "<위대한 수염의 행적>이라는 영화를 제일 좋아한답니다.",
+      "content": "『偉大なる髭の日常』、でしょうか",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "처음 듣는 영화인데.",
+      "content": "初めて聞いたタイトルかも",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "그야 당연하지요.",
+      "content": "はい、それはそうかと",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "<위대한 수염의 행적>은 체리노 회장님의 취향과 일상을 다룬 기록 영화로서……",
+      "content": "『偉大なる髭の日常』とはチェリノ会長の趣味嗜好や日頃の習慣を描いた……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "지금부터 제가 찍을 예정인 영화니까요!",
+      "content": "今から私が撮る予定の、ドキュメンタリー映画ですので！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "자, 선생님. 위대한 체리노 회장님의 행적을 기록하기 위해 저와 함께해주세요!",
+      "content": "ということで、先生。共に会長の日常を記録するとしましょう！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번에도 강제 참여야?!",
+      "content": "あ、今回も強制参加だ！？",
       "isFirst": true,
       "file": ""
     },
