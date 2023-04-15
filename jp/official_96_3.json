@@ -1,6 +1,6 @@
 [
   {
-    "title": "히무로 세나",
+    "title": "氷室セナ",
     "nickname": "Molru",
     "date": "2022-10-23 22:11:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "선생님, 응급의학부의 히무로 세나입니다.",
+      "content": "先生、救急医学部の氷室セナです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "일전에 말씀드렸던 담요와 물수건을 회수하고자 샬레에 방문할 예정이니, 가능하신 시간대가 있으시면 말씀해주시기 바랍니다. 감사합니다.",
+      "content": "先日のタオルなどを回収するために、本日シャーレにお伺いする予定です。空いている時間帯などありましたらお知らせください。よろしくお願いします",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번에는 나도 답례를 좀 할까 하는데.",
+      "content": "色々とお世話になっちゃってありがとうね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "여기 말고 밖에서 만나는 건 어때.",
+      "content": "せっかくだしお礼がしたいんだけど、外で会える",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "?",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "음",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "알겠습니다.",
+      "content": "分かりました",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "그럼 그렇게 알고 있겠습니다.",
+      "content": "では、その形で",
       "isFirst": false,
       "file": ""
     },
