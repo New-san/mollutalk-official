@@ -1,6 +1,6 @@
 [
   {
-    "title": "사야의 맛있는 식당",
+    "title": "サヤのおいしいレストラン",
     "nickname": "Molru",
     "date": "2022-10-23 19:10:35",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "선생. 지난번에는 한정 메뉴 사는 걸 도와줘서 고마웠던 것이다.",
+      "content": "先生、この間のケーキの件はありがとうなのだ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "답례의 의미로 이번에는 나님이 현무상회에서 맛있는 음식을 살게.",
+      "content": "お返しに、今度はぼく様が何か玄武商会で美味しいものを奢ってあげる",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "선생은 뭐가 먹고 싶은 것이냐?",
+      "content": "先生は何か食べたいものとかある？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "볶음밥이 좋겠어.",
+      "content": "チャーハンの気分！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "야키소바가 먹고 싶어!",
+      "content": "焼きそばが食べたい！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "아, 그러고 보니 이번 주는 현무상회의 가게들이 새로 개발한 라멘 메뉴를 내놓는 라멘 주간인데…",
+      "content": "あ、そういえば今週は、玄武商会のお店が次々に新しいラーメンを出す「ラーメン週間」だったのだ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 98, "index": 3 },
-      "content": "선생! 이번 휴일은 현무상회에서 함께 라멘을 먹는 것이다!",
+      "content": "先生！ちょうどぼく様おすすめのお店があるから、そこに行こう！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……내 의견은 왜 물어본 거야?",
+      "content": "私の意見を聞いた意味は……？",
       "isFirst": true,
       "file": ""
     },
