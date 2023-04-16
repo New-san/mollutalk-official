@@ -1,6 +1,6 @@
 [
   {
-    "title": "RABBIT 4, 저격합니다.(번역)",
+    "title": "RABBIT4、狙撃します",
     "nickname": "Molru",
     "date": "2022-10-27 01:28:58",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "어쩐지 최근",
+      "content": "その、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "소대 내에서 저지르는 실수가 잦아진 것 같아서……",
+      "content": "何だか私、最近失敗ばっかりで……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "역시 저는 쓸모없는 아이인가 봐요……",
+      "content": "やっぱり私はRABBIT小隊のお荷物です、役立たずなんです……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇지 않아.",
+      "content": "そんなことはないよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미유는 훌륭한 저격수니까.",
+      "content": "ミユは立派なスナイパーなんだから",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "하지만……",
+      "content": "ですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "정식 훈련을 받은 지도 너무 오래되어서……",
+      "content": "正式な訓練を受けてから、ずいぶん経ちますし……立派と言えるのかどうか……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "예전처럼 총을 쏠 수 있을지도 모르겠어요",
+      "content": "昔より技術が落ちてるかもしれません……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "……선생님, 괜찮으시다면",
+      "content": "……先生、よろしければ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "훈련, 함께해 주시겠어요?",
+      "content": "訓練に、付き合っていただけませんか？",
       "isFirst": false,
       "file": ""
     },
