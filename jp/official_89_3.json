@@ -1,6 +1,6 @@
 [
   {
-    "title": "눈 속의 연설",
+    "title": "雪の中で",
     "nickname": "Molru",
     "date": "2022-10-23 20:47:58",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "최근 붉은겨울 학원 곳곳에 체리노 회장을 비방하는 선전물이 자주 보이는 것 같네요.",
+      "content": "この頃レッドウィンターのあちこちで、チェリノ会長を貶めるような宣伝物が見られるようになりました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "……아무래도 <정기 순회 연설>을 나가야 할 때가 돌아온 것 같습니다.",
+      "content": "どうやら、定期演説の巡回に出る時が来たようですね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "정기 순회 연설?",
+      "content": "定期演説……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "저희 학원의 순회 연설에 관심이 있으신가요, 선생님?",
+      "content": "よろしければ、先生も聞かれますか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "붉은겨울 학원의 순회 연설이란, 자치구의 곳곳을 순회하며 연설을 통해 체리노 회장님의 위대함을 널리 알리는— 일종의 행사랍니다.",
+      "content": "レッドウィンター連邦学園におけるあちこちの自治区を巡回し、演説を通じてチェリノ会長の偉大さをあらためて伝えるというイベントなんです",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "다만 자치구가 넓은 탓에 학원 전역을 순회하려면 꽤 오랜 시간이 걸리지만요.",
+      "content": "ご存じの通り自治区がかなり広いせいで、全域に行こうとするとかなり時間はかかるのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "선생님께서도 괜찮으시다면 이번 순회 연설에 함께 참여하시겠어요?",
+      "content": "いかがです？参加されませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 괜찮은데…….",
+      "content": "どうしよっかな……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "아뇨. 부디 와주셨으면 합니다.",
+      "content": "……いえ、聞き方を変えましょう。ぜひ来てください",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "선생님께도 들려드리고 싶은 체리노 회장님의 멋진 에피소드가 아직 잔뜩 남아 있거든요!",
+      "content": "先生にお聞かせしたい会長のエピソードは、まだまだ山ほど残っていますので！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "강제 참여냐!",
+      "content": "なるほど、強制参加だこれ！",
       "isFirst": true,
       "file": ""
     },
