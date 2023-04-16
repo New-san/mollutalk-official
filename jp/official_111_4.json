@@ -1,6 +1,6 @@
 [
   {
-    "title": "준비만전",
+    "title": "準備ＯＫ",
     "nickname": "Molru",
     "date": "2022-11-12 04:17:52",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선생님. 방금 발키리 경찰학교의 지인에게 들었는데.",
+      "content": "さっきヴァルキューレの知り合いから聞いたんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "공원 뒤의 산 중턱에 안 쓰는 야영 물자가 버려져 있대.",
+      "content": "公園の裏手にある山に、キャンプ用品が色々捨てられてたらしい",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "그 근처에 초소가 있었을 때, 치장물자로 쌓아 둔 걸 버려두고 왔다나.",
+      "content": "昔ちょっとした基地みたいなのがあったらしくて、そこが無くなる時に放置されたんだとか",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "대부분 낡은 물건이긴 하지만, 우리 입장에서는 없는 것보다 도움이 될 것 같아서.",
+      "content": "たとえ古いものだとしても、今の私たちにとっては無いよりマシだろうし",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "이번 주말에 등산을 겸해서 수거해 오려고.",
+      "content": "ちょっと今週末に行こうかと思ってるんだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "……다만 혼자 옮기기엔 양이 꽤 많은 것 같아서.",
+      "content": "その、聞いた感じ多分量が多くて",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선생님이 좀 도와줄 수는 없을까?",
+      "content": "手伝ってくれたら助かる",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 괜찮아. 도와줄게.",
+      "content": "うん、了解。喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선뜻 도와줘서 고마워.",
+      "content": "ありがと",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "다른 대원들도 바쁜 것 같고, 혼자서 왕복하는 것도 어려워서 곤란하던 참이었거든.",
+      "content": "何かみんな忙しいらしくて、でもひとりで往復するのもアレだし……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "아, 참. 그러고 보니 그 산은 등산로가 험하기로 유명하니까……",
+      "content": "そういえばその山、結構登山道が険しいみたいだから",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "가급적 두꺼운 옷을 입고 오는 게 좋을 거야.",
+      "content": "多分ちゃんとした格好で来た方が良い",
       "isFirst": true,
       "file": ""
     },
