@@ -1,6 +1,6 @@
 [
   {
-    "title": "RABBIT 4, 휴식합니다.(번역)",
+    "title": "RABBIT4、息抜きします",
     "nickname": "Molru",
     "date": "2022-10-27 01:30:03",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "지난번의 훈련으로",
+      "content": "先日の訓練は、ありがとうございました。",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "사격 실력은 다소 좋아진 것 같지만……",
+      "content": "少し、制度が良くなった気がします",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "그래도 자꾸 나쁜 생각이 떠올라서 곤란해져요.",
+      "content": "ですが……何だか最近は、色々と悪い方向に考えがちで……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "자꾸 기분도 우울해지고……",
+      "content": "気分も落ち込みがちなんです……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "취미 생활을 즐겨보는 게 어떨까?",
+      "content": "趣味を思いっきり楽しんでみる、とか？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "취미……",
+      "content": "趣味……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "그렇네요……",
+      "content": "なるほど……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "취미 생활을 즐기면",
+      "content": "確かに、そうかもしれません",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "이 체질도 조금 나아질지도 모르겠어요…….",
+      "content": "ちょっと試してみます",
       "isFirst": true,
       "file": ""
     },
