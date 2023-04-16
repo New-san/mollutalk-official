@@ -1,6 +1,6 @@
 [
   {
-    "title": "무녀계의 스페셜리스트",
+    "title": "巫女界のスペシャリスト",
     "nickname": "Molru",
     "date": "2022-10-23 21:12:16",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "새해 복 많이 받아, 선생님.",
+      "content": "あらためてだけど先生、あけましておめでとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "새해 복 많이 받아. 세리카.",
+      "content": "あけましておめでとうございます。今年もよろしくね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아르바이트 준비는 어때? 괜찮아?",
+      "content": "ところでセリカ、バイトの準備はどう？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아, 그거라면 완벽해.",
+      "content": "あ、うん。結構良い感じだよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아직 조금 익숙지 않은 부분이 있어서 걱정은 되지만…….",
+      "content": "まだ慣れてないから、色々不安なところもあるけど……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "응, 문제는 없을 것 같아.",
+      "content": "楽しいし、総じて問題無いかな",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇구나. 알았어. 바로 갈게!",
+      "content": "じゃあ今から行くね！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "뭐, 뭐어? 따, 딱히 찾아오라는 소리가 아니었다고?!",
+      "content": "え、今から！？べ、別に来てほしいとか言ってないでしょ！？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "찾아가면, 세리카가 곤란해지는 거야?",
+      "content": "来られると困る？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "으, 응? 아니, 딱히 그런 건 아니지만.",
+      "content": "いや、別にそういう訳じゃないけど……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "오히려 선생님이 와주면",
+      "content": "むしろ来てくれたら",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "아앗, 도중에 보내버렸다?! 방금 건 없던 걸로! 못 본 걸로 해!",
+      "content": "ああもう途中で送っちゃった！今のは無し！見なかったことにして！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 3, "index": 5 },
-      "content": "그러니까 딱히 오지 않아도 괜찮으니까!",
+      "content": "だから、別に来なくても良いから！",
       "isFirst": true,
       "file": ""
     },
