@@ -1,6 +1,6 @@
 [
   {
-    "title": "RABBIT 4, 출동합니다.(번역)",
+    "title": "RABBIT4、出動します",
     "nickname": "Molru",
     "date": "2022-10-27 01:27:39",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "저, 선생님",
+      "content": "あの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "오늘은 그게 RABBIT 소대의 일이 일찍 끝나서",
+      "content": "今日、RABBIT小隊の任務が早く終わったので",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "당번 업무에 일찍 갈 수 있을 것 같아요.",
+      "content": "思ったより、早く到着できるかもしれません",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "혹시",
+      "content": "なので、その",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "샬레에 방문하기 전에 따로 해야 할 일이 있을까요?",
+      "content": "何か買い物とか、必要なものがあれば……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "저",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "선생님?",
+      "content": "えっと、先生？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "혹시 주무시나요?",
+      "content": "お休み中でしょうか……？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "저기, 선생님",
+      "content": "えっと、先生",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "그 목걸이 때문에 뭔가 큰 곤경을 겪으셨다고 들었어요…….",
+      "content": "すみません……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "죄송합니다……",
+      "content": "私のせいで、先生が誤解されてしまったそうで……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "역시 저는 쓸모없는 아이예요…….",
+      "content": "やっぱり私は役立たずです……ごめんなさい……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 신경 쓰지 마.",
+      "content": "ううん、大丈夫。気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "하지만 그렇게 주목을 받았던 건 난생처음이라……",
+      "content": "はい……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "이 목걸이를 포기하는 건 조금 아쉬워요.",
+      "content": "ですが、あんなに注目を受けたのは初めてなので、あの首輪はちょっと捨てがたく……",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "혹시 괜찮으시다면",
+      "content": "先生がよろしければ、ですが",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 120, "index": 1 },
-      "content": "최소한 샬레에 있을 때만 목걸이를 차고 있으면 안 될까요?",
+      "content": "シャーレにいる時だけ、首輪を付けるというのは……？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그편이 더 큰 오해를 받을 것 같으니까 그만둬…….",
+      "content": "色々と危ないから、申し訳ないけどそれは無しで……",
       "isFirst": true,
       "file": ""
     }
