@@ -1,6 +1,6 @@
 [
   {
-    "title": "아무튼 선생님 탓이에요!",
+    "title": "とにかく先生のせいなんです！",
     "nickname": "Molru",
     "date": "2022-10-23 20:00:43",
     "replyNo": 10,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "다름이 아니라……",
+      "content": "実はですね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "바빠요.",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "네?",
+      "content": "ちょっ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "뭔가요, 그 반응은!",
+      "content": "何ですかその反応は！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안 사요. 안 사.",
+      "content": "買わないよ？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "잡상인 취급 받고 있어……!",
+      "content": "押し売りの人扱いされている……！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "뭐, 뭔가요, 진짜!",
+      "content": "な、何ですかもう！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그건가요? 신종 괴롭힘인가요?",
+      "content": "あれですか、新手のいじめですか！？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "정말이지, 선생님까지 그런……",
+      "content": "全くもう、先生までそういう……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있었어……?",
+      "content": "大丈夫？何かあった？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "아…….",
+      "content": "まあ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "……네. 그러게요.",
+      "content": "そう、ですね",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "딱히 무슨 일이 있었던 건 아니에요.",
+      "content": "特に大きなことではないのですが",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그냥",
+      "content": "ただ",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……아코?",
+      "content": "……アコ？",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "선생님? 잘 들어가셨나요?",
+      "content": "先生、無事に帰られましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이 목줄, 모르고 가져와 버렸어.",
+      "content": "ごめん、首輪そのまま持ってきちゃった",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "아아. 과연.",
+      "content": "ああ、なるほど",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그랬군요.",
+      "content": "そうでしたか",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내일 돌려주러 갈게.",
+      "content": "明日返しに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "네.",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "아.",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -274,7 +274,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "아니에요. 괜히 번거롭게 그럴 필요까진 없어요.",
+      "content": "いえ、持ってきていただかなくて大丈夫です",
       "isFirst": false,
       "file": ""
     },
@@ -284,7 +284,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그냥 선생님이 가지고 계세요.",
+      "content": "先生が持っていてください",
       "isFirst": true,
       "file": ""
     },
@@ -294,7 +294,7 @@
       "replyGroup": 7,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……응?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -304,7 +304,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "오늘도 고생 많으셨어요.",
+      "content": "本日もお疲れ様でした",
       "isFirst": true,
       "file": ""
     },
@@ -314,7 +314,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 9, "index": 1 },
-      "content": "그럼, 다음에 또 뵙겠습니다. 선생님.",
+      "content": "では、またお会いしましょう",
       "isFirst": false,
       "file": ""
     }
