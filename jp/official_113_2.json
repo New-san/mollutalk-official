@@ -1,6 +1,6 @@
 [
   {
-    "title": "멋진 레이디가 되고 싶어!(번역)",
+    "title": "素敵なレディーになりたい！",
     "nickname": "Molru",
     "date": "2022-10-27 01:33:55",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "선생님, 오늘도 멋진 레이디가 되기 위해 노력할게!",
+      "content": "先生、今日も引き続き「素敵なレディー」になるため頑張るよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 오늘도 힘내.",
+      "content": "うん、いつも通り頑張って",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "하지만 멋진 레이디로 향하는 길은 역시 엄청 어려워…….",
+      "content": "でも素敵なレディーへの道は、かなり厳しい……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "얼마나 어렵냐면………",
+      "content": "どれくらい難しいかというと…………",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "여름방학에 아침체조 카드를 전부 도장으로 채우는 것보다 더 어려울지도 몰라!",
+      "content": "夏休みに「ラジオ体操カード」で、欠かさず毎日スタンプを貰うこと並みに難しい！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건……. 확실히 어렵네!",
+      "content": "それは難しい！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "그치? 그래서 어쩌면 좋을까, 어어어엄청 고민하던 차에……! ",
+      "content": "そうなの、それでどうすれば良いかなって悩んでたんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "나 마침 좋은 걸 발견했거든!",
+      "content": "すっごいことを思いついちゃった！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "이거 세기의 대발견일지도 몰라! 이 엄청난 발견은 직접 만나서 말해줄게! ",
+      "content": "これはもう「世紀の大発見」と呼べるくらいだよ！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "부실에서 보자! 선생님!",
+      "content": "話してあげるから、早く修行部の部室に来て！",
       "isFirst": true,
       "file": ""
     },
