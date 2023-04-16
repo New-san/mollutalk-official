@@ -1,6 +1,6 @@
 [
   {
-    "title": "어른이 되고 싶은 이유(번역)",
+    "title": "大人になりたい理由",
     "nickname": "Molru",
     "date": "2022-10-27 01:37:25",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "얏-호! 선생님선생님!",
+      "content": "やっほー先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "뭐 하고 있어? 오늘 놀러…가 아니라.",
+      "content": "今日も遊びに",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "멋진 레이디가 되기 위한 수행! 나, 하러 가도 돼?",
+      "content": "じゃなくて、素敵なレディーになるための修行をしに、シャーレに行っても良い？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안, 카에데. 오늘은 일 때문에 조금 바빠서….",
+      "content": "ごめんカエデ、今日はちょっと仕事で忙しくて……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "어? 오늘도 일하는 거야? 선생님은 보면 맨날 일만 하는 거 같아!",
+      "content": "えー、先生いっつも仕事ばっかり",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "선생님은 일이 그렇게 좋아?",
+      "content": "先生はそんなに仕事が好きなの？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그, 글쎄. 어떠려나…….",
+      "content": "そ、そうだね……どっちかというと……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "서류 작업 자체는 좋아하지 않습니다…….",
+      "content": "書類作業そのものは好きではないです……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "으음~ 그러면…. 아, 맞아! 나 들은 적 있어!",
+      "content": "ふーん……？あ、でも前に言ってた気がするね",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "어른은 가끔 하기 싫은 일도 꾸역꾸역해야만 할 때가 있다고…. ",
+      "content": "大人は時々、やりたくないこともやらないといけない……って",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "핫?! 어른이란 정말 힘든 거구나!",
+      "content": "うーん、大人って大変だね？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "어라, 근데…. 선생님을 보고 있으면 가끔이 아닌 거 같은데….",
+      "content": "先生を見てると、「時々」じゃない気がするけど",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "큭! 아무렇지도 않게 날아오는 비수가 아파!",
+      "content": "ぐっ、何も言えない……！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "으음, 잘은 모르겠지만. ",
+      "content": "まあとにかく－",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "…아! 좋은 생각이 났다!",
+      "content": "あ、良いこと思いついた！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 카에데?",
+      "content": "良いこと？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "후후후, 좋았어! 기다려줘! 선생님!",
+      "content": "待ってて、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "오늘은 선생님을 방해하지 않고, 착실하게 돕는 카에데 모드로 변신할 테니까!",
+      "content": "今日の私は、「真面目にお手伝いをするモード」だから！",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "그럼 이따가 봐!",
+      "content": "じゃあ、また後でね！",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 카에데?",
+      "content": "？？？",
       "isFirst": true,
       "file": ""
     },
