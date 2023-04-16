@@ -1,6 +1,6 @@
 [
   {
-    "title": "일일 보안 결산",
+    "title": "セキュリティチェック",
     "nickname": "Molru",
     "date": "2022-10-23 22:17:19",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "선생님. 바쁜 중에 불러내서 미안해.",
+      "content": "先生、忙しいところにごめん",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "최근에 터진 보안 문제 때문에 샬레의 서버를 잠깐 살펴보고 싶어서.",
+      "content": "ちょっとセキュリティ関連の問題で、シャーレのサーバーを調べたくって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "PC의 접속 비밀번호가 필요해서 그러는데, 잠깐 샬레의 집무실로 와 줄 수 없을까?",
+      "content": "その場にあるPCを開かないといけないから、後でシャーレのオフィスで会える？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 잠시만 기다려줘.",
+      "content": "あ、そしたらちょっと待ってて",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "접속 비밀번호가 뭐였냐면…….",
+      "content": "パスワードを書くから",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "잠깐.",
+      "content": "待った",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "일반 회선에 비밀번호를 적는 건 절대로 안 돼.",
+      "content": "普通の回線でパスワードを書くなんて絶対にダメ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "모니터 아래에 비밀번호를 적은 메모지를 붙여 놨으니까 그걸 써도 돼.",
+      "content": "モニターの下にパスワードを書いたメモがあるから、それを見ても大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "뭐?",
+      "content": "え",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "……농담이지?",
+      "content": "……冗談、だよね？",
       "isFirst": false,
       "file": ""
     },

@@ -1,6 +1,6 @@
 [
   {
-    "title": "둘 만을 위한 노천탕",
+    "title": "ふたりだけの",
     "nickname": "Molru",
     "date": "2022-10-23 20:44:06",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "선생님, 안녕하세요. 치나츠입니다.",
+      "content": "先生、こんにちは",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "지난번에는 부원들에게 선물할 답례품을 고르며 선생님께 신세를 졌습니다.",
+      "content": "この前のお土産選びの件はありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "그 외에도 이것저것 잔뜩 선물을 받기도 했었고……",
+      "content": "それに、プレゼントまで頂いてしまって……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "베풀어 주신 은혜에 보답하지 않고 넘어가는 것은 올바른 자세가 아니라고 생각되어,",
+      "content": "その、お返しのお返しというのも変なお話かもしれませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "근처에 있는 고급 료칸의 숙박권을 예약해 두었습니다.",
+      "content": "何か私も恩返しがしたいと思い、ある旅館の予約をしておきました",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "식사나 시설이 훌륭하기로 소문난 료칸이니, 선생님께서도 분명 만족하시리라 생각합니다.",
+      "content": "結構良いところでして、食事や施設も素晴らしいと評判のところですので、きっとご満足いただけるかと",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "그럼 기다리고 있겠습니다.",
+      "content": "それでは、お待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "- 치나츠",
+      "content": "～チナツ～",
       "isFirst": true,
       "file": ""
     },

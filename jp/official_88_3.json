@@ -1,6 +1,6 @@
 [
   {
-    "title": "답례품",
+    "title": "お返し",
     "nickname": "Molru",
     "date": "2022-10-23 20:43:16",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "안녕하세요, 선생님.",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "혹시 괜찮으시다면 오늘 점심 식사 이후에 잠깐 시간을 내주지 않으시겠습니까?",
+      "content": "その、もしよろしければ今日の午後、少しお時間をいただけないでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "선생님께 도움을 요청하고 싶은 일이 있습니다.",
+      "content": "実は先生に手伝っていただきたいことがありまして……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 괜찮아.",
+      "content": "うん、任せて",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치나츠의 부탁이라면 뭐든지!",
+      "content": "チナツのお願いならなんでもＯＫ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "감사합니다.",
+      "content": "あ、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "그럼 온천장 입구의 기념품 가게에서 기다리고 있겠습니다.",
+      "content": "それでは、お土産屋さんの前でお待ちしておりますね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "식사 후에 뵙겠습니다.",
+      "content": "よろしくお願いいたします",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 10, "index": 3 },
-      "content": "- 치나츠",
+      "content": "～チナツ～",
       "isFirst": true,
       "file": ""
     },

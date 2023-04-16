@@ -1,6 +1,6 @@
 [
   {
-    "title": "노동은 휴식을 즐긴다",
+    "title": "合間合間に休息を",
     "nickname": "Molru",
     "date": "2022-10-23 20:46:48",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "선생님, 늦은 시간에 실례하겠습니다.",
+      "content": "先生、遅い時間に失礼いたします",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "다름이 아니라 붉은겨울 학원과 관련된 샬레의 당번 보고서 처리가 늦어지고 있어서요.",
+      "content": "実は当学園に関わる、シャーレの当番についての報告書がまだ届いておらず……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "오늘까지가 기한이었는데, 혹시 잊고 있지는 않으신지요?",
+      "content": "本日が期限だったのですが、大丈夫そうでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안, 완전히 잊고 있었어!",
+      "content": "ごめん、完全に忘れてた……！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내일까지 꼭 준비해둘게!",
+      "content": "明日までに絶対用意する！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "후후, 너무 서두르지 않으셔도 괜찮답니다.",
+      "content": "あ、いえいえ。そんなに急がなくても大丈夫ですよ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "붉은겨울 학원과 관련된 일이라면 제가 '어떻게든' 미룰 수 있으니까요.",
+      "content": "レッドウィンターに関することでしたら、私が大抵「何とか」できますので",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……더 무서워!",
+      "content": "ありがたいんだけど、何か怖い……",
       "isFirst": true,
       "file": ""
     },

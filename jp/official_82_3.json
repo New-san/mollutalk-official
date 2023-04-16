@@ -1,6 +1,6 @@
 [
   {
-    "title": "바니걸의 생태",
+    "title": "バニーガールの生態",
     "nickname": "Molru",
     "date": "2022-10-23 19:34:27",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님",
+      "content": "ご主人様ー",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님 어디 있어?",
+      "content": "今どこにいるの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "지난번에 있었던 일을 모두에게 말했더니 다들 바니걸은 토끼가 아니라고 가르쳐줬어",
+      "content": "この前ね、みんなと話してたら「バニーガール姿とウサギは違うんじゃない？」って言われて",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님이 도망친 데에는 다 이유가 있었네!",
+      "content": "だからこの間、ご主人様は逃げちゃったってこと？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "미안!",
+      "content": "そういうこと？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 알게 돼서 다행이구나.",
+      "content": "だいたいそんな感じかな……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "응!",
+      "content": "そっか！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그래서 다시 물어보고 싶은 게 생겼는데…….",
+      "content": "じゃああらためて聞きたいことがあるんだけど",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "음~. 나중에 따로 찾아 갈게!",
+      "content": "後で、ご主人様のところに行くね！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님, 주인님!",
+      "content": "あ、そういえば聞くの忘れてた！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "어땠어? 즐거웠어?",
+      "content": "ご主人様はどう、嬉しい？楽しい？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "이제 대답을 해 줄 시간이야!",
+      "content": "答えてくれるんでしょ？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 확실히 즐거웠어.",
+      "content": "アスナといるといつも楽しいよ",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "앞으로도 가끔씩 부탁해.",
+      "content": "これからもよろしくね",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "……!!!!!",
+      "content": "！！",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "오오오오오오오오",
+      "content": "分かったかも",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "좋-아! 아주 좋아! 대답이 됐어!",
+      "content": "うん！なるほどね！",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "고마워, 주인님!",
+      "content": "ありがとーご主人様！これからもいっぱいいーっぱい、楽しませてあげるね！",
       "isFirst": true,
       "file": ""
     }

@@ -1,6 +1,6 @@
 [
   {
-    "title": "실패한 기록은 말살해야 한다",
+    "title": "失敗などしてませんし、記録にもありません",
     "nickname": "Molru",
     "date": "2022-10-23 20:49:06",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "선생님. 지금 혹시 바쁘신가요?",
+      "content": "先生、今はお忙しいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "다름이 아니라 급히 선생님의 도움이 필요한 일이 있습니다.",
+      "content": "突然のお願いで恐縮ですが、手伝っていただきたいことがあり……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 괜찮아.",
+      "content": "うん、大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "그게, 체리노 회장님이 이번에 새로 내주신 과제가 너무 어려워서…….",
+      "content": "実はチェリノ会長に関することで少々悩んでおりまして……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "……어쩌면 숙청을 당할지도 모르겠습니다.",
+      "content": "このままでは、粛清されてしまう可能性も……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……나는 빠지면 안 될까?",
+      "content": "何だか嫌な気配が……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "안 됩니다! 이야기를 듣고 도망치려 하시다니…….",
+      "content": "ここまで聞いておいて、逃げるのは無しですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 105, "index": 1 },
-      "content": "제가 만약 숙청당하게 된다면, 제 배후에 선생님이 있었다고 증언할 테니까요!",
+      "content": "もし私が粛清されることになったら、必ずや先生も道連れにしますからね！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무서워!",
+      "content": "覚悟が怖すぎる！",
       "isFirst": true,
       "file": ""
     },

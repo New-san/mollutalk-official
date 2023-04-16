@@ -1,6 +1,6 @@
 [
   {
-    "title": "최고의 해킹 수법",
+    "title": "ハッキングの方法",
     "nickname": "Molru",
     "date": "2022-10-23 22:18:33",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "선생님, 부탁 하나만 해도 될까?",
+      "content": "先生、ちょっとお願いしたいことがあって",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 무슨 일인데?",
+      "content": "うん、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "오늘 오후에 밀레니엄에 장비를 납품하는 기업에 계약을 제안하러 갈 예정이었거든.",
+      "content": "今日の午後、とある企業のところに行くんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "그런데 사장이 워낙 완고한 사람이라, 이야기를 꺼내기 전에 미리 준비를 해 두고 싶어.",
+      "content": "社長が結構頑固でね、あらためて準備しておこうと思って",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "……베리타스의 방식으로 말이지.",
+      "content": "ヴェリタス流の準備を",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "베리타스의 방식이라면……?",
+      "content": "ヴェリタス流の……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 말은 해킹을 하겠다는 거야?",
+      "content": "ハッキング、とか？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "응. 작업 전에 미리 노드에 백도어를 설치하고 싶은데, 선생님이 옆에서 도와줬으면 좋겠어.",
+      "content": "うん。ちょっとバックドアを設置しておこうと思うんだけど、手伝ってほしくて",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "노드……? 백도어……?",
+      "content": "バックドア……？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 해킹에 대해서는 아무것도 모르는데 괜찮을까?",
+      "content": "私ハッキングについては素人だけど、大丈夫？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "괜찮아. 말은 그렇게 했지만, 선생님은 그냥 옆에 서 있기만 해도 괜찮으니까.",
+      "content": "まあ手伝ってと言っても、先生はただそこにいてくれるだけで良いから",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "그럼 이따가 보자.",
+      "content": "じゃあまた後で",
       "isFirst": false,
       "file": ""
     },

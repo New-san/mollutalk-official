@@ -1,6 +1,6 @@
 [
   {
-    "title": "작다는 건 불편해!",
+    "title": "小さいのはやっぱりダメです！",
     "nickname": "Molru",
     "date": "2022-10-23 18:55:27",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "……선생님, 혹시 지금 바쁘신가요?",
+      "content": "……先生。今、お忙しいですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "그게, 매화원에서 물건 정리를 하다가 가벼운 사고가 나서…….",
+      "content": "その、梅花園で色々と整理整頓をしていたら、少々事故が起きてしまったと言いますか……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "옴짝달싹할 수 없게 되어버렸어요…….",
+      "content": "ちょっと今、動けない状態に……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 매화원으로 바로 갈게.",
+      "content": "待ってて、すぐに行くね",
       "isFirst": true,
       "file": ""
     },

@@ -1,0 +1,155 @@
+[
+  {
+    "title": "더블 타겟",
+    "nickname": "Molru",
+    "date": "2022-10-23 19:05:15",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [114]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "우으, 선생님……. (T_T)",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "지난번의 인질 사건 때문에 높은 분들로부터 경고를 받았습니다.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "그때 총만 제대로 쏘았더라면…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "선생님, 어떻게 하면 총을 잘 쏠 수 있을까요?",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그걸 내게 물어봐도…….",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "그럼 최소한 본관이 사격하는 모습을 옆에서 지켜봐 주실 수는 없으신가요?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "사격 시의 나쁜 습관이나 자세를 교정하면 명중률을 올리는 데 도움이 된다고 하니까요.",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그거라면 어렵지 않지.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "감사합니다, 선생님!",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "그럼 학교의 실내 사격장에서 기다리고 있겠습니다!",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "heart",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 114,
+        "index": 1
+      },
+      "content": "",
+      "isFirst": false,
+      "file": ""
+    }
+  ]
+]
