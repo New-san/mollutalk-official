@@ -1,6 +1,6 @@
 [
   {
-    "title": "유치원에 간 경찰",
+    "title": "アイアン・コネクション",
     "nickname": "Molru",
     "date": "2022-10-23 19:06:46",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "으으, 긴장되네요…….",
+      "content": "先生、すごく緊張してきました……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이라도 있어?",
+      "content": "どうしたの？何かこの後試験とか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "오후에 주변 유치원의 학생들이 견학 차 발키리 경찰학교에 올 예정이라는데……",
+      "content": "本日の午後、近くの幼稚園の園児たちがヴァルキューレ警察学校の見学に来るそうでして……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "그 견학의 안내를 본관이 맡게 되어서요.",
+      "content": "その案内を、本官が担当することになったのです",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "혹시라도 너무 긴장해서 실수를 하지는 않을까, 벌써부터 걱정이 됩니다.",
+      "content": "何かミスをしてしまったらどうしようと考えると、すごく不安で……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 실수하지 않도록 옆에서 도와줄게.",
+      "content": "私も行ってよければ、横でサポートしようか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "……선생님께서 직접 도와주시러 오시는 건가요?",
+      "content": "え、良いんですか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "그렇다면 안심입니다. 감사합니다, 선생님!",
+      "content": "それなら安心です、ありがとうございます先生！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어쩐지 의욕이 넘치는 것 같네.",
+      "content": "何だかすごく気合入ってそうだし、私に手伝えることがあればぜひ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "물론이지요. 어린 학생들에게 경찰의 멋진 모습을 보여줄 수 있는 모처럼의 기회니까요!",
+      "content": "助かります。そうですね、せっかくの機会ですので、園児たちには警察のかっこいい姿を見せてあげたいなと思っているんです",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "본관도 어릴 적 견학을 통해 경찰의 꿈을 갖게 되었었지요.",
+      "content": "何せ本官も、幼い頃に同じような見学会に行って、そこで警察官になることを志したので……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "그때의 선배들처럼 멋진 모습을 보여야 할 텐데…….",
+      "content": "あの時の警察の方々のように、カッコいい姿を見せないと……！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "키리노.",
+      "content": "キリノ、一つだけ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "네?",
+      "content": "はい、何でしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "당황하더라도 총은 꺼내면 안 돼.",
+      "content": "銃は取り出さないようにね。園の子たちに当たると危ないから",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "다, 당연하지요! 본관도 그 정도는 알고 있습니다!",
+      "content": "そ、それは……！な、何だか不本意ではありますが……はい、そうですね……",
       "isFirst": true,
       "file": ""
     },
