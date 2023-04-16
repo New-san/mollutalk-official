@@ -1,6 +1,6 @@
 [
   {
-    "title": "학생회장의 겨울휴가",
+    "title": "とある髭の生徒会長の冬休み",
     "nickname": "Molru",
     "date": "2022-10-23 20:34:53",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "연말의 학원은 정말 정신없이 바쁘군.",
+      "content": "年末の学園は、非常に忙しく慌ただしい",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "초인적인 체력을 가진 이 몸조차도 계속되는 격무로 인해 피로가 쌓이는 게 느껴질 정도야.",
+      "content": "体力にも優れたこのおいらでさえ、度重なる激務で疲労が溜まってるぐらいだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "그래서 이번 주말에는 업무에서 벗어나 모처럼 겨울 휴가를 즐기기로 했다네!",
+      "content": "そこで今週末は、仕事を忘れて冬休みを楽しむことにした！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "호화로운 휴양지에서 푹 쉬고 나면 컨디션을 완전히 회복할 수 있겠지.",
+      "content": "リゾート地でゆっくり休めば、その後の仕事の効率も良くなるはず",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "휴식이라면 평소에도 충분히 하고 있지 않아?",
+      "content": "結構普段から休息取ってたような……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "그게 무슨 소리인가, 콤라드.",
+      "content": "甘いなカムラッド",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "일과 중에 즐기는 휴식과 휴가는 엄연히 다르다고?",
+      "content": "仕事中の休息と休暇は、まるで違うものなんだぞ？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "사무국에서 자는 짧은 낮잠으로는 피로를 완전히 씻어낼 수 없는 법!",
+      "content": "普段の昼寝はあくまで応急措置のようなもので、それとは別に根本的な疲れは溜まっていくからな",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "그런 의미에서 이번에는 휴가를 제대로 즐길 수 있도록, 호화로운 온천장을 통째로 대절했다네.",
+      "content": "というわけで休暇を堪能すべく、今回は何と温泉を貸し切ったんだ！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "콤라드도 피로가 쌓였다면 이 몸과 함께 겨울 휴가를 즐기는 게 어떻겠는가?",
+      "content": "カムラッドも疲れてるなら、おいらと一緒に冬休みを満喫しないか？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "으으…… 으으…….",
+      "content": "どうしてだ……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "어째서지? 이 몸의 휴가 계획은 완벽했을 텐데…….",
+      "content": "おいらの休暇の計画は、完璧だったはずなのに……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "온몸이 추를 매달아 놓은 것처럼 무거워…….",
+      "content": "全身が鉛のように重い……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안 하던 운동을 하니까 그렇지.",
+      "content": "普段動かないのに、急にあんなに運動したらね……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "근육통이 온 거 아냐?",
+      "content": "筋肉痛になっちゃったんだね",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "이 몸은 그저 즐거운 휴가를 보내고 싶었을 뿐인데……",
+      "content": "何ということだ……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "아껴 둔 최고급 푸딩을 빼앗긴 것으로도 모자라, 없었던 근육통까지 생겨버리다니……",
+      "content": "楽しかったは楽しかったが、最高級抹茶プリンが手に入らなかった上に筋肉痛とは……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "겨울 휴가, 이 얼마나 무시무시한 녀석이란 말인가…….",
+      "content": "冬休み、なんと恐ろしいやつ……",
       "isFirst": false,
       "file": ""
     }
