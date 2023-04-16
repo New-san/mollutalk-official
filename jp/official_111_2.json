@@ -1,6 +1,6 @@
 [
   {
-    "title": "길 잃은 토끼(번역)",
+    "title": "迷えるウサギ",
     "nickname": "Molru",
     "date": "2022-10-25 03:09:04",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선생님, 샬레 업무관 앞에 있는 바구니 치우지 마.",
+      "content": "先生、念のため",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "돌아갈 때 가져갈 테니까.",
+      "content": "シャーレの前にかごを置いたんだけど、触らないでそのままにしてほしい。ちゃんと持って帰るから",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭔가 풀때기 같은 게 잔뜩 들어있던데.",
+      "content": "あ、何か草みたいなのがたくさん入ってたアレ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "풀때기라니, 선생님은 두릅도 모르는 거야?",
+      "content": "ああ。っていうか草って……先生は「タラボ」を知らないのか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "막 돋아난 두릅 순은 야생에서 쉽게 구할 수 있는 별미 중 하나지.",
+      "content": "生え立てのタラの芽だ、その辺でも簡単に手に入る珍味のひとつ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "물에 살짝 데쳐서 먹어도 맛있고, 튀기면 밥 위에 얹어 텐푸라처럼 먹을 수도 있다고!",
+      "content": "軽くゆがいただけでも美味しいし、天ぷらにも良い。ご飯にピッタリのおかずだ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "물론 밀가루도 기름도 구할 수 없는 마당에 튀김은 어렵겠지만.",
+      "content": "……まぁもちろん、小麦粉も油もロクに手に入らない今の状況で、天ぷらなんて夢のまた夢なんだが",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 풀이라면……",
+      "content": "多分だけど……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "서쪽 교외의 산길에 잔뜩 자라고 있던데.",
+      "content": "同じようなやつが、西の山道にたくさん生えてた気がする",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "뭐? 거기가 어디야, 선생님?",
+      "content": "本当か！？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "당장 안내해!",
+      "content": "先生、今すぐ案内してくれ！",
       "isFirst": false,
       "file": ""
     },
