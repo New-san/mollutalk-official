@@ -1,6 +1,6 @@
 [
   {
-    "title": "방수 수염",
+    "title": "防水の髭",
     "nickname": "Molru",
     "date": "2022-10-23 20:37:19",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "콤라드, 혹시 이런 이야기를 알고 있는가?",
+      "content": "カムラッド、こんな話を知っているか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "고상한 모습으로 유유히 헤엄치는 백조도 수면 아래에서는 가라앉지 않기 위해 열심히 물장구를 치고 있다는 사실을.",
+      "content": "優雅に泳ぐ白鳥も、水面下では沈まないように一生懸命バタ足をしている……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "이처럼 고고한 존재가 되기 위해서는 보이지 않는 곳에서도 열심히 노력해야 한다네.",
+      "content": "つまり孤高で美しい存在になるためには、密かに努力する必要があるということだ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "붉은겨울의 학생들도 이런 백조의 모습을 본받아 쉬는 시간에도 열심히 일해주었으면 좋으련만…….",
+      "content": "学園の生徒たちもそういった心構えで、休日にも働いてくれれば良いのだが",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "체리노.",
+      "content": "それは確かに、ある意味良い話なんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "응? 무언가, 콤라드.",
+      "content": "ん？どうしたカムラッド、何か言いたいことでも？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "백조가 물에 가라앉지 않는 이유는",
+      "content": "この間知ったんだけど、実際の白鳥が水に沈まないのって",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "깃털에 묻은 기름 때문이야.",
+      "content": "羽根に油を付けたりしてるからなんだって",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
