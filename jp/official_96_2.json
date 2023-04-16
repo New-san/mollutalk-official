@@ -1,6 +1,6 @@
 [
   {
-    "title": "응급상황",
+    "title": "緊急事態",
     "nickname": "Molru",
     "date": "2022-10-23 22:10:05",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "선생님. 응급의학부의 히무로 세나입니다.",
+      "content": "先生。救急医学部の氷室セナです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "상황은 들었습니다. 중요한 일정이라 게헨나에 방문하신다고요.",
+      "content": "この後ゲヘナにいらっしゃるとお伺いしました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 그런데 몸 상태가 좀 안 좋아서…….",
+      "content": "うん。でも、ちょっと体調悪くて……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "만일을 대비해 미리 들를 수 있다고 말해 두려고.",
+      "content": "もしかしたら本来の用事より先に、そっちにお世話になるかも……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "일단은 알겠습니다.",
+      "content": "分かりました",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "그럼, 그렇게 알고 있겠습니다.",
+      "content": "ではお待ちしております",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "선생님. 세나입니다. 쉬고 계시는 상황이니 간단히 메시지만 남겨 놓고 돌아가도록 하겠습니다.",
+      "content": "先生、救急医学部の氷室セナです。メッセージだけ残して帰ります",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "땀을 많이 흘리셨으니 충분히 수분을 섭취해 주시고, 책상 위에 상비약을 두었으니 드시기 바랍니다. 덮어드린 담요와 물수건은 땀에 젖었으니 바로 세탁하십시오. 다음에 다시 회수하러 방문토록 하겠습니다. 그럼 이만.",
+      "content": "汗をたくさんかかれてますので、起きられたら十分に水分を摂取して、机の上の薬をお飲みになってください。タオルの替えはすぐ横に置いてあります。すぐに諸々の回収と洗濯に参りますので。それでは失礼します",
       "isFirst": true,
       "file": ""
     }
