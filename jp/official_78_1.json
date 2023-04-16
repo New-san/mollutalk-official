@@ -1,6 +1,6 @@
 [
   {
-    "title": "느긋한 대수사선",
+    "title": "のん気な大捜査線",
     "nickname": "Molru",
     "date": "2022-10-23 19:03:03",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "선생님, 순찰 시간입니다!",
+      "content": "先生、パトロールの時間ですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "어제는 북구의 업무지구를 순찰했으니, 오늘은 중앙구의 업무지구를 순찰하도록 하죠!",
+      "content": "昨日は北区だったので、今日は中央区を回ることにしましょうか！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 오늘은 휴일이잖아…….",
+      "content": "今日は、休日のはず……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘은 쉬면 안 될까?",
+      "content": "今日は休んでいい？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "안 돼요! 사건은 회의실이 아니라 현장에서 일어나는 법이니까요.",
+      "content": "そうはいきません！事件は会議室ではなく、現場で起きるのですから！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "저희가 이렇게 대화를 나누는 이 순간에도……",
+      "content": "私たちが、気持ちの良い二度寝を享受している間にも……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 114, "index": 1 },
-      "content": "시민의 손으로는 해결할 수 없는 대형 범죄가 저희를 기다리고 있다고요!",
+      "content": "市民の方々には解決できないような大型犯罪が、どこかで起きつつあるかもしれないんですよ！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇다면 더 나가고 싶지 않아…….",
+      "content": "それなら尚のこと、あんまり行きたくないな……",
       "isFirst": true,
       "file": ""
     },
