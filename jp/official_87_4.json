@@ -1,6 +1,6 @@
 [
   {
-    "title": "우유로 만든 권위",
+    "title": "牛乳製の権威",
     "nickname": "Molru",
     "date": "2022-10-23 20:38:44",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "체리노?",
+      "content": "チェリノ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "아니. 이 몸은 체리노가 아니라네, 콤라드.",
+      "content": "今のおいらをチェリノと呼んでくれるな、カムラッド……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "수염의 권위를 갖지 못한 이 몸은 위대한 서기장이자 학생회장인 체리노가 될 수 없어.",
+      "content": "髭の権威が無いおいらは、偉大なる指導者であるチェリノとは言えない……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "그저 평범한 붉은겨울의 학생일 뿐…….",
+      "content": "レッドウィンター連邦学園における、ただのいち生徒のようなもの……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수염은 아직도 세탁 중인 거야?",
+      "content": "あの髭はまだ洗濯中？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "아니. 깨끗이 씻어보려 했지만, 토모에의 말로는 수염에 기름때가 깊이 스며들어 새것을 사는 게 좋을 정도라는군.",
+      "content": "それがトモエ曰く、油が染み込み過ぎていて新しい物を買った方が良いと",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "하지만 새 수염을 사도 언제 도착할지 알 수 없는 노릇이고…….",
+      "content": "しかし新しい髭を買ったとしても、それがいつ届くかも分からないし……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "권위를 얻지 못하니 모든 것이 허무하고 우울하구나.",
+      "content": "権威が無いということが、これほどまでに空しくて憂鬱だとは……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "목욕을 하면 기분이 좋아질지도 몰라.",
+      "content": "気分転換に、どこかの温泉に行くとかどう？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "이 몸에게 목욕은 필요 없느니라.",
+      "content": "今はそんな気分じゃない……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "나 참. 왜 그렇게 다들 뜨거운 물에 몸을 씻는 것을 좋아하는지…….",
+      "content": "全く、どうしてみんな熱いお湯で身体を洗うのがそんなに好きなのか……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "목욕이 끝나면 후르츠 밀크를 사줄게.",
+      "content": "お風呂から上がったら、フルーツ牛乳買ってあげる",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 104, "index": 3 },
-      "content": "바로 탕으로 가겠네, 콤라드.",
+      "content": "よし、すぐに行くぞカムラッド",
       "isFirst": true,
       "file": ""
     },
