@@ -1,6 +1,6 @@
 [
   {
-    "title": "블랙 앤 화이트",
+    "title": "ブラック＆ホワイト",
     "nickname": "Molru",
     "date": "2022-10-23 22:20:53",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "베리타스의 부원들이 자꾸 멋대로 흥미 위주의 해킹을 시도해서 고민이야.",
+      "content": "知ってるかもしれないけどうちのヴェリタスの子たち、すぐ興味本位でハッキングとかしがちで……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "다행히 큰 문제로 커지지는 않는 것 같지만 자꾸 이렇게 말썽을 부리다니…….",
+      "content": "幸いまだそれほど大きな問題にはなってないけど、しょっちゅう揉め事ばっかり起きてるんだよね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "이러다간 해커 동아리로서의 이미지가 실추되겠어…….",
+      "content": "このままだと、ハッカーとしてのイメージが……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "해커는 그런 이미지가 있는데. ……역시 편견인가?",
+      "content": "結構ハッカーってそういうイメージがあったけど、やっぱりそれって偏見？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "물론 요즈음은 <해커>라 하면 다들 그런 블랙 해커를 떠올리지만…….",
+      "content": "もちろん特に最近は、「ハッカー」っていうとみんな「ブラックハッカー」を思い浮かべるみたいだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "원래의 해커는 지금의 화이트 해커에 가까운, 보안 전문가를 의미하는 말이었다고.",
+      "content": "本来の「ハッカー」はほとんど今の「ホワイトハッカー」に近い、「セキュリティの専門家」を意味する言葉だったの",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "으으, 시간이 날 때마다 부원들에게 올바른 해커 윤리에 대해 똑똑히 가르쳐주어야 했는데…….",
+      "content": "はぁ、また時間を見つけてうちの子たちにハッカー倫理について教育しておかないと……そういう手段に頼りっぱなしじゃダメなのに……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 45, "index": 1 },
-      "content": "바빠서 부실에 자주 들리지 못하는 게 이럴 땐 아쉽네.",
+      "content": "最近は忙しくて、あまり部活に顔も出せてないし……",
       "isFirst": false,
       "file": ""
     },
