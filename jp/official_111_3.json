@@ -1,6 +1,6 @@
 [
   {
-    "title": "근검절약(번역)",
+    "title": "大は小を兼ねる？",
     "nickname": "Molru",
     "date": "2022-10-27 01:20:54",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선생님, 혹시 휴게실에 있는 TV의 예약 녹화 기능 쓰는 법 알아?",
+      "content": "先生。シャーレにあるTVって、録画機能は付いてるのか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "오늘 밤 크로노스 채널에서 흥미로운 심야 다큐멘터리가 나온다고 해서…….",
+      "content": "今夜「クロノスチャンネル」で、気になるドキュメンタリーがあって……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 대신 녹화해둘게.",
+      "content": "うん、録画しておくね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "어, 음. 고마워.",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "요새 전자 제품은 기능이 너무 많아서 오히려 더 불편할 때가 있단 말이지.",
+      "content": "助かる、ありがとう",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "게다가 매뉴얼도 점차 디지털화되어서 읽기도 불편하니……",
+      "content": "最近はやたらと機能が多い機器ばっかりで、マニュアルもどんどんデジタル化されて読みづらいし……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "기본적인 기능에 충실하던 옛날 제품들이 그리워.",
+      "content": "シンプルな機能で使いやすかった、昔の製品が恋しい……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭔가 사키는 예스럽네……",
+      "content": "いや、「昔」も何も……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "뭐……?",
+      "content": "ん？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "지금 나를 할머니 같다고 한 거야?!",
+      "content": "それはつまり、私が「おばあちゃん」だと言いたいのか？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 말은 하지 않았어…….",
+      "content": "いや、そうじゃなくって……",
       "isFirst": true,
       "file": ""
     },
