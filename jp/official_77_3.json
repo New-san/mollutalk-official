@@ -1,6 +1,6 @@
 [
   {
-    "title": "놀이터 안전 점검",
+    "title": "安全確認ですから！",
     "nickname": "Molru",
     "date": "2022-10-23 18:56:42",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "선생님, 그 이야기 들으셨나요?",
+      "content": "先生、聞きましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "이번에 키보토스 중앙구에 커다란 실내 놀이터가 새로 개장한대요.",
+      "content": "今度キヴォトスの中央区に「プレイランド」と呼ばれる、大きな室内型の遊び場がオープンするようです！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "매화원의 원생들이 다음 견학은 그곳으로 가자고 졸라대서, 견학 전에 미리 안전 점검을 다녀오려고요.",
+      "content": "梅花園の子たちがみんな行きたいと言っているので、実際に行く前に一度安全性などを確認しに行こうかと思ってまして",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "괜찮으시다면 이번 주말에 그 실내 놀이터에 가보지 않으시겠어요?",
+      "content": "もしよろしければ今度の週末、一緒に行きませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 괜찮아. 한가하던 참이었거든.",
+      "content": "うん、私で良ければ喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그나저나 어려진 몸으로 가도 괜찮겠어?",
+      "content": "あ、でも、シュンは今の身体で外に出ても大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "괜찮아요.",
+      "content": "はい、大丈夫です！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "……아니, 오히려 이번만큼은 어려져서 다행이라고 생각해요.",
+      "content": "いえ、むしろ今がピッタリのタイミングなんです",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 102, "index": 3 },
-      "content": "어린아이의 시선으로 놀이터를 돌아볼 기회는 흔치 않으니까요!",
+      "content": "子どもたちの目線で確認できる機会なんて、めったにありませんので！",
       "isFirst": true,
       "file": ""
     },
