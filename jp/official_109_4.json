@@ -1,6 +1,6 @@
 [
   {
-    "title": "SRT, 강하합니다!",
+    "title": "SRT、降下します！",
     "nickname": "Mollu",
     "date": "2022-11-12 04:31:01",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "<SYSTEM> 여기는 RABBIT 1. 이륙 허가를 요청합니다……",
+      "content": "こちらRABBIT1。離陸の許可を要請します……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잠깐, 미야코. 스톱! 스톱!",
+      "content": "ミヤコ、ストップ！ストップ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "네? 선생님?",
+      "content": "……あれ？先生？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "어라, 또 선생님의 메일 주소를 헬리콥터 관제소 주소와 착각했군요. 죄송해요.",
+      "content": "あ。また宛先を間違えていました、すみません",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘도 강하 작전이 있어?",
+      "content": "今日も降下作戦があるの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "네, 선생님. 오늘 2200시에 헬기를 사용한 강하 작전이 예정되어 있습니다.",
+      "content": "はい。本日2200に、ヘリを使った降下作戦が予定されています",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "키보토스에 불법으로 동물들을 들여오는 밀수업자들을 습격하는 임무입니다.",
+      "content": "キヴォトスへ不法に動物たちを輸入している、密輸業者たちを襲撃する任務です",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이번 강하 작전에는 나도 따라갈게.",
+      "content": "今回の降下作戦には私も付いて行くよ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "네? 선생님도 함께 헬리콥터를 타시겠다고요?",
+      "content": "はい？先生も一緒にヘリに乗られるのですか？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "위험할텐데…… 괜찮으신가요?",
+      "content": "危ないと思いますが……大丈夫ですか？",
       "isFirst": false,
       "file": ""
     },
