@@ -1,6 +1,6 @@
 [
   {
-    "title": "SRT, 구출합니다!(번역)",
+    "title": "SRT、救出します！",
     "nickname": "Molru",
     "date": "2022-10-24 21:27:51",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "선생님은 개 파이시나요, 고양이 파이시나요?",
+      "content": "突然ですが、先生は犬派ですか？猫派ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 개 파야.",
+      "content": "犬派だよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나는 고양이 파야.",
+      "content": "猫派かな",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "그렇네요. 개는 충성스럽고 사람을 잘 따라서 좋아하는 사람이 많지요.",
+      "content": "そうですか。たしかに犬は忠誠心があり、人懐っこいということで好きな方が多いですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "그렇네요. 고양이는 귀엽고 도도한 매력이 있어서 좋아하는 사람이 많지요.",
+      "content": "そうですか。猫はキュートでスマートな魅力があり、好きな方が多いですね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼 미야코는 개 파야, 고양이 파야?",
+      "content": "ミヤコは犬派？猫派？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "글쎄요. 저는……",
+      "content": "そうですね、私は……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "……토끼 파려나요.",
+      "content": "……強いて言えば、ウサギ派でしょうか",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "선생님, 아까 분양 받은 토끼의 사진이에요.",
+      "content": "先生、写真をどうぞ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "막 먹이를 먹고 잠든 참이랍니다.",
+      "content": "ちょうど餌を食べて寝たところです",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "토끼는 정말 귀엽네",
+      "content": "すごく可愛いね",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "그렇죠? 토끼에게는 개나 고양이와는 다른 매력이 있어요.",
+      "content": "ですよね？ウサギには犬や猫とはまた違った魅力があります",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "나중에 깨어나면 새로운 사진을 찍어서 보내 드릴게요.",
+      "content": "後で目覚めたら、また写真を撮って送りますね",
       "isFirst": false,
       "file": ""
     }
