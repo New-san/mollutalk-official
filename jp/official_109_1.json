@@ -1,6 +1,6 @@
 [
   {
-    "title": "SRT, 돌입합니다!(번역)",
+    "title": "SRT、突入します！",
     "nickname": "Molru",
     "date": "2022-10-24 21:00:21",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "<SYSTEM> 여기는 RABBIT 1. 착륙 허가를 요청합니다.",
+      "content": "こちらRABBIT1、着陸の許可を要請します",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……미야코? 메일을 잘못 보낸 거 아냐?",
+      "content": "……ミヤコ？メール送り間違えてない？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "<SYSTEM> 고도 2000 피트까지 하강. 강하 준비 완료했습니다.",
+      "content": "高度2000フィートまで降下、準備完了です",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……???",
+      "content": "……？？？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 119, "index": 1 },
-      "content": "<SYSTEM> 목표까지 약 1.5 마일— 곧 돌입합니다.",
+      "content": "目標まで約1.5マイル--まもなく突入します",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……미야코? 어디에 돌입하려는 거야?",
+      "content": "……ミヤコ？どこに突入しようとしてるの？",
       "isFirst": true,
       "file": ""
     },
