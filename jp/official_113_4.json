@@ -1,6 +1,6 @@
 [
   {
-    "title": "이윽고 소녀는 멋진 레이디가 된다.(번역)",
+    "title": "そして少女は素敵なレディーに",
     "nickname": "Molru",
     "date": "2022-10-27 01:38:59",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "선생님선생님! 헬프! 헬프!",
+      "content": "先生！非常事態！！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "가면 드라이버의 필살기! 이머전시 드라이브 킥이야!",
+      "content": "非常事態といえば仮面ドライバーの必殺技「エマージェンシードライブキック」だよ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이, 이머전시…. 뭐?",
+      "content": "エマージェンシー……え？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야, 카에데? 뭔가 큰일이라도 난 거야?!",
+      "content": "何か大変なことが起きた感じ？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "응…? 큰일…?",
+      "content": "えっと、どこから説明すれば……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "아…! 응! 맞아! 선생님 말대로……. 이건 어마어마하게 큰일인 걸지도?!",
+      "content": "とりあえず、めちゃくちゃ大変なことが起きたの！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "혹시 카에데, 어딘가 크게 다쳤다던가?!",
+      "content": "大丈夫？怪我とかしてない？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "응? 나? 난 괜찮은데? 완전 쌩쌩한데? 아침밥도 1등으로 먹었다구?",
+      "content": "私は全然元気！さっき朝ごはんもお代わりした！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "그~보다 중요한 건 그런 게 아니야~! 선생님!",
+      "content": "それより、そんなことじゃなくて！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만 방금 분명 카에데가 이머전시라고….",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "아~ 이머전시라는 건 말이지. 그러니까 그게 말이야~!",
+      "content": "とにかく、非常事態なの！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "…핫?! 아냐아냐! 이런 어마어마한 소식을 그냥 모모톡으로만 전해선 안 돼!",
+      "content": "ここまでの非常事態だと、モモトークじゃ教えられない！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "어디서 누가, 이 모모톡을 염탐하고 있을지도 모르고!",
+      "content": "どこかの誰かが、このモモトークを盗み見してるかもしれないし！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 없지. 그런 일.",
+      "content": "それは大丈夫だと思うけど……多分",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "어쨌거나 용건은 직접 만나서 전하는 게 좋을지도?!",
+      "content": "とにかく用件は、直接会って話すね！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 88, "index": 1 },
-      "content": "나! 놀이터에서 기다리고 있을게! 얼른 와! 선생님!",
+      "content": "公園で待ってるから！",
       "isFirst": true,
       "file": ""
     },
