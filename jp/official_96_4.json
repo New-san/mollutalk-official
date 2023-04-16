@@ -1,6 +1,6 @@
 [
   {
-    "title": "비상대기인원",
+    "title": "待機中",
     "nickname": "Molru",
     "date": "2022-10-23 22:12:06",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "<응급의학부 발신> <게헨나 자치구 32-1번가> 일부 학생들의 소화기 장난으로 인한 사고 발생. 사건 주모자와 피해 학생들 일부가 인근 양호실로 강제 이송되었습니다. PM.06:47",
+      "content": "救急医学部よりゲヘナ全校生徒へ：ゲヘナ自治区32-1番街にて、悪戯により消火器の暴発事故が発生。事件の首謀者と被害者の生徒たちの一部は、近くの保健室に輸送されました　PM06:47",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "<응급의학부 발신> 또한, 상황이 완전히 종료된 것이 아니므로 비상 인원이 대기 중입니다. 해당 지역 방문자는 우회로를 통하거나 일정 변경을 요망. PM.06:47",
+      "content": "救急医学部よりゲヘナ全校生徒へ：事態は未だ沈静化していませんので、付近にて人員待機中。当該地区へ訪問予定の方は日時の変更をお勧めします　PM.06:47",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고생이 많네.",
+      "content": "今日もお疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "늘 바쁘구나.",
+      "content": "いつも忙しいんだね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "괜찮습니다. 선생님. 신경 쓰실 만한 사안은 아닙니다.",
+      "content": "大丈夫です、それほどの事案ではありませんので",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 29, "index": 1 },
-      "content": "그럼 이만.",
+      "content": "それでは、また",
       "isFirst": false,
       "file": ""
     },
