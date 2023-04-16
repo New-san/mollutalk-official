@@ -1,6 +1,6 @@
 [
   {
-    "title": "북풍과 태양(번역)",
+    "title": "北風と太陽",
     "nickname": "Molru",
     "date": "2022-10-25 02:03:17",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "선생님, 혹시 샬레에 반짇고리 있어?",
+      "content": "先生、シャーレに裁縫箱はあるか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 사무실 책상에 있어.",
+      "content": "うん、デスクの中にあるよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "반짇고리는 갑자기 왜?",
+      "content": "全然使って大丈夫だけど、何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "그게, 쓰고 다니던 철모의 내피가 삭아 끊어지려고 해서.",
+      "content": "鉄帽のバンドが切れそうになってて",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "추가 보급을 기대하기 어려운 상황이니 이 정도는 직접 수선해야지.",
+      "content": "こんな状況だし、自分で直すしか……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 철모, 벗을 수 있는 거구나…….",
+      "content": "直すってことはもしかして、その時は鉄帽脱ぐの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "응? 당연히 장비인데 벗을 수 있지.",
+      "content": "まあ、それは当然",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 118, "index": 1 },
-      "content": "어째서 사람을 철모에 깃든 요괴 취급하는 거야…….",
+      "content": "……何で「絶対に脱がない」みたいに思われてるんだ",
       "isFirst": false,
       "file": ""
     },
