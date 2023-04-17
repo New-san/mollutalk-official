@@ -1,6 +1,6 @@
 [
   {
-    "title": "유혹하는 프로일라인(번역)",
+    "title": "誘惑するフロイライン",
     "nickname": "Molru",
     "date": "2022-10-27 01:40:37",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "오늘도 그럼 땡땡이치러….",
+      "content": "それでは今日もサボりに",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "가 아니라, 업무차 찾아뵙도록 하겠습니다.",
+      "content": "ではなく、お仕事のことでお伺いしますね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…땡땡이? 응?",
+      "content": "……イロハさん、隠す気ないですよね？",
       "isFirst": true,
       "file": ""
     },
