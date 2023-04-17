@@ -1,6 +1,6 @@
 [
   {
-    "title": "닌자 소녀는 빛나고 싶어!(번역)",
+    "title": "忍者少女は輝きたい",
     "nickname": "Molru",
     "date": "2022-10-27 01:53:43",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "맞다. 선생 공. 혹시 샬레의 사무실에 그게 있는지 찾아봐 줄 수 있어?",
+      "content": "そうだ先生、シャーレにあれ無い？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그거라니? 뭘 말이야?",
+      "content": "あれって……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "그러니까 그거. 내가 자주 보는 만화책- <카마보코 돌풍전> 19권 말이야 ",
+      "content": "「かまぼこ突風伝」の19巻！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "부실에서 아무리 찾아봐도 보이지 않길래. 짚이는 곳이 거기뿐이더라고",
+      "content": "部室に無いから、あとはシャーレくらいかなって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어느새 샬레에 그런 물건을?!",
+      "content": "いつの間に置いてたんだ……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "응…? 그야 우리 부실. 일단은 임시고. 언제 백화요란 녀석들이 들이닥칠지 모르고",
+      "content": "それはその、うちの部室、あくまで仮の場所だし……いつ百花繚乱が押し寄せてくるかも分からないから……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "음양부 녀석들도 매번 시끄럽게 들쑤시고 있으니까",
+      "content": "あと陰陽部も、いつ来るか分かったもんじゃないし……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "나의 닌자 두뇌를 써서 생각해 본 결과-",
+      "content": "そこで私の忍者脳で演算した結果",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "굿즈는 샬레에 보관한다. 응. 그게 합리적이란 결론을 내렸지",
+      "content": "グッズはシャーレに保管するのが合理的、という結論に至ったの！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "샬레는 창고가 아닙니다. 미치루 양….",
+      "content": "シャーレは倉庫じゃないんですよ、ミチルさん……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "아! 심심하면 선생 공도 봐도 되니까! 추천하거든! 카마보코 시리즈!",
+      "content": "もちろん先生殿も読んで良いよ、「かまぼこ」シリーズ面白いから！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "그리고 말 나온 김에 전해두는 건데. 오늘 밤엔 공원에서 집합이니까. 까먹지 마?",
+      "content": "あ、そういえば今夜は公園に集合ね",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "그럼 기다리고 있겠소이다! 선생 공!",
+      "content": "待ってるよ、先生殿！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "화제 전환 빠르구만! ",
+      "content": "急な話題転換だね……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 좋은데, 오늘 밤엔 뭘 하려고…?",
+      "content": "それは良いんだけど、今夜は何をするの？",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "(파바바바바바밧!!!) <- 신발 끈 묶는 소리",
+      "content": "（しゅばばばばばばっ！！！）←靴ひもを結ぶ音",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이젠 닌자의 행동조차 아니지 않아…?!",
+      "content": "もう忍者っぽいアクションですらない……！？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "…선생 공, 어제 그거 때문인 건지. ",
+      "content": "先生殿、昨日のアレのせいか……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "소생……. 감기에 걸려버렸소이다….",
+      "content": "風邪引いちゃったぁ……",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…알았어. 가서 죽 만들어줄 테니까.",
+      "content": "おかゆ作りに行くね……",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "그… 으응, 고, 고마워. 선생 공.",
+      "content": "ありがとう、先生殿……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "기, 기다리고 있겠습니다아….",
+      "content": "えっと、待ってるからね……",
       "isFirst": false,
       "file": ""
     }
