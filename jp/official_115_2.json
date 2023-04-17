@@ -1,6 +1,6 @@
 [
   {
-    "title": "닌자 소녀는 멈추지 않아(번역)",
+    "title": "忍者少女は止められない",
     "nickname": "Molru",
     "date": "2022-10-27 01:47:11",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "오늘 오후, 샬레를 방문하겠다. – 닌자M",
+      "content": "本日の午後、シャーレへ推参する　忍者Ｍ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 방문 예고를 그런 식으로 해도 말이지….",
+      "content": "こんな風に訪問予定を言わなくても……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그보다 그거, 닌자가 아니라 괴도의 방식이잖아….",
+      "content": "これは忍者ではなく怪盗では……？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "에이~ 세세한 건 신경 쓰지 말라고~!",
+      "content": "細かいことは言いっこなし！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "게다가 괴도라면 대충 닌자의 후예 같은 거니까. 괜찮아!",
+      "content": "怪盗もざっくり言っちゃえば忍者みたいなものだから大丈夫！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "닌자 만능론인가?!",
+      "content": "本当にそうかな！？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "우냐핫! 예고는 했소! 그러니 선생 공! 목을 씻고 기다리고 계시오!",
+      "content": "とりあえず予告はしたよ、先生殿！首を洗って待っているが良い！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "조만간 소생이 찾아뵙겠소이다!",
+      "content": "またすぐ相まみえることになろう！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "(퍼퍼버버벙!!) <- 연막탄을 터트린 소리",
+      "content": "（ボンッ！！）←煙幕弾の効果音",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "(샤샤샤샥!) <- 재빠르게 물러나는 소리",
+      "content": "（シュバババッ！）←素早く去る音",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…저기, 뭔가 더 늘지 않았어?",
+      "content": "……毎回親切にありがとね",
       "isFirst": true,
       "file": ""
     },
