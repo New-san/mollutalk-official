@@ -1,6 +1,6 @@
 [
   {
-    "title": "소녀는 그래도 알고 싶다(번역)",
+    "title": "少女はそれでも知っていたい",
     "nickname": "Molru",
     "date": "2022-10-27 02:21:50",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "이번 <ron-ro>의 최신호에는 ",
+      "content": "先生！今回の「ron-ro」の最新号で……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "<학교에서 가르쳐주지 않는 비밀 지식 10선>",
+      "content": "「学校では絶対教えてくれないマル秘知識10選」",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "이라는 특집 기사가 나온대요!!",
+      "content": "という特集記事があるらしくて！！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어…… 그래?",
+      "content": "えっと……そ、そうなんだ？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "학교에서 알려주지 않는 비밀 지식이라니, ",
+      "content": "学校では絶対教えてくれないマル秘知識だなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "그게 뭘까요? 선생님은 알고 계신가요?",
+      "content": "一体何でしょうか……先生はご存知ですか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 잘 모르는데…….",
+      "content": "さ、さあ……なんだろうね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그, 글쎄…….",
+      "content": "どうなんだろうね……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "그게 뭘까요? 뭐죠? 대체?!",
+      "content": "先生も分からないものとは一体何でしょう！？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "최신호가 폐지로 나오려면 몇 달은 더 걸릴 텐데",
+      "content": "最新号が古紙になるまで普通数か月はかかるのに……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "어떻게 기다려야 할까요? 망했어요, 완전 망했어요",
+      "content": "その間どうやって待てばいいんですか……終わりです、完全にこの世の終わりです",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "혼자 있을 때 잡지를 읽는 것 말고는 할 것도 딱히 없는데…….",
+      "content": "一人でいる時、雑誌を読む以外にやることないのに……",
       "isFirst": true,
       "file": ""
     },
