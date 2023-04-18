@@ -1,6 +1,6 @@
 [
   {
-    "title": "통제 밖의 육체(번역)",
+    "title": "ままならない身体",
     "nickname": "Molru",
     "date": "2022-10-27 02:06:22",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "다음 목적지가 결정되었어.",
+      "content": "次の目的地が決まった",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "매번 보고할 필요는 없겠지만.",
+      "content": "毎回報告する必要はないんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "혹시 모르니까 말해둘게.",
+      "content": "念のため伝えておく",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 시간 될 때 잠깐 들러줘. 미사키.",
+      "content": "気をつけてね。時間がある時、何があったか聞かせてほしいな",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "……응? 나 말이야?",
+      "content": "……ん？私に何があったか、ってこと？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "관심 없어.",
+      "content": "それは……",
       "isFirst": false,
       "file": ""
     },
