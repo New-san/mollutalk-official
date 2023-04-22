@@ -1,6 +1,6 @@
 [
   {
-    "title": "모닥불 곁에서 어른거리는 마음에(번역)",
+    "title": "焚き火のそばでちらつく心",
     "nickname": "Molru",
     "date": "2022-10-27 02:48:07",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "선생님. 괜찮으시다면.",
+      "content": "先生、お元気でしょうか？……その、もしよろしければ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "이전에 약속했던 대로 함께…….",
+      "content": "以前お約束を頂戴した通り、一緒に……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안, 와카모. 지금은 바빠서 말이야.",
+      "content": "ごめん、ワカモ。ちょっと今忙しくて……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "조금만 기다려줄래?",
+      "content": "少しだけ待ってくれる？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "네엣. 알겠습니다.",
+      "content": "はい。分かりました",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "이 와카모, 당신을 기다리고 있겠습니다.",
+      "content": "このワカモ、いつまでもあなた様をお待ちしております",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "오늘 하루, 함께 해주셔서 감사합니다. 선생님.",
+      "content": "本日は一日、ありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "이 와카모, 오늘 하루, 무척이나 특별한 추억이 되었습니다.",
+      "content": "このワカモ、今日という日が、大切な思い出の日となりました",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아냐, 나야말로.",
+      "content": "ううん、私の方こそ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다음엔 좀 더 그, 평범하게 만나자.",
+      "content": "次はもっとゆっくり会おうね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "네에, 당신의 그 말씀, 가슴 깊이 새겨 두도록 하겠습니다.",
+      "content": "はい、あなた様のそのお言葉、胸の奥に刻んでおきます",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "다음엔…… 그렇지요.",
+      "content": "次は……そうですね",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "이러한 기다림 대신, 평소와 마찬가지로.",
+      "content": "このような事がないよう、いつもと同じように",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "제가 직접 샬레의 정문으로, 찾아뵙도록 하겠습니다.",
+      "content": "シャーレの正門から、お伺いするように致します",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 그런 거라면 평소 보안이 걸려 있으니까.",
+      "content": "あ、正門は普段セキュリティがかかっているから",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "우후훗, 그런 보안 따위, 이 와카모에겐 아무런 문제도 되지 않기에.",
+      "content": "うふふっ、そんなセキュリティなんて、このワカモには何の障害にもなりません",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……응? 와카모? 잠깐. 그 말뜻은.",
+      "content": "……ワカモ？ちょっと待って、それって……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "그럼 이만 총총.",
+      "content": "不－",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기, 저기요? 와카모? 저기요?!",
+      "content": "えっ、ワカモ！？待って！？",
       "isFirst": true,
       "file": ""
     }
