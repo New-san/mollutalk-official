@@ -1,6 +1,6 @@
 [
   {
-    "title": "그저 당신을 위한 마음에(번역)",
+    "title": "ただあなた様のため",
     "nickname": "Molru",
     "date": "2022-10-27 02:44:11",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "선생님. 오늘은 평소보다도 더욱 날이 무더워진 듯합니다만.",
+      "content": "先生、ご無沙汰しております",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "혹여 건강엔 별고 없으신지요?",
+      "content": "本日は真夏日のようですが、お変わりはありませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 걱정해줘서 고마워. 와카모, 난 괜찮아.",
+      "content": "心配してくれてありがとう、ワカモ。私は大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "와카모야말로 별일 없지?",
+      "content": "ワカモこそ大丈夫？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "아아…. 평소와 마찬가지로 다정하기 그지없는 말씀.",
+      "content": "あぁ……いつ何時も変わらないこの優しいお返事……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "네에- 물론이랍니다. 이 와카모, 건강 하나만큼은 자신 있기에.",
+      "content": "ええ、ご安心ください。このワカモ、健康だけは自信がありますので",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "건강한 게 최고지.",
+      "content": "元気なのが一番だね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "네…? 아, 그보다 선생님….",
+      "content": "うふふ……時に、先生",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "당신께서 평소 일로 무척이나 바쁜 걸, 이 와카모도 잘 알고 있습니다만.",
+      "content": "あなた様がご多忙を極めていらっしゃる事は、このワカモもよく存じておりますが",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "혹시 오늘도…?",
+      "content": "もしかして、本日も……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 오늘도 하루 종일 샬레에 있을 예정인데… 무슨 일 있어?",
+      "content": "うん、今日も一日中シャーレにいる予定だけど……どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "그러하신가요…. 무자비한 여름의 열기를 피할 수 있는 것은 다행이지만.",
+      "content": "そうでしたか……無慈悲な太陽の熱を避けられるのは良いことですが……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "그래서야 당신께 오늘은 전혀 여름답지 않은 하루가 되어버릴 터.",
+      "content": "つまりあなた様にとって今日は、全く夏らしくない一日になってしまうのですね……",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "네에. 과연 그런 것이로군요.",
+      "content": "ええ……それは、あまりにも……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 소리야?",
+      "content": "えっと……ワカモ？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "잘 알겠습니다.",
+      "content": "よくわかりました",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "당신을 위해서라면, 이 와카모. 얼마든지 힘을 낼 터이니.",
+      "content": "あなた様のためなら、このワカモ一肌脱いでご覧にいれましょう",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 95, "index": 4 },
-      "content": "부디 기대해주시길",
+      "content": "どうぞご期待なさってくださいませ♥",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응…? 저기? 와카모…?",
+      "content": "え……？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…저기요?",
+      "content": "……ど、どういう意味？",
       "isFirst": true,
       "file": ""
     },
