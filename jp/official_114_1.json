@@ -1,6 +1,6 @@
 [
   {
-    "title": "습격해오는 프로일라인(번역)",
+    "title": "襲来するフロイライン",
     "nickname": "Molru",
     "date": "2022-10-27 01:39:58",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "선생님, 샬레에 계신가요?",
+      "content": "先生、今はシャーレにいるんですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 이로하. 일단은 그런데. 왜?",
+      "content": "うん、そうだよ。どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "그럼 됐습니다.",
+      "content": "そうですか",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…이로하? 응?",
+      "content": "……イロハ？",
       "isFirst": true,
       "file": ""
     },
