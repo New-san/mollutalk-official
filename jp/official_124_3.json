@@ -1,6 +1,6 @@
 [
   {
-    "title": "그 속을 직접 볼 순 없지만",
+    "title": "その中を見ることはできずとも",
     "nickname": "Mollu",
     "date": "2023-01-31 20:28:53",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "음",
+      "content": "海はいいよね",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "역시 좋구나 해변은",
+      "content": "白い砂浜、どこまでも続く水平線……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꽤 감상적이네",
+      "content": "詩的だね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋지, 해변은",
+      "content": "海はいいよね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "으헤",
+      "content": "うへ……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "뭐어",
+      "content": "えっと",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "그냥 한번 해 본 말이야",
+      "content": "ちょっと言ってみたかっただけ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "별 이유는 없었어",
+      "content": "特に深い意味はないよ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "그러고 보니 선생",
+      "content": "そういえば先生",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "어딘가에서 본 적이 있는데,",
+      "content": "どこかで聞いたことがあるんだけど",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "아까 숭어처럼",
+      "content": "さっきのボラみたいに",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "고래도",
+      "content": "鯨もジャンプするって聞いたんだけど",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "물 위로 뛸 때가 있다지?",
+      "content": "それって",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "그건 얼마나 기다리면 될까나?",
+      "content": "どれくらい待てば見れるんだろう？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일단 연안에선 힘들 텐데",
+      "content": "沿岸では見れないんじゃないかな",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "먼 바다로 나가야 하지 않을까",
+      "content": "遠い海の方に出たら見れるかな",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "으헤",
+      "content": "うへ……ちょっと難しいなそれは",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "아쉽네",
+      "content": "残念……",
       "isFirst": false
     },
     {
@@ -213,7 +213,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "뭐, 그냥",
+      "content": "まあ、でも",
       "isFirst": true,
       "file": ""
     },
@@ -223,7 +223,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "기회가 되면 그때 같이 구경이나 가자고",
+      "content": "機会があったら一緒に見に行こうよ",
       "isFirst": false,
       "file": ""
     },
@@ -233,7 +233,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 2, "index": 4 },
-      "content": "같이.",
+      "content": "一緒に、ね",
       "isFirst": true,
       "file": ""
     }
