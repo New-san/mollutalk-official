@@ -1,6 +1,6 @@
 [
   {
-    "title": "닌자 소녀는 까다로워(번역)",
+    "title": "忍者少女は気難しい",
     "nickname": "Molru",
     "date": "2022-10-27 01:45:47",
     "replyNo": 9,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "도-모 선생=공. 소생, 미치루라 하오",
+      "content": "ドーモ、先生殿……小生、ミチルと申す",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기… 미치루? 갑자기 왜 그래?",
+      "content": "えっと……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "이건 우리 같은 닌자 덕후들 사이에서 대대로 통용되는 전통의 인사!",
+      "content": "ふふっ……これはねー、忍者オタクの間で代々語り継がれてきた伝統の挨拶！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "이걸 받아주지 않는다니 그러고도 선생 공이 나와 같은 닌자 덕후 동지…. <닌자 메이트>를 자처할 수 있겠어?",
+      "content": "これに返せないとは、先生殿も忍者オタク仲間……忍者メイトとしてはまだ未熟のようだね！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 그런 걸 자처했던 기억은 없는데….",
+      "content": "忍者メイト……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "크윽…! 그, 그렇게 말하니 왠지 분한걸…!",
+      "content": "くっ……そう言われるとなんだか悔しい",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "뭐야, 선생 공…. 설마 잊은 거야?! ",
+      "content": "せ、先生殿……もしかして忘れたの！？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "야심한 밤……. 달밤 아래에서 나와 함께 단둘이서 앰부쉬를 했던 추억을!",
+      "content": "草木も寝静まるあの夜更け……月夜の下で、私と一緒に二人でアンブッシュしたあの思い出を！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 2,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "아, 참고로 앰부쉬란 수풀 속에서 은밀히 행동한다는 뜻의 닌자 은어니까. 기억해두라고!",
+      "content": "あ、ちなみにアンブッシュは「茂みの中で密かに行動する」っていう意味の忍者用語だよ。覚えておいてね！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 2,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 굉장한 추억 없거든?! 앰부쉬라니, 뭐냐고!",
+      "content": "それはちょっと記憶にないかな……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "뭐, 사소한 건 됐고~",
+      "content": "まぁまぁ細かい事は気にしない～",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "그렇다고 너무 실망하지 마! 선생 공은 보기 드문 닌자의 재능을 가진 사람이니까.",
+      "content": "でも、あんまりがっかりしなくていいよ。先生殿はすごい忍者の才能の持ち主だからね",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "장래성이 있어! 인법연구부의 부장인 내가 보증해주도록 하지!",
+      "content": "先生殿の忍者としての未来は明るいよ。忍術研究部部長の私が保証してあげる！",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그, 고, 고마워…?",
+      "content": "そ、そう……ありがとね？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "우냐핫! 별말씀을!",
+      "content": "ううん、気にしないでいいよ！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래서 미치루, 무슨 일로 연락을….",
+      "content": "ところでミチル、今日はどうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "아! 이러는 사이 열차 시간에 늦겠어!",
+      "content": "やば、電車の時間もうすぐじゃん",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "아, 그럼 이만! 물러나 보겠소이다! 선생 공! 또다시 만날 날을 기다리며 아디오스=SAYONARA!",
+      "content": "それでは先生殿！また会えるその日まで、アディオス＝SAYONARA！",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 93, "index": 1 },
-      "content": "(퍼퍼버버벙!!) <- 연막탄을 터트리는 소리",
+      "content": "（ボンッ！！）←煙幕弾の効果音",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "…어?! 효과음까지 설명해주는 거야…?!",
+      "content": "効果音を説明してくれた……！？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 7,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음, 그러니까, 아디오스=SAYONARA!",
+      "content": "えっと……アディオス＝SAYONARA！",
       "isFirst": true,
       "file": ""
     },
