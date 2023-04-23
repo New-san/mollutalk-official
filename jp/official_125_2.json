@@ -1,6 +1,6 @@
 [
   {
-    "title": "그런데…… 무엇을 위해서였죠?(번역)",
+    "title": "結局、何のためでしたっけ？",
     "nickname": "Molru",
     "date": "2022-10-27 04:06:50",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "저, 선생님?",
+      "content": "あの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "왜 그래?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "아뇨……",
+      "content": "いえ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "아무것도 아니에요. 응. 그래요.",
+      "content": "やっぱり、何でもありません",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "서로, 힘내죠?",
+      "content": "とにかく今日も、お互い頑張っていきましょう！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "상담이라도 필요해?",
+      "content": "もしかして、悩んでたりする？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "따, 딱히 그런 거 아니거든요?!",
+      "content": "べ、別にそういうわけでは……！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "신나서 넘겨짚지 마세요!",
+      "content": "先生の気のせいです！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음…… 백야당 바다의 집 오너와",
+      "content": "たまには百夜堂のオーナーと",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잡담이라도 나누고 싶은데.",
+      "content": "雑談とかしたいな",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "그, 그런 거라면 뭐!",
+      "content": "……そ、そういう事でしたら！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "만나서 이야기하지 못할 것도 없죠, 네! ",
+      "content": "会って話せない……ことも無いです！はい！",
       "isFirst": true,
       "file": ""
     },
