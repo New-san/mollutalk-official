@@ -1,6 +1,6 @@
 [
   {
-    "title": "씻기지 않는 것들(번역)",
+    "title": "綺麗にならなくても",
     "nickname": "Molru",
     "date": "2022-10-27 02:09:22",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "선생님.",
+      "content": "先生、今大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미사키……?",
+      "content": "ミサキ……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "미안. 도움이 필요해.",
+      "content": "ごめん……ちょっと、助けてほしい",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 바로 갈게.",
+      "content": "分かった、すぐ行くね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "지금 어디냐면…….",
+      "content": "場所は、この後送る……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "……응.",
+      "content": "その……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "고마워.",
+      "content": "ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "……짜증나.",
+      "content": "……子ども扱いしないで",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "화나.",
+      "content": "腹立つ、最悪",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "죄송합니다…….",
+      "content": "すみません……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "오늘 신세 진 건 다음에 갚도록 할게.",
+      "content": "今日お世話になった分は、今度お返しするから",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 127, "index": 1 },
-      "content": "그럼 또 봐.",
+      "content": "じゃ、また明日",
       "isFirst": false,
       "file": ""
     }
