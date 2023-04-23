@@ -1,6 +1,6 @@
 [
   {
-    "title": "때로는 영악한 프로일라인(번역)",
+    "title": "狡猾なフロイライン",
     "nickname": "Molru",
     "date": "2022-10-27 01:41:57",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "선생님, 오늘 일정은 어떠신가요?",
+      "content": "先生、今日もお仕事でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘도 말도 못 하게 바빠….",
+      "content": "膨大な量の作業が……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "아, 그 마음, 절절히 이해해요. ",
+      "content": "まあ、お気持ちは理解できます",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "해치웠다고 생각하면 다시 기어 나오고, 남이 할 거라고 생각한 순간.",
+      "content": "片付けたと思ったらまた出てくるわ、誰かがやるかと思いきや誰も手を付けないわ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "내게 부메랑처럼 돌아오는 것. 중간관리자가 하는 일이 다 그렇죠. 뭐.",
+      "content": "大変ですよね、中間管理職",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "그런데….",
+      "content": "ところで",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "뭐, 그럼 오늘 커피는 진한 아메리카노로 부탁드릴게요.",
+      "content": "今日は苦いのが飲みたい気分ですね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "오늘은 어쩐지 쓰디쓴 게 땡기더라구요.",
+      "content": "濃い目のアメリカーノでお願いします",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이로하, 위에서 내가 한 메시지 본 거 맞지?",
+      "content": "イロハ、上にあるメッセージ見てくれた？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "네? 그야 물론이죠.",
+      "content": "はい、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 20, "index": 1 },
-      "content": "그럼 이따가 뵙겠습니다.",
+      "content": "それではまた後で",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "답변이 산뜻해서 이젠 태클 걸 생각도 들지 않아….",
+      "content": "文脈が読めてないのは私なのかな……",
       "isFirst": true,
       "file": ""
     },
