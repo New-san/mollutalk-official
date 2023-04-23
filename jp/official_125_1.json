@@ -1,6 +1,6 @@
 [
   {
-    "title": "보셨죠? 저, 성공했어요!(번역)",
+    "title": "私、成功しちゃいました！",
     "nickname": "Molru",
     "date": "2022-10-27 04:05:36",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "선생님!",
+      "content": "先生、お疲れ様です！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "후후, 우후후후, 후후후후하하핫!",
+      "content": "ふふっ、うふふふふ……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "므하하하핫?",
+      "content": "ふふふふふ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "우후후후……?",
+      "content": "くっくっくっく？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "그건 또 무슨 삼류 싸구려 악당 같은 웃음인가요!",
+      "content": "なんですか、その安っぽい悪党みたいな笑い方！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "저 그렇게 웃은 적 없거든요?!",
+      "content": "私そんな風に笑ってませんよね！？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래서 여름인데 무슨 일이야, 시즈콧치?",
+      "content": "それで、急にどうしたのシズコっち？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "치……?",
+      "content": "っち……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "뭐, 좋아요. 오늘은 백야당 최고의 날이니까!",
+      "content": "まあ、良いでしょう！なにせ今日は、百夜堂が始まって以来最高の日ですからね！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "너그럽게 넘어가 드릴게요!",
+      "content": "広い心で受け止めてあげます！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "감사하셔도 좋다구요? 우후후후!",
+      "content": "感謝して良いんですよ、ふっふっふっ！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "기분이 좋아 보이네.",
+      "content": "なんだか機嫌良さそうだね",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "그 정도가 아니에요!",
+      "content": "はい、最早「良い」どころの騒ぎではありません！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "백야당은 이번 ‘바다의 집’을 발판으로",
+      "content": "百夜堂は、今回の「海の家」を起点にして……",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "전 키보토스적인 프랜차이즈로 거듭날 테니까요!",
+      "content": "キヴォトスいちのフランチャイズ経営店へと生まれ変わるんですから！",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "그러니까 선생님은 그 현장을",
+      "content": "ですから先生には",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "저와 함께 지켜보실 의무가 있어요!",
+      "content": "その一部始終を、私と一緒に見守る義務があります！",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "언제나와 같은 억지구나……",
+      "content": "いつも通りの無茶ぶりだぁ",
       "isFirst": true,
       "file": ""
     },
