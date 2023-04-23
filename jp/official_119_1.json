@@ -1,6 +1,6 @@
 [
   {
-    "title": "소녀는 그래도 읽고 싶다(번역)",
+    "title": "少女はそれでも読んでいたい",
     "nickname": "Molru",
     "date": "2022-10-27 02:18:05",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "안녕하세요, 선생님. 헤헤…….",
+      "content": "先生、こんにちは。えへへ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "선생님 폰 맞죠? ",
+      "content": "えっと、先生のアカウントであってますよね？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히요리……?",
+      "content": "ヒヨリ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "헤헤헤…… 네. 선생님 지금 무",
+      "content": "えへへ……はい。ええと、いま無",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……히요리? ",
+      "content": "……ヒヨリ？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "료 와이파이를 찾았거든요…… 헤헤. ",
+      "content": "料のwifiを見つけたんです……えへへ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "역시 사람은 죽으라는 법은 없는 거랄까…….",
+      "content": "なんとか生き延びるすべはあるというか……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "선생님은 지금 뭐하고 계세요? ",
+      "content": "えっと……それで、先生は今何をしていらっしゃいますか？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "선생님?",
+      "content": "先生？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "선생님? 어째서 답을 해주지 않는 거죠? ",
+      "content": "あれ、どうして答えてくれないのですか？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "드디어 저는 선생님에게도 버림받은 건가요? ",
+      "content": "……とうとう、私は先生にもみはなされてしまったんですか",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "진짜인가요? 망했어요, 진짜 망했네요. 이제 저는 끝장이에요. 으아아아앙아ㅏㅏㅏ아",
+      "content": "そういうことですよね？終わりだ、もうほんとつにおわりでふうわああいあたあい",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "진정해, 히요리. 통신상태를 확인해.",
+      "content": "落ち着いて、ヒヨリ。通信状態を確認してみて",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무료 와이파이라서 메시지 수신에 시간이 걸리는 걸지도 모르니까. ",
+      "content": "無料のWi-Fiだとメッセージの受信に時間がかかってるのかも",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "아 그, 그러네요. 와이파이가 끊겨 있었네요…….",
+      "content": "あ、た、たしかに。Wi-Fiが途切れてしまってましたね……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "그런 거였군요…….",
+      "content": "そういうことだったんですね……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 126, "index": 1 },
-      "content": "죄송합니다…….",
+      "content": "すみません……",
       "isFirst": true,
       "file": ""
     },
