@@ -1,6 +1,6 @@
 [
   {
-    "title": "저는 엄~청난 욕심꾸러기니까요!(번역)",
+    "title": "私、すっごい欲張りなんです！",
     "nickname": "Molru",
     "date": "2022-10-27 04:08:07",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "안! 녕! 하세요! ",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "선생님!",
+      "content": "お疲れ様です！！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안녕. 시즈코.",
+      "content": "お疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘은…… 특히 기운차네?",
+      "content": "何だかこう、いつも以上に元気だね？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "후후, 우후후후. 그럼요!",
+      "content": "うふふふふふ、それはそうです！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "시즈코는 언제나 기운 넘치는걸요?",
+      "content": "シズコはいつだって元気いっぱいですから！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇다기엔, 그때는……",
+      "content": "でも、あのときは……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 모르겠지만, 그런 걸로 하자.",
+      "content": "確かに、そうだったかもね",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "자, 다른 게 아니라 ",
+      "content": "あ、ちなみに",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "제가 선생님을 부른 이유는!",
+      "content": "今日こうしてご連絡した理由はですね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "지금부터 보여드리고 싶고",
+      "content": "今からお見せしたいものがあるのと",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "이야기하고 싶은 게 있기 때문이랍니다.",
+      "content": "お話したいことがあるからです",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 84, "index": 3 },
-      "content": "기대하셔도 좋아요!",
+      "content": "乞うご期待！",
       "isFirst": true,
       "file": ""
     },
