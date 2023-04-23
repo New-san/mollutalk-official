@@ -1,6 +1,6 @@
 [
   {
-    "title": "논다는 것의 의미(번역)",
+    "title": "遊ぶという事",
     "nickname": "Molru",
     "date": "2022-10-27 03:04:30",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "선생님!!",
+      "content": "先生！聞いてください！！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "창고를 정리하다가 여러 가지를 발견했는데……. 여긴 정말 엄청난 곳이에요!",
+      "content": "倉庫を整理してたら、色々とでてきて……それが、すごいんです！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "어마어마한 것들이 잔뜩 있어요! 그것도 하나같이 온전한 상태로!",
+      "content": "掘り出し物がたくさんあって……どれも新品同然なんです！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "전부 주워다 고철상에 팔면",
+      "content": "全部リサイクルショップに持っていったらどれだけ……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아니",
+      "content": "ああでも、そのまま売るのはちょっと勿体ないですね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "주워서 파는 건 너무 아까워요, 보수해서 제대로 팔면…….",
+      "content": "ちゃんと修理して売ればかなりの……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 이야기야?",
+      "content": "え？なんの話？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "우선 진정해, 아야네.",
+      "content": "アヤネ、まずは落ち着いて",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아",
+      "content": "あっ……！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "죄송해요. 들떠서 공유하고 싶은 나머지…….",
+      "content": "すみません、つい。共有したいという気持ちが先走ってしまって……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "직접 오시는 건 번거로우실 테니, 제가 찍어서 보내 드릴게요.",
+      "content": "直接いらっしゃるのはお手間だと思うので、写真を送りますね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아냐. 내가 갈게.",
+      "content": "大丈夫、私が向かうよ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그보다 지금 어디야?",
+      "content": "今、どこにいるの？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "어",
+      "content": "あっ……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "그건…….",
+      "content": "えっと……",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "뭔가…….",
+      "content": "今日はお疲れさまでした",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "막상 양껏 찾아냈지만 실제로 가져갈 수 있는 건 많지 않았네요.",
+      "content": "たくさんお宝が見つかりましたが、実際に持って帰れる物は多くなかったですね",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "대부분 덩치가 커서……. 결국 제자리로 돌아온 느낌",
+      "content": "ほとんどが大きすぎて……結局元の木阿弥だったというか……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "원래 논다는 건 그런 거야.",
+      "content": "元々遊ぶっていうのはそういうものだと思うよ",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇지만 과정이 즐거웠으니 오케이잖아?",
+      "content": "でも楽しかったから、いいんじゃないかな？",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "……!",
+      "content": "……！",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "네.",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "그 말씀대로예요.",
+      "content": "おっしゃる通りです。ありがとうございます。",
       "isFirst": false,
       "file": ""
     }
