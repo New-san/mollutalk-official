@@ -1,6 +1,6 @@
 [
   {
-    "title": "조급했던 이유(번역)",
+    "title": "焦っていた理由",
     "nickname": "Molru",
     "date": "2022-10-27 03:56:25",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "선생님",
+      "content": "先生、もしよろしければ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "혹시 괜찮으시면, 한 가지 부탁드려도 괜찮을까요……?",
+      "content": "一つお願いをしても良いでしょうか……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "もちろん、大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 부탁?",
+      "content": "どんなお願いかな？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아, 지금 한창 헬기 보수작업을 준비 중인데",
+      "content": "ちょうど今、ヘリの補修作業中なのですが",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "생각했던 것보다 부품이 훨씬 더 많이 필요할 거 같아서요",
+      "content": "思っていたよりも、部品が多く必要になりそうで……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "무거운 건 아니고……. 미리 싸둔 나사를 홀에 두고 왔거든요.",
+      "content": "そんなに重い物ではなく……前もって用意しておいたネジがホールに置いてあるのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 지금 갈게.",
+      "content": "分かった、今行くね。ダッシュで",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "배달맨이 출발합니다~.",
+      "content": "配達員が出発しま～す",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아하하하…….",
+      "content": "あはは……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "감사합니다. 기다리고 있을게요!",
+      "content": "ありがとうございます。お待ちしております！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "뭔가 자신 있게 말씀드렸지만",
+      "content": "いつでも呼んでくださいとお伝えしましたが",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "생각해 보니 헬기를 쓴다는 게 그리 쉬운 문제가 아니네요",
+      "content": "考えてみたらヘリを飛ばすのって、そんなに簡単ではないですね……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "결국 예전과 별 차이는 없을지도…….",
+      "content": "結局、以前とあまり変わらないかも……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래도 있다는 건 중요하지",
+      "content": "でも、ヘリがあるということが大事だからね,
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "필살기는 원래 자주 쓰는 게 아니니까",
+      "content": "奥の手は大事にとっておくものだからね",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "그, 그런가요?",
+      "content": "そ、そうですか？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아하하…….",
+      "content": "あはは……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "감사합니다, 선생님.",
+      "content": "ありがとうございます、先生",
       "isFirst": true,
       "file": ""
     }
