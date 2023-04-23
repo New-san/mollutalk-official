@@ -1,6 +1,6 @@
 [
   {
-    "title": "모래 위의 별들",
+    "title": "砂上に輝く星",
     "nickname": "Mollu",
     "date": "2023-01-18 07:09:44",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 4 },
-      "content": "선생님",
+      "content": "先生、こんばんは～",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 4, "index": 4 },
-      "content": "지금 주무시고 계신가요?",
+      "content": "もうお休みになっていますか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 4, "index": 4 },
-      "content": "음",
+      "content": "……う～ん",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 4, "index": 4 },
-      "content": "역시 아무것도 아니에요.",
+      "content": "やっぱり、何でもないです",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 4, "index": 4 },
-      "content": "안녕히 주무세요☆",
+      "content": "お休みなさい、良い夢を☆",
       "isFirst": true,
       "file": ""
     },
