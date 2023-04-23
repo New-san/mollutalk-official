@@ -1,6 +1,6 @@
 [
   {
-    "title": "이불 속의 아야네(번역)",
+    "title": "布団の中のアヤネ",
     "nickname": "Molru",
     "date": "2022-10-27 03:07:40",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "ㅓㅓㅓㅓㅓㅓㅓㅓㅓㅁㄴㅁㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ",
+      "content": "ｊｊｊｊｊｊｊｍんｍｊｊｊｊｊｊｊｊｊｊ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……아야네?",
+      "content": "……アヤネ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "ㅓㅓㅓㅓㅓㅓㅓ,,ㅡㅜㅡㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓㅓ",
+      "content": "ｊｊｊｊｊｊｊ、、いういｊｊｊｊｊｊｊｊｊｊ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐야, 이거. 오류인가?",
+      "content": "なんだろう、何かのエラーかな？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잠결에 잘못 친 건가……?",
+      "content": "どうしたんだろう……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "ㅗㅗㅗㅗㅣㅣㅣㅣㅣㅣㅣㅣㅣㅣ",
+      "content": "んんんんｌｌｌｌｌｌｌｌｌｌ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "선생님",
+      "content": "先生……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "그",
+      "content": "その、えっと……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "다름이 아니라",
+      "content": "実はですね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "아침에",
+      "content": "今朝のこと……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아무에게도 말 안 했어.",
+      "content": "誰にも言ってないよ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "비밀 기지……니까.",
+      "content": "みんなには秘密にしてあるからね",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "네",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 5, "index": 4 },
-      "content": "감사합니다…….",
+      "content": "ありがとうございます……",
       "isFirst": false,
       "file": ""
     }
