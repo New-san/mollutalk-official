@@ -1,6 +1,6 @@
 [
   {
-    "title": "Missing in Action(번역)",
+    "title": "Missing in Action",
     "nickname": "Molru",
     "date": "2022-10-27 04:26:32",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "선생님. 다른 학생에게 들었는데……",
+      "content": "先生、ちょっと小耳に挟んだんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "샬레에 있는 작업용 PC의 데이터가 다 날아갔다는 게 사실이야?",
+      "content": "シャーレの作業用パソコンのデータが全部消えたって本当？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "쿠후후…… 맞아……",
+      "content": "くひひ……そうだよ……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이제 다 틀렸어…… 쿠후후……",
+      "content": "そう、これで全部おしまい……くひひ……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "우와, 선생님이 나처럼 웃고 있어.",
+      "content": "うわ……先生が私みたいに笑ってる",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "아무래도 문제가 심상치 않은 모양인데.",
+      "content": "これはかなりヤバそうだね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "와보면 알게 될 거야……",
+      "content": "まぁ、来たら分かるよ……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "알겠어. 오후에 시간 날 때 샬레에 들릴게.",
+      "content": "わかった、それじゃあ昼過ぎくらいにシャーレ行くね",
       "isFirst": true,
       "file": ""
     },
