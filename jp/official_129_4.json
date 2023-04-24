@@ -1,6 +1,6 @@
 [
   {
-    "title": "Phase Line(번역)",
+    "title": "Phase Line",
     "nickname": "Molru",
     "date": "2022-10-27 04:28:47",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "으음. 미안하지만 선생님……",
+      "content": "んー、ごめん、先生……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "잠깐 코우사기 공원에 와주지 않을래?",
+      "content": "ちょっと子ウサギ公園に来てくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "상관없지만……",
+      "content": "良いけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 일이야?",
+      "content": "急にどうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "다름이 아니라 전에 추가로 주문한 물자가 공원에 도착했거든.",
+      "content": "この間、追加で注文した物資が公園に届いたの",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "그런데 마침 다른 소대원들이 작전 중이라 혼자 정리를 해야 하는데……",
+      "content": "でも、みんなちょうど作戦でいないから、一人で整理しなきゃいけなくて……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "무거운 짐이 잔뜩 있어서 옮기기 어려운 건 둘째 치더라도",
+      "content": "重い荷物をたくさん動かすのはちょっと……というのはさておき",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "터지기 쉬운 위험한 폭탄이 잔뜩 있어서",
+      "content": "引火しやすい危険な爆弾がいっぱいあるから……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 바로 갈게",
+      "content": "すぐ行くね",
       "isFirst": true,
       "file": ""
     },
