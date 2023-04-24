@@ -1,6 +1,6 @@
 [
   {
-    "title": "홀로 서기(번역)",
+    "title": "独り立ち",
     "nickname": "Molru",
     "date": "2022-10-27 04:20:14",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "선생.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "앗, 사오리?! 사오리야?!",
+      "content": "サオリ！？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "별일이네. 사오리가 연락을 다 주고!",
+      "content": "サオリから連絡をくれるなんて……！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "…아니, 그렇게 호들갑 떨 것까진….",
+      "content": "そこまで驚くことか……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "나도 선생에게 연락할 생각까진 없었지만….",
+      "content": "私としても連絡するつもりは無かったのだが",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "아무래도… 조금 문제가 생긴 듯, 하여.",
+      "content": "少々、問題が生じてな",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "문제?",
+      "content": "問題？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "선생이 아니면 해결할 수 없는 문제, 라고 할까.",
+      "content": "先生でないと解決できない問題で……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "염치가 없다는 건 알고 있어. 하지만….",
+      "content": "図々しいとは百も承知だ。しかし",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 지금 바로 갈게!",
+      "content": "分かった、すぐ行く！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "아… 응.",
+      "content": "……そうか",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "…그럼, 기다리고 있겠다.",
+      "content": "では、待っている",
       "isFirst": true,
       "file": ""
     },
