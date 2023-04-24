@@ -1,6 +1,6 @@
 [
   {
-    "title": "Unexploded Ordnance(번역)",
+    "title": "Unexploded Ordnance",
     "nickname": "Molru",
     "date": "2022-10-27 04:27:38",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "선생님, 그거 알아?",
+      "content": "先生、知ってる？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "스위치나 버튼 위에 설치하는 안전 덮개는 흔히 <몰리 가드>라고 부르거든.",
+      "content": "スイッチやボタンの上に設置する安全カバーあるじゃん。\nあれ、「モリーガード」って言うんだよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "왜 안전 덮개에 그런 이름이 붙었느냐면",
+      "content": "なんでそんな名前がついたかっていうと",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "몰리라는 아이가 비상 스위치를 자꾸 누르려 해서 발명된 덮개이기 때문이래.",
+      "content": "モリーという子が、何度も非常ボタンを押そうとしたから発明されたカバーだからなんだって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그렇구나.",
+      "content": "なるほどね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "흥미로운 사실이네.",
+      "content": "興味深い内容だね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "그 사실을 생각할 때마다 뭔가 아쉬워.",
+      "content": "その話を聞くたびに、ちょっと残念になるんだよね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "내가 몰리보다 먼저 태어났더라면",
+      "content": "私がモリーより先に生まれていたら",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "지금쯤 전 세계의 사람들은 안전 덮개를 <모에 가드>라고 불렀을 텐데……\"",
+      "content": "今頃、安全カバーの名前は「モエガード」になっていたのかなって……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "명예로운 호칭은 아닌 것 같은데……",
+      "content": "別に名誉な名前ではないと思うんだけど……",
       "isFirst": true,
       "file": ""
     },
