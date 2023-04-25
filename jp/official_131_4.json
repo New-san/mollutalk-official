@@ -1,6 +1,6 @@
 [
   {
-    "title": "……이번만이에요. 정말이라구요?(번역)",
+    "title": "……今回だけですよ。本当ですよ？",
     "nickname": "Molru",
     "date": "2022-10-27 04:47:05",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "아무리 생각해도 속고 있는 게 분명해요……",
+      "content": "どう考えても騙されてるに違いないです……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "당근이 맛있어질 리가 없어요……",
+      "content": "ニンジンが美味しくなるわけないです……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "맛있는 당근을 먹으러 가자!",
+      "content": "おいしいニンジンを食べに行こう！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "당근 식당에 갈 준비는 됐어?",
+      "content": "ニンジンレストランに行く準備はできた？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "가야만…… 하는…… 건가요……?",
+      "content": "行かないと……ダメ……ですか……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "우으에으에으에으에……",
+      "content": "ううえ……うええ……うえん",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "제가 오늘 죽어버리면 선생님 때문일 거예요……",
+      "content": "私が今日死んでしまったら、先生のせいですからね……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나만 믿어.",
+      "content": "私を信じて",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "멋진 숙녀 대접을 해 줄게.",
+      "content": "素敵なレディー扱いをするから",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "알았어요.",
+      "content": "わかりました",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "선생님만…… 믿을게요.",
+      "content": "先生を……信じます",
       "isFirst": true,
       "file": ""
     },
