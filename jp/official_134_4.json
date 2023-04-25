@@ -1,6 +1,6 @@
 [
   {
-    "title": "마이스터의 상냥한 자장가(번역)",
+    "title": "マイスターの優しい子守唄",
     "nickname": "Molru",
     "date": "2022-10-27 05:07:51",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "지난번에 만든 응원 도구는 꽤 괜찮았다고 생각했는데……",
+      "content": "この前の応援道具は結構良かったと思うんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "하지만 선생님이 싫어하는 것 같으니 어쩔 수 없지.",
+      "content": "でも先生は嫌みたいだし、仕方ない",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "수한 마이스터라면 언제나 클라이언트의 의견을 귀담아들어야 하니까.",
+      "content": "優秀なマイスターなら、常にクライアントの意見に耳を傾けるべきだもんね",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "그래서 고민 끝에 새로운 응원 도구를 완성했어.",
+      "content": "今度は別の応援道具を用意してみたよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "……다음번에 샬레에 가게 되면 보여 줄게.",
+      "content": "今度シャーレに行くことがあれば、持っていくね",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "자폭 기능이 포함된 건 아니지?",
+      "content": "今度は自爆しないよね？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "……직접 가서 보여 줄게.",
+      "content": "……やっぱり、これからそっちに向かおうかな",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "자폭 기능이 포함된 건 아니지?!",
+      "content": "本当に自爆しないよね！？",
       "isFirst": true,
       "file": ""
     },
