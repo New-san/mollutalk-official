@@ -1,6 +1,6 @@
 [
   {
-    "title": "마이스터의 열렬한 응원(번역)",
+    "title": "マイスターの熱烈な応援",
     "nickname": "Molru",
     "date": "2022-10-27 05:06:02",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "……선생님, 그 소식 들었어.",
+      "content": "……先生、大丈夫？例の話を聞いたんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "샬레에 갑작스러운 정전이 일어나는 바람에",
+      "content": "シャーレで突然停電が起こったせいで",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "하루종일 처리한 작업물이 날아갔다며",
+      "content": "一日かけた作業データが吹っ飛んだって……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "어떻게 복구할 수 있는 방법은 없는 거야……?",
+      "content": "どうにか復旧する方法はないの……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "베리타스의 학생들도 복구는 어렵대…….",
+      "content": "ヴェリタスに頼ったけど、復旧は難しいだろうって……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "그렇다면 내가 할 수 있는 일은 없겠지만……",
+      "content": "なら私にできることはないか……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "그래도 뭔가 도울 수 있는 게 없을까",
+      "content": "……でも、何か力になれないかな？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 필요한 건 응원뿐이야.",
+      "content": "応援してくれるとうれしいな",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "응원이라…….",
+      "content": "応援……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "알겠어.",
+      "content": "うん、分かった",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 47, "index": 3 },
-      "content": "힘내, 선생님.",
+      "content": "頑張ってね、先生",
       "isFirst": false,
       "file": ""
     },
