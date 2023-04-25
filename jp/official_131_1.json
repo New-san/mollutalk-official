@@ -1,6 +1,6 @@
 [
   {
-    "title": "코코나 짱이 아니에요. 교관이라구요!(번역)",
+    "title": "ココナちゃんじゃないです。教官なんです！",
     "nickname": "Molru",
     "date": "2022-10-27 04:43:08",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "안녕하세요, 선생님.",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "잘 지내고 계시나요?",
+      "content": "いかがお過ごしでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "전 문제없어요. 매화원의 교관이니까요!",
+      "content": "私は元気です。なんたって、梅花園の教官ですから！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "교관이라…… 코코나도 큰일이네.",
+      "content": "教官か……ココナも大変だね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "힘들지 않아?",
+      "content": "大変じゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "힘들 때도 있지만 괜찮아요.",
+      "content": "大変な時もありますが、大丈夫です",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "무엇보다 전 이미 어엿한 숙녀인걸요!",
+      "content": "何より、すでに私は立派なレディーですから！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "시간 나실 때 매화원에 방문해 보시겠어요?",
+      "content": "先生。もしお時間があったら、梅花園を訪問してみませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "제가 교관으로서의 모습을 똑똑히 보여드리죠!",
+      "content": "私の教官としての姿を先生にお見せします！",
       "isFirst": false,
       "file": ""
     },
