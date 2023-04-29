@@ -1,6 +1,6 @@
 [
   {
-    "title": "천재 해커의 취미(번역)",
+    "title": "天才ハッカーの嗜好",
     "nickname": "Molru",
     "date": "2022-11-16 17:44:22",
     "replyNo": 9,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "후후, 안녕하세요. 선생님.",
+      "content": "ふふっ。こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응…?",
+      "content": "ん？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "어머, 제 연락에 감격한 나머지, 말문이 막힌 선생님의 반응.",
+      "content": "あら。私から連絡が来て、感激のあまり言葉に詰まっているのですね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "네, 전부 이해한답니다.",
+      "content": "ええ、当然のことです",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "저 같은 천재 미소녀에게 갑작스레 메시지를 받는다면 누구라도….",
+      "content": "私のような天才美少女から、いきなりメッセージが送られてきたんですもの",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기, 누구세요?",
+      "content": "すみません、どちらさまですか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "네…? 선생님. 설마라고는 생각하지만, 제 연락처를 등록조차 하지 않으셨다는…?",
+      "content": "なっ、まさかとは思いますが、私の連絡先を登録していないのですか……？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 미안, 농담이야. 히마리.",
+      "content": "ごめんね。冗談だよ、ヒマリ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "후, 후훗…. 선생님께서도 참, 그런 짓궂은 농담이시라니.",
+      "content": "「ぴえん」……先生ったら、そんな意地悪なご冗談を",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "저 같은 천재 미소녀조차 잠시나마 <깜놀> 했답니다?",
+      "content": "さしもの天才美少女も驚きました",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "깜놀이라니, 히마리도 그런 유행어를 쓰는구나….",
+      "content": "「ぴえん」みたいな流行語をヒマリが使うとは……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "이래봬도 저는 베리타스의 부장도 겸하고 있는 몸이기에, 인터넷 문화라면 다소 교양이 있으니까요.",
+      "content": "これでもヴェリタスの部長を兼任している身ですから、ネット文化も少々嗜んでおります",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "이럴 때는, 그렇죠. <의기양양한 얼굴>! 이란 걸 짓는 법이라고 했던가요?",
+      "content": "こういう時は……「どや顔」をしながら言うべきでしたね",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 응….",
+      "content": "そ、そうだね……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "엣-헴 어쨌거나 용건을 말씀드리자면, 그렇지요.",
+      "content": "それよりお話があるのです",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "사전에 샬레를 해킹…이 아니라, 조사를 해본 결과. ",
+      "content": "先ほどシャーレをハッキング……いえ、調査したところ",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "오늘 선생님께선 모처럼의 휴일이라고 알고 있는데, 맞을까요?",
+      "content": "本日はお休みとのことですが、間違いありませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "자연스럽게 해킹이라고 했어….",
+      "content": "ハッキングって言っちゃったよ……",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그야 그렇기는 한데….",
+      "content": "たしかに休みだけど……",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "후후, 마침 잘되었네요.",
+      "content": "ふふっ、ちょうど良かったです",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "제가 지금 있는 장소의 좌표를 보내 드릴 터이니",
+      "content": "後ほど座標を送りますので",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "그럼 밀레니엄에서 기다리고 있겠습니다. 선생님.",
+      "content": "ミレニアムでお待ちしていますね、先生",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 7,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "가는 건 이미 결정이구나…. 뭐어, 알았어.",
+      "content": "行くのはもう決定なんだ……すぐ向かうね",
       "isFirst": true,
       "file": ""
     },
