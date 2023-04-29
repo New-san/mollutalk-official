@@ -1,6 +1,6 @@
 [
   {
-    "title": "자세 잡아주기(번역)",
+    "title": "姿勢矯正",
     "nickname": "Molru",
     "date": "2022-10-27 05:42:11",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "선생님.",
+      "content": "先生、こんにちは",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그러고 보니 최근의 일들을 겪으며 생각해 본 것이 있습니다.",
+      "content": "最近、気になることがありまして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "선생님께선 주로 서류 업무나 책상 일을 하시는 걸로 알고 있는데…….",
+      "content": "先生は、書類仕事など……いわゆるデスクワークを主にされていますよね？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "너무 앉아만 있으면 몸에도 좋지 않으니, 가벼운 운동이라도 해보시는 건 어떨까요?",
+      "content": "ずっと座り続けているのは体によくないと聞きますので、軽く運動でもしてみてはいかがでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 운동 권유?",
+      "content": "たしかに、運動不足になりがちだもんね。急にどうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "대운동회가 좋은 자극이 됐나 보구나.",
+      "content": "大運動会で運動に目覚めたのかな？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "음",
+      "content": "あ、えっと……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "역시 좀 갑작스러운 느낌이시겠지요.",
+      "content": "急にすみません……その、もしよろしければ、と……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "당장 뭔가를 하자는 의미로 말씀드린 건 아니었습니다.",
+      "content": "今すぐ運動をしようという意味ではないのですが",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "저는 당분간 언제든 괜찮으니, 생각 있으실 때 편하게 연락주셨으면 합니다.",
+      "content": "その、私はしばらく、いつでも大丈夫ですので",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그럼 기회가 온다면 그때 뵙는 것으로…….",
+      "content": "ご都合の良いときに、ご連絡をいただけたら嬉しいです",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "열심히 함께 운동한 것까진 좋았는데",
+      "content": "一緒に運動するところまでは良かったのですが",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "나오는 김에 선생님과 들렀던 디저트 카페에서 먹은 양이 꽤 되는군요.",
+      "content": "帰りに先生と立ち寄ったカフェで、結構な量のスイーツを食べてしまいましたね",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "생각해 보니 이런 식이면 운동을 한 의미가…….",
+      "content": "これでは運動をした意味が……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "반대야, 반대. 맛있게 먹기 위해 운동을 하는 거니까!",
+      "content": "逆だよ。おいしく食べるために、運動をしてるんだからね！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "행복을 위해 노력이 선행된 것뿐이지. 좋은 일이다!",
+      "content": "後の幸せのために先に努力をしたんだよ。間違ってないよ！",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그",
+      "content": "そ、",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그런 걸까요",
+      "content": "そうなんでしょうか",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그렇지요, 네. 그걸로 된 거겠지요.",
+      "content": "……そうですね、ふふ。それでいいのでしょう",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "감사합니다. 또 뵙겠습니다.",
+      "content": "ありがとうございます。また、お願い致しますね",
       "isFirst": true,
       "file": ""
     }
