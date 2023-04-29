@@ -1,6 +1,6 @@
 [
   {
-    "title": "레몬 벌꿀 절임(번역)",
+    "title": "レモンのはちみつ漬け",
     "nickname": "Molru",
     "date": "2022-10-27 05:38:26",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "선생님. 혹시 지금 시간 좀 괜찮으실까요.",
+      "content": "先生、今お時間大丈夫でしょうか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "이제 내일이면 황륜대제의 시작입니다만, 그 전에…….",
+      "content": "もう明日から大運動会が始まるのですが、その前に……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "아",
+      "content": "あ、その……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "이번에는 상담이나 고민 탓에 연락드리는 게 아니라",
+      "content": "今回は相談等ではなく",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "오히려 그간 받은 도움들에 대한 보답 차원에서 말씀드렸습니다.",
+      "content": "今まで手伝っていただいたお礼をしたく思いまして……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋지. 한 번 불러줘.",
+      "content": "そんなに気にしないくていいのに、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 괜찮아. 어디로 가면 돼?",
+      "content": "今は大丈夫だよ、どこに行けばいいかな？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "네.",
+      "content": "お返事ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "응해 주셔서 감사합니다. 그러면 장소를 알려드리도록 하겠습니다.",
+      "content": "それではお待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "생각지 않게 선생님의 시간을 오래 써버렸군요.",
+      "content": "思いがけず、長い時間になってしまってすみませんでした",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "배려에 감사드립니다.",
+      "content": "ご配慮くださりありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "가지고 가신 레몬 벌꿀 절임",
+      "content": "その……レモンのはちみつ漬けなんですが",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "부족하다 싶으시면 언제든 말씀해 주세요. 아직 많이 남았으니까요.",
+      "content": "もし、足りなかったら仰ってくださいね。まだまだありますから",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "음",
+      "content": "その……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그러지 않을 때도, 불러 주시면 찾아뵙도록 하겠습니다.",
+      "content": "それ以外のご用事でも、呼んでいただけたら嬉しいです",
       "isFirst": false,
       "file": ""
     }
