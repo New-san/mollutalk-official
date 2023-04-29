@@ -1,6 +1,6 @@
 [
   {
-    "title": "아침 조깅(번역)",
+    "title": "朝のジョギング",
     "nickname": "Molru",
     "date": "2022-10-27 05:18:39",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "선생님, 혹시 이번 달의 경비 청구서를 보내주셨나요?",
+      "content": "先生、今月分の請求書はどうされましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "제출 기한이 거의 다 되었는데 아직 받지 못한 것 같아서요.",
+      "content": "そろそろ提出期限えすが、まだ受け取っていないので",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지난번에 제출한 보고서의 뒷장에 있어.",
+      "content": "この前ユウカに渡した報告書のファイルにない？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "이런…… 미처 못 봤었네요.",
+      "content": "あっ、見つかりました",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "요새 정신이 없어서 놓친 모양이에요. 죄송합니다.",
+      "content": "最近バタバタしていて……失礼しました",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "요새 너무 바쁜 거 아냐?",
+      "content": "最近、特に忙しそうだよね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "바쁘긴 하지만…… 어쩔 수 없어요.",
+      "content": "たしかに忙しくはありますが……今は仕方ありません",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "밀레니엄에서 주관하는 황륜대제가 얼마 남지 않았거든요.",
+      "content": "もうすぐミレニアム主催の晄輪大祭がありますからね",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "평상시 세미나의 업무에 더해 대회 준비도 함께 진행하려면 조금 무리를 해야 해서…….",
+      "content": "通常のセミナーの仕事以外にも、ミレニアムとして晄輪大祭の準備も進めるとなると、休む暇もなくて……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "유우카가 고생이 많네.",
+      "content": "お疲れ様、ユウカ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "황륜대제, 기대하고 있어.",
+      "content": "晄輪大祭、楽しみにしてるね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "……그렇게 말씀해 주시니 감사합니다.",
+      "content": "先生とお話してたら、少し元気が出ました",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "다만 이 상태로는 여러모로 문제가 생길지도 모르겠네요.",
+      "content": "このまま無理をして倒れたら、元も子もありませんね……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "아무래도 좀 관리를 해야겠어요.",
+      "content": "きちんと健康管理にも気を配ろうと思います",
       "isFirst": false,
       "file": ""
     },
