@@ -1,6 +1,6 @@
 [
   {
-    "title": "실수(번역)",
+    "title": "見落とし",
     "nickname": "Molru",
     "date": "2022-10-27 04:21:50",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "그… 선생. 오늘은, 날씨가 좋군.",
+      "content": "……今日は、天気が良いな",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어…?!",
+      "content": "！？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "…왜 그러지. 선생?",
+      "content": "どうした、先生",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 사오리한테서 날씨 이야기라니.",
+      "content": "サオリが、天気の話を……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "완전 깜짝 놀라버렸어!",
+      "content": "ちょっとビックリしちゃって",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "아니, 나라도 이 정도 안부 인사는…….",
+      "content": "……私だって、世間話をしようと思うことはある",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "지난번엔 선생 도움 덕에 통장도 개설했고.",
+      "content": "先日は、おかげで口座を作ることができた",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "덕분에 일도 시작해서, 조금은 근황을 전해둘까. 했을 뿐이다.",
+      "content": "色々と依頼も受けるようになり、近況くらいは伝えようかと思っただけだ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "뭐, 괜한 짓이었다면 그만두겠지만.",
+      "content": "気に障ることだったら、今後は控えよう",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니아니, 전달해줘! 사오리의 근황! 최근엔 무슨 일이 있었어?!",
+      "content": "そんなこと無いよ、サオリの近況知りたい！最近はどんなことがあったの！？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "호들갑은……. 아, 음. 최근엔 블랙마켓을 통해 소개받은 일을 하고 있다.",
+      "content": "大げさだな……近頃は、ブラックマーケットで紹介された依頼をこなしている",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그거 잘됐네!",
+      "content": "良いね！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "……잘됐다, 라기엔 다소 문제가……",
+      "content": "良い、かどうかは分からないが……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "아니, 아니다. 그래. 잘된 거겠지.",
+      "content": "まあ、そうだな。良いことなのかもしれない",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 124, "index": 1 },
-      "content": "그럼 다음에 또 기회가 되면 연락하겠어. 이만.",
+      "content": "また何かあったら連絡する",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 응……?",
+      "content": "あ……っ",
       "isFirst": true,
       "file": ""
     },
