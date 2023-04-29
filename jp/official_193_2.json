@@ -1,0 +1,120 @@
+[
+  {
+    "title": "2.존재의 이유",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:08:18",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [175]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "content": "그러면 오늘도 실례하겠습니다.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "content": "괜찮으시지요?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "……학생의 방문을 막을 이유는.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어떻게 생각해도 없겠지만 말이야……",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "음.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "content": "아무 문제도 없다는 것이로군요.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그러면 선생님. 그렇게 알고 있겠습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": false
+    }
+  ]
+]

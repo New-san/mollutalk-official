@@ -1,0 +1,168 @@
+[
+  {
+    "title": "4.게임개발부의 청소",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:23:15",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "최근 밤낮으로 게임 개발에 몰두하다 보니",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "작업 환경이 조금 지저분해진 것 같아서……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "부원들이 없는 동안 오늘은 느긋하게 청소를 할까해요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "고생이 많네.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "시간이 되면 나도 도와주러 갈게.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "……네?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "어째서……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "청소는 혼자 하는 게 보통 아닌가요?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그런가……?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "여럿이 함께하면 더 수월할 것 같아서.",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "말씀은 감사하지만 괜찮아요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "신경 써 주셔서 감사합니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    }
+  ]
+]

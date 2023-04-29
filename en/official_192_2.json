@@ -1,0 +1,168 @@
+[
+  {
+    "title": "2.새로운 아르바이트",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:16:39",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "혹시 저도 할 수 있을 만한 아르바이트가 없을까요?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "새로운 게임 개발에 필요한 리소스가 부족해서",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "이대로 가면 개발비가 모자랄 것 같아서요……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어떤 아르바이트가 좋아?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "일을 가릴 처지는 아니지만……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "가능한 사람을 만나지 않는 아르바이트였으면 좋겠어요……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그렇다면 내가 자주 가는 카페를 소개해 줄게.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "손님도 많지 않고, 점원들도 다들 상냥해서 괜찮을 거야.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "카페 접객이라니",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "조금 걱정되긴 하지만……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "이번은 선생님을 믿고 한 번 가볼게요.",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    }
+  ]
+]

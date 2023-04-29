@@ -1,0 +1,108 @@
+[
+  {
+    "title": "3.출격 준비 완료!",
+    "nickname": "Mollu",
+    "date": "2023-04-27 22:54:27",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [38]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "content": "중대한 소식이 있습니다.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "아리스의 중대한 소식……",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "뭔가 대단한 일이 일어날 것 같은 기분이 든다……",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "정말 중요한 소식입니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그러니까 선생님이 꼭 와 주셨으면 합니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "큰일이 난 거 아니지!?",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    }
+  ]
+]

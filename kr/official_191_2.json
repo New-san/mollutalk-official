@@ -1,0 +1,144 @@
+[
+  {
+    "title": "2.공부! 메이드 대작전!",
+    "nickname": "Mollu",
+    "date": "2023-04-27 22:52:15",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [38]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "content": "아리스는 찾아내고 말았습니다",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "무엇을……?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그것은 바로, 메이드 레벨을 올리는 새로운 방법입니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "굉장한 선언을 들은 것 같은 기분이다……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "오늘의 아리스는 다릅니다. 다를 겁니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "content": "메이드라는 것은 무엇인가! 어떤 일을 하는가!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그것을 공부하는 겁니다, 선생님!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "content": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "메이드 자료?!",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 38,
+        "index": 3
+      },
+      "isFirst": true
+    }
+  ]
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "title": "1.작업 레퍼런스",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:14:36",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [41]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "저, 선생님……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "선생님은 메이드복, 좋아하시나요?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "응, 좋아해!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그렇군요. 역시……",
+      "replyDepth": 1,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "갑자기 메이드복은 왜?",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "다름이 아니라",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "이번에 새로 준비하는 게임에",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "메이드 캐릭터를 추가할까 생각하던 중이었거든요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "다만, 메이드복은 인기도 많지만 프릴처럼 표현하기 어려운 장식도 많아서……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "어떻게 구현하면 좋을지 고민을 하고 있었어요.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "C&C에 도움을 요청하는 건 어때?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "C&C의 선배들은 조금",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "무서워서",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "content": "다른 방법을 찾아봐야겠어요……",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 41,
+        "index": 3
+      },
+      "isFirst": false
+    }
+  ]
+]

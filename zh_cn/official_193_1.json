@@ -1,0 +1,120 @@
+[
+  {
+    "title": "1.문제의 원인",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:04:19",
+    "replyNo": 4,
+    "replyGroup": 4,
+    "chars": [175]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "content": "계십니까?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "오, 토키다.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그렇습니다. 저입니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "선생님께 긴히 드리고 싶은 부탁이 있는데, 괜찮으실까요?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "토키의 부탁이라면야, 얼마든지.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그 말씀, 확실히 기억했습니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어…… 잠깐만. 지금 좀 신중하게 생각하고 싶어졌는데……?",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    }
+  ]
+]

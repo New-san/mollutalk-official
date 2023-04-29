@@ -1,8 +1,8 @@
 [
   {
-    "title": "익숙지 않은 복장(번역)",
-    "nickname": "Molru",
-    "date": "2022-10-27 05:28:23",
+    "title": "1.익숙지 않은 복장",
+    "nickname": "Mollu",
+    "date": "2023-04-28 00:23:53",
     "replyNo": 3,
     "replyGroup": 2,
     "chars": [74]
@@ -10,153 +10,147 @@
   [
     {
       "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
       "content": "안녕하세요, 선생님. 마리예요.",
-      "isFirst": true,
-      "file": ""
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": true
     },
     {
       "type": "chat",
       "replyNo": 0,
       "replyDepth": 0,
       "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
       "content": "혹시 폐가 되지 않는다면 조만간 상담을 한 번 신청해도 괜찮을까요?",
-      "isFirst": true,
-      "file": ""
+      "isFirst": true
     },
     {
       "type": "chat",
+      "content": "아무래도 혼자서는 해결되지 않는 고민이 있어서요……",
+      "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "아무래도 혼자서는 해결되지 않는 고민이 있어서요……",
-      "isFirst": false,
-      "file": ""
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": false
     },
     {
       "type": "reply",
       "replyNo": 1,
       "replyGroup": 1,
       "replyDepth": 0,
-      "sCharacter": { "no": 0, "index": 1 },
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
       "content": "물론이지. 무슨 일이야?",
-      "isFirst": true,
-      "file": ""
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "앗",
+      "replyDepth": 1,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "별일은 아닌데…….",
+      "replyDepth": 1,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": false
     },
     {
       "type": "reply",
       "replyNo": 2,
       "replyGroup": 1,
       "replyDepth": 0,
-      "sCharacter": { "no": 0, "index": 1 },
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
       "content": "무슨 일 있는 건 아니지?",
-      "isFirst": false,
-      "file": ""
+      "isFirst": false
     },
     {
       "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "앗",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "별일은 아닌데…….",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
       "content": "아니에요. 나쁜 일은 아니니 걱정해주지 않으셔도 돼요.",
-      "isFirst": true,
-      "file": ""
+      "replyDepth": 2,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": true
     },
     {
       "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
       "content": "그래도 그렇게 말씀해 주시니 안심이 됩니다. 정말 감사해요.",
-      "isFirst": true,
-      "file": ""
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": true
     },
     {
       "type": "chat",
       "replyNo": 0,
       "replyDepth": 0,
       "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
       "content": "그럼 조만간 부탁드릴게요.",
-      "isFirst": true,
-      "file": ""
+      "isFirst": true
     },
     {
       "type": "chat",
       "replyNo": 0,
       "replyDepth": 0,
       "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
       "content": "다시 한번 감사합니다, 선생님.",
-      "isFirst": true,
-      "file": ""
+      "isFirst": true
     },
     {
       "type": "heart",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
       "content": "",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
+      "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "아마도 선생님께선 분명 바쁘시겠지만",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "기회가 된다면 대운동회에서도 뵐 수 있었으면 좋겠습니다.",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 74, "index": 3 },
-      "content": "그럼 좋은 하루 되세요, 선생님!",
-      "isFirst": true,
-      "file": ""
+      "sCharacter": {
+        "no": 74,
+        "index": 3
+      },
+      "isFirst": false
     }
   ]
 ]

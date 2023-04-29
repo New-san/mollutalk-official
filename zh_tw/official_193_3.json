@@ -1,0 +1,96 @@
+[
+  {
+    "title": "3.휴식의 장소",
+    "nickname": "Mollu",
+    "date": "2023-04-27 23:10:40",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [175]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "돌입 준비 완료.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "content": "지시를 기다리겠습니다.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "토키……?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "작전 개시.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "통신을 일시 차단합니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "토키?!",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 175,
+        "index": 4
+      },
+      "isFirst": true
+    }
+  ]
+]
