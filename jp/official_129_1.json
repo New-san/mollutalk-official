@@ -1,6 +1,6 @@
 [
   {
-    "title": "Collateral Damage(번역)",
+    "title": "Collateral Damage",
     "nickname": "Molru",
     "date": "2022-10-27 04:25:26",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "오랜만이네, 선생님.",
+      "content": "先生久しぶり",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "다른 소대원들에게 듣자 하니, 나를 찾았다고 하던데……",
+      "content": "私を探してたって聞いたんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "무슨 일이라도 생긴 거야?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안녕, 모에.",
+      "content": "こんにちは、モエ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미안한데 조금 도와줬으면 하는데, 괜찮아?",
+      "content": "ごめん、ちょっと手伝ってほしいことがあるんだけど今大丈夫かな？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "선생님을 돕는 거라면 어렵지 않지만……",
+      "content": "先生の手伝い？別にいいけど……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "그나저나 별일이네. 선생님이 내게 도와 달라는 말을 하다니.",
+      "content": "にしても珍しいね。先生が手伝ってほしいだなんて",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "아, 특별한 의미는 없어. 뭔가 재미있는 사건의 예감이 들어서 말이지, 후후",
+      "content": "あ、別に深い意味はないよ。なんか面白い事件の予感がするだけ……くひひ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 121, "index": 1 },
-      "content": "그럼 준비하고 있을게.",
+      "content": "じゃあ、準備してるね",
       "isFirst": false,
       "file": ""
     },
