@@ -1,6 +1,6 @@
 [
   {
-    "title": "자기관리(번역)",
+    "title": "自己管理",
     "nickname": "Molru",
     "date": "2022-10-27 05:40:01",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "여담입니다만",
+      "content": "余談なのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "평소에는 잘 지키던 것도 상황이 바뀌면 곧잘 어려워지곤 하는 느낌이군요……",
+      "content": "普段はちゃんと自制できているものも、状況が変わると難しくなるものですね……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그게 무슨 이야기야?",
+      "content": "なんのこと？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……혹시 다이어트 이야기?",
+      "content": "……もしかして、ダイエットの話？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "아무래도 주변 공기도 그렇고, 보이는 것도 많다 보니……",
+      "content": "周囲の空気も浮き足立ってますし、格好も……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "으음, 역시 아무것도 아닙니다. 신경 쓰지 말아 주세요.",
+      "content": "いえ、何でもないです……気にしないでください",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "괜한 말씀 드려서 죄송합니다, 선생님.",
+      "content": "変な話をしてすみませんでした",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "죄송합니다, 선생님. 애써 드린 걸 도리어 제가 다 먹어버려서…….",
+      "content": "ごめんなさい、先生。プレゼントしたのに全部渡しが食べてしまうなんて……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "나중에 다시 가져다드리도록 하겠습니다.",
+      "content": "後でまたお作りしますね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 다음에 또 같이 먹으면 되지.",
+      "content": "大丈夫。今度また一緒に食べようね",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "그",
+      "content": "えっと……その",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "다음에 또……말씀이십니까……?",
+      "content": "一緒に食べるのは……",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "칼로리가……",
+      "content": "カロリーが……ちょっと……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "아닙니다. 네……",
+      "content": "いえ、はい……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 70, "index": 3 },
-      "content": "감사합니다……",
+      "content": "ありがとうございます……",
       "isFirst": true,
       "file": ""
     }
