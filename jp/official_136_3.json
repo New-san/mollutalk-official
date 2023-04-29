@@ -1,6 +1,6 @@
 [
   {
-    "title": "이성적인 응원 문화(번역)",
+    "title": "理性的な応援文化",
     "nickname": "Molru",
     "date": "2022-10-27 05:20:40",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "그러고 보니 곧 키보토스 인터하이의 지역 예선이 시작될 시즌이네요.",
+      "content": "先生、もうすぐキヴォトスインターハイの地区予選ですね",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "밀레니엄에서도 야구부가 출전한다고 들었는데…",
+      "content": "ミレニアムからも野球部が出場するみたいですが……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "워낙 약팀이라 올해는 어떻게 될지 모르겠네요.",
+      "content": "どうでしょう、なにせウチの野球部は弱小チームですし",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "유우카는 야구 경기를 자주 관람하는 편이야?",
+      "content": "ユウカは野球、よく見るの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "뭐, 그렇게 열성적인 팬이라고 하긴 어렵지만……",
+      "content": "まあ、人並みには\nそこまで熱心に応援いているわけではありませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "밀레니엄의 팀이 출전할 때는 가볍게 응원 정도는 한답니다.",
+      "content": "ミレニアムのチームが出場する時は、応援くらいしています",
       "isFirst": false,
       "file": ""
     },
