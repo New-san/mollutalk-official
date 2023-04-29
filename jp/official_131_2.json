@@ -1,6 +1,6 @@
 [
   {
-    "title": "어린 아이가 아니에요. 숙녀라구요!(번역)",
+    "title": "子どもではありません。レディーなんです！",
     "nickname": "Molru",
     "date": "2022-10-27 04:44:18",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "그때는 잘 들어가셨나요?",
+      "content": "先日は無事に帰れましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "제대로 된 모습을 못 보여드린 것 같아 죄송하네요.",
+      "content": "まともな姿をお見せできなくて残念です",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "충분히 멋있었어, 코코나 쨩.",
+      "content": "十分かっこよかったよ、ココナちゃん",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 정도면 대단했어, 코코나 쨩.",
+      "content": "立派に教官してたよ、ココナちゃん",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "그러니까, 코코나 쨩이 아니라니까요!",
+      "content": "だから、ココナちゃんじゃないです！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "절 코코나 쨩이라고 부르실 거면,",
+      "content": "私をココナちゃんと呼ぶなら、",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "슌 언니도 슌 쨩이라고 불러야 맞는 게 아닐까요?",
+      "content": "シュン姉さんもシュンちゃんって呼ぶべきじゃないでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "슌이라면 그렇게 불리는 걸 좋아할지도 몰라.",
+      "content": "シュンはそう呼ばれたら喜びそう",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "그게…… 무슨 말씀이세요?",
+      "content": "えっと……それは、どういうことですか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "아직도 입에서 쓴맛이 나요……",
+      "content": "まだ口の中が苦いです……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 103, "index": 1 },
-      "content": "커피 미워요……",
+      "content": "コーヒー、嫌いです……",
       "isFirst": true,
       "file": ""
     }
