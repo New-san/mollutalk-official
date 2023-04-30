@@ -1,6 +1,6 @@
 [
   {
-    "title": "천재 해커의 반론(번역)",
+    "title": "天才ハッカーの反論",
     "nickname": "Molru",
     "date": "2022-11-16 17:53:49",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "선생님. 조금 큰 일이 나버린 듯해요.",
+      "content": "先生、少々大変なことになりまして",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐? 무슨 일이야?! 히마리, 괜찮은 거야?!",
+      "content": "どうしたの？大丈夫！？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "이건, 저 혼자선 도저히 방법이 없다고 할지.",
+      "content": "これは私一人では手の施しようがないと申しますか……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "어서 은신처로 찾아와 주세요. 기다리고 있겠습니다.",
+      "content": "大至急、隠れ家に来ていただけませんか？お待ちしています",
       "isFirst": false,
       "file": ""
     },
