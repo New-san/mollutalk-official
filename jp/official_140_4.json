@@ -1,6 +1,6 @@
 [
   {
-    "title": "천재 해커의 섬세한 세미콜론(번역)",
+    "title": "天才ハッカーの繊細なセミコロン",
     "nickname": "Molru",
     "date": "2022-11-16 17:57:38",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "선생님, 저 오늘, 특별한 보물을 손에 넣었답니다.",
+      "content": "先生。私、とびっきりのお宝を手に入れました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히마리가 보물이라고 말할 정도라니…….",
+      "content": "ヒマリがお宝って言うことは……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭔가 궁금하기도 하고, 걱정되기도 하고…….",
+      "content": "気になるような、心配になるような……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "어머나, 그렇게 말씀하시다니, 조금 슬퍼라.",
+      "content": "あら、寂しい言い方ですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "이럴 게 아니라, 직접 보여드리고 싶으니, 괜찮으시다면.",
+      "content": "こうしてる場合ではありません。すぐにでもお見せしたいのですが",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 오늘 찾아갈게.",
+      "content": "分かった。これから向かうね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "후후, 네. 그럼 조금 이따가.",
+      "content": "ふふっ、ではまた後ほど",
       "isFirst": true,
       "file": ""
     },
