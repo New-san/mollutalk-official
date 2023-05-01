@@ -1,6 +1,6 @@
 [
   {
-    "title": "스포츠 카드(번역)",
+    "title": "スポーツカード",
     "nickname": "Molru",
     "date": "2022-10-27 05:26:18",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "정신없었던 황륜대제도 무사히 다 끝났네요……",
+      "content": "慌ただしかった晄輪大祭も、やっと終わりましたね……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "수고 많으셨습니다, 선생님.",
+      "content": "お疲れさまでした、先生",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "유우카도 수고 많았어",
+      "content": "ユウカもお疲れさま",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "아녜요. 세미나의 임원으로서 당연히 해야 할 일이었는 걸요.",
+      "content": "ありがとうございます。ですが、セミナーの役員として当然のことですから",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "그러고 보니 샬레에 협력을 요청 드린 안건들에 대해서도 한 번 정리를 해야 했는데……",
+      "content": "先生、そうでした\n晄輪大祭で立て込んでいたので、シャーレに協力を要請した件の事務処理ができていませんでしたね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "학원의 업무가 정리되면 샬레에 한 번 방문하겠습니다.",
+      "content": "手持ちの業務を片付けたら、シャーレに伺いますね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "그때는 잘 부탁드리겠습니다.",
+      "content": "それでは、また後ほどお願いします",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "일단 적당히 문장을 써 보았는데…",
+      "content": "一言、添えてみたんですが……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "…어떠신가요?",
+      "content": "ど、どうでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "조금 문장이 딱딱해…",
+      "content": "ちょっと堅苦しくない？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좀 더 애정을 담아서 써 줘…",
+      "content": "もっと愛情を込めてお願い",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "그렇게 말씀하셔도….",
+      "content": "うーん…",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 51, "index": 3 },
-      "content": "이번뿐이에요.",
+      "content": "……先生だけですからね",
       "isFirst": true,
       "file": ""
     }
