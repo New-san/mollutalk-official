@@ -1,6 +1,6 @@
 [
   {
-    "title": "천재 해커의 실험(번역)",
+    "title": "天才ハッカーの実験",
     "nickname": "Molru",
     "date": "2022-11-16 17:50:52",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "선생님, 오늘은 샬레의 업무로 인해 밀레니엄을 방문하신다면서요?",
+      "content": "先生、今日はシャーレの仕事でミレニアムを訪れるのですね",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 응. 그렇게 됐는데.",
+      "content": "うん、そうだよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "그럼 볼일이 끝나시면, 오후 3시쯤 해서 잠깐 저를 찾아와 주실 수 있겠나요?",
+      "content": "では、用事が終わりましたら……そうですね、15時頃でどうでしょう？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "부탁드리고 싶은 것이 조금 있어서…….",
+      "content": "……お願いしたいことがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 일 끝나고 바로 갈게.",
+      "content": "分かった。仕事が終わったらすぐに向かうね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 42, "index": 1 },
-      "content": "후후후, 네, 그럼 조금 이따가 뵙겠습니다.",
+      "content": "ふふふっ、では後ほどお会いしましょう",
       "isFirst": true,
       "file": ""
     },
