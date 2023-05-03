@@ -1,6 +1,6 @@
 [
   {
-    "title": "구호기사단 일일 체험(번역)",
+    "title": "1日救護騎士団体験",
     "nickname": "Molru",
     "date": "2022-12-15 22:22:24",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "잘 지내고 계시는가요, 선생님?",
+      "content": "先生、お身体は大丈夫ですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "저는 오늘 병원에서 자선 활동이 있답니다.",
+      "content": "今日は私、ボランティアでとある病院に行くんです",
       "isFirst": false,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "언제나 찾아뵈던 환자분들이지만, 산타가 되어서 가려니 조금 긴장되네요.",
+      "content": "患者の皆さんにはよくお会いしているのですが、今回はサンタとして行くので、少し緊張しますね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 자선 활동에 나도 가도 돼?",
+      "content": "そうなんだ。それ、私も行ってもいい？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "네?",
+      "content": "はい？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "안될 건…… 없지만요.",
+      "content": "あ、ダメではないのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "갑자기 무슨 일이세요?",
+      "content": "急にどうかされましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "선생님?",
+      "content": "えっと、先生？",
       "isFirst": true,
       "file": ""
     },
