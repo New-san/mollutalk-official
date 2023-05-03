@@ -1,6 +1,6 @@
 [
   {
-    "title": "성야에도 언제나 세리나(번역)",
+    "title": "サンタのセリナ",
     "nickname": "Molru",
     "date": "2022-12-15 22:21:21",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "안녕하세요, 선생님.",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "메리 크리스마스, 에요!",
+      "content": "メリークリスマスです！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세리나도, 메리 크리스마스!",
+      "content": "セリナも、メリークリスマス！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "후후, 감사합니다.",
+      "content": "ふふ、ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "오늘은 시내에서 자선 행사가 있어요.",
+      "content": "今日は市内でボランティア活動がありまして",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "선생님도 괜찮으시다면, 한 번 보러 오시겠어요?",
+      "content": "もしよろしければ、先生も見に来ませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세리나가 부른다면야, 당연히 가야지!",
+      "content": "セリナのご指名とあれば、是が非でも！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "와, 정말요?",
+      "content": "あ、ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "기다릴게요!",
+      "content": "お待ちしております！",
       "isFirst": false,
       "file": ""
     },
