@@ -1,6 +1,6 @@
 [
   {
-    "title": "은근하게(번역)",
+    "title": "さりげなく",
     "nickname": "Molru",
     "date": "2022-11-30 19:44:49",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "선생님?",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "듣자 하니 조만간 우리 학교로 올 일이 있다던데, 사실이야?",
+      "content": "近々レッドウィンターに来るって聞いたんだけど、本当？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아아. 응. 사실이야.",
+      "content": "うん、そのつもり",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "何かあったの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "뭐, 딱히 이유가 있어서 그러는 건 아니고.",
+      "content": "ううん、これといって何かあるわけじゃないんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "간만에 얼굴 좀 볼 수 있을까 하고 기대하는 거지.",
+      "content": "久しぶりに会えそうだなって思って",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "후후",
+      "content": "ふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "시간 있으면 특별반에도 좀 들러줘~",
+      "content": "時間があったら、227号にも寄ってもらえると嬉しい",
       "isFirst": true,
       "file": ""
     },
