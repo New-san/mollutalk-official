@@ -1,6 +1,6 @@
 [
   {
-    "title": "능청맞게(번역)",
+    "title": "しれっと",
     "nickname": "Molru",
     "date": "2022-11-30 19:47:07",
     "replyNo": 4,
@@ -17,7 +17,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "선생님도 붉은겨울 학원에 올 때마다 느끼겠지만",
+      "content": "先生も知ってると思うけど",
       "isFirst": true,
       "file": ""
     },
@@ -30,7 +30,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "우리 학원은 부지가 너무 과하게 넓은 것 같아",
+      "content": "うちの学園、敷地が広過ぎるよね",
       "isFirst": true,
       "file": ""
     },
@@ -43,7 +43,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "확실히 굉장히 넓긴 하지.",
+      "content": "それはまあ、確かに",
       "isFirst": true,
       "file": ""
     },
@@ -56,7 +56,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "게다가 기온도 낮고 흉포한 야생 동물도 많은 편이라",
+      "content": "その上寒いし、凶暴な野生動物も多いし",
       "isFirst": true,
       "file": ""
     },
@@ -69,7 +69,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "그러니 올 일이 있으면 꼭 날 불러줘",
+      "content": "だから、来る時は呼んでね",
       "isFirst": false,
       "file": ""
     },
@@ -82,7 +82,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "가이드 없이 붉은겨울 학원을 혼자 돌아다니면",
+      "content": "ガイド無しで歩いてたら",
       "isFirst": true,
       "file": ""
     },
@@ -95,7 +95,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "위험한 일을 당할 수도 있으니까 말이야",
+      "content": "危険な目に遭うかもしれないし",
       "isFirst": false,
       "file": ""
     },
@@ -108,7 +108,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "알겠지?",
+      "content": "じゃ、そういうことで",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "잘 들어갔어? 선생님.",
+      "content": "先生、ちゃんと帰れた？",
       "isFirst": true,
       "file": ""
     },
@@ -147,7 +147,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "또 딴 길로 샜다거나 그러지는 않았겠지?",
+      "content": "まさか、寄り道なんてしてないよね？",
       "isFirst": true,
       "file": ""
     },
@@ -160,7 +160,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "덕분에 잘 돌아왔어.",
+      "content": "おかげで無事に帰ってこられたよ",
       "isFirst": true,
       "file": ""
     },
@@ -173,7 +173,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "걱정하지 마. 오늘은 이제 쉴 거야.",
+      "content": "今日はゆっくり休ませてもらいます",
       "isFirst": false,
       "file": ""
     },
@@ -186,7 +186,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "좋아. 그 말을 들으니 안심이 되네.",
+      "content": "うん、それなら良かった",
       "isFirst": true,
       "file": ""
     },
@@ -199,7 +199,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "처음에도 이야기했지만",
+      "content": "さっきも話したけど",
       "isFirst": true,
       "file": ""
     },
@@ -212,7 +212,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "붉은겨울 학원에 올 일이 있으면 꼭 연락해야 해.",
+      "content": "レッドウィンターに来る時は、ちゃんと連絡してね",
       "isFirst": false,
       "file": ""
     },
@@ -225,7 +225,7 @@
         "no": 108,
         "index": 1
       },
-      "content": "알겠지?",
+      "content": "安全第一なんだから。\n分かった？",
       "isFirst": true,
       "file": ""
     }
