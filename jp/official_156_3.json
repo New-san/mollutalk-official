@@ -1,6 +1,6 @@
 [
   {
-    "title": "그 국장의 휴식(번역)",
+    "title": "一人、一休み",
     "nickname": "Molru",
     "date": "2023-01-31 20:47:50",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "발키리 경찰학교의 구내 식당은 가격이 저렴하고 반찬이 다양하긴 하지만",
+      "content": "ヴァルキューレ警察学校の食堂は安価でメニューも豊富ですが",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "배식 시간이 짧은 게 단점이군요.",
+      "content": "開いている時間が限られています",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "업무에 집중하고 있다 보면 배식 시간을 놓치는 일이 잦은지라",
+      "content": "仕事に集中していると、すでに閉まっていることも多いので",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "종종 식사를 거르게 됩니다",
+      "content": "しばしば食事を抜くことも……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "구내 식당 밖에서 음식을 사 먹으면 안 되는 거야?",
+      "content": "外で食べるのはダメなの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "아뇨. 그런 규칙은 없습니다만……",
+      "content": "いえ、そんな規則はありませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "어쩐지 밖에서 식사를 하는 것은 꺼려져서요.",
+      "content": "仕事があるのに外で食事をするのは、少し気が引けるので",
       "isFirst": false,
       "file": ""
     },
