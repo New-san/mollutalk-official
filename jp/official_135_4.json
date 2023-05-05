@@ -1,6 +1,6 @@
 [
   {
-    "title": "Case 4. 일일 비서, 대령했습니다.(번역)",
+    "title": "Case4.一日秘書、待機中です",
     "nickname": "Molru",
     "date": "2022-10-27 05:14:29",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "오늘도 야근이신가요?",
+      "content": "こんばんは。本日も帰りが遅いのでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "주인님의 건강이 걱정이에요……",
+      "content": "ご主人様の健康が心配です……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으헤헤…… 일 좋다…… 일 많다……",
+      "content": "わぁい仕事……私、仕事大好き……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "문서라는 걸 발명한 사람은 대체 누굴까……",
+      "content": "この世に書類というものを生み出したのは誰なんだ……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "주인님? 정신 차리세요, 주인님!",
+      "content": "ご主人様！？お気を確かに！！",
       "isFirst": true,
       "file": ""
     },
