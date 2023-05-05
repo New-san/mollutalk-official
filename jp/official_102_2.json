@@ -1,6 +1,6 @@
 [
   {
-    "title": "보안위원장의 추리",
+    "title": "保安委員長の推理",
     "nickname": "Molru",
     "date": "2022-10-23 22:48:50",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "선생, 또 사건이다. 예의 스파이 문제야.",
+      "content": "先生、例のスパイについての続報だ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "그 괘씸한 스파이 녀석이 이번에는 체리노 회장의 푸딩을 훔쳐 간 모양이더군.",
+      "content": "どこぞの卑劣なスパイが、今度はチェリノ会長のプリンを盗んだようでな",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어째서 스파이의 소행이라고 단정 짓는 거야?",
+      "content": "それ、確実にスパイの仕業なの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "그야 붉은겨울 학원의 보안은 언제나 완벽하기 때문이지!",
+      "content": "ああ、そうだ。何せレッドウィンター連邦学園の保安は、いつだって完璧だからな！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "스파이가 기어들어 와 사보타주라도 하지 않는 이상, 문제가 생길 다른 이유는 없어!",
+      "content": "スパイでも忍び込んでいない限り、何か問題が起こるはずがない！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "그러니 이번 사건도 스파이의 소행임이 분명해.",
+      "content": "だから間違いなくスパイの仕業だろう",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "……하지만 어째서인지 체리노 회장께서는 내가 푸딩을 훔쳐 갔다고 생각하시는 것 같더군.",
+      "content": "しかし、問題が生じていてな……どういうわけかチェリノ会長は、私がプリンを盗んだと思っておられるようなんだ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "물론 짚이는 바가 없는 건 아니지만…….",
+      "content": "もちろん、心当たりがないわけではないが……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "이번에야말로 멋지게 스파이를 잡아 내 무죄를 증명해 내겠어!",
+      "content": "逆に良い機会だ。今度こそスパイを捕まえて、私の有能さと無罪を証明してやろう！",
       "isFirst": true,
       "file": ""
     },

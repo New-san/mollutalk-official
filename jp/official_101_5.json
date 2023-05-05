@@ -1,6 +1,6 @@
 [
   {
-    "title": "피크닉 보자기(번역)",
+    "title": "風呂敷ピクニック",
     "nickname": "Molru",
     "date": "2023-01-25 04:43:26",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님",
+      "content": "あの……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그",
+      "content": "先生、今よろしいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "히나타?",
+      "content": "どうしたの、ヒナタ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 일이야?",
+      "content": "うん、大丈夫だよ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "아",
+      "content": "そのですね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "다름이 아니고",
+      "content": "一応、あらためてお聞きしておきたくて……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "지난번에 드렸던 피크닉 도시락은 혹시 어떠셨나요?",
+      "content": "先日のピクニックに持っていったお弁当、いかがでしたか……？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "괜찮으셨다면 좋겠는데…….",
+      "content": "お気に召していただけてたら良かったのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 물론이지. 또 먹고 싶은 걸.",
+      "content": "もちろん、すごくおいしかったよ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 설마 또 해주는 거야?",
+      "content": "また作ってくれるとうれしいな",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "아",
+      "content": "ほ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "정말 그래도 되나요?",
+      "content": "本当ですか？",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "감사합니다!",
+      "content": "ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "저기",
+      "content": "あっ",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "그",
+      "content": "あの",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님!!",
+      "content": "何度も本当にすみません……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님 죄송합니다 제가",
+      "content": "先ほど気づいたのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "선생님 도시락을 관리대장으로 착각해서 또 잘못 가져왔는데……",
+      "content": "先生のお弁当箱を台帳と間違えて持って帰ってしまったみたいで……",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아아, 나도 지금 막 눈치 챘어.",
+      "content": "あ、本当だ",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어쩐지 무겁더라고. 거기서 다시 만나자~",
+      "content": "確かに重かったかも……それじゃあ、また近いうちにあの公園で",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "넵",
+      "content": "はいっ！",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 73, "index": 1 },
-      "content": "감사합니다…….",
+      "content": "ありがとうございます……",
       "isFirst": true,
       "file": ""
     }

@@ -1,6 +1,6 @@
 [
   {
-    "title": "보안위원장의 오해",
+    "title": "保安委員長の誤解",
     "nickname": "Molru",
     "date": "2022-10-23 22:51:29",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "으음…… 선생.",
+      "content": "……先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "미안하지만 내가 지정하는 장소로 잠깐 와줄 수 없겠나?",
+      "content": "悪いが、ちょっと今から時間をくれないか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "다른 사무국 위원들에게는 말할 수 없는 곤란한 일에 처해서…….",
+      "content": "他の事務局委員たちには話せない、困ったことが起きてな……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 금방 갈게.",
+      "content": "了解、すぐ行くね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이 생긴 거야?",
+      "content": "何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "그게, 사무국에서 멀리 떨어진 장소로 불러서 미안하지만……",
+      "content": "ああ、事務局からも離れた場所で申し訳ないのだが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 106, "index": 1 },
-      "content": "보안위원들에게 체포되었다…….",
+      "content": "保安委員たちに、捕まえられてしまって……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……진짜 무슨 일이 생긴 거야?",
+      "content": "一体何が……急いで行くね",
       "isFirst": true,
       "file": ""
     },

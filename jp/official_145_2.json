@@ -1,6 +1,6 @@
 [
   {
-    "title": "특훈! 노려라, 산타!(번역)",
+    "title": "特訓！サンタへの道！",
     "nickname": "Molru",
     "date": "2022-12-15 22:24:10",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "고민이란 괴롭지만 좋은 것 같아요!",
+      "content": "悩むのは辛いですが、良いものでもあると思うんです！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "확실한 결론을 내리지 못하더라도, 자신감을 주니까요.",
+      "content": "乗り越えると、自信に繋がりますし！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "확실히 그럴지도.",
+      "content": "確かにそうかも。",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런데, 갑자기 왜 '고민’ 이야기를……?",
+      "content": "なぜ突然、悩みの話を……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "쭉 고민하던 문제에 대해 나름대로 결론을 내렸거든요.",
+      "content": "ずっと悩んでいたことについて、自分なりに結論が出せたんです",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "선생님께도 보여 드릴 테니 기대해 주세요!",
+      "content": "先生にもお見せしますので、楽しみにしていてください！",
       "isFirst": false,
       "file": ""
     },

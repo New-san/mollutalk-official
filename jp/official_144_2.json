@@ -1,6 +1,6 @@
 [
   {
-    "title": "정말로 준비한 선물(번역)",
+    "title": "マフラーのお礼",
     "nickname": "Molru",
     "date": "2022-12-15 22:21:59",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "안녕하세요, 선생님!",
+      "content": "こんにちは、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "요즘 몸 관리는 잘하고 계신가요?",
+      "content": "最近、体調はいかがですか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "가능하면~ 하고 싶은데~",
+      "content": "ちゃんとしたい気持ちは、あるのだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "또, 또!",
+      "content": "も、もう……！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "그러시면 안 돼요.",
+      "content": "忙しいのは分かりますが、ダメですよ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "제가 얼마나 선생님을 걱정하는데요!",
+      "content": "それが続くと、そのうち",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "저.",
+      "content": "あの",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "혹시 오늘…… 시간 괜찮으실까요?",
+      "content": "今日、お時間大丈夫ですか？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮지 않더라도 괜찮아!",
+      "content": "大丈夫じゃなくても大丈夫にします！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "……?",
+      "content": "え、えっと……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "네? 그게 무슨 뜻이에요……?",
+      "content": "それは嬉しいのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 76, "index": 4 },
-      "content": "……선생님?",
+      "content": "で、ではまた後で",
       "isFirst": true,
       "file": ""
     },

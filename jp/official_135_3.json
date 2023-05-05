@@ -1,6 +1,6 @@
 [
   {
-    "title": "Case 3. 공부할 시간이군요?(번역)",
+    "title": "Case3.勉強の時間ですね？",
     "nickname": "Molru",
     "date": "2022-10-27 05:13:49",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "일은 어떠세요, 주인님?",
+      "content": "お仕事の調子はどうでしょうか、ご主人様？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "저는 오늘 간만에 비번이랍니다.",
+      "content": "私は本日非番を頂きました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "시간이 비는 것은 오랜만이에요.",
+      "content": "こうして時間が空くのは久しぶりです",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아카네는 쉬는 날에 주로 뭘 하는 편이야?",
+      "content": "アカネは普段のお休みは何をしているの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "글쎄요. ",
+      "content": "そうですね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "하고 싶은 것은 많이 있습니다만……",
+      "content": "やりたいことはたくさんありますが……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "바라는 건 하나뿐이에요.",
+      "content": "望むことは、一つだけですね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "그저…… 어쩌다 우연히……",
+      "content": "偶然……本当に偶然でいいんです",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "주인님과 만났으면 좋겠다……",
+      "content": "ご主人様にお会いできたら嬉しいなと……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "그런 생각을 하고 있었답니다.",
+      "content": "そんなことを考えておりました",
       "isFirst": true,
       "file": ""
     },
