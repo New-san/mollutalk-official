@@ -1,6 +1,6 @@
 [
   {
-    "title": "쌓여가는 모리모리군(번역)",
+    "title": "ゴリゴリ君の残骸",
     "nickname": "Molru",
     "date": "2023-01-31 20:33:08",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "!",
+      "content": "！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "선생님!!!!!!!!!!",
+      "content": "先生！！！！！！！！！！！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "메구? 무슨 일이야?",
+      "content": "何かあったの！？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "굉장히 다급해 보이는 외침이네",
+      "content": "切羽詰まった声みたいだけど",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "응",
+      "content": "えっとね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "지금",
+      "content": "今ちょっと……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "아주 큰일이 났어",
+      "content": "大変なことになってるんだ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "선생님의 도움이 필요해",
+      "content": "助けてほしいの！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "도움-!",
+      "content": "へるぷ・み～！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "선생님!",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "그래도 오늘 정말 고마웠어!",
+      "content": "今日は本当にありがとう！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "다음에 꼭 같이 더 사 먹자! 알겠지?",
+      "content": "また今度、一緒に食べよ？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 27, "index": 1 },
-      "content": "약속이야!!",
+      "content": "約束だからね～！",
       "isFirst": false,
       "file": ""
     }
