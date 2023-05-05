@@ -1,6 +1,6 @@
 [
   {
-    "title": "봉사 활동(번역)",
+    "title": "ボランティア活動",
     "nickname": "Molru",
     "date": "2023-01-24 22:34:11",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "더워~~!",
+      "content": "あっつーい",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "힘들어ㅠㅠ",
+      "content": "疲れたよ～（＞＜）",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "휴일인데 이게 뭐야? 너무하다고 생각해.",
+      "content": "せっかくのお休みなのに、こんなのってあんまりじゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미카?",
+      "content": "ミカ、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "선생님. 힘들어 구해줘",
+      "content": "先生～助けて～～！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "아니, 그냥 놀아줘",
+      "content": "というか、遊んで！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일단 갈게. 기다려.",
+      "content": "向かうからちょっと待っててね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "어?",
+      "content": "えっ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "아냐, 아냐. 바쁜 거 아니었어? ",
+      "content": "いやいや、忙しいんだよね！？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "그러지 마. 그냥 징징댄 거야. ",
+      "content": "大丈夫だよ、ちょっと駄々こねてみただけ",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "오지 않아도 되니까. 바쁘잖아 선생님도.",
+      "content": "本当に来なくていいからね！？先生忙しいの知ってるから",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "선생님?",
+      "content": "……先生？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "저기 선생님",
+      "content": "あの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "잘 돌아 갔어?",
+      "content": "ちゃんと帰れた？",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "나는 지금 기숙사 세탁실!",
+      "content": "私は今、寮のランドリーにいてね",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "체육복이랑 새 수영복도 같이 세탁 중☆",
+      "content": "体操服と、新しい水着も一緒に洗濯してるとこ☆",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "응. 역시 아껴두는 것보단 사용해주는 게 더 좋은 거 같아.",
+      "content": "やっぱ、ちゃんと使った方が良いかなって",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "다음 수영 수업에 입으려구!",
+      "content": "次の水泳の授業で使う予定だよー！",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 생각했어. ",
+      "content": "うん、いいと思う。ちゃんと使ってね",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "응! 고마워☆☆☆☆☆☆",
+      "content": "うん、ありがとね☆☆☆☆",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "아",
+      "content": "あ！そうだ……",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "혹시 내일은 바쁘려나…… ",
+      "content": "明日って忙しいかな……？",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 미안. 내일도 할일이……",
+      "content": "うん、ごめんね。明日も用事が……",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "응, 역시 그렇지? 어른이니까.",
+      "content": "そうだよね、大人だもんね",
       "isFirst": true,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "그럼 잘자 선생님!",
+      "content": "気にしないでね。おやすみ、先生！",
       "isFirst": true,
       "file": ""
     }
