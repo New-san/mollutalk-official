@@ -1,6 +1,6 @@
 [
   {
-    "title": "따스함을 주세요.(번역)",
+    "title": "ぬくもりをください",
     "nickname": "Molru",
     "date": "2022-12-29 22:41:09",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "연휴가",
+      "content": "連休が",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "끝났어",
+      "content": "終わった",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "끝나버렸어",
+      "content": "終わっちゃった……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "진정해 준코. 연휴는 일단 내일까지야.",
+      "content": "お、落ち着いて、ジュンコ。連休は一応明日までだよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "그 정도는 알아!",
+      "content": "知ってるわよ！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "하지만 내 마음속에서 연휴는 이미 죽었어! 더는 없어!",
+      "content": "でも私の心の中での連休は死んだ！もういない！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "내 등에, 이 가슴에, 하나가 되어 함께 살아가지도 않아!",
+      "content": "私の背中にもこの胸にも、一つになって生き続けてくれない！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "남은 연휴를 이대로 보낼 순 없다고!",
+      "content": "でもだからって、このまま終わらせるわけにはいかないの！",
       "isFirst": true,
       "file": ""
     },
