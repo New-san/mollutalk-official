@@ -1,6 +1,6 @@
 [
   {
-    "title": "다락방의 공주님(번역)",
+    "title": "屋根裏部屋のお姫様",
     "nickname": "Molru",
     "date": "2023-01-24 22:37:26",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "선",
+      "content": "☆",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "생",
+      "content": "先",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "님",
+      "content": "生",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐야. 미카인가.",
+      "content": "あ、ミカ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "응?",
+      "content": "あれ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "귀찮은 듯한 반응?",
+      "content": "タイミング間違えちゃった？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "성가신 여자 취급인 거야? 우와…… 조금 상처……",
+      "content": "もしかして、めんどくさい女になっちゃった？ちょっとショック……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "뭐, 그래도 상관없지만☆",
+      "content": "まあ、それでもいいんだけど☆",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "오늘은 어때, 선생님? 바빠? 바쁘겠지? ",
+      "content": "先生今日はどうかな？やっぱ忙しい？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "바쁘긴 하지만…… 저녁에는 괜찮을 거 같아.",
+      "content": "忙しいけど……夕方は大丈夫だと思う",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저녁 늦게쯤이면 시간이 날지도?",
+      "content": "その辺りなら少し時間ができるかも",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "헤에…… 저녁에?",
+      "content": "へー……夕方？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "그럼 잠깐만 시간 내줄래? ",
+      "content": "じゃあ、ちょっとだけ時間もらえる？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "잠깐, 진짜 잠깐이면 돼.",
+      "content": "ほんと、ちょっとでいいから",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있는 거야?",
+      "content": "何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "무슨 일은 아니고……",
+      "content": "んー、そういうわけじゃないんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알았어. 저녁에 잠깐 들릴게.",
+      "content": "そっか。分かった、あとで寄るね",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "선생님…… 안들키고 잘 돌아간 거지?",
+      "content": "先生……無事帰れたんだよね？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저 화났어요.",
+      "content": "……帰れたけど、怒ってるよ",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "……응.",
+      "content": "うん……",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "장난이 너무 심했어…….",
+      "content": "イタズラが過ぎたよね……",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 60, "index": 1 },
-      "content": "미안해요.",
+      "content": "ごめんなさい",
       "isFirst": true,
       "file": ""
     }
