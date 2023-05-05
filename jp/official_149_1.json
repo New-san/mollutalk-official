@@ -1,6 +1,6 @@
 [
   {
-    "title": "그 뜻을 보다 널리(번역)",
+    "title": "救護の精神",
     "nickname": "Molru",
     "date": "2023-01-11 19:11:10",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "선생님. ",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "괜찮으시다면, 오늘의 시간을 저에게 할애해 주실 수 있으신지요.",
+      "content": "お忙しいとは思いますが……よろしければ今日、少しお時間を頂けませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미네의 부탁이라면야, 얼마든지!",
+      "content": "ミネの頼みならもちろん",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "감사합니다.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런데, 무슨 일이야?",
+      "content": "それで、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "무슨 일인지에 대한 확인은 뒤로 미루고",
+      "content": "よく考えてみますと",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "우선 약속을 받아 주시는 그 모습……",
+      "content": "要件を聞かずとも、快く二つ返事でお願いを聞いてくださるなんて……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "선생님은 저희에게 신뢰할 수 있는 소중한 분이 아닐까, 하고",
+      "content": "もしかすると先生は、信頼できる大切な方なのではないかと",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "그런 생각을 해 보았습니다.",
+      "content": "そんなことを思ってしまいますね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미네……?",
+      "content": "ミネ……？",
       "isFirst": true,
       "file": ""
     },
