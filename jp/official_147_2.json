@@ -1,6 +1,6 @@
 [
   {
-    "title": "다양한 음식이 필요해!(번역)",
+    "title": "色んな料理が食べたい！",
     "nickname": "Molru",
     "date": "2022-12-29 22:35:11",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "선생님, 선생님!",
+      "content": "先生、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "아르바이트비를 받았어!",
+      "content": "バイト代が入ったの！",
       "isFirst": false,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "축하해. 준코가 노력한 대가야.",
+      "content": "ジュンコが頑張ったからだね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "그래서 말인데",
+      "content": "まぁね！というわけで……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "되갚아 줄 거야!",
+      "content": "お返しの時間よ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……그건 또 무슨 소리야?",
+      "content": "恩返し？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "후훗. 두고 보라고.",
+      "content": "ふふっ、楽しみにしててよね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "목숨만은 살려주세요!",
+      "content": "ど、どうか命だけは……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "내가 뭘 하려는지 궁금하다면 ",
+      "content": "物騒なこと言わないで！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "오늘 저녁 시간에 맞춰 축제 거리로 찾아와.",
+      "content": "とにかく",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "꼭이야!",
+      "content": "夕方になったら、お祭り通りに来て",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 16, "index": 4 },
-      "content": "이상한 짓 하려는 거 아니거든?!",
+      "content": "絶対よ！",
       "isFirst": true,
       "file": ""
     },
