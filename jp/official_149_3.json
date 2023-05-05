@@ -1,6 +1,6 @@
 [
   {
-    "title": "애프터눈 티(번역)",
+    "title": "アフタヌーンティー",
     "nickname": "Molru",
     "date": "2023-01-11 19:15:22",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "오늘 오후, 혹시 시간이 비어 있으실지요?",
+      "content": "今日の午後、少々お時間を頂けないでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘 오후라면 괜찮아.",
+      "content": "全然大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "혹시 순찰입니까……?",
+      "content": "もしかして巡回救護……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "오늘의 순찰은 오전으로 끝마쳤으니",
+      "content": "今日の分の巡回救護は午前中に終わらせましたので",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "오후에 선생님과 함께 티타임을 가져 볼 수 있을까 해서요.",
+      "content": "午後は先生とティータイムを楽しめないものかと思ったのです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "없는 시간을 만들어서라도 갈게!",
+      "content": "すぐ仕事を片付けて向かうね！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "그러면 기다리고 있겠습니다.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 78, "index": 1 },
-      "content": "감사합니다.",
+      "content": "それでは、お待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
