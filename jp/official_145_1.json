@@ -1,6 +1,6 @@
 [
   {
-    "title": "착한 아이? 나쁜 아이?(번역)",
+    "title": "良い子？悪い子？",
     "nickname": "Molru",
     "date": "2022-12-15 22:23:08",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "최근 고민이 생겼어요, 선생님.",
+      "content": "先生、実は悩みがあるんです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 들어줄 수 있는 거야?",
+      "content": "なるほど……それは、私が聞いても良いやつ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "아, 그러네요. 선생님이라면!",
+      "content": "はい、先生になら！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "그렇지만 너무 폐를 끼치는 건 아닌지……",
+      "content": "ですが、迷惑になってしまわないかと……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "학생의 고민을 들어주는 게 선생님이 하는 일이야.",
+      "content": "生徒の悩みを聞くことも、先生の役目だから",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "그렇다면 부탁드려도 괜찮을까요?",
+      "content": "では、お願いしてもいいですか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 77, "index": 4 },
-      "content": "제가 직접 찾아뵐게요!",
+      "content": "今からすぐ会いに行きますね！",
       "isFirst": false,
       "file": ""
     },
