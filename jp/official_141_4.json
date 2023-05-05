@@ -1,6 +1,6 @@
 [
   {
-    "title": "솔직하게(번역)",
+    "title": "素直に",
     "nickname": "Molru",
     "date": "2022-11-30 19:53:32",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "혹시 괜찮다면, 나중에 시간 좀 내줄 수 있을까?",
+      "content": "良かったら、後でちょっと時間貰える？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "저번 일의 답례도 할 겸",
+      "content": "先日のお礼も兼ねて",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "이번에는 내가 선생님한테 요리를 대접해 주고 싶은데",
+      "content": "料理を作ってあげようかなって",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "시구레가 나한테 요리를?",
+      "content": "料理？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "샬레로 찾아오는 거야?",
+      "content": "シャーレに来るの？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "응, 맞아",
+      "content": "うん、そう",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "괜찮은 날을 정해주면 재료를 들고 찾아갈게",
+      "content": "材料は持っていくから",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "기대해도 좋다고",
+      "content": "期待してもらって良いよ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "그럼 그때 봐. 선생님.",
+      "content": "じゃあ、後で日程を決めよっか",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "아",
+      "content": "そういえば、お礼を言いそびれてた気がして",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "감사 인사를 전했어야 했는데 깜빡했네, 미안.",
+      "content": "ごめん、遅くなっちゃった",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "선생님이 만들어 준 요리, 굉장히 맛있었어.",
+      "content": "ありがとう、すごく美味しかった",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "인제 와서 드는 생각인데",
+      "content": "それで、さっき思いついたんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "음",
+      "content": "さっきのウォッカだけどさ",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "밑간을 할 때 보드카를 썼으면 더 좋지 않았을까?",
+      "content": "下味をつける時に使えば良いんじゃ？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "맛술이 필요하면 청주를 쓰도록 해……",
+      "content": "料理には清酒でね",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "보드카는 요리에도 사용 금지야",
+      "content": "ウォッカは料理でも使用禁止",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "후후",
+      "content": "ふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "여전히 즐겁네, 선생님의 잔소리",
+      "content": "先生はやっぱり面白いなぁ",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "알았어",
+      "content": "了解、じゃあそうする",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 108, "index": 1 },
-      "content": "그럼 다음에 또 봐, 선생님",
+      "content": "それじゃまたね、先生",
       "isFirst": false,
       "file": ""
     }
