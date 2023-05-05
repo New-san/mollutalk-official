@@ -1,6 +1,6 @@
 [
   {
-    "title": "Case 1. 토끼랍니다?(번역)",
+    "title": "Case1.ウサギですよ？",
     "nickname": "Molru",
     "date": "2022-10-27 05:09:31",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "안녕하세요. 주인님.",
+      "content": "おはようございます、ご主人様",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "메이드는 봉사하는 사람이라고 할 수 있겠죠.",
+      "content": "メイドとは、奉仕を仕事とする者",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "메이드복은 봉사하는 자의 의복일 거고요.",
+      "content": "ご主人様に仕える者は、メイド服を着る……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응…… 그렇겠지?",
+      "content": "うん……そう、かな？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "그렇게 생각하고 있었습니다만",
+      "content": "そう思っていたのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "최근 새로운 깨달음을 얻었습니다.",
+      "content": "最近新しい気付きを得たのです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "부디, 기대해 주세요.",
+      "content": "どうぞ、楽しみにお待ちくださいね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어…… 뭐가?",
+      "content": "う……うん？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭔지 모르겠지만 기대됩니다!",
+      "content": "楽しみにしておきます？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "시간이 괜찮으시다면 제 방에 한 번 들러 주시겠어요?",
+      "content": "今度お時間がありましたら、ぜひ私の部屋に寄っていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "기다리고 있겠습니다. ",
+      "content": "お待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 34, "index": 3 },
-      "content": "나의 주인님.",
+      "content": "私のご主人様",
       "isFirst": true,
       "file": ""
     },
