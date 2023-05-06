@@ -1,6 +1,6 @@
 [
   {
-    "title": "새해의 종소리(번역)",
+    "title": "新年の鐘音",
     "nickname": "Molru",
     "date": "2023-03-22 19:59:29",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생, 선생은 한 해의 마지막 날 자정에는 무얼 하는 편이야?",
+      "content": "先生は普段の年越しって、何して過ごしてるの？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "해넘이 국수를 먹으면서 보내.",
+      "content": "年越しそばを食べてるかな",
       "isFirst": true,
       "file": ""
     },
@@ -34,13 +34,13 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "연말 특집 방송을 보면서 지내.",
+      "content": "年末の特番を見てるかも",
       "isFirst": false,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "후후, 그것도 나쁘지 않네.",
+      "content": "ふふ、それも悪くないね",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -54,13 +54,13 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "나는 보통은 제야의 타종을 들으러 사찰을 찾아가는 편이야.",
+      "content": "私はお寺で除夜の鐘を聞いてるよ",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "1년에 한 번만 들을 수 있는 종소리라는 점이 매력적이라",
+      "content": "その日しか聞けない、ってところが好きで",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -74,13 +74,13 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭔가 로망이 느껴지네",
+      "content": "ロマンがあるよね",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "그래서 말인데, 선생.",
+      "content": "それでだけど、先生",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,13 +94,13 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "올해 마지막 날에는 같이 제야의 타종을 들으러 가지 않을래?",
+      "content": "今年の年越しは、一緒に除夜の鐘を聞いて過ごさない？",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "좋은 종소리로 유명한 숨겨진 명소가 있다고 해서.",
+      "content": "隠れた名所があるらしくて",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -114,13 +114,13 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아. 같이 가자.",
+      "content": "良いね、行こうか",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "응. 그럼 그 날 저녁에 역 앞에서 보자.",
+      "content": "じゃあ、当日は駅前集合で",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
