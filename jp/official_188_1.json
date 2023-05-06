@@ -1,6 +1,6 @@
 [
   {
-    "title": "또 다른 오해",
+    "title": "深まる誤解",
     "nickname": "Molru",
     "date": "2023-03-22 19:55:28",
     "replyNo": 3,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "그러고보니 슬슬 새 기모노를 사야할 것 같네.",
+      "content": "そろそろ着物を新調しようかな",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "전에 쓰던 기모노가 너무 낡아서 슬슬 바꿔야 할 것 같아.",
+      "content": "しばらく買い替えてなかったし",
       "isFirst": true,
       "file": ""
     },
@@ -34,13 +34,13 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "카요코는 개인 기모노를 갖고 있었어?",
+      "content": "カヨコは自分の着物を持ってるんだね",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "응. 그리 비싼 건 아니지만.",
+      "content": "うん、そんなに高いものじゃないけど",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -50,7 +50,7 @@
     },
     {
       "type": "chat",
-      "content": "흥신소에 들어오기 전에는 격식 있는 자리에 참가하는 경우가 많아서……",
+      "content": "便利屋に入る前は、改まった場所に行くことが多かったから……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -60,7 +60,7 @@
     },
     {
       "type": "chat",
-      "content": "방문복 정도는 갖고 있었지.",
+      "content": "訪問着くらいは持ってたよ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -74,13 +74,13 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어떤 자리였기에 기모노를……",
+      "content": "改まった場所って一体……",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "후후",
+      "content": "ふふ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -90,7 +90,7 @@
     },
     {
       "type": "chat",
-      "content": "나중에 기회가 되면 말해줄게",
+      "content": "機会があれば教えるよ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
