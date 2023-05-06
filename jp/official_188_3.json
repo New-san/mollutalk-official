@@ -1,6 +1,6 @@
 [
   {
-    "title": "감주와 고양이(번역)",
+    "title": "猫とカヨコと甘酒と",
     "nickname": "Molru",
     "date": "2023-03-22 20:05:53",
     "replyNo": 6,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "새해도 되었으니",
+      "content": "今年も始まったことだし",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -24,13 +24,13 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "가까운 사찰에서 흥신소 직원들에게 선물할 부적을 구입할까 하는데……",
+      "content": "近くのお寺で便利屋のみんなに、お守りを買おうと思う",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "괜찮다면 선생도 하나 선물해 줄까?",
+      "content": "先生にも買ってくるよ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "혹시 특별히 필요한 부적이라도 있어?",
+      "content": "どんなお守りが欲しい？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "게임 가챠에서 좋은 아이템을 뽑는 부적!",
+      "content": "ガチャでSSRが出るお守り！",
       "isFirst": true,
       "file": ""
     },
@@ -64,13 +64,13 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "치명 데미지 수치를 높여주는 부적!",
+      "content": "会心ダメージ値を上げてくれるお守り！",
       "isFirst": false,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "으음……",
+      "content": "うーん……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -80,7 +80,7 @@
     },
     {
       "type": "chat",
-      "content": "사찰에서 그런 부적을 팔고 있었던가……",
+      "content": "そんなお守り、売ってるかな……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "농담이야.",
+      "content": "冗談だよ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 직접 보고 구입하고 싶은데……",
+      "content": "私もカヨコと選びたいな",
       "isFirst": true,
       "file": ""
     },
@@ -114,13 +114,13 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮으면 만나서 같이 사러 가자.",
+      "content": "良かったら一緒に買いに行こう",
       "isFirst": false,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "그래.",
+      "content": "分かった",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "그럼 내일 아침 사찰 앞에서 보자.",
+      "content": "じゃあ、明日の朝、お寺の前で",
       "isFirst": true,
       "file": ""
     },
