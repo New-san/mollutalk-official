@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생, 시내에서 바쁘게 달려가는 모습을 보았는데……",
+      "content": "正月から忙しそうに走ってる先生を見かけたんだけど……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "무슨 일이라도 있었던 거야?",
+      "content": "何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "새해부터 여러가지 소동이 있어서……",
+      "content": "年明け早々、色々と騒ぎが……",
       "isFirst": true,
       "file": ""
     },
@@ -44,13 +44,13 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "해가 바뀌자 마자 말썽이 벌어져서……",
+      "content": "お正月から事件が起きてね……",
       "isFirst": false,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "새해부터 쉬지도 못하고……",
+      "content": "こんな時まで忙しいなんて……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -60,7 +60,7 @@
     },
     {
       "type": "chat",
-      "content": "샬레의 선생님은 고생이 많네.",
+      "content": "相変わらず先生は大変だね",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -74,13 +74,13 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 13, "index": 3 },
-      "content": "혹시라도 괜찮다면 ",
+      "content": "もし良かったら",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "다음 번에 내가 휴식에 도움이 되는 음악 CD를 빌려 줄게.",
+      "content": "今度気分が安らぐCDを貸してあげる",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고마워. 그럼 다음에 부탁할게.",
+      "content": "ありがとう、お願いしようかな",
       "isFirst": true,
       "file": ""
     },
