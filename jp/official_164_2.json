@@ -1,6 +1,6 @@
 [
   {
-    "title": "트렌드 따라잡기(번역)",
+    "title": "「流行」",
     "nickname": "Molru",
     "date": "2023-02-10 21:07:00",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "얏호-선생님☆",
+      "content": "こんにちわ～先生☆",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "오늘도 평안하신가요?",
+      "content": "今日もいかがお過ごしですか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "사쿠라코 쨩은 늘 선생님의 평안을 빌고 있답니다!",
+      "content": "サクラコは、いつも先生の一日が平和であるよう、願っています！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼 오늘도 좋은 하루 되시기 바래용~!",
+      "content": "今日も良い一日を～！！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼~ 뾰로롱~☆",
+      "content": "それじゃ、またね☆",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……사쿠라코????",
+      "content": "……サクラコ？？？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "본인 맞으십니까?",
+      "content": "本人……だよね？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "음",
+      "content": "ええと、",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "죄송합니다, 선생님. 이게 아닌 모양이군요.",
+      "content": "申し訳ありません先生。これはどうやら違うみたいですね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "친근하게 보이는 법이라고, 인터넷 검색으로 찾아본 것이었는데",
+      "content": "「親しみやすい人」と、インターネットで調べてみたのですが",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "혹여 제가 뭔가 잘못 말씀드린 거라면……",
+      "content": "その……何か失礼がありましたら……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "죄송합니다.",
+      "content": "申し訳ありません",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼 이만…….",
+      "content": "では、また……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "선생님",
+      "content": "先生、お疲れ様です",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "일이 끝나고 연락을 드리는 건 처음이네요.",
+      "content": "お別れの後に連絡を差し上げるのは初めてですね",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "오늘 일은 정말로 감사했습니다.",
+      "content": "今日は、本当にありがとうございした",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "염치는 없겠지만……. 비슷한 일이 있으면, 또 부탁드리겠습니다.",
+      "content": "その……厚かましいお願いですが……また何かあった際には、よろしくお願いします",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼",
+      "content": "それでは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "늘 평안하시고, 행운이 가득하시길.",
+      "content": "どうか明日も、平穏な一日でありますよう",
       "isFirst": false,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "빠밤-!!",
+      "content": "それでは……わっぴ～！",
       "isFirst": true,
       "file": ""
     }
