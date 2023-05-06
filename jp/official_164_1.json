@@ -1,6 +1,6 @@
 [
   {
-    "title": "오해 받기 쉬운 사람(번역)",
+    "title": "誤解されやすい人",
     "nickname": "Molru",
     "date": "2023-02-10 20:57:07",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "후후",
+      "content": "ふふ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "후후후후…….",
+      "content": "うふふ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……? 사쿠라코?",
+      "content": "……？サクラコ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "아무것도 아닙니다, 선생님.",
+      "content": "……お気になさらず、先生",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "단지 인사차 보내 드리는 연락일 뿐.",
+      "content": "そうですね……申し上げるとすれば、ご挨拶を……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "이전부터 선생님과는 쭉 대화를 나눌 기회가 있기를 바래 왔으니까요.",
+      "content": "以前から、先生とお話できる機会を探しておりまして",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "어쩌면 조만간, 우리에게 그럴 시간이 올지도 모르겠지요.",
+      "content": "もしかして……近いうちに、相見えることがあるかもしれません",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼, 그 때까지,",
+      "content": "では、またその時まで",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "모쪼록, 평안하시기를.",
+      "content": "日々が穏やかでありますよう",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "후후",
+      "content": "ふふ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "후후후…….",
+      "content": "うふふ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……???",
+      "content": "……？？？",
       "isFirst": true,
       "file": ""
     }
