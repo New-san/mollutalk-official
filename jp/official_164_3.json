@@ -1,6 +1,6 @@
 [
   {
-    "title": "내부 회랑 산책(번역)",
+    "title": "秘密の夜",
     "nickname": "Molru",
     "date": "2023-02-10 21:09:41",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "늦은 밤 갑작스럽습니다만,",
+      "content": "夜分申し訳ありません、先生……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "선생님, 잠시 동행을 부탁드려도 괜찮을까요?",
+      "content": "少々お時間よろしいでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮지만 무슨 일이야?",
+      "content": "大丈夫だけど、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있어?",
+      "content": "何かあったの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "별 일은 아니랍니다.",
+      "content": "大したことではないのですが、",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "다만 이번에는……. 아니, 사실 늘 그랬지만…….",
+      "content": "ただ今回は……いえ、これまでもそうなのですが",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "괜찮으시다면, 혼자 와 주실 수 있으실까요?",
+      "content": "よろしければ、先生お一人で来ていただけませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "조금…….",
+      "content": "その、何と申し上げれば良いのでしょう……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "비밀스러운 이야기가 될 것 같습니다.",
+      "content": "二人だけで、お話したいことがございまして……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "음",
+      "content": "ええと……やはり",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "아무래도 너무 늦은 시간에 불러드린 게 아닌지 걱정입니다.",
+      "content": "夜遅くにお呼び立てしてしまったのでは、と心配になってしまいました",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "선생님만 괜찮으시다면, 주무실 곳을 마련해 드리는 것이 예의였을지도.",
+      "content": "先生にご相談のうえ、お休みする場所を用意すれば良かったですね",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "네",
+      "content": "申し訳ありません……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "다음부터는, 그렇게 하도록 하겠습니다.",
+      "content": "次からはそうしようと思います",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 75, "index": 1 },
-      "content": "그럼 평안하시고, 늘 행운이 가득하시길.",
+      "content": "では……いつも平穏無事でありますよう",
       "isFirst": false,
       "file": ""
     }
