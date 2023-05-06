@@ -1,6 +1,6 @@
 [
   {
-    "title": "홍차와 감칠맛(번역)",
+    "title": "紅茶とコク",
     "nickname": "Molru",
     "date": "2023-02-22 23:03:24",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "……그간 평안하셨는지요.",
+      "content": "……いかがお過ごしでしょうか",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "저",
+      "content": "先日は、みっともない姿をお見せしてしまいましたが……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "지난번에는 평정심을 잃은 탓에 선생님께 큰 실례를 저질렀습니다……",
+      "content": "あらためましてその、決して普段からあのような言動をしているわけではなく……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 신경 쓰지 않아.",
+      "content": "気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "하지만 트리니티의 중책을 맡은 자가 실수를 가벼이 넘길 수는 없는 법.",
+      "content": "そう言われましても……ティーパーティーとして、やはり失態を放っておくことはできません。",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "선생님께서 괜찮으시다면 부디 제게 실수를 만회할 기회를 주셨으면 합니다.",
+      "content": "……よろしければお詫びを兼ねて、もう一度お時間を頂けませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "그러고 보니 새로 주문한 찻잎이 곧 도착할 것 같은데……",
+      "content": "ちょうど新しく頼んだ茶葉がもうすぐ到着しますので",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "새로운 차의 시음과 겸하여 함께 다과회라도 즐기시는 게 어떠신가요?",
+      "content": "ご馳走させてください。先生のご都合がよろしければ、ですが",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아.",
+      "content": "それじゃあ、ご相伴に預かろうかな",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "네. 그럼 전의 장소에서 기다리고 있겠습니다.",
+      "content": "ありがとうございます。それでは、テラスでお待ちしておりますね。",
       "isFirst": true,
       "file": ""
     },
