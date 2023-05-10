@@ -1,6 +1,6 @@
 [
   {
-    "title": "그 국장의 소문(번역)",
+    "title": "局長の噂",
     "nickname": "Molru",
     "date": "2023-01-31 20:44:37",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "발키리 경찰학교 공안국의 국장, 오가타 칸나입니다.",
+      "content": "ヴァルキューレ警察学校、公安局局長の尾刃カンナです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "내일 10시 30분, 샬레의 사무실을 방문하도록 하겠습니다.",
+      "content": "明日の10時30分頃、シャーレの執務室を訪問させていただきます",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "드디어 올 것이 왔나……",
+      "content": "いよいよこの時が……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "난 아무런 잘못도 하지 않았어!",
+      "content": "濡れ衣です！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "……그게 무슨 말씀이신지?",
+      "content": "……どういうことでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "전에 말씀드린 것처럼 샬레의 당번 업무 차 방문 예정입니다만.",
+      "content": "以前お約束した、シャーレの当番の話ですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "혹 내일 방문하면 곤란한 일이라도 있으신지요.",
+      "content": "何か困るようなことでも？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 당번 업무 때문이었구나……",
+      "content": "ああ、当番のことね……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 아무 문제도 없어.",
+      "content": "大丈夫、問題ないよ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "그렇다면 다행입니다.",
+      "content": "でしたら良かったのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "그럼 내일, 말씀드린 시각에 찾아 뵙겠습니다.",
+      "content": "それでは明日、先ほどお伝えした時刻に伺います",
       "isFirst": true,
       "file": ""
     },
