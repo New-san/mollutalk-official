@@ -1,6 +1,6 @@
 [
   {
-    "title": "부장님보다 더 부장님 다운 카호 님",
+    "title": "部長よりも部長らしいカホさん",
     "nickname": "Molru",
     "date": "2023-04-12 20:27:13",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님, 저번엔 본의 아니게 크게 폐를 끼치고야 말았습니다.",
+      "content": "先生、先日は大変ご迷惑をおかけしてしまい……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 91,
         "index": 1
       },
-      "content": "다시금 죄송하단 말씀드립니다.",
+      "content": "申し訳ございませんでした",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "응? 아니, 그, 폐를 끼쳤다고 생각하지는 않지만 말이야.",
+      "content": "迷惑だなんて、そんなことないよ",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그런 말씀만으로도 충분히 감사드립니다만.",
+      "content": "お心遣い痛み入りますが……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -58,7 +58,7 @@
     },
     {
       "type": "chat",
-      "content": "오늘은 그때의 사과를 위해, 제게 잠시 시간을 할애해주실 수 있으실까요?",
+      "content": "ご迷惑をおかけしたお詫びに、百鬼夜行までお越しいただけないでしょうか？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -77,12 +77,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "아, 뭐, 그런 거라면야, 얼마든지.",
+      "content": "うん、これから向かえば良いかな？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "네, 그럼 오시는 것을 기쁜 마음으로 기다리고 있겠습니다.",
+      "content": "はい、それではお待ちしております",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -101,12 +101,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "응. 바로 갈게.",
+      "content": "すぐに行くね",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "저, 쿠와카미 카호. 오늘 하루 선생님을 완벽하게 에스코트하겠습니다.",
+      "content": "私、桑上カホ、本日は完璧に先生をエスコートしますので",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -125,7 +125,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "……응? 잠깐, 에스코트라니……? ",
+      "content": "エスコートって……？",
       "isFirst": true
     },
     {
