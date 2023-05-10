@@ -1,6 +1,6 @@
 [
   {
-    "title": "계절감(번역)",
+    "title": "季節感",
     "nickname": "Molru",
     "date": "2023-03-22 20:31:21",
     "replyNo": 6,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님",
+      "content": "先生",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 3 },
-      "content": "그",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 3 },
-      "content": "그러니까",
+      "content": "えっと",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 3 },
-      "content": "찾으셨다고 해서",
+      "content": "私を探していたと聞いて",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 하루카. 응.",
+      "content": "うん、連絡ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -64,13 +64,13 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "혹시 지금 시간 괜찮아?",
+      "content": "今、時間大丈夫？",
       "isFirst": false,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "네?",
+      "content": "え？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -84,13 +84,13 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 3 },
-      "content": "아네지금바로가겠습니다",
+      "content": "あっはい今すぐ行きます",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "제가찾아갈테니선생님은잊고계셔주세요",
+      "content": "私が伺いますので先生は待っていてください",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 3 },
-      "content": "불러주셔서감사합니다",
+      "content": "呼んでくださってありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -120,7 +120,7 @@
     },
     {
       "type": "chat",
-      "content": "감사합니다선생님 덕분에잘돌아왔습니다",
+      "content": "ありがとうございます、先生。お陰で家に帰るまで暖かかったです",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -134,13 +134,13 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 잘했어.",
+      "content": "そっか。よかった",
       "isFirst": true,
       "file": ""
     },
     {
       "type": "chat",
-      "content": "주신핫팩은 가보로삼기위해 방부처리하여 금고에담았습니다 제목숨을걸고지키겠습니다",
+      "content": "いただいたカイロは特殊加工して金庫に入れました。家宝として命に替えても守り抜きます",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -154,7 +154,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응?",
+      "content": "……んん？",
       "isFirst": true,
       "file": ""
     }
