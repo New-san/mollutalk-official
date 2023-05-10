@@ -1,6 +1,6 @@
 [
   {
-    "title": "빵의 대용품(번역)",
+    "title": "パンがなければ",
     "nickname": "Molru",
     "date": "2023-02-22 23:04:36",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "좋은 아침입니다, 선생님.",
+      "content": "おはようございます、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "아침 식사는 하고 출근하셨나요?",
+      "content": "一日の始まりは朝食からと言いますが……先生はもうすでに食べられましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 나기사는?",
+      "content": "うん、ちょうどさっき。ナギサの方は？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "네, 조금 전에 미소시루를 먹었답니다.",
+      "content": "私は先ほど、お味噌汁をいただきました",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……의외네.",
+      "content": "……ちょっと意外かも",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "티파티의 학생들은 스위츠만 먹을 것 같은 인상이었는데…….",
+      "content": "ティーパーティーって何か、スイーツしか食べないみたいなイメージが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "그럴 리가 없잖습니까.",
+      "content": "何を仰るのですか……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "아무리 입에 달다고 해도 한 가지 음식만 먹으면 건강을 해치는 법.",
+      "content": "いくら何でも、甘いものばかり食べていては栄養バランスが良くありません",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "저라고 해서 언제나 케이크와 과자만 먹는 건 아니랍니다.",
+      "content": "私たちだって、いつもケーキやお菓子ばかり食べているわけではないんです",
       "isFirst": false,
       "file": ""
     },
