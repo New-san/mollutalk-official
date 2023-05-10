@@ -1,6 +1,6 @@
 [
   {
-    "title": "그 국장의 업무(번역)",
+    "title": "張り込みの定番",
     "nickname": "Molru",
     "date": "2023-01-31 20:46:31",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "늦은 시간에 죄송합니다, 선생님.",
+      "content": "先生、夜分遅くに失礼いたします",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "발키리 경찰학교의 오가타 칸나입니다.",
+      "content": "ヴァルキューレ警察学校の尾刃カンナです",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "다름이 아니라 괜찮으시다면",
+      "content": "こちらの勝手で申し訳ありませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "다음주 당번 일정을 조금 변경하고자 합니다",
+      "content": "来週の当番、日程を変更しても良いですか？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일정 변경은 문제 없지만……",
+      "content": "それくらい問題ないよ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 문제라도 있어?",
+      "content": "何か問題でもあった？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "그게 경비국의 머저리들이",
+      "content": "また警備局のバカ共が……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "아니",
+      "content": "いえ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "실례했습니다",
+      "content": "忘れてください",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "경찰학교에 처리해야할 긴급한 문제가 생겨 외근을 해야 할 것 같습니다.",
+      "content": "緊急の要請が来たため、私も作戦に加わることになりまして",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고생이 많네……",
+      "content": "大変だね……",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "아닙니다. 발키리 경찰학교의 간부로서 당연히 수행해야 할 업무인걸요.",
+      "content": "これも公安局局長としての務めですので",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "변경된 일정은 메일을 통해 따로 고지드리겠습니다.",
+      "content": "それでは、当番の日程は、別途メールで連絡いたします",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 116, "index": 1 },
-      "content": "그럼 먼저 말을 줄이겠습니다. 편안한 하루 되십시오.",
+      "content": "事件のことは気にせず、先生はお休みになってください",
       "isFirst": false,
       "file": ""
     },
