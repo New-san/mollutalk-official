@@ -1,6 +1,6 @@
 [
   {
-    "title": "오후의 티타임(번역)",
+    "title": "午後のティータイム",
     "nickname": "Molru",
     "date": "2023-02-22 22:58:13",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "오랜만에 인사드립니다, 선생님.",
+      "content": "ご無沙汰しております",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "그간 평안하셨는지요?",
+      "content": "ご機嫌いかがですか、先生？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오랜만이야, 나기사.",
+      "content": "ナギサ、久しぶり",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "오늘 모처럼 연락을 드린 이유는 다름이 아니라",
+      "content": "はい、確かにお久しぶりですね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "트리니티 학생들의 일로 선생님께 상담을 하고 싶은 것이 있어서요.",
+      "content": "実は、トリニティの生徒たちのことでご相談したいことがありまして",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "무거운 사안은 아니니 점심 식사 후에 차라도 한잔하며 이야기를 나누는 게 어떠실까요?",
+      "content": "それほど重たい内容でもありませんので、アフタヌーン・ティーでもご一緒しながらお話できればと思うのですが、いかがでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 좋아.",
+      "content": "あ、良いね。ぜひ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "네. 그럼 좋은 홍차를 준비하고 기다리고 있겠습니다.",
+      "content": "ふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "날이 더우니 더위에 주의하시길.",
+      "content": "それでは、良い茶葉をご用意してお待ちしておりますね",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "먼저 자리를 비워서 죄송합니다, 선생님.",
+      "content": "先に席を外してしまい、申し訳ございません。先生",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "부득이하게 갑자기 컨디션이 나빠지는 바람에…",
+      "content": "急に体調が悪くなってしまい……健康管理ができておらず申し訳ありません",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 신경 쓰지 마.",
+      "content": "大丈夫だよ、気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "혹시 내가 권한 홍차가 입에 맞지 않았던 거야?",
+      "content": "ペットボトルの紅茶、もしかして口に合わなかった？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무리하게 권한 것 같아 미안하네……",
+      "content": "無理強いしちゃったかな、ごめんね……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "아뇨. 대단히 흥미로운 경험이었습니다만……",
+      "content": "いいえ、大変興味深い経験でした。ありがとうございます……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 62, "index": 1 },
-      "content": "다음에는 조금 양을 조절하는 게 좋을 것 같네요……",
+      "content": "ですが、今度からはいただく量を調節した方が良いかもしれませんね……",
       "isFirst": true,
       "file": ""
     }
