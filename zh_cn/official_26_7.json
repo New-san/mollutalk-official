@@ -1,0 +1,116 @@
+[
+  {
+    "title": "유비무환?",
+    "nickname": "Molru",
+    "date": "2023-01-25 04:15:01",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [1]
+  },
+  [
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 1,
+        "index": 1
+      },
+      "content": "선생님.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 1,
+        "index": 1
+      },
+      "content": "선생님은 계속 지하철을 타는 거지?",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그렇다고 할까, 지하철밖에는 탈 수 있는 게 없지……",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어른은 자전거를 타고 출퇴근하기엔 너무 연약하단다……",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 1,
+        "index": 1
+      },
+      "content": "음.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 1,
+        "index": 1
+      },
+      "content": "알겠어.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 1,
+        "index": 1
+      },
+      "content": "그럼 다음에 또.",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "시로코……?",
+      "isFirst": true,
+      "file": ""
+    }
+  ]
+]

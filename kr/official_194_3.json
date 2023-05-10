@@ -1,0 +1,120 @@
+[
+  {
+    "title": "고마워 레이사",
+    "nickname": "Mollu",
+    "date": "2023-05-10 21:48:20",
+    "replyNo": 3,
+    "replyGroup": 2,
+    "chars": [171]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "혹시 나중에 시간 괜찮으실까요!!!",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "물론 괜찮지.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "뭔가 말에 활기가 있는걸.",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "하하하!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "지금까지 늘 선생님께 받기만 했으니!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "이번에는! 제가! 쏘겠습니다!!!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "아주 특별한 날을 만들어 드리죠!!",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

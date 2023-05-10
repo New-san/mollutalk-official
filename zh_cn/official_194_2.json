@@ -1,0 +1,264 @@
+[
+  {
+    "title": "믿어봐 레이사",
+    "nickname": "Mollu",
+    "date": "2023-05-10 21:46:45",
+    "replyNo": 6,
+    "replyGroup": 4,
+    "chars": [171]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "괜찮으시다면 한 가지, 부탁이 있습니다!",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "응? 레이사?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "부탁? 무슨 부탁?",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "그",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "선생님께서는 왠지 피로회복과 관련된 지식이 많으실 것 같아서!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "……피로회복?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "부디!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "저에게도 그 방법을!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "우오오옷!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "자버렸어요!! 여기서 자버렸어요!!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "허둥지둥 나가느라 제대로 인사드리지 못해 죄송합니다!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "괜찮아. ",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "푹 잔 것 같아 다행이네.",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "네!!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "아",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그리고 친구들이랑 자경단 몇 분들께도 말씀드렸어요! 이번에도 전혀 문제가 없었습니다!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "순찰이랑 놀 수 있는 날짜도 다 정했으니까요!!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "이걸로 완벽!!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "감사합니다!!!!",
+      "isFirst": true
+    }
+  ]
+]

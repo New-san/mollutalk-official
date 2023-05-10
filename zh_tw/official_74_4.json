@@ -1,0 +1,180 @@
+[
+  {
+    "title": "4.아직도 소중히 여기는 것",
+    "nickname": "Mollu",
+    "date": "2023-05-10 21:55:09",
+    "replyNo": 5,
+    "replyGroup": 4,
+    "chars": [7]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님….",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "content": "그, ……오늘 시간 괜찮을까?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "응, 물론이지!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그래? 다행이다……",
+      "replyDepth": 1,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "히나가 부른다면 괜찮지 않아도 괜찮아!",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "으응? 저기, 선생님. 무슨 소리인지 잘 모르겠어.",
+      "replyDepth": 2,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그래서 히나, 어떤 일 때문에 그래?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "아, 그게…… 다른 게 아니라……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "선생님만 괜찮다면… 수영을, 배워보고 싶다고……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "조금 생각을……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그거라면 완전 환영이야! 지금 바로 갈게!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "응? 선생님? 저기, 나, 자세한 이야기를 아직……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "content": "저기……? 선생님?",
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 7,
+        "index": 3
+      },
+      "isFirst": false
+    }
+  ]
+]

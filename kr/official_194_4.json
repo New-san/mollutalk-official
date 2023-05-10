@@ -1,0 +1,264 @@
+[
+  {
+    "title": "4.잘 자 레이사",
+    "nickname": "Mollu",
+    "date": "2023-05-10 21:50:39",
+    "replyNo": 5,
+    "replyGroup": 3,
+    "chars": [171]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "항상 느끼는 거지만",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "야간 순찰은 졸음과의 싸움이네요. 자면 안 되는데…….",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "응? 이 늦은 시간에?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "무슨 큰 일이라도 생기는 거야?",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "아",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "아뇨. 가능성은 희박합니다. 아마 별 일 없을 거예요.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "그래도 혹시 모르는 거니까요!!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "선생님도 저녁 업무 있으시면 힘내시고!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "좋은 밤 되세요!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "우오오오옷!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "정신을 차리고 보니 엄청난 실례를……!!",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "전혀 실례가 아니니 괜찮아.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "감기 걸리지 않아서 다행이네.",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "하하",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "네! 전부 선생님 덕분입니다!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "같이 순찰 돌며 본 달도, 아침에 돌아오며 본 해도",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "너무나 예뻤으니까요!!",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "혼자였다면 그렇게 생각할 겨를도 없었겠죠.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "선생님",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "감사합니다.",
+      "isFirst": true
+    }
+  ]
+]
