@@ -1,6 +1,6 @@
 [
   {
-    "title": "어느 날의 사소한 지각(번역)",
+    "title": "メイドの中のメイド",
     "nickname": "Molru",
     "date": "2023-02-22 21:46:43",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "오늘은 개인적인 일이 있어, 평소보다 조금 늦을 듯합니다.",
+      "content": "今日は少し幼児が長引いて、いつもより遅くなりそうです",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "보좌 업무를 제 때 시행해야 하는데, 송구스럽습니다.",
+      "content": "お約束した時間通りに補佐できず、申し訳ありません",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어라, 그건 조금 놀라운 일이네. ",
+      "content": "大丈夫だけど、トキが遅れるなんて珍しいね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이라도 있는지, 물어봐도 돼?",
+      "content": "何があったのか聞いてもいい？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "음.",
+      "content": "いえ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "대단한 일은 아닙니다.",
+      "content": "大した用事ではありません",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "너무 심려치 말아 주셨으면 합니다.",
+      "content": "あまり心配なさらないでください",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 175, "index": 1 },
-      "content": "그러면 나중에 뵙겠습니다.",
+      "content": "では、また後ほどお会いしましょう",
       "isFirst": true,
       "file": ""
     },
