@@ -1,6 +1,6 @@
 [
   {
-    "title": "유비무환?",
+    "title": "備え有れば憂いなし？",
     "nickname": "Molru",
     "date": "2023-01-25 04:15:01",
     "replyNo": 4,
@@ -17,7 +17,7 @@
         "no": 1,
         "index": 1
       },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -30,7 +30,7 @@
         "no": 1,
         "index": 1
       },
-      "content": "선생님은 계속 지하철을 타는 거지?",
+      "content": "最近もまだ、いつもの地下鉄使ってる？",
       "isFirst": true,
       "file": ""
     },
@@ -43,7 +43,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "그렇다고 할까, 지하철밖에는 탈 수 있는 게 없지……",
+      "content": "地下鉄以外、あんまり選択肢も無いからね……",
       "isFirst": true,
       "file": ""
     },
@@ -56,7 +56,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "어른은 자전거를 타고 출퇴근하기엔 너무 연약하단다……",
+      "content": "自転車で通勤するほどの体力もないしね……",
       "isFirst": false,
       "file": ""
     },
@@ -69,7 +69,7 @@
         "no": 1,
         "index": 1
       },
-      "content": "음.",
+      "content": "ん",
       "isFirst": true,
       "file": ""
     },
@@ -82,7 +82,7 @@
         "no": 1,
         "index": 1
       },
-      "content": "알겠어.",
+      "content": "分かった",
       "isFirst": true,
       "file": ""
     },
@@ -95,7 +95,7 @@
         "no": 1,
         "index": 1
       },
-      "content": "그럼 다음에 또.",
+      "content": "じゃあ、またね",
       "isFirst": true,
       "file": ""
     },
@@ -108,7 +108,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "시로코……?",
+      "content": "シロコ……？",
       "isFirst": true,
       "file": ""
     }
