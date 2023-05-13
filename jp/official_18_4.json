@@ -1,6 +1,6 @@
 [
   {
-    "title": "외부 경영 고문직 입사 제안",
+    "title": "外部経営顧問としての入社提案",
     "nickname": "Molru",
     "date": "2022-10-22 20:22:28",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "선생님, 오늘 한가해?",
+      "content": "先生、今日暇かしら？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 한가해.",
+      "content": "うん、暇だよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아루 쨩이 부른다면 바쁘더라도 가야지.",
+      "content": "アルちゃんが私のことを呼んでいるのなら、行かざるを得ない",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "크, 크흠! 뭐, 좋, 좋아.",
+      "content": "ふ、ふーん……！？ま、まあ、ならいいわ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "선생님에게 중요한 용건이 있던 참이니까.",
+      "content": "今日は、先生に大事な話があるの",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "그럼 오늘 흥신소 사무실로 찾아와줘.",
+      "content": "後で、便利屋の事務所に来てくれる？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "기다리고 있을게.",
+      "content": "待ってるわよ",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "오늘 내 멋진 모습, 잔뜩 봤지?",
+      "content": "今日みたいに私のカッコいい姿を見られるなんて、貴重なことなのよ？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "앞으로도 잘 부탁해. 선생님!",
+      "content": "これからもよろしくお願いするわね、先生！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "참고로 그거 정말 업무 전화 맞았으니까! 오해하지 마!",
+      "content": "……ちなみにあれは、本当に仕事の電話だったから！本当よ！",
       "isFirst": true,
       "file": ""
     }
