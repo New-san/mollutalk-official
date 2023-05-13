@@ -1,6 +1,6 @@
 [
   {
-    "title": "1.익숙지 않은 복장",
+    "title": "慣れない装い",
     "nickname": "Mollu",
     "date": "2023-04-28 00:23:53",
     "replyNo": 3,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "안녕하세요, 선생님. 마리예요.",
+      "content": "先生こんにちは、マリーです",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,12 +29,12 @@
         "no": 74,
         "index": 3
       },
-      "content": "혹시 폐가 되지 않는다면 조만간 상담을 한 번 신청해도 괜찮을까요?",
+      "content": "突然で申し訳ありませんが、相談したい事がありまして……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "아무래도 혼자서는 해결되지 않는 고민이 있어서요……",
+      "content": "私だけでは、どうにも難しく……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -53,12 +53,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "물론이지. 무슨 일이야?",
+      "content": "もちろんだよ、どうしたの？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "앗",
+      "content": "あっ……えっと",
       "replyDepth": 1,
       "replyNo": 0,
       "replyGroup": 0,
@@ -70,7 +70,7 @@
     },
     {
       "type": "chat",
-      "content": "별일은 아닌데…….",
+      "content": "そこまで深刻なお話ではなく……",
       "replyDepth": 1,
       "replyNo": 0,
       "replyGroup": 0,
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "무슨 일 있는 건 아니지?",
+      "content": 何かあったの？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "아니에요. 나쁜 일은 아니니 걱정해주지 않으셔도 돼요.",
+      "content": "いえ、そんなに大きな問題ではなく……",
       "replyDepth": 2,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "그래도 그렇게 말씀해 주시니 안심이 됩니다. 정말 감사해요.",
+      "content": "ですが、お気遣いとても嬉しいです。ありがとうございます",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -125,7 +125,7 @@
         "no": 74,
         "index": 3
       },
-      "content": "그럼 조만간 부탁드릴게요.",
+      "content": "それでは、早速ですが……明日の朝にお時間をいただいてもよろしいでしょうか？",
       "isFirst": true
     },
     {
@@ -137,7 +137,7 @@
         "no": 74,
         "index": 3
       },
-      "content": "다시 한번 감사합니다, 선생님.",
+      "content": "大聖堂でお待ちしておりますね",
       "isFirst": true
     },
     {
