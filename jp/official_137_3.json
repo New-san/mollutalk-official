@@ -1,6 +1,6 @@
 [
   {
-    "title": "마리의 답례(번역)",
+    "title": "マリーのお礼",
     "nickname": "Molru",
     "date": "2022-10-27 05:34:51",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "선생님. 감사드릴 일이 있어요.",
+      "content": "先生……その、何か私にできることはありませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "선생님의 격려 덕에 저는 이번 대운동회에서 많은 것을 얻어갈 수 있었습니다.",
+      "content": "先生のおかげで、私は晄輪大祭を通して成長する事ができました",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "꼭 보답을 해 드리고 싶은데, 아직까지는 당장 떠오르는 게 없네요…….",
+      "content": "そこでお礼を……と思ったのですが、どうすれば良いのか分からず……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "보답을 바라고 한 게 아니니 괜찮아.",
+      "content": "お礼なんて気にしなくて大丈夫",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "즐거웠나 보구나. 다행이야.",
+      "content": "マリーの楽しそうな姿が見られて良かったよ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "으음",
+      "content": "あはは……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "항상 그렇게 얼버무리시고…….",
+      "content": "やはり先生には敵いませんね……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "알겠습니다.",
+      "content": "……分かりました",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "언젠가는 기회가 있겠지요.",
+      "content": "いつか、お力添えできる時が来るのを待っていますね",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "그 대신이라기엔 부족하겠지만",
+      "content": "代わりといっては何ですが、本日は……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "선생님께서도 평온한 하루 되시길 기도드리겠습니다.",
+      "content": "先生が平穏な一日を過ごせるよう、お祈りいたします",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "그러고 보니 선생님",
+      "content": "あの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "혹시 선생님만 괜찮으시다면,",
+      "content": "もし先生がよろしければ……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "나중에 선생님께서도 체육복으로 들러 주시는 것도 좋을 거 같아요",
+      "content": "今度は運動着でお越しいただけたらいいな、と思いまして",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "여기는 꽤 상쾌하고 시원한 곳이라 운동하기도 좋거든요",
+      "content": "公園は涼しくて気持ちよく過ごせますし、運動に最適かと……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "그러니까, 선생님만 괜찮으시면",
+      "content": "ですから、先生のご都合次第ですが",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "음",
+      "content": "その……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "다음에 같이 하는 날도…… 있었으면 좋겠어요.",
+      "content": "今度はご一緒に運動できると……嬉しいです",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 3 },
-      "content": "그럼 이만",
+      "content": "それでは……また",
       "isFirst": true,
       "file": ""
     }
