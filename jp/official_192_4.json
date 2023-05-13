@@ -1,6 +1,6 @@
 [
   {
-    "title": "4.게임개발부의 청소",
+    "title": "ゲーム開発部の掃除",
     "nickname": "Mollu",
     "date": "2023-04-27 23:23:15",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "최근 밤낮으로 게임 개발에 몰두하다 보니",
+      "content": "最近朝から晩までゲーム開発していたからか",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,12 +29,12 @@
         "no": 41,
         "index": 3
       },
-      "content": "작업 환경이 조금 지저분해진 것 같아서……",
+      "content": "作業環境が少し散らかってきた気がして……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "부원들이 없는 동안 오늘은 느긋하게 청소를 할까해요.",
+      "content": "今日は他のみんなもいないし、ゆっくり掃除しようと思います",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -53,7 +53,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "고생이 많네.",
+      "content": "お疲れ様",
       "isFirst": true
     },
     {
@@ -65,12 +65,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "시간이 되면 나도 도와주러 갈게.",
+      "content": "時間があれば手伝いに行くよ",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "……네?",
+      "content": "……え？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -82,7 +82,7 @@
     },
     {
       "type": "chat",
-      "content": "어째서……",
+      "content": "どうしてですか？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,7 +94,7 @@
     },
     {
       "type": "chat",
-      "content": "청소는 혼자 하는 게 보통 아닌가요?",
+      "content": "普通、掃除は一人でするものだと思うのですが……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -113,7 +113,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "그런가……?",
+      "content": "え、そうかな？",
       "isFirst": true
     },
     {
@@ -125,12 +125,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "여럿이 함께하면 더 수월할 것 같아서.",
+      "content": "人が多いほうが早く終わると思って",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "말씀은 감사하지만 괜찮아요.",
+      "content": "お気持ちは嬉しいですが大丈夫です",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -142,7 +142,7 @@
     },
     {
       "type": "chat",
-      "content": "신경 써 주셔서 감사합니다.",
+      "content": "お気遣いありがとうございます",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
