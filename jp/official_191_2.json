@@ -1,6 +1,6 @@
 [
   {
-    "title": "2.공부! 메이드 대작전!",
+    "title": "メイドお勉強大作戦！",
     "nickname": "Mollu",
     "date": "2023-04-27 22:52:15",
     "replyNo": 4,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님.",
+      "content": "先生",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 38,
         "index": 3
       },
-      "content": "아리스는 찾아내고 말았습니다",
+      "content": "アリス、見つけてしまいました",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "무엇을……?",
+      "content": "何を……？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그것은 바로, 메이드 레벨을 올리는 새로운 방법입니다.",
+      "content": "メイドレベルを上げる新たな方法です",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,12 +65,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "굉장한 선언을 들은 것 같은 기분이다……",
+      "content": "それってどんな……？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "오늘의 아리스는 다릅니다. 다를 겁니다.",
+      "content": "ずばり",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -89,12 +89,12 @@
         "no": 38,
         "index": 3
       },
-      "content": "메이드라는 것은 무엇인가! 어떤 일을 하는가!",
+      "content": "メイドとはなにか！その仕事の実態は！？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그것을 공부하는 겁니다, 선생님!",
+      "content": "それを勉強することです！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -113,7 +113,7 @@
         "no": 38,
         "index": 3
       },
-      "content": "그리고 아리스는, 그러기 위한 자료를 찾아내고야 말았으니까요!",
+      "content": "ちょうどいい資料も見つけましたので",
       "isFirst": true
     },
     {
@@ -125,7 +125,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "메이드 자료?!",
+      "content": "メイドの……資料……？",
       "isFirst": true
     },
     {
