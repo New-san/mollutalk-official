@@ -1,6 +1,6 @@
 [
   {
-    "title": "3.캐비닛 안의 불청객",
+    "title": "ロッカーの中の招かれざる客",
     "nickname": "Mollu",
     "date": "2023-04-27 23:21:24",
     "replyNo": 4,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님, 죄송해요.",
+      "content": "先生、もしかして、私に電話しましたか？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 41,
         "index": 3
       },
-      "content": "혹시 전화하셨었나요? 아르바이트 중이라 확인하지 못했어요……",
+      "content": "すみません、アルバイト中で確認できませんでした……",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "괜찮아. 그럴 것 같았어.",
+      "content": "大丈夫だよ。そうだと思ってたから",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그보다 이 시간에는 갑자기 무슨 일이 신가요?",
+      "content": "ありがとうございます。どんなご用事だったのですか？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,7 +65,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "내일 오전에 유즈가 일하는 가게 근처를 지나갈 일이 있어서",
+      "content": "明日の午前中、ユズが働いてるお店の近くを通るんだけど",
       "isFirst": true
     },
     {
@@ -77,12 +77,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "혹시 괜찮다면 방문해도 될까?",
+      "content": "もしよかったら行ってもいい？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "네?!",
+      "content": "はい！？明日ですか！？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,7 +94,7 @@
     },
     {
       "type": "chat",
-      "content": "저희 메이드 카페에 선생님이 오신다고요?",
+      "content": "あ、いえ、ダメというわけではないのですが……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -113,12 +113,12 @@
         "no": 41,
         "index": 3
       },
-      "content": "안 될 이유는 없지만……",
+      "content": "やっぱり",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "조금",
+      "content": "ちょっと",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -130,7 +130,7 @@
     },
     {
       "type": "chat",
-      "content": "긴장되네요……",
+      "content": "緊張しますね……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
