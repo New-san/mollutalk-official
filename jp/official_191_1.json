@@ -1,6 +1,6 @@
 [
   {
-    "title": "1.메이드 대 핀치!",
+    "title": "メイド大ピンチ！",
     "nickname": "Mollu",
     "date": "2023-04-27 22:49:35",
     "replyNo": 3,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "우우우…… 우우우……",
+      "content": "うう……先生……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,12 +29,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "아리스? 왜 그래? 무슨 일 있어?",
+      "content": "アリス、どうしたの？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "우우우…… 아리스는 도움이 필요합니다.",
+      "content": "アリスを……助けてください",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -46,7 +46,7 @@
     },
     {
       "type": "chat",
-      "content": "꼼짝도 할 수 없는 겁니다. 몸에 힘이 들어가지 않습니다……",
+      "content": "あ、いえ、やっぱりなんでもありません！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,7 +65,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "지금 갈게!",
+      "content": "今行くね！",
       "isFirst": true
     },
     {
