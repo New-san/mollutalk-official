@@ -1,6 +1,6 @@
 [
   {
-    "title": "기계의 배신 2(번역)",
+    "title": "裏切りの機械（２）",
     "nickname": "Molru",
     "date": "2023-01-25 04:27:06",
     "replyNo": 5,
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 일이야?",
+      "content": "ハレ、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "귀엽게 나왔네. 그런데 갑자기 왜……",
+      "content": "この自撮り可愛いね！でも急に何故……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……하레 양?",
+      "content": "あの、ハレさん……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "그, 아까 사진 말인데……",
+      "content": "その、あの写真のことだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "가능하다면 지워줬으면 해서……",
+      "content": "できれば、消してもらいたくて……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "귀엽게 잘 나왔는데?",
+      "content": "可愛く写ってると思うよ？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "그렇게 말해도",
+      "content": "でも",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "귀여운 사진이라면 새로 찍어서 보내줄 수도 있는데",
+      "content": "何て言うかその、写真なら改めて可愛く撮って送るから……",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "ㄱ",
+      "content": "えｔ",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "그게 그러니까ㅏ 방금 그건",
+      "content": "そｎ",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "아테나 3호가 다시 장난을 친 거니까……",
+      "content": "今のはその、アテナ3号がまた悪戯して……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "신경 쓰지 말아줘……",
+      "content": "だから、気にしないでもらえると……",
       "isFirst": true,
       "file": ""
     }
