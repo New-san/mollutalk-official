@@ -1,6 +1,6 @@
 [
   {
-    "title": "소악마의 취미생활",
+    "title": "小悪魔の趣味",
     "nickname": "Molru",
     "date": "2022-10-23 00:07:05",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "선생님은 혹시 취미가 있어?",
+      "content": "先生って、何か趣味とかあるのー？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 딱히 취미라고 할만한 건 없는데.",
+      "content": "うーん、趣味というほどのものはないかなぁ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "아핫~ 역시~ 취미 생활이 있다는 건 좋은 일이야.",
+      "content": "そっか～。やっぱり、趣味があるって良いよね～",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "몰두하고 있으면 시간도 금방 지나가고.",
+      "content": "夢中になってると、時間もすぐに過ぎていくしー",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "내가 좋아하는 분야에 대해 빠삭하게 알게 되었을 때의 성취감도 있고.",
+      "content": "好きな分野について詳しくなると、達成感もあるし？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "응응! 즐겁지~",
+      "content": "楽しいよね～！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "흐응, 그래애~?",
+      "content": "ふーん、そうなの～？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "그건 좀 아쉬울지도~",
+      "content": "それはちょっと残念かも～",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "응, 나중에 선생님하고 취미 이야기를 하는 것도 재밌겠다~ (〇'ヮ'〇)",
+      "content": "いつか先生とそういう趣味の話をしたいな～、面白そう！(〇'ヮ'〇)",
       "isFirst": true,
       "file": ""
     },
