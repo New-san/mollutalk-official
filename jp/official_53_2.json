@@ -1,6 +1,6 @@
 [
   {
-    "title": "중요한 건 내면",
+    "title": "大事なのは中身",
     "nickname": "Molru",
     "date": "2022-10-23 14:40:21",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "선생님~~!! 도움~! HELP~!!",
+      "content": "先生～～！！助けてくださ～い！HELP！！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "도와주세요! 선생님밖에 도와줄 수 없는 일입니다!",
+      "content": "これは先生にしか頼めません！助けて！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 사고라도 쳤어?",
+      "content": "何か事件でもあった？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그건 문자로 설명하기 어려워요!",
+      "content": "それは、メッセージでは説明できません！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "시간 되면 나와 줄 수 있어요? 꼭 좀 부탁드리겠습니다!!",
+      "content": "時間があったら来てくれませんか？お願いです！！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그럼 기다리겠습니다!!",
+      "content": "待ってます！！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "오늘 너무 고마웠어요, 선생님!",
+      "content": "本当にありがとうございました、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "오늘은 선생님이 고른 영화를 봤으니",
+      "content": "今日は先生が選んだ映画を一緒に見たので、",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "다음엔 피나가 고른 영화를 같이 보도록 하시죠!",
+      "content": "次はフィーナが選んだ映画もふたりで見ましょう！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "꼭이에요! 거절하기 없기입니다!",
+      "content": "絶対です！絶対ですよ！",
       "isFirst": false,
       "file": ""
     }
