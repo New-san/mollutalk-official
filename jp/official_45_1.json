@@ -1,6 +1,6 @@
 [
   {
-    "title": "양보할 수 없어!",
+    "title": "譲れない！",
     "nickname": "Molru",
     "date": "2022-10-23 13:19:36",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "선생님, 저기. 지금 한가해? 한가하지?",
+      "content": "先生、暇？暇だよね？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "뭐 꼭 그렇게 중요한 건 아니고! 그냥 부탁할 게 좀 있어서.",
+      "content": "そんなに大したことじゃないんだけど、頼みたいことがあって",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "바쁘면 안 와도 돼. 그냥 별거 아니니까.",
+      "content": "忙しいなら大丈夫、大したことじゃないから",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 좀 바쁘긴 하지.",
+      "content": "今はちょっと忙しいかな",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론 한가하죠. 저는 잉여인력이라",
+      "content": "もちろん平気だよ、暇人だから",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "……역시 그렇겠지?",
+      "content": "……やっぱりそう？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "응. 알았어. 방해해서 미안",
+      "content": "うん。わかった、ごめんね",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "뭐라는 거야 그런 거 아니야!",
+      "content": "いや、そこまでは言ってないから！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "진짜 그런 뜻으로 한 말 아니거든!",
+      "content": "本当に！そういう意味で言いたかったんじゃなくて！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "농담이야.",
+      "content": "嘘、冗談だよ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "또 날 놀렸구나",
+      "content": "またそうやって私のことからかって！！！！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "가만 안 둬 죽어 진짜",
+      "content": "もうほんと許さないんだから……",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아무튼 좋아. 그럼 지금 시간은 된다 이거지? 방금 놀린 거에 대한 책임을 져주셔야겠어.",
+      "content": "……とにかく、時間あるのよね？からかった罰でちゃんと付き合いなさい",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "<카페 밀피유>에서 만나.",
+      "content": "「カフェ・ミルフィーユ」に来て",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "다른 애들한텐 비밀이야",
+      "content": "他の子たちには内緒だからね",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "다음에 또 부를 테니까. 그땐 꼭 내가 살게!",
+      "content": "次は絶対私が奢るから！また連絡する！",
       "isFirst": false,
       "file": ""
     }
