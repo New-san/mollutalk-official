@@ -1,6 +1,6 @@
 [
   {
-    "title": "장 보러 가실래요?",
+    "title": "買い出しに行きませんか？",
     "nickname": "Molru",
     "date": "2022-10-23 01:07:46",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님, 부탁드리고 싶은 게 있는데.",
+      "content": "先生、お願いがあるのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "혹시 오늘 시간 괜찮으신가요?",
+      "content": "今日、時間大丈夫でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 얼마든지 괜찮아.",
+      "content": "うん、全然大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "다, 다행이다!",
+      "content": "よ、良かったです！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "그럼, 학생식당에서 기다리고 있을게요.",
+      "content": "それでは、食堂で待ってますね。よろしくお願いします",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "오늘 도와주셔서 감사합니다.",
+      "content": "今日は手伝ってくれて、ありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아냐, 별것도 아닌 일이었는데.",
+      "content": "ううん、大したことはしてないよ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "그래도 이번 일의 보답은 반드시 할게요.",
+      "content": "いえいえ。このお返しは、後日必ずしますので",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "그럼 기대해주세요.",
+      "content": "楽しみにしていてくださいね",
       "isFirst": false,
       "file": ""
     }
