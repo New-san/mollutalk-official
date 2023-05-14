@@ -1,6 +1,6 @@
 [
   {
-    "title": "후우카 씨의 오늘의 밥상",
+    "title": "フウカさんの今日の食卓",
     "nickname": "Molru",
     "date": "2022-10-23 01:08:47",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님, 준비는 전부 끝났어요.",
+      "content": "先生、準備ができました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준비? 무슨 준비?",
+      "content": "準備って、何の……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "그건 게헨나 학생식당으로 오시면 알 수 있어요.",
+      "content": "今日、ゲヘナの学生食堂に来てもらえませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "오늘 후우카의 전력을 보여드리겠어요!",
+      "content": "フウカの全力、お見せします",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "죄, 죄송해요. 선생님.",
+      "content": "す、すみません、先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "맛있는 음식을 대접해드려야 한다는 생각에…….",
+      "content": "美味しい料理でおもてなしをしなきゃと思って、つい……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "오늘 일은 정말 죄송합니닷!",
+      "content": "今日は本当に、すみませんでしたっ！",
       "isFirst": false,
       "file": ""
     }
