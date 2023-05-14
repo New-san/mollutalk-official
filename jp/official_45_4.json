@@ -1,6 +1,6 @@
 [
   {
-    "title": "You are my sunshine",
+    "title": "その輝きの、すぐそばに",
     "nickname": "Molru",
     "date": "2022-10-23 13:26:16",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아 오늘은 진짜 수업 듣기 싫다……",
+      "content": "授業出たくない……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "어떻게 중간에 쨀 방법 없을까, 선생님?",
+      "content": "ねえ先生、何か上手い感じにサボる方法とか無いの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘은……? 무슨 일 있어?",
+      "content": "授業に？何かあったの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그걸 또 선생님인 나에게 묻는 건가ㅋ",
+      "content": "それ、一応先生である私に聞く！？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "알아. 나도 안다고. 선생님한테 이런 말 하기 좀 그렇다는 거.",
+      "content": "分かってる、私も分かってるから。先生にこういうこと聞くのはおかしいって",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "그냥 오늘이 카페 밀피유 이번 달 신상 공개 날인데……",
+      "content": "ただ、今日は「カフェ・ミルフィーユ」の新作が出る日で……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "공개 시간이 수업 중이라서 그랬어. 별 거 아냐. 신경 쓰지 마.",
+      "content": "授業中にオープンしちゃうから……理由はただそれだけ。大したことじゃないから、気にしないで",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래도 일단은 수업에 집중하자.",
+      "content": "まずは授業に集中しよう",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아, 알았어. 이해했다.",
+      "content": "OK、任せて",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "으응. 미안. 하긴 그 말이 맞지……",
+      "content": "うん、ごめんね。確かにそうだよね……",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "또 영문 모를 소릴…… 아무튼 알겠어.",
+      "content": "文脈理解してる……？まあいいや、仕方ない。ちゃんと授業には出るわよ",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "이따가 다시 연락할게~. //(￣︶￣*))",
+      "content": "じゃあ、気が向いたらまた連絡するから(￣︶￣*)",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아, 진짜 최고였다.",
+      "content": "あー美味しかった！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "역시 날 실망시키지 않네, 밀피유는!",
+      "content": "やっぱりあそこのスイーツは外れが無い！あのとろける食感と、甘酸っぱい味……！",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "선생님은 어땠어? 괜찮았던 거 같아? 선샤인무스.",
+      "content": "先生もああいうの、好き？",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아니",
+      "content": "いや",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아니 아무 말도 하지 마. 아무 말도.",
+      "content": "違う、今のは無し、何も言わないで",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "또 분명 쓸데없는 소리로 곤란하게 만들 테니까.",
+      "content": "こういうのはダメ、そうじゃなくて",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "히히",
+      "content": "ふふっ、分かんないなら良いよ",
       "isFirst": false,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "그럼 또 봐, 선생님!",
+      "content": "それじゃあまたね、先生",
       "isFirst": false,
       "file": ""
     }
