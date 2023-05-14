@@ -1,6 +1,6 @@
 [
   {
-    "title": "이때 이것(번역)",
+    "title": "こんな時の",
     "nickname": "Molru",
     "date": "2022-10-27 06:00:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "선생님! 드디어 때가 왔습니다! 이 때가!",
+      "content": "先生！いよいよ時が来ました！この時が！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이 때……?",
+      "content": "「この時」……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "네!",
+      "content": "はい！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "저희가 함께한 지도 시간이 꽤 흘렀으니!",
+      "content": "私たちはこれまで、多くの時間を共にしました！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "게다가 서로 신뢰도 충분히 쌓았고!",
+      "content": "信頼も積み上がってきています！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "이 상황이라면 역시…… 이것뿐이죠!",
+      "content": "となれば……アレしかありません！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이 것……?",
+      "content": "……「アレ」？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "네!",
+      "content": "そうです！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그럼 선생님이 오실 때까지!",
+      "content": "では、不肖フィーナ！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "피나는, 기다리고 있겠습니다!",
+      "content": "先生がお越しになるのを、お待ちしております！",
       "isFirst": true,
       "file": ""
     },
