@@ -1,6 +1,6 @@
 [
   {
-    "title": "임협학생",
+    "title": "任侠道の生徒",
     "nickname": "Molru",
     "date": "2022-10-23 14:39:12",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "안녕하십니까! 문안 인사 올립니다, 두목!",
+      "content": "ご機嫌いかがですか、お頭！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "저는 백귀야행 학원, <마츠리 운영 관리파>의 피나라고 함다!",
+      "content": "私は百鬼夜行連合学院、「お祭り運営委員会」組のフィーナと申しやす！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "잘 부탁드림다!",
+      "content": "よろしくお願いしやす！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 두목이라니?",
+      "content": "お頭……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "운영관리‘파’……?",
+      "content": "お祭り運営委員会「組」……？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "앗",
+      "content": "あっ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "죄송해요.",
+      "content": "失礼しました",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그러고 보니 자기 소개도 안 했었네요.",
+      "content": "唐突な自己紹介でした",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "아직은 저런 말투가 익숙하지 않아서",
+      "content": "まだ色々と慣れていなくて",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "연습 좀 하고 다시 해볼게요.",
+      "content": "ちょっと練習してから、また今度もう一度やらせてください",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "아무튼 언제 한 번 놀러 오세요!!",
+      "content": "とにかく、今度遊びに来てくださいね！！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "오늘 너무 좋았습니다 선생님!",
+      "content": "今日はすごく楽しかったです、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "선생님이 말한 피나의 임협이라는 게 뭔진 아직 잘 모르겠지만…",
+      "content": "先生の言った「フィーナの任侠」が何なのか、まだ分かりませんが",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "뭐, 선생님이 말해준 거니까 확실한 거겠죠!",
+      "content": "先生が言ってくれたんだから、間違いありません！",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "언젠가는 저도 스스로 알 수 있을 거라고 생각합니다!",
+      "content": "いつかは私も分かるはずです！",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그럼 다음에 또 뵙겠습니다!! 꼭이에요!! ",
+      "content": "それではまた会いましょう！！絶対に！！",
       "isFirst": false,
       "file": ""
     }
