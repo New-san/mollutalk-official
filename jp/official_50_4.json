@@ -1,6 +1,6 @@
 [
   {
-    "title": "잘못된 짐작",
+    "title": "間違った推測",
     "nickname": "Molru",
     "date": "2022-10-23 14:14:16",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "선생님. 안녕하십니까. 그간 평안하셨는지요. 하루카입니다.",
+      "content": "先生、こんにちは。ご無沙汰しております。ハルカです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "그 이전에 선생님께서 아무 이유 없이도",
+      "content": "以前、私の記憶違いでなければその",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "연락",
+      "content": "連絡",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "연락해도 좋다고 하셔서 이렇게 연락을 드려봅니다. 네.",
+      "content": "理由が無くても連絡して良い……と言っていただけた気がしていまして、こうして連絡をさせていただきました",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "혹시 제가 잘못 이해한 거라면 정말 죄송합니다.",
+      "content": "もし誤った認識でしたら大変申し訳ありません",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "그냥 인사 차 연락을 드렸습니다. 별 일은 아닙니다.",
+      "content": "その、特にこれといった用事があるわけでもなく、ご挨拶をしたかっただけなのですが",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "저는",
+      "content": "私",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "앞으로도 선생님께서는",
+      "content": "私は、先生に",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "항상 좋은 일들만 가득하시기를 기원합니다.",
+      "content": "これから先も、良いことがたくさんありますようにと願っております",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "이제 제 일은 신경 쓰지 않으셔도 좋습니다.",
+      "content": "私のことはもうお気になさらなくても大丈夫です",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "그럼 이만……",
+      "content": "さようなら",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……하루카?",
+      "content": "……ハルカ？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 말이야? 지금 어디야?",
+      "content": "今どこにいるの？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다. 말씀드리는 게 늦었습니다. 지금은",
+      "content": "すみません。えっと、今は",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "어",
+      "content": "その",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "이미 좀 깊은 숲속인데요……",
+      "content": "森の、だいぶ奥の方に",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "선생님. 하루카입니다. 잘 들어가셨는지……",
+      "content": "先生、ハルカです。無事に帰られましたか……？",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "오늘 일은 다시 한 번 대단히 죄송합니다. 언젠가 이 빚은 꼭 갚아드리겠습니다.",
+      "content": "今日は本当にすみません。いつかこの借りはお返しいたします",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아니",
+      "content": "いえ",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아니 그런 뜻이 아니고 문장이 왜 저렇게저건먀ㅜㅎㄱ니ㅏㅇㄹ",
+      "content": "いえその、これは悪い意味の方ではなく",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "그, 그게 단어가 좀",
+      "content": "どうして私はこんな",
       "isFirst": true,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "빚이 아니라 이 대가는?",
+      "content": "えっと、借りではなく対価というべきでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -264,7 +264,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "은혜는????",
+      "content": "いえ、恩……？",
       "isFirst": true,
       "file": ""
     },
@@ -274,7 +274,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아니",
+      "content": "そうでなければ",
       "isFirst": false,
       "file": ""
     },
@@ -284,7 +284,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하루카 품에 안긴 경험 값 치곤 쌌지.",
+      "content": "膝枕してもらっちゃったし、こっちが貰いすぎなくらいだよ",
       "isFirst": true,
       "file": ""
     },
@@ -294,7 +294,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "ㅁㄴㅇㄹ",
+      "content": "あｓｄｊｆっぁｄｊかｓｌｄｋｆｊさｄ；；；；",
       "isFirst": true,
       "file": ""
     },
@@ -304,7 +304,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -314,7 +314,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다……",
+      "content": "すみません、先生……",
       "isFirst": false,
       "file": ""
     }
