@@ -1,6 +1,6 @@
 [
   {
-    "title": "잘못된 방식",
+    "title": "間違っていないもの",
     "nickname": "Molru",
     "date": "2022-10-23 14:11:08",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "안녕하십니까선생님\n염치도없고뻔뻔하지만저는하루카입ㄴ",
+      "content": "こんにちは先生、何度もすみません私ハルカでｓ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아무것도아닙니다죄송합니다",
+      "content": "何でもありません、すみません",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "안녕, 하루카.",
+      "content": "おはよう、ハルカ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 계속 말해.",
+      "content": "大丈夫。何でも言ってね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "감사합니다.",
+      "content": "ありがとうございます",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "혹시",
+      "content": "もし",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "정말 만에 하나라도 저에게 기회를 한 번만 다시 주신다면",
+      "content": "もし、私にもう一度チャンスをくださるのであれば、",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "제가 이번에는 정말 잘하겠습니다",
+      "content": "私、今度こそ頑張ります",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "언제든 시간 되실 때 말씀만 주시면 가겠습니다",
+      "content": "いつでも時間の空いた時にご連絡を頂ければ、すぐに駆け付けます",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "감사합니다",
+      "content": "よろしくお願いいたします",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "오늘 정말로 감사했습니다",
+      "content": "今日は本当にありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아니",
+      "content": "あ、いえ",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "그",
+      "content": "その",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "오늘만 감사했다는 뜻은 절대로 아닙니다",
+      "content": "「今日は」ということを強調したかったわけではなくて……",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "항상",
+      "content": "いつもです",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "항상 감사합니다 선생님",
+      "content": "いつも、ありがとうございます。先生",
       "isFirst": true,
       "file": ""
     }
