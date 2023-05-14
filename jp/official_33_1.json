@@ -1,6 +1,6 @@
 [
   {
-    "title": "소악마는 노는 걸 좋아해",
+    "title": "小悪魔は遊ぶのがお好き",
     "nickname": "Molru",
     "date": "2022-10-23 00:04:28",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "심심~해~! (つ ◑▽◑)つ",
+      "content": "ひ～ま～！ (つ ◑▽◑)つ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "선생님, 지금 뭐 하고 있어?",
+      "content": "先生、今なにしてるの～？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "업무 중이야.",
+      "content": "仕事中だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 숨 쉬고 있어.",
+      "content": "今は息してるかな",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "그래? 흐응. 그렇단 말이지.",
+      "content": "そうなの？ふーん、そっか",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "그럼 방해하면 안 되겠네.",
+      "content": "それは邪魔しちゃダメだね",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "응, 열심히 일해. 선생님!",
+      "content": "じゃ、頑張ってねー先生！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "아하하하!!",
+      "content": "あはははっ！！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "그렇구나~ 응! 숨 쉬는 건 완전 중요하지!",
+      "content": "そうなんだ～。うん、呼吸ってすっごく大事だもんね～！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "나도 열심히 응원할게. 선생님.",
+      "content": "私も一生懸命応援するね、先生",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "그럼 힘내!",
+      "content": "じゃ、頑張ってねー！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "쿠후후.",
+      "content": "くふふっ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "오늘 재미있었어~ 선생님!",
+      "content": "今日は楽しかったね～、先生！",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "다음에 또 잔뜩 놀자.",
+      "content": "また今度、たくさん遊ぼうね",
       "isFirst": false,
       "file": ""
     }
