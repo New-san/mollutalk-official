@@ -1,6 +1,6 @@
 [
   {
-    "title": "누군가의 특별한 의뢰",
+    "title": "誰かからの特別な依頼",
     "nickname": "Molru",
     "date": "2022-10-23 00:08:30",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "선생님, 우리 흥신소에 특별한 의뢰가 들어왔어!",
+      "content": "先生、うちの便利屋に変わった依頼が届いたの！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "이게 또 어마어마하거든?",
+      "content": "これがまた、すっごい変な依頼でさ～？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "거기다 또 흥미진진하거든?",
+      "content": "でも同時にすっごく面白そうでね～？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무츠키가 어마어마하다고 할 정도면 대체…….",
+      "content": "ムツキがすっごい変って言うほどの依頼っていったい……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무츠키가 흥미진진하다고 할 정도면 대체…….",
+      "content": "ムツキがすっごい面白そうって言うほどの依頼っていったい……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "으음~! 됐으니까.",
+      "content": "ん～、まあまあ！細かいことは置いといてさ！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "도와줘, 선생님~!",
+      "content": "先生に手伝ってほしいな～？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "오늘 하루, 즐거웠어. 선생님~!",
+      "content": "今日は一日楽しかったよ～先生！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "다음번엔 완벽하게 성공해 보일 테니까.",
+      "content": "次は絶っ対に成功させてみせるから、",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 1 },
-      "content": "각오하라구~! ＼( 'ω') /",
+      "content": "覚悟しててね～！ ＼( 'ω') /",
       "isFirst": false,
       "file": ""
     }
