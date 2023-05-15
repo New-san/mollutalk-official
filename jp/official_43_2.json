@@ -1,6 +1,6 @@
 [
   {
-    "title": "에너지 드링크 중독",
+    "title": "エナドリ中毒",
     "nickname": "Molru",
     "date": "2022-10-23 01:51:57",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "선생님, 오늘 동아리실에 올 때 시내에서 에너지 드링크 하나만 사다 줄 수 있어?",
+      "content": "先生、今日部室に来る時に、エナジードリンクを一本買ってきてくれる？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "에너지 드링크? <요괴 MAX>면 될까?",
+      "content": "エナジードリンク？「妖怪MAX」でいい？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "응, <요괴 MAX>의 패션 후르츠 맛으로.",
+      "content": "うん、「妖怪MAX」のパッションフルーツ味でお願い",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "어째서인지 패션 후르츠 맛은 이 근처에서 취급하는 곳이 없더라고.",
+      "content": "どういうわけか、この味はこの辺だとあまり取り扱ってないみたいで",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알겠어.",
+      "content": "そうなんだ。うん、了解",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "그럼 부탁 좀 할게.",
+      "content": "ありがとう、よろしくね",
       "isFirst": true,
       "file": ""
     },
