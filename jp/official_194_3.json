@@ -1,6 +1,6 @@
 [
   {
-    "title": "고마워 레이사",
+    "title": "ありがとう、レイサ",
     "nickname": "Mollu",
     "date": "2023-05-10 21:48:20",
     "replyNo": 3,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님!",
+      "content": "先生！お疲れ様です！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "혹시 나중에 시간 괜찮으실까요!!!",
+      "content": "今度、予定を空けていただいても良いでしょうか！！",
       "isFirst": true
     },
     {
@@ -41,7 +41,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "물론 괜찮지.",
+      "content": "もちろんだよ",
       "isFirst": true
     },
     {
@@ -53,12 +53,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "뭔가 말에 활기가 있는걸.",
+      "content": "元気そうでよかった",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "하하하!!",
+      "content": "あはは！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -77,12 +77,12 @@
         "no": 171,
         "index": 1
       },
-      "content": "지금까지 늘 선생님께 받기만 했으니!",
+      "content": "いつも先生に色々といただいてますから！！",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "이번에는! 제가! 쏘겠습니다!!!!",
+      "content": "今度は！私が！先生に！お礼を！したく！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -101,7 +101,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "아주 특별한 날을 만들어 드리죠!!",
+      "content": "とびっきり素敵な一日にして差し上げます！！楽しみにしててくださいね！",
       "isFirst": true
     },
     {
