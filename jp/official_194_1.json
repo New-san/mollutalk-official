@@ -1,6 +1,6 @@
 [
   {
-    "title": "안녕 레이사",
+    "title": "おはよう、レイサ",
     "nickname": "Mollu",
     "date": "2023-05-10 21:44:14",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "안녕하세요 선생님!",
+      "content": "おはようございます、先生！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "우자와 레이사, 인사드립니다!",
+      "content": "宇沢レイサ、ご挨拶申し上げます！",
       "isFirst": true
     },
     {
@@ -41,7 +41,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "안녕, 레이사.",
+      "content": "おはよう、レイサ",
       "isFirst": true
     },
     {
@@ -53,12 +53,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "오. 레이사. 무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "앗",
+      "content": "あっ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -70,31 +70,7 @@
     },
     {
       "type": "chat",
-      "content": "어 음",
-      "replyDepth": 0,
-      "replyNo": 0,
-      "replyGroup": 0,
-      "sCharacter": {
-        "no": 171,
-        "index": 1
-      },
-      "isFirst": false
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": {
-        "no": 171,
-        "index": 1
-      },
-      "content": "방금 인사드린 게 이유였는데",
-      "isFirst": true
-    },
-    {
-      "type": "chat",
-      "content": "편하게 연락 하라고 하셨어서…….",
+      "content": "ええっと……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -113,7 +89,31 @@
         "no": 171,
         "index": 1
       },
-      "content": "음",
+      "content": "特に何かあったわけではなく、ただ挨拶をしたく……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "いつでも連絡して、と仰っていたので……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 171,
+        "index": 1
+      },
+      "content": "その……",
       "isFirst": true
     },
     {
@@ -125,7 +125,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "죄송합니다!!!!!!!!!!!",
+      "content": "失礼しました！！！！！！！！！！！",
       "isFirst": true
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "type": "chat",
-      "content": "선생님!!",
+      "content": "先生！！お疲れ様です！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -161,7 +161,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "레이사입니다!!",
+      "content": "レイサです！！",
       "isFirst": true
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "type": "chat",
-      "content": "쨔쟈안-!! 두둥!!",
+      "content": "じゃ～～～ん！やりました！！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -198,7 +198,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "오ㅋㅋ",
+      "content": "おお～！！",
       "isFirst": true
     },
     {
@@ -210,12 +210,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "즐겁게 논 것 같네",
+      "content": "楽しかった？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "네!!",
+      "content": "はい！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -227,7 +227,7 @@
     },
     {
       "type": "chat",
-      "content": "생각보다 엄청",
+      "content": "とっても！！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -239,7 +239,7 @@
     },
     {
       "type": "chat",
-      "content": "뭐랄까",
+      "content": "なんというか、その……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -258,12 +258,12 @@
         "no": 171,
         "index": 1
       },
-      "content": "지금까지 고민한 게 민망하다고 느낄 정도로 쉽게 풀려버렸습니다.",
+      "content": "どうして私はあんなに悩んでたんだろうって思いました！",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "저만 고민하고 있던 것 같은 느낌",
+      "content": "もっと早く先生に相談すれば良かったです！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -282,7 +282,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "아무튼!",
+      "content": "案ずるより産むが易し、ですね！",
       "isFirst": true
     },
     {
@@ -294,7 +294,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "감사합니다!!!!",
+      "content": "本当に本当に、ありがとうございました！！！！",
       "isFirst": true
     }
   ]
