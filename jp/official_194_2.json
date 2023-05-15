@@ -1,6 +1,6 @@
 [
   {
-    "title": "믿어봐 레이사",
+    "title": "信じて、レイサ",
     "nickname": "Mollu",
     "date": "2023-05-10 21:46:45",
     "replyNo": 6,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님!",
+      "content": "先生！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "괜찮으시다면 한 가지, 부탁이 있습니다!",
+      "content": "よろしければ、私のお願いを一つ聞いてくれませんか！",
       "isFirst": true
     },
     {
@@ -41,7 +41,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "응? 레이사?",
+      "content": "もちろんだけど、どうしたの？",
       "isFirst": true
     },
     {
@@ -53,12 +53,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "부탁? 무슨 부탁?",
+      "content": "お願い……？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "그",
+      "content": "その……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -70,7 +70,7 @@
     },
     {
       "type": "chat",
-      "content": "선생님께서는 왠지 피로회복과 관련된 지식이 많으실 것 같아서!",
+      "content": "先生は疲労回復の方法にお詳しいと思いまして！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "……피로회복?",
+      "content": "……疲労回復？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "부디!",
+      "content": "はい！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "저에게도 그 방법을!!",
+      "content": "ぜひ、私に教えてください！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -130,7 +130,7 @@
     },
     {
       "type": "chat",
-      "content": "우오오옷!!",
+      "content": "うわあああっ！！すみません！！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -149,12 +149,12 @@
         "no": 171,
         "index": 1
       },
-      "content": "자버렸어요!! 여기서 자버렸어요!!",
+      "content": "私、シャーレで寝てしまってました！！気づけば外はもう真っ暗！？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "허둥지둥 나가느라 제대로 인사드리지 못해 죄송합니다!!",
+      "content": "ちゃんとご挨拶できず、すみませんでした！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -173,7 +173,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "괜찮아. ",
+      "content": "気にしなくて大丈夫だよ。",
       "isFirst": true
     },
     {
@@ -185,12 +185,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "푹 잔 것 같아 다행이네.",
+      "content": "少しは身体を休められた？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "네!!!",
+      "content": "はい！！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -209,12 +209,12 @@
         "no": 171,
         "index": 1
       },
-      "content": "아",
+      "content": "あ……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그리고 친구들이랑 자경단 몇 분들께도 말씀드렸어요! 이번에도 전혀 문제가 없었습니다!",
+      "content": "その……皆さんにちゃんと話したら、あっさり解決しました！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -233,12 +233,12 @@
         "no": 171,
         "index": 1
       },
-      "content": "순찰이랑 놀 수 있는 날짜도 다 정했으니까요!!",
+      "content": "これで遊びもパトロールもバッチリです！",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "이걸로 완벽!!!",
+      "content": "完璧！！！",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -257,7 +257,7 @@
         "no": 171,
         "index": 1
       },
-      "content": "감사합니다!!!!",
+      "content": "本当に本当に、ありがとうございました！！！",
       "isFirst": true
     }
   ]
