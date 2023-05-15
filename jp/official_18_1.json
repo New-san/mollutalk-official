@@ -1,6 +1,6 @@
 [
   {
-    "title": "근로의욕 증진 방법",
+    "title": "勤労意欲を高める方法",
     "nickname": "Molru",
     "date": "2022-10-22 20:01:49",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "선생님, 요전번에 함께 해결했던 의뢰의 결과가 나왔어.",
+      "content": "先生。前に手伝ってくれた依頼、あらためて決着がついたわよ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "클라이언트가 꽤 만족하더라고.",
+      "content": "クライアントも、かなり満足してくれたみたい",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "후훗. 고생했어.",
+      "content": "ふふっ、お疲れ様",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 말이야?",
+      "content": "いきなり何の話？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이것도 다 아루 사장님 덕분이지!",
+      "content": "これも全部アル社長のおかげだね！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "으응? 뭐야, 기억 못하는 거야?",
+      "content": "えっ、何、覚えてないの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "아니, 으음. 그 정도로 정신 없는 일이긴 했지만…….",
+      "content": "それくらい忙しい日々を送っているのかしら……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "하, 하여간……!",
+      "content": "と、とにかく……！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "자연스러운 처세술이라니, 여, 역시 어른……!",
+      "content": "な、なんて自然な処世術、これが大人……！",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "……이 아니라.",
+      "content": "……じゃなくって",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "직원이 우수한 실적을 냈을 때, 거기에 걸맞은 포상을 내리는 것도",
+      "content": "職員が立派な成果を出した時、それにふさわしいご褒美をあげること",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "사장이 해야 할 일이야.",
+      "content": "そういうのも、社長のやるべきことだと思うのよ",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "선생님이 생각하기에 최고의 포상은 뭐야?",
+      "content": "さあ、先生にとって最高のご褒美は何かしら？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "돌아와서 다시 생각해보니까.",
+      "content": "家に帰って、よく考えてみたのだけど",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "직원 포상으로 파르페 도전 메뉴를 먹는다고 하면",
+      "content": "「ご褒美としてチャレンジメニューのパフェを食べるわよ」って言ったら、",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "다들 화를 낼 것 같아.",
+      "content": "みんな怒るかもしれないわね",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "……효율적이란 이름 앞에 이런 맹점이 있었을 줄이야.",
+      "content": "……効率性の裏に、こんな盲点があっただなんて",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "그러니 다음번에. 그…….",
+      "content": "だから、その……",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "또 어울려줘. 선생님.",
+      "content": "先生、次もまた、付き合ってくれるかしら？",
       "isFirst": false,
       "file": ""
     }
