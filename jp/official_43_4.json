@@ -1,6 +1,6 @@
 [
   {
-    "title": "기계의 배신",
+    "title": "裏切りの機械",
     "nickname": "Molru",
     "date": "2022-10-23 01:55:08",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "선생님, 전에 만들었던 드론의 개조가 모두 끝났어.",
+      "content": "先生、前に作ってたドローンの改造が終わったよ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "드디어 끝났구나, 축하해.",
+      "content": "やっと終わったんだね、おめでとう",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 개조를 하고 있었던 거야?",
+      "content": "どんな改造をしてたんだっけ？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "응. 게다가 이번에는 여러 가지 신기능을 추가했으니까 미리 기대해도 좋아.",
+      "content": "うん、今回はいろいろな新機能を追加したから期待してね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "사용자의 편의를 위해 여러 가지 신기능을 추가했어.",
+      "content": "ユーザにとって便利な新機能を、色々とね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 43, "index": 1 },
-      "content": "오늘 오후에 학원 옥상에서 드론의 새로운 기능을 시연할 예정이니 한 번 보러 와 줘.",
+      "content": "今日の午後にミレニアムの屋上で試運転する予定だから、見に来てくれる？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "일이 끝나면 바로 갈게.",
+      "content": "仕事が終わったらすぐに行くね",
       "isFirst": true,
       "file": ""
     },
