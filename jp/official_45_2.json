@@ -1,6 +1,6 @@
 [
   {
-    "title": "마카롱 데스 챌린지",
+    "title": "マカロンチャレンジ",
     "nickname": "Molru",
     "date": "2022-10-23 13:21:53",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "선생님, 지금 시간 있어?",
+      "content": "先生、今時間ある？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "기억하고 있지? 저번 약속. 이번에야말로 내가 살 테니까 말이야",
+      "content": "この前の約束、忘れたとは言わせないわよ。まだ借りが残ってるんだから",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "미리 말해두지만 사실 거부권은 없다고",
+      "content": "先に言っとくけど、拒否権はないから。付き合ってくれるわよね？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "……뭔가 써 놓고 보니 말이 이상한데",
+      "content": "……なんだか文字にすると変な感じになっちゃうけど",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "빚! 그냥 빚을 갚는 의미일 뿐이야! 다른 건 아니고!",
+      "content": "借りを返すって意味だから！それだけ！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "난 다른 의미여도 상관없는데",
+      "content": "私は別の意味でも良いんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "약속은 약속이지, 알았어.",
+      "content": "ちゃんと覚えてるよ。大丈夫、了解",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "진짜 좀 그런 식으로 말하지 마 심장에 안 좋으니까",
+      "content": "ホント、そんな言い方しないで、心臓に悪いから",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "좋아. 그럼 기다리고 있겠어. 늦지 마!",
+      "content": "じゃあ待ってるから、遅れるんじゃないわよ！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아무한테도 말하지 마",
+      "content": "もう何も言わないで",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "아무한테도",
+      "content": "忘れて",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "엉덩이라든가",
+      "content": "全部記憶から消して",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 56, "index": 1 },
-      "content": "말하면 죽어 진짜",
+      "content": "お尻の話とかしたら本気で殺すから",
       "isFirst": true,
       "file": ""
     }
