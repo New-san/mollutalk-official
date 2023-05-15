@@ -1,6 +1,6 @@
 [
   {
-    "title": "또 장 보러 가요!",
+    "title": "もう一度買い出しに行きましょう！",
     "nickname": "Molru",
     "date": "2022-10-23 01:10:11",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님, 일어나셨나요? 몸은 어떠신가요?",
+      "content": "先生、お目覚めになりましたか？体調は如何でしょう……？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 일어났어",
+      "content": "うん、今起きたところ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 몸은 멀쩡해.",
+      "content": "体調も問題ないよ",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "하아, 다행이다.",
+      "content": "ふう、良かったです……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "저, 그때의 실패를 만회하고 싶어요.",
+      "content": "どうやったら埋め合わせができるだろうと、先ほどまで色々考えていまして",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "마침 좋은 아이디어가 떠올랐는데…….",
+      "content": "ちょうど、良いアイデアが浮かんだのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님, 오늘 오후에 뵐 수 있을까요?",
+      "content": "今日の午後、お会いできませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "うん、喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "네, 그럼 기다리고 있을게요!",
+      "content": "ありがとうございます！では、待ってますね！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "오늘 장어 요리는 어떠셨나요?",
+      "content": "今日のウナギ料理はいかがでしたか？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님 입맛에 맞으셨으면 다행이지만.",
+      "content": "先生のお口に合ったのならよかったのですが",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "다음번엔 더 맛있는 음식을 대접해드릴게요!",
+      "content": "次はもっと美味しい料理を振る舞いますね！",
       "isFirst": true,
       "file": ""
     }
