@@ -1,6 +1,6 @@
 [
   {
-    "title": "끝나지 않는 밤",
+    "title": "終わらない夜",
     "nickname": "Molru",
     "date": "2022-10-23 14:41:50",
     "replyNo": 1,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "선생님, 피나가 왔습니다!",
+      "content": "先生、フィーナです！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "저번에 말씀드렸듯, 이번에는 제가 영화 대접을 하려고 합니다!",
+      "content": "この前お伝えしたように、今度は私が選んだ映画を見ましょう！",
       "isFirst": false,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "마침 구해 둔 표도 이미 두 장으로 있다고요 후후",
+      "content": "チケットもすでに用意しました！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "그럼 기다리고 있겠습니다!",
+      "content": "それでは待ってます！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "편하실 때 와주세요!",
+      "content": "よろしくお願いします！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "오늘은 정말 저 때문에 고생 많으셨어요!",
+      "content": "今日は本当にお疲れ様でした！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "죄송합니다-! 그리고 고맙습니다!!",
+      "content": "私のせいですみません！そしてありがとうございました！！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 83, "index": 1 },
-      "content": "다음에는 꼭 티켓 끊기 전에도 미리 말씀드릴 테니까요!",
+      "content": "次もまた映画見ましょう！普通の映画館のやつです！",
       "isFirst": false,
       "file": ""
     }
