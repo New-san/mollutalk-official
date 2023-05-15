@@ -1,6 +1,6 @@
 [
   {
-    "title": "오늘만큼은 선생님만의 밥상",
+    "title": "今日は先生だけのための食卓",
     "nickname": "Molru",
     "date": "2022-10-23 01:10:57",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "선생님, 얼마 전에 새로 구상한 레시피로 만든 요리가 있는데.",
+      "content": "先生。実は、先日新しく考えついた料理があるのですが",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "반드시 꼭 선생님에게 맛보여드리고 싶어요.",
+      "content": "どうしても、先生に最初に食べていただきたくて",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "혹시 괜찮으시다면…….",
+      "content": "もしよろしければ……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "후우카의 신메뉴라니, 무조건 갈게!",
+      "content": "フウカの新メニュー！絶対に行く！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 24, "index": 1 },
-      "content": "후훗, 네. 기다리고 있을게요.",
+      "content": "ふふっ。はい、待ってますね",
       "isFirst": true,
       "file": ""
     },
