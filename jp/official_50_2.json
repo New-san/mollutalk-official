@@ -1,6 +1,6 @@
 [
   {
-    "title": "잘못된 소통",
+    "title": "コミュニケーション上の間違い",
     "nickname": "Molru",
     "date": "2022-10-23 14:09:20",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "선생님께, 기억하실지는 모르겠지만 하루카입ㄴ",
+      "content": "先生、覚えてるか分かりませんが、ハルカでｓ",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "아니ㅁㅇㄴㄹ@#$%",
+      "content": "いやｓｋ；ｓｄ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다 절대로 저를 기억해야 한다는 뜻은 아닙니다",
+      "content": "すみません、私のことを覚えてないんですかと言いたかったわけではなく",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다",
+      "content": "すみません",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "기억하지않으셔도좋지만\n선생님께드리고픈것이있습니다",
+      "content": "覚えてなくても全然大丈夫なのですが、先生にお渡ししたいものがあります",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "하찮은것이지만나중에라도\n언제든시간이여유로우실때",
+      "content": "つまらない物ですが、今度時間のある時にでもぜひ",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "찾아뵙겠습니다 저는 하루카라고합니다.",
+      "content": "あ、私の名前はハルカです",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래. 그때 보자.",
+      "content": "うん、名前は知ってるから大丈夫。どこかで会おっか",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "네.",
+      "content": "はい",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "대단히 감사드립니다",
+      "content": "本当に、ありがとうございます",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다.",
+      "content": "すみません",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다죄송합니다죄송합니다죄송합니다죄송합ㄴ",
+      "content": "すみませんすみませんすみませんすみませんすみませｎ",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "다시는앞에나타나지않겠습니다",
+      "content": "もう二度と先生の目の前には姿を見せませんので、どうか",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "신경 쓰지 마.",
+      "content": "気にしないで",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "진흙 팩도 가끔은 나쁘지 않네.",
+      "content": "泥パックって美容に良いらしいよ",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 12, "index": 1 },
-      "content": "죄송합니다",
+      "content": "すみません……",
       "isFirst": true,
       "file": ""
     }
