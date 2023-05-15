@@ -1,6 +1,6 @@
 [
   {
-    "title": "1.작업 레퍼런스",
+    "title": "参考資料は……？",
     "nickname": "Mollu",
     "date": "2023-04-27 23:14:36",
     "replyNo": 4,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "저, 선생님……",
+      "content": "えっと、先生……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 41,
         "index": 3
       },
-      "content": "선생님은 메이드복, 좋아하시나요?",
+      "content": "メイドは、好きですか？",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "응, 좋아해!",
+      "content": "うん、もちろん！",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그렇군요. 역시……",
+      "content": "やっぱり、そうなんですね……",
       "replyDepth": 1,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,12 +65,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "갑자기 메이드복은 왜?",
+      "content": "急にどうしたの？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "다름이 아니라",
+      "content": "実は、その……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -82,7 +82,7 @@
     },
     {
       "type": "chat",
-      "content": "이번에 새로 준비하는 게임에",
+      "content": "今開発しているゲームに",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -94,7 +94,7 @@
     },
     {
       "type": "chat",
-      "content": "메이드 캐릭터를 추가할까 생각하던 중이었거든요.",
+      "content": "メイドのキャラクターを出そうと思っているんです",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -113,7 +113,7 @@
         "no": 41,
         "index": 3
       },
-      "content": "다만, 메이드복은 인기도 많지만 프릴처럼 표현하기 어려운 장식도 많아서……",
+      "content": "メイドは一定の人気がありますから",
       "isFirst": true
     },
     {
@@ -125,7 +125,7 @@
         "no": 41,
         "index": 3
       },
-      "content": "어떻게 구현하면 좋을지 고민을 하고 있었어요.",
+      "content": "その……メイド服の構造を詳しく知りたいのですが、持ってそうな人が知り合いにいなくて……先生なら詳しいかな、と",
       "isFirst": true
     },
     {
@@ -137,12 +137,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "C&C에 도움을 요청하는 건 어때?",
+      "content": "C&Cに手伝ってもらうのは？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "C&C의 선배들은 조금",
+      "content": "その……あ、あんまり他の人に頼むのは",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -154,7 +154,7 @@
     },
     {
       "type": "chat",
-      "content": "무서워서",
+      "content": "ちょっと……まだ、怖くて",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -173,7 +173,7 @@
         "no": 41,
         "index": 3
       },
-      "content": "다른 방법을 찾아봐야겠어요……",
+      "content": "他になにか方法がないか探してみます",
       "isFirst": true
     },
     {
