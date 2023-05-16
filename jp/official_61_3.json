@@ -1,6 +1,6 @@
 [
   {
-    "title": "초회한정판이에요. 선생님.",
+    "title": "初回限定盤ですよ、先生",
     "nickname": "Molru",
     "date": "2022-10-23 16:00:48",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "선생님! 속보예요! 속보! 어마어마한 속보요",
+      "content": "先生、速報です！速報！ものすごいニュースですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미도리, 진정해. 컴다운.",
+      "content": "ミドリ、落ち着いて。一回クールダウン",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 정도로 속보야? 어떡하지? 폭죽을 준비할까?!",
+      "content": "そんなにすごいニュースなの？どうしよう、花火でも用意する？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "후우후우, 네, 지, 진정했어요!",
+      "content": "……はい、深呼吸して落ち着きました！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 1,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래서, 무슨 일이야?",
+      "content": "何があったの？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그, 그 정도까지 해야 할 일인가 하면, 그, 글쎄요?",
+      "content": "そ、そこまで必要ではないかもしれませんが",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "어, 어쨌거나!",
+      "content": "と、とにかく！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "이번에 전설의 명작 고전 게임의 후속작이 나왔대요!",
+      "content": "今度、伝説の名作レトロゲームの続編が出るそうです！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그 게임의 초회한정판을 반드시 입수하고 싶어요.",
+      "content": "そのゲームの初回限定盤を、絶対に手に入れたくって",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "선생님, 어울려 주실 거죠?",
+      "content": "先生、付き合ってくれませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "오늘 고마웠어요.",
+      "content": "今日はありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "다음에 같이 플레이해요. 선생님.",
+      "content": "今度、一緒にプレイしましょうね。先生",
       "isFirst": false,
       "file": ""
     }
