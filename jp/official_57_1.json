@@ -1,6 +1,6 @@
 [
   {
-    "title": "검은 제복",
+    "title": "黒い制服",
     "nickname": "Molru",
     "date": "2022-10-23 15:15:09",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "오늘도 수고 많으셨습니다.",
+      "content": "今日もお疲れさまでした",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마시로도 수고 많았어.",
+      "content": "マシロの方こそ、お疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "선생님의 지휘 덕분에 오늘도 다치지 않고 무사히 악을 섬멸할 수 있었습니다.",
+      "content": "先生のおかげで今日も怪我無く、無事に悪を撃退することができました",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "선생님의 지휘는 완벽했습니다. 오늘도 한 수 배웠습니다.",
+      "content": "先生の指揮は今日も素晴らしかったです。色々と学ばせていただきました",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "다만…….",
+      "content": "あ、そういえば……",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "다만……?",
+      "content": "そういえば……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 문제라도 있어?",
+      "content": "何か他に問題でもあった？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "그게 작전 중에 치마의 솔기가 뜯어져서……",
+      "content": "いえ、その、作戦中にスカートの縫い目がほつれてしまって……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "여벌 제복이 추가로 필요할지도 모르겠습니다.",
+      "content": "もし直せなさそうだったら、予備の制服を出さないとかもしれません",
       "isFirst": false,
       "file": ""
     },
