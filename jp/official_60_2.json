@@ -1,6 +1,6 @@
 [
   {
-    "title": "좋은 시나리오의 조건",
+    "title": "良いシナリオの条件",
     "nickname": "Molru",
     "date": "2022-10-23 15:40:41",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "선생님……",
+      "content": "先生ー",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "완벽한 레트로 게임 시나리오의 조건이 뭐라고 생각해?",
+      "content": "最高のゲームシナリオの条件ってなんだと思う？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "완벽한 게임 시나리오……?",
+      "content": "最高のゲームシナリオ……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭣 때문에 그래?",
+      "content": "急にどうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "딴 게 아니라……",
+      "content": "それは……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "그 녀석들!",
+      "content": "ああっ、思い出したらイライラしてきた！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "멋대로 떠들고 있단 말야!",
+      "content": "あいつら、好き放題言ってくれちゃって！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "소재가 고리타분하다느니, 전개가 루즈하다느니.",
+      "content": "発想が古いとか、展開が中だるみしてるだとか",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "안 되겠어. 선생님, 게임개발부 부실에서 봐!",
+      "content": "もうダメ！先生、今からゲーム開発部のぶ室に来て！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……어?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "어쩌지, 선생님?!",
+      "content": "どうしよう先生！？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "모처럼 떠오른 아이디어가 완전 모순적이라,",
+      "content": "せっかく浮かんだアイデアが思いっきり矛盾してて、",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "그걸 타파할 다음 아이디어가 전혀 떠오르지 않아! 도와줘!!!",
+      "content": "それを打破する次のアイデアが全然浮かばない！助けてーー！",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "우와아앙?!",
+      "content": "うわあぁぁぁん！！！",
       "isFirst": true,
       "file": ""
     }
