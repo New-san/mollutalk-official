@@ -1,6 +1,6 @@
 [
   {
-    "title": "정의의 실현",
+    "title": "正義の実現",
     "nickname": "Molru",
     "date": "2022-10-23 15:20:16",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "선생님, 정의를 실현할 때입니다!",
+      "content": "今こそ正義を実現する時です！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "드디어 내 목숨을 노리러 오는 건가…….",
+      "content": "ついに私の命を狙いに来るの……？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "그게 무슨 말씀이신가요? 무언가 정의에 반하는 일이라도 저지르셨나요?",
+      "content": "それはどういう意味ですか？何か正義に反することをされましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "선배들의 첩보에 의하면",
+      "content": "えっと、先輩たちの情報によりますと、",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "극악무도한 블랙마켓의 악당이 오늘 정오에",
+      "content": "極悪非道なブラックマーケットの悪党が本日の正午、",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "트리니티 학원 근처를 지나갈 예정이라고 합니다.",
+      "content": "トリニティ総合学園の近くを通りかかるとのことです",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "근처 건물의 옥상에서 기다렸다가 그 악인을 저격하도록 하죠!",
+      "content": "建物の屋上で待ち構えて、その悪党を狙撃しましょう",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저격, 무서워…….",
+      "content": "狙撃、怖い……",
       "isFirst": true,
       "file": ""
     },
