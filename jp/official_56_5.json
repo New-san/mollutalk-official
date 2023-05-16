@@ -1,6 +1,6 @@
 [
   {
-    "title": "메이드 카페! 1",
+    "title": "メイドカフェ（１）",
     "nickname": "Molru",
     "date": "2022-10-23 15:11:27",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "카페에서 일하는 친구가 급한 사정이 생겨서, 대타를 뛰게 되었어.",
+      "content": "友人に急用ができたらしくて、代わりにバイトに行くことになった",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "예쁜 유니폼으로 유명한 가게라 하니, 기대가 돼.",
+      "content": "可愛い制服で有名なお店みたいだから、楽しみだ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "예쁜 유니폼 입은 카린이 보고 싶어.",
+      "content": "可愛いユニフォームを着たカリン、見たいな",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……뭔가 수상하지 않아?",
+      "content": "……なにか怪しくない？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "으음. 그렇게 말해주니 기쁘긴 한데.",
+      "content": "そ、そう言ってくれるのは、嬉しい、けど",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "살짝, 부끄럽네.",
+      "content": "……ちょっと、恥ずかしい",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "음? 수상할 게 뭐가 있지?",
+      "content": "うーん、怪しくはないと思うけど",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "설령 수상하다고 해도,",
+      "content": "たとえ、怪しいとしても",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "C&C의 메이드로서 나를 필요로 하는 이가 있다면",
+      "content": "C&Cのメイドとして私を必要としている人がいたら",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "나는 돕고 싶어.",
+      "content": "私は助けたい",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "자, 그럼 아르바이트를 하러 가볼까",
+      "content": "じゃあ、そろそろ行ってくる",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "조금 익숙해지면, 선생님을 초대할게.",
+      "content": "慣れてきたら、先生のことも招待するから",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "선생님……",
+      "content": "そういえば、先生……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "내가 모에모에큥 할 때 태블릿 pc를 들고 있었는데……",
+      "content": "私がその……あのポーズをした時、タブレットを構えてた気がするけど……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "설마 날 찍은 건 아니겠지?",
+      "content": "まさか、撮ってないよね？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "카린을 찍은 적은 없어. 찬란한 미소의 캐서린은 찍었지만.",
+      "content": "カリンは撮ってないよ。笑顔が眩しいキャサリンは撮ったけど",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "묵비권을 행사하겠어.",
+      "content": "黙秘権を行使します",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 3,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "당장 지워!",
+      "content": "今すぐ消して！",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 4,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "대답해줘!",
+      "content": "答えて！",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "선생님!",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     }
