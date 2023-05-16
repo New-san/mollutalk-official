@@ -1,6 +1,6 @@
 [
   {
-    "title": "마감이에요. 선생님.",
+    "title": "締め切りですよ、先生",
     "nickname": "Molru",
     "date": "2022-10-23 15:58:14",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "선생님, 혹시 시간 있으신가요?",
+      "content": "先生、今日お時間ありますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그게 다른 게 아니라.",
+      "content": "実はその、",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "상담하고 싶은 게 있는데요……",
+      "content": "相談したいことがありまして……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "상담?",
+      "content": "相談したいこと？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "네, 넷! 저희 동아리실에서 기다리고 있을게요!",
+      "content": "はい。私は今日ずっと部室にいますので、よろしければお願いします！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "……죄송합니다.",
+      "content": "……すみません",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "괜히 게임으로 열이 오른 탓에 선생님에게 엄청난 민폐를……",
+      "content": "つい熱くなってしまい、先生にご迷惑を……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미도리가 가진 의외의 일면을 발견했어……",
+      "content": "ミドリの新たな一面が明らかに……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 무척 재미있었으니까.",
+      "content": "大丈夫、とても楽しかったよ",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "으, 으으…… 쥐구멍이 있다면 숨고 싶어요……",
+      "content": "う、うぅ……穴があったら入りたいです……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "다음번엔 대전 게임이 아닌 쪽으로…… 부탁드릴게요……",
+      "content": "次は対戦型ではないゲームで、お願いします……",
       "isFirst": false,
       "file": ""
     }
