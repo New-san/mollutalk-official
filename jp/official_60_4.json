@@ -1,6 +1,6 @@
 [
   {
-    "title": "복숭아빛 스탬프 랠리",
+    "title": "桃色のスタンプラリー",
     "nickname": "Molru",
     "date": "2022-10-23 15:43:16",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "선생님, 선생님!",
+      "content": "先生先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응! 모모이모모이!",
+      "content": "モモイが現れた！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "왜 그래?",
+      "content": "どうしたの？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "하루하바라에서 커다란 이벤트가 있대!",
+      "content": "今度、春葉原ですっごく大きなイベントがあるんだって！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "무려 울트라 마린 시스터즈 40주년 스탬프 랠리가……!",
+      "content": "なんと、ウルトラマリンシスターズ40周年スタンプラリー！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……스탬프 랠리?",
+      "content": "スタンプラリー？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "스탬프를 전부 모으면 특제 굿즈가 선물로 나온다고 하니",
+      "content": "スタンプを全部集めたら、プレゼントとして限定グッズを貰えるみたいなの",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "이건 놓칠 수 없어!",
+      "content": "これは見逃せない……！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "알았지, 선생님?!",
+      "content": "一緒に行こ、先生！！",
       "isFirst": true,
       "file": ""
     },
