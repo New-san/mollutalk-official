@@ -1,6 +1,6 @@
 [
   {
-    "title": "현장실습이에요. 선생님.",
+    "title": "展示会ですよ、先生",
     "nickname": "Molru",
     "date": "2022-10-23 15:59:05",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "선생님, 이번에 밀레니엄 게임 아트워크 전시회가 열린대요.",
+      "content": "先生。今度、ミレニアムでゲームアート展示会が開かれるそうです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "이번에 저와 전시회에 단둘이……",
+      "content": "なのでその、私と二人で",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "가 아니라!",
+      "content": "……じゃなくて！",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "시, 신작 게임을 개발하기 위해선 공부를 게을리하면 안되니까요!",
+      "content": "新しいゲームを開発するためには、勉強もしないといけませんから……！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "암, 공부는 중요하지.",
+      "content": "確かに、勉強は大切だね",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "여, 역시 그렇죠?",
+      "content": "や、やっぱりそうですよね！？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그, 그러니까. 그게……",
+      "content": "え、えっと、ですからその……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "같이 가시지 않을래요?",
+      "content": "……一緒に、行きませんか？",
       "isFirst": false,
       "file": ""
     },
