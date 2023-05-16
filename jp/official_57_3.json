@@ -1,6 +1,6 @@
 [
   {
-    "title": "저격수의 시련 1",
+    "title": "狙撃手の試練（１）",
     "nickname": "Molru",
     "date": "2022-10-23 15:17:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "금일 샬레의 사격장에서 진행한 훈련을 종료했습니다. 바로 학교로 복귀하겠습니다.",
+      "content": "シャーレでの本日の訓練を終えました。この後、学園に戻ります",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저격수는 평소에 어떤 훈련을 주로 해?",
+      "content": "狙撃手って、普段どんな訓練をするの？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "저격수의 훈련이 궁금하시다고요?",
+      "content": "狙撃手の訓練、気になりますか？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "저격수의 훈련도 다른 병과의 학생들과 크게 다르지는 않습니다.",
+      "content": "と言っても、基本的に他の方々とそんなに違いは無いのですが",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "다른 점이라면 역시 은신에 필요한 기술을 익히는 정도일까요.",
+      "content": "違う点と言えば、やはり身を潜める技術を学ぶことでしょうか",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "나도 견학해볼 수 없을까?",
+      "content": "今度、見学してもいい？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "견학하시는 건 상관없지만…… 그다지 재미는 없을 겁니다.",
+      "content": "見学するのは構わないのですが……特に面白いものではないと思いますよ？",
       "isFirst": true,
       "file": ""
     },
