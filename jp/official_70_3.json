@@ -1,6 +1,6 @@
 [
   {
-    "title": "열사병 방지 대책",
+    "title": "熱中症対策",
     "nickname": "Molru",
     "date": "2022-10-23 17:14:48",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "선생님, 전에 말씀드린 수영 훈련을 오늘 오후에 진행하려 합니다.",
+      "content": "先生。体調も回復しましたので、以前お話した通り、まずは少し水泳でもしてみようかと",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마시로가 걱정되니 이번에도 따라갈게.",
+      "content": "じゃあ、私もそっちに向かうね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "오시는 건 상관없습니다만……",
+      "content": "えっと、お越しいただけるのは嬉しいのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "이번 훈련은 물 위에서 하는 훈련이니 열사병으로 쓰러지는 일은 없을 겁니다.",
+      "content": "今回はただの水泳ですし、そこまでご心配いただかなくても大丈夫ですよ……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "다만 수영을 하기 전에 백사장 위에서 가벼운 준비운동을 할까 하는데…… 이 정도는 괜찮겠지요?",
+      "content": "泳ぐ前に、浜辺で簡単な準備運動をするくらいで……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "물론이지.",
+      "content": "うん、だけど準備運動は大切だからね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수영 전의 준비운동은 중요하니까.",
+      "content": "念には念をってことで。私も付き合うよ",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "이해해 주셔서 감사합니다.",
+      "content": "な、なるほど……そういうことでしたか",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "그럼 해수욕장에서 뵙겠습니다!",
+      "content": "では、お待ちしてますね",
       "isFirst": false,
       "file": ""
     },
