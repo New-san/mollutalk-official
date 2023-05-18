@@ -1,6 +1,6 @@
 [
   {
-    "title": "해변의 저격수",
+    "title": "海辺の狙撃手",
     "nickname": "Molru",
     "date": "2022-10-23 17:13:32",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "선생님, 지금 바로 이 앞의 해변으로 나와주실 수 있으신가요?",
+      "content": "先生、今から海辺の方まで来ていただけますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "선생님께 보여드리고 싶은 옷이 있습니다.",
+      "content": "先生にお見せしたいものがありまして",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수영복 말이지?",
+      "content": "うん、すぐ向かうね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "전에 구입한 이후로 입어볼 기회가 통 없었는데, 마침 여름 훈련을 나온 참에 입어보았습니다.",
+      "content": "この前買ってから着る機会が無かったのですが、せっかくの海辺ですし",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "이 옷은 백사장에서만 입을 수 있는 옷이니까요.",
+      "content": "そもそも、こういうところでしかあまり着られないので",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수영복 말이지……?",
+      "content": "この間買った水着の話？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "하지만 가급적 빨리 와주실 수 있겠습니까?",
+      "content": "あ、できれば少し早めに来ていただけると助かります",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "이 옷을 입고 백사장 한가운데에서 기다리는 건 꽤나 고된 일이므로……",
+      "content": "これを着た状態で待っているのはその、少々……",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수영복 이야기하는 거 맞지?!",
+      "content": "え、水着じゃないの！？一体何を着てるの！？",
       "isFirst": true,
       "file": ""
     },
