@@ -1,6 +1,6 @@
 [
   {
-    "title": "빗속의 소녀",
+    "title": "雨の中の女の子",
     "nickname": "Molru",
     "date": "2022-10-23 17:00:11",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "선생님?",
+      "content": "先生？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "오늘은",
+      "content": "今日は",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "……",
+      "content": "その",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,18 +54,8 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하나코?",
+      "content": "ハナコ？",
       "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 66, "index": 1 },
-      "content": "후후.",
-      "isFirst": true,
       "file": ""
     },
     {
@@ -75,26 +65,6 @@
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
       "content": "……",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 0,
-      "sCharacter": { "no": 66, "index": 1 },
-      "content": "아니에요.",
-      "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 66, "index": 1 },
-      "content": "역시",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +74,37 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "신경 쓰지 않으셔도 돼요.",
+      "content": "ふふっ",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 66, "index": 1 },
+      "content": "すみません",
+      "isFirst": false,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": { "no": 66, "index": 1 },
+      "content": "何でもありません、失礼しました",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 0,
+      "sCharacter": { "no": 66, "index": 1 },
+      "content": "どうかお気になさらず",
       "isFirst": false,
       "file": ""
     },
