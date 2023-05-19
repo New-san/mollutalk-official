@@ -1,6 +1,6 @@
 [
   {
-    "title": "선물을 주는 소녀",
+    "title": "贈り物と女の子",
     "nickname": "Molru",
     "date": "2022-10-23 16:59:11",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "선생님 하나코입니다.",
+      "content": "先生、ハナコです",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "오늘 방과 후에 보충수업부 활동에 필요한",
+      "content": "今日の放課後、",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "준비물을 사러 갈 건데,",
+      "content": "補習授業部の活動に必要なものを買いに行くのですが、",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "같이 가주시지 않겠어요?",
+      "content": "一緒に行きませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "준비물인 거지?",
+      "content": "普通のものだよね？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "네. 준비물이에요.",
+      "content": "はい、普通のものです",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "평범하게 입고 가는 거고?",
+      "content": "普通の格好で行くんだよね？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "네. 맞습니다.",
+      "content": "はい、普通の格好で",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……응. 그런 거라면 얼마든지.",
+      "content": "だったら喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "감사합니다.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "그럼 방과 후에 제 5 교문 앞에서 기다릴게요.",
+      "content": "それでは放課後、第五校門の前でお待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "새 양말은 선생님의 사무실로 보내드릴까요?",
+      "content": "靴下は、シャーレに送った方が良いですか？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "필요 없어!!",
+      "content": "結構です！！",
       "isFirst": true,
       "file": ""
     }
