@@ -1,6 +1,6 @@
 [
   {
-    "title": "공부는 어려워 1",
+    "title": "勉強は難しい（１）",
     "nickname": "Molru",
     "date": "2022-10-23 15:07:34",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "하아. 만약 내게 좀 더 힘이 있다면……",
+      "content": "私にもっと力があれば、",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "이 세상에서 ‘수학’을 청소하고 싶어.",
+      "content": "この世から「数学」という科目を消し去るのに……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 무슨 일이야?",
+      "content": "急にどうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "아, 투정 부려 미안하군.",
+      "content": "急な愚痴で申し訳ない……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "도서관 가는 길에…… 선생님에게 문자를 보내 보고 싶었어.",
+      "content": "図書館へ行く途中にふと、先生に聞いてほしくなって",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "그…… 두 번째 꿈은…… 이루어지면 그때 알려줄게.",
+      "content": "その、二つ目の夢は……叶った時にちゃんと教える",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "아무에게도 말한 적 없지만.",
+      "content": "誰にも言ったことない、けど",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "아마, 선생님이 가장 먼저 알게 될지도 몰라.",
+      "content": "どっちにせよ、一番最初に知るのは先生だろうし……",
       "isFirst": true,
       "file": ""
     }
