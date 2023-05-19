@@ -1,6 +1,6 @@
 [
   {
-    "title": "정의란 무엇인가",
+    "title": "正義とは",
     "nickname": "Molru",
     "date": "2022-10-23 15:16:20",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "최근에 정의와 관련된 흥미로운 책을 읽었습니다.",
+      "content": "最近、正義について興味深い本を読みました",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "정의를 추구하는 자가 여러 가지 상황에서 어떻게 행동해야 할지",
+      "content": "正義を追求する者が、様々な状況においてどういった行動をとるべきか……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "알려주는 책이더군요.",
+      "content": "そういったことを教えてくれる本でした",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "정의의 용사를 위한 매뉴얼 같은 건가?",
+      "content": "正義の味方のためのマニュアルみたいなもの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "불의를 추구하는 자를 위한 책도 있어?",
+      "content": "悪を追求する者のための本もあったりする？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "말하자면 그렇습니다. 매우 흥미롭더군요.",
+      "content": "はい、そういう本でした。とても興味深かったです",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "그건 잘 모르겠습니다만…….",
+      "content": "それは、すみません、ちょっと分からないですね……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "그런데 책을 읽다 보니 이해가 가질 않는 부분이 몇 가지 있었습니다.",
+      "content": "ただ、読んでると理解できない部分もいくつかありまして",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "분명 정의에 대한 제 이해가 부족해서 그런 것이겠지요.",
+      "content": "きっと、正義についての私の理解が足りないせいかと思うのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 1 },
-      "content": "괜찮으시다면 선생님께서 제게 정의를 알려주시겠습니까?",
+      "content": "よろしければ、先生。私に、正義について教えてくれませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "정의……?",
+      "content": "正義について……？",
       "isFirst": true,
       "file": ""
     },
