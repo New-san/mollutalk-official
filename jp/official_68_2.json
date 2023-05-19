@@ -1,6 +1,6 @@
 [
   {
-    "title": "범상치 않은 소녀",
+    "title": "普通ではない女の子",
     "nickname": "Molru",
     "date": "2022-10-23 16:57:44",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "선생님, 혹시 지금 시간 좀 괜찮으실까요?",
+      "content": "先生、今お時間大丈夫でしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "지금 조금 곤란한 상황에 처해 있어서, 괜찮으시다면 도움을 좀 받고 싶은데요.",
+      "content": "少し困った状況になってしまいまして、助けていただきたく……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "곤란한 상황?",
+      "content": "困った状況？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 있는 거야?",
+      "content": "何かあったの？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "음.",
+      "content": "何と言えば良いんでしょうか……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "무슨 일이라고 하면 무슨 일이긴 하죠. 어쩌다 보니 체육실에 갇혀 버려서……",
+      "content": "ちょっと、体育倉庫から出られなくなってしまいまして……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "밖에서 열 수 있는 문이니, 문만 열어 주셔도 감사할 것 같아요.",
+      "content": "外からしか開けられないタイプの扉なので、来ていただけますとありがたいです",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "괜찮으실까요?",
+      "content": "お願いできますでしょうか……？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금 바로 갈게.",
+      "content": "すぐに行くね",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "걱정하지 마. 금방 갈 테니.",
+      "content": "心配しないで",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "……후훗.",
+      "content": "……ふふっ、はい",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "네. 감사합니다. 그럼 기다리고 있을게요.",
+      "content": "ありがとうございます、お待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "어디까지 가신 건가요? 선생님.",
+      "content": "あの後、どこまで行かれてしまったんですか……？",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "듣고 계시겠죠? 오늘은 정말로 감사했습니다. 덕분에 한결 나아졌어요.",
+      "content": "とにかく、今日は本当にありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "물론 선생님께서 어떻게 생각하실진 모르겠지만……",
+      "content": "先生が、どうお考えになっているかは分かりませんが……",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 66, "index": 1 },
-      "content": "이건 진심이랍니다.",
+      "content": "これは、本心からの言葉ですよ",
       "isFirst": false,
       "file": ""
     }
