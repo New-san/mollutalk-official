@@ -1,6 +1,6 @@
 [
   {
-    "title": "귀여움은 정의!",
+    "title": "可愛いは正義",
     "nickname": "Molru",
     "date": "2022-10-23 17:12:28",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "선생님, 오후에 시내에서 잠깐 어울려 주실 수 있나요?",
+      "content": "先生。今日の午後、少し付き合っていただけないでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "다름이 아니라 이번 하계 훈련에 사용할 새 수영복을 사려고 해서요.",
+      "content": "実は今度の訓練で使う、新しい水着を買おうと思っていまして。アドバイスを頂けないかなと",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "상관없지만……",
+      "content": "えっと、付き合ってあげたい気持ちはやまやまなんだけど……",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "친구가 아니라 나랑 가도 괜찮아?",
+      "content": "お友達とかじゃなくて、私で大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "중학교 때부터 입던 수영복이 있기는 하지만 더 입기에는 작아진 것 같아서요.",
+      "content": "はい、ぜひ先生にお願いできればと。その、実は、中学校の時まで来ていた水着はあるのですが、少しきつくなってしまいまして……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "모처럼 정의실현부에 들어왔으니 다른 부원, 선배 여러분께 부끄럽지 않을 멋진 수영복을 새로 갖고 싶습니다.",
+      "content": "せっかくなので正義実現委員会として、もっと相応しい水着が欲しいなと思っているんです",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "멋진 수영복을 찾을 수 있으면 좋겠네.",
+      "content": "そ、そっか……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "네, 그러기 위해서는 선생님의 도움이 필요합니다.",
+      "content": "はい、そのためにも先生のお力をお借りしたく",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 68, "index": 3 },
-      "content": "그럼 매장에서 먼저 기다리고 있겠습니다.",
+      "content": "では、お待ちしておりますね",
       "isFirst": false,
       "file": ""
     },
