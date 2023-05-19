@@ -1,6 +1,6 @@
 [
   {
-    "title": "게이머의 일상",
+    "title": "ゲーマーの日常",
     "nickname": "Molru",
     "date": "2022-10-23 15:39:15",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "용사여……",
+      "content": "勇者よ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "이 모모톡을 받으면 곧바로 게임개발부의 부실로……",
+      "content": "このモモトークを見たら、すぐにゲーム開発部の部室へと来たれ……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응, 바로 갈게.",
+      "content": "うん、じゃあ今から行くね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어……",
+      "content": "え……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "과연, 한 치의 망설임도 없는 빠른 퀘스트 수락!",
+      "content": "ノータイムでクエスト受注！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "그래야 선생님이지!",
+      "content": "さっすが先生！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "뭐야, 그 미적지근한 반응은?! 전혀 예상 못했는데?!",
+      "content": "なに、その微妙な反応！全然期待外れだよ！？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "아니, 아니지. 시나리오에 따라선 이런 분기도 충분히 매력적……",
+      "content": "いやでも、シナリオによってはこんな分岐も十分アリかも……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "……이 아니라!",
+      "content": "……じゃなくって！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 2,
       "replyGroup": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "오늘 약속했잖아! 부실에서 보기로!",
+      "content": "今日、部室で会う約束したでしょ！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 2,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그랬, 었나?",
+      "content": "そうだっけ？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "하여간 게임개발부 부실에서 기다리고 있을 테니까!",
+      "content": "とにかく、ゲーム開発部の部室で待ってるから！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 39, "index": 1 },
-      "content": "얼른 와!",
+      "content": "早く来てね！",
       "isFirst": false,
       "file": ""
     },
