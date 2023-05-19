@@ -1,6 +1,6 @@
 [
   {
-    "title": "나와 선생님의 관계?",
+    "title": "私と先生の関係",
     "nickname": "Molru",
     "date": "2022-10-23 15:09:28",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "선생님은…… 선생님이지만……",
+      "content": "先生は、先生だけど……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "친구로서 부탁하지. 내 고민 좀 들어줄래?",
+      "content": "友人として頼みたい。私の悩みを、聞いてくれない？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "당연하지. 무슨 일이야?",
+      "content": "もちろん、どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고민? 어디로 가면 될까?",
+      "content": "どこにいけばいいかな？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "즉답, 고맙다.",
+      "content": "ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "옥상에서 만나지.",
+      "content": "ミレニアムの屋上に来てほしい",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "놀라운 일이 있었어.",
+      "content": "先生、すごいことがあったんだ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "피자를 사서 부실로 돌아갔더니, 친구가 기다리고 있었어.",
+      "content": "ピザを買って教室に入ったら、さっき先生に話した友人がそこで待ってて",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "……샐러드를 사 왔더라고.",
+      "content": "……彼女は、サラダを買ってきてくれてた",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "기뻤어.",
+      "content": "嬉しかった、すごく",
       "isFirst": true,
       "file": ""
     }
