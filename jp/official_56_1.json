@@ -1,6 +1,6 @@
 [
   {
-    "title": "도움이 필요하다면, C&C에!",
+    "title": "お手伝いが必要な時は、C&Cへ！",
     "nickname": "Molru",
     "date": "2022-10-23 15:06:23",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "C&C는 밀레니엄을 위해 봉사하지. 그것이 메이드의 일이니까.",
+      "content": "C&Cはミレニアムに奉仕する。それが、メイドとしての仕事だから",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "무슨 임무인지 모르겠지만, 내일 임무는 밀레니엄 시가지에서 한다고 해.",
+      "content": "どんな任務か知らないけど、明日の任務はミレニアムの市街地で行うらしい",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "메이드의 임무라면…… 청소 아닐까?",
+      "content": "メイドの任務っていうと……掃除？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "조심해.",
+      "content": "気をつけてね",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "……틀린 말은 아니야.",
+      "content": "……それほど間違ってはいない",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "밀레니엄에 해악을 끼치는 자들을 정리하는 것도",
+      "content": "ミレニアムに害を与える者たちを消し去ることも、",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "분명 청소니까.",
+      "content": "多分、掃除と呼ぶだろうし",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "물론 청소가 아니더라도……",
+      "content": "もちろん、掃除でも、そうでなくても……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "걱정해줘서 고마워.",
+      "content": "心配してくれてありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "어떠한 임무든…… 최선을 다해 봉사하겠어.",
+      "content": "どんな任務でも……C&Cは、全力で奉仕する",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "아무리 생각해도, 감사할 뿐이야.",
+      "content": "さっきは助かった、ありがとう。感謝してもしきれないな",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "다음에는…… 봉사로 보답할게.",
+      "content": "今度いつか、奉仕でお返ししたい",
       "isFirst": false,
       "file": ""
     }
