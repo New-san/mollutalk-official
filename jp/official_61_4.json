@@ -1,6 +1,6 @@
 [
   {
-    "title": "반짝이는 추억이에요. 선생님.",
+    "title": "大切な思い出です、先生",
     "nickname": "Molru",
     "date": "2022-10-23 16:01:58",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "저, 오락실이라는 곳에 대해 들었는데요.",
+      "content": "私、聞いたことがあります",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "무서운 사람들이 잔뜩 있는 곳이라고……",
+      "content": "ゲームセンターは怖い人たちがたくさんいる場所だ、と……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "오락실은 정말 그런 장소인가요?",
+      "content": "本当にそうなんでしょうか？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "남의 말만 듣고 편견을 가지면 안 돼.",
+      "content": "うーん、場所によるんじゃないかな……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그, 그렇죠. 직접 가보기 전부터 편견부터 가지면……",
+      "content": "そ、そうですよね。私、まだ実際に行ったことが無くて……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그러니 이번에 같이 가볼래?",
+      "content": "じゃあ、今度一緒に行ってみる？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "오, 오락실을요?!",
+      "content": "えっ、ゲームセンターにですか！？ぜひ！！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "오늘 어울려주셔서 감사했습니다.",
+      "content": "今日は付き合っていただいてありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "다만, 오늘 같이 오락실을 찾았던 건",
+      "content": "ただ、今日一緒にゲームセンターに行ったことは、",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "그게. 저……",
+      "content": "えっと、その……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 40, "index": 1 },
-      "content": "모두에겐 비밀이에요?",
+      "content": "ミンナニハ　ナイショデスヨ？",
       "isFirst": false,
       "file": ""
     }
