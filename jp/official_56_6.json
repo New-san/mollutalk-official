@@ -1,6 +1,6 @@
 [
   {
-    "title": "메이드 카페! 2",
+    "title": "メイドカフェ（２）",
     "nickname": "Molru",
     "date": "2022-10-23 15:12:55",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "친구도 이제 괜찮아진 것 같아.",
+      "content": "友人の用事は無事終わったらしい",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "이제 더 이상 메이드 카페에 대타 뛸 일도 없겠지.",
+      "content": "これでもう、メイドカフェに代わりに行く必要もない",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "수고 했어.",
+      "content": "お疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마지막으로 한 번 더 보고 싶었는데!",
+      "content": "最後にもう一度見たかった！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "응. 난감하긴 했지만, 친구에게도 고맙다는 말을 들었어.",
+      "content": "うん、大変だったけど、友達にもありがとうって言われたよ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "늦었다. 이제 내가 메이드 카페에서 일할 일은 없을 테니까.",
+      "content": "残念だけど、もう私がメイドカフェで仕事をすることはないから",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "선생님, 이제 내가 모에모에큥도 못 해주겠네.",
+      "content": "もう先生にあの、萌え萌えキュンもやってあげられないね",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "유감…… 이지?",
+      "content": "残念……だったり、する？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "앞으로도 잘 부탁해.",
+      "content": "…なんてね。何にせよこれからもよろしく",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 37, "index": 1 },
-      "content": "나의 주인님.",
+      "content": "私の、ご主人様",
       "isFirst": true,
       "file": ""
     }
