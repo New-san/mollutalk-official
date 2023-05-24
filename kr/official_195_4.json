@@ -1,0 +1,168 @@
+[
+  {
+    "title": "시간이 지나도",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:44:40",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [184]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "혹시 오늘 현룡문에 올 예정이 있다면, 다음으로 미뤄 주길 바란다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "오늘은 매화원에 방문하기로 되어 있는 날이라서.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "매화원이라. ",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그리고 보니, 간만에 나도 가 볼까?",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "……가끔씩 느끼는 것이다만.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "샬레의 선생님이라는 자리는…… 한가한 건가?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "자주 그렇지는 않지만, 이따금은?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "기분 탓이라고 생각하고 싶지만.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그 이따금이 좀 잦다는 생각이 드는군.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "아무튼 좋아.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "매화원에 갈 생각이 있다면, 함께하도록 하지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "기다리겠다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

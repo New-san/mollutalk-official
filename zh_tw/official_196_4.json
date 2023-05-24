@@ -1,0 +1,240 @@
+[
+  {
+    "title": "아무려면 어때!",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:30:13",
+    "replyNo": 5,
+    "replyGroup": 5,
+    "chars": [99]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님은 아마 모르겠지만",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "현무상회에는 이번 주의 요리라는게 있어.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그게 뭐야?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "말 그대로, 이번 주에는 이 요리를 ",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "조금 더 싼 가격에 판매한다는 뜻이지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "그리고 오늘부터 시작하는 이번 주의 요리는……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "만두야.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "만두…… 좋지…… 좋은 울림이야……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그래서 아마 오늘 오전 내내 ",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "만두를 쪄야 할 것 같아.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "구경 가도 돼?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "호오. 선생님의 견학인가.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "나야 거절할 이유가 없지. ",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "선생님이 여유가 된다면.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "신기하게도 간만에 오전 중 업무가 없는 날입니다.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그래?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그렇다면야 얼마든지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "기다리고 있을게.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

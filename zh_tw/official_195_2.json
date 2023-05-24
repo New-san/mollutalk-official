@@ -1,0 +1,180 @@
+[
+  {
+    "title": "리코더 연습",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:38:36",
+    "replyNo": 4,
+    "replyGroup": 3,
+    "chars": [184]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "마음의 준비는 되었나, 선생님?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "선생은 언제나 학생을 도울 준비가 되어 있어.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그렇다고는 해도, ",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "산해경의 치안 유지에 선생님의 도움까지 빌리게 되다니.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "현룡문의 간부로서 면목이 서지 않을 지경이군.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "이 은혜는 언젠가, 현룡문의 이름으로 갚도록 하지.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그렇게까지 부담 가질 필요는 없다고 생각하는데?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어느 정도는 내가 멋대로 하는 일이니까.",
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "그런가.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그러면 오늘, 잘 부탁하지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "그리고 부디, 몸 조심하기를 바라.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "선생에게 무슨 일이 생기면…… ",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그건, 나에게 있어서도 큰 문제이니까.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

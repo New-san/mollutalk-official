@@ -1,0 +1,132 @@
+[
+  {
+    "title": "많이 먹고 힘 내야지!",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:21:56",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [99]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "안녕. 선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "그래서, 오늘은 면담이 가능하다는 거지?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "미안해. 좀 더 일찍 시간을 내 주고 싶었는데.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "하하하.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "공사가 다망한 샬레의 선생님이니, 어쩔 수 없지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "그러면 오늘은 괜찮은 걸로 알고 찾아가겠어.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "점심을 조금 지난 시간 정도에 도착할 것 같은데, 괜찮겠지?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "기다리고 있을게.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그러면, 그 때 보자고.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

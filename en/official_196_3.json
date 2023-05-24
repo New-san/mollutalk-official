@@ -1,0 +1,108 @@
+[
+  {
+    "title": "손님 맞이는 힘든 법이야.",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:27:13",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [99]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "잘 지내, 선생님?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "또 식사 거르고 다니는 거 아니지?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "이제 안 그러거든……",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "마침 산해경에 들를 일이 좀 있는데 말이야.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "오, 그래?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "괜찮다면 현무상회에도 들러 줘.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "선생님에게라면 얼마든지 서비스해 줄 수 있으니까.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

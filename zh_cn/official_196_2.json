@@ -1,0 +1,192 @@
+[
+  {
+    "title": "일단 맛을 보고 평가해!",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:25:01",
+    "replyNo": 3,
+    "replyGroup": 3,
+    "chars": [99]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "지금 시간 괜찮아?",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "또 일이 너무 많이 밀렸다거나 하는 거 아니야?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "학생의 부탁이라면야, 얼마든지 괜찮지.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "……그 말, 정말이지?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "흐음.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "좋아.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "이번에 현무상회에서……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "아니, 내가 새로운 맛내기를 구상해 봤는데.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "어때. 시식해 보러 올 생각 있어?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "루미의 새로운 레시피인가!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그런 셈이지.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "content": "뭐, 생각이 있다면 현무상회로 찾아와 주면 고맙겠어.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "난 언제든지 선생님을 기다리고 있을 테니까.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 99,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]

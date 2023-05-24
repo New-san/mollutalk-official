@@ -1,0 +1,312 @@
+[
+  {
+    "title": "비내리는 날의 느와르",
+    "nickname": "Mollu",
+    "date": "2023-05-24 20:42:31",
+    "replyNo": 8,
+    "replyGroup": 8,
+    "chars": [184]
+  },
+  [
+    {
+      "type": "chat",
+      "content": "오늘도 산해경에서의 업무인가?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 1,
+      "replyGroup": 1,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그런 거지. 오전 중에 끝날 것 같기는 하지만.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "최근 선생님을 산해경에서 보는 날이 많아진 것 같군.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 2,
+      "replyGroup": 2,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "뭔가 문제라도?!",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "아니.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "오히려 나쁘지 않아. 나쁘지 않은 일이야.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "그보다 오후라…… 그렇군.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 3,
+      "replyGroup": 3,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "의미심장한 말을 하고 싶으면 지금 하도록 해……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "훗.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그런 건 아니다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "그러면 오후에 만나도록 하지. 선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "heart",
+      "content": "",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "선생님.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "감기에 걸렸다고 들었는데, 괜찮은가?",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 4,
+      "replyGroup": 4,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "춥고, 아파……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그건, 유감이군……",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyDepth": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "content": "훗.",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "나는 아무렇지도 않지만 말이다.",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "reply",
+      "replyNo": 5,
+      "replyGroup": 5,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "이로서, 오랜 속설이 증명된 것인가……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "속설?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 6,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "그, 왜.",
+      "isFirst": true
+    },
+    {
+      "type": "reply",
+      "replyNo": 7,
+      "replyGroup": 7,
+      "replyDepth": 0,
+      "sCharacter": {
+        "no": 0,
+        "index": 1
+      },
+      "content": "어떤 부류의 사람들은 감기에 걸리지 않는다는……",
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "그게 무슨 뜻이지?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": true
+    },
+    {
+      "type": "chat",
+      "content": "선생님?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    },
+    {
+      "type": "chat",
+      "content": "선생님?",
+      "replyDepth": 0,
+      "replyNo": 0,
+      "replyGroup": 0,
+      "sCharacter": {
+        "no": 184,
+        "index": 1
+      },
+      "isFirst": false
+    }
+  ]
+]
