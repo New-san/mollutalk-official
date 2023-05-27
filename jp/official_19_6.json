@@ -1,6 +1,6 @@
 [
   {
-    "title": "7.열풍",
+    "title": "熱風",
     "nickname": "Mollu",
     "date": "2023-05-10 22:05:41",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님, 지원이 필요해.",
+      "content": "先生、ちょっと手伝って",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,12 +29,12 @@
         "no": 53,
         "index": 1
       },
-      "content": "폐허 근처에서 알 수 없는 반응이 다시 발견됐거든.",
+      "content": "廃墟の近くで謎の信号が見つかったの",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "초현상특무부의 업무를 겸해 조금 먼 곳으로 조사를 다녀올 거야.",
+      "content": "特異現象捜査部の仕事もかねて、ちょっと遠い場所まで調べにいこうと思って",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -53,12 +53,12 @@
         "no": 53,
         "index": 1
       },
-      "content": "날이 조금 덥겠지만…….",
+      "content": "暑い日になると思うけど……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "이번에는 괜찮을 거야.",
+      "content": "今回は大丈夫、任せて",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -77,7 +77,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "오, 자신 있는 말투.",
+      "content": "おお、なんだか今回は自信があるんだね",
       "isFirst": true
     },
     {
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "뭔가 대책이 있는 거야?",
+      "content": "今回は対策してるの？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "응.",
+      "content": "うん",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "이럴 때도 있겠다 싶어서, 확실하게 준비해 둔 게 있거든.",
+      "content": "こういう時のために、準備しておいたんだ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -125,7 +125,7 @@
         "no": 53,
         "index": 1
       },
-      "content": "기대해도 좋아.",
+      "content": "期待してて",
       "isFirst": true
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "type": "chat",
-      "content": "이상하다.",
+      "content": "おかしい……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -161,7 +161,7 @@
         "no": 53,
         "index": 1
       },
-      "content": "어째서인지 선풍기를 쐰 뒤로, 선생님이 더 더워하는 것 같았는데.",
+      "content": "扇風機で涼んだのに、なんだか先生が暑そうだった",
       "isFirst": true
     },
     {
@@ -173,7 +173,7 @@
         "no": 53,
         "index": 1
       },
-      "content": "출력이 부족했던 걸까? 아니면 선생님도 나처럼 열이 많았다던가.",
+      "content": "出力不足だったのかな？それとも、先生も暑がりなの？",
       "isFirst": true
     },
     {
@@ -185,12 +185,12 @@
         "no": 53,
         "index": 1
       },
-      "content": "음",
+      "content": "うーん",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "역시 좀 더 가까이 붙었어야 했나.",
+      "content": "やっぱりもう少しくっついたほうが良かったのかも",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -202,7 +202,7 @@
     },
     {
       "type": "chat",
-      "content": "전신 밀착이었다면, 결과가 달라졌을지도 모르지.",
+      "content": "全身密着していたら、結果が変わっていたかもだし",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -221,7 +221,7 @@
         "no": 53,
         "index": 1
       },
-      "content": "어떻게 생각해?",
+      "content": "どう思う？",
       "isFirst": true
     },
     {
@@ -233,12 +233,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "아마 다른 문제라고 생각하지만…….",
+      "content": "別の問題だと思うけど……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "으음.",
+      "content": "うーん",
       "replyDepth": 3,
       "replyNo": 0,
       "replyGroup": 0,
@@ -257,12 +257,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "그래도 그렇게 나쁜 경험은 아니었어.",
+      "content": "それでもまぁ、そんな悪い経験じゃなかったよ",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "그건 무슨 말이야?",
+      "content": "？それってどういうこと？",
       "replyDepth": 4,
       "replyNo": 0,
       "replyGroup": 0,
@@ -274,7 +274,7 @@
     },
     {
       "type": "chat",
-      "content": "음.",
+      "content": "うーん……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -286,7 +286,7 @@
     },
     {
       "type": "chat",
-      "content": "어쨌든 다음부터는 다른 대책도 준비해 두도록 할 게.",
+      "content": "とにかく、次からは他の対策も考えておくね",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -305,7 +305,7 @@
         "no": 53,
         "index": 1
       },
-      "content": "그럼 또 봐, 선생님.",
+      "content": "じゃあまたね、先生",
       "isFirst": true
     }
   ]
