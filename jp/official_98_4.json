@@ -1,6 +1,6 @@
 [
   {
-    "title": "게으른 경찰의 친절",
+    "title": "怠けがちな警察官の親切",
     "nickname": "Molru",
     "date": "2022-10-23 22:26:07",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "지루하다…….",
+      "content": "暇だぁ……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "놀 거리가 다 떨어져서 너무 지루해…….",
+      "content": "一通り手元のゲーム類も堪能したことだし、退屈……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럼 일을 해.",
+      "content": "じゃああらためて仕事とかどう？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "차라리 아무것도 안 하고 말지, 일을 하기는 싫다구.",
+      "content": "それは絶対嫌。いっそ「何もしない」ということを始めよっかな……",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "애초에 지금 들어 온 일거리도 없긴 하지만.",
+      "content": "そもそも今は、何も仕事無いし",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "생활안전국에서 보통 처리하는 업무는 어떤 게 있는데?",
+      "content": "生活安全局って、普段は何してるの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "……보통?",
+      "content": "普段、ねぇ……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "보통이라고 해도 생활안전국에는 거의 일이 들어오질 않아서.",
+      "content": "そもそも生活安全局には、そんなに仕事とか来ないからなー",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "키리노처럼 일부러 일을 만드는 경우가 아니면 대부분은 앉아서 대기하는 게 보통이야.",
+      "content": "キリノは自分から仕事を作りに行くけど、基本は座って待機だよ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "그것도 아니면…… 낮잠을 잔다든가?",
+      "content": "強いて言えば昼寝とか",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 업무가 아니잖아.",
+      "content": "それは仕事じゃないでしょ",
       "isFirst": true,
       "file": ""
     },
