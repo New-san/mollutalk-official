@@ -1,6 +1,6 @@
 [
   {
-    "title": "게으른 경찰의 발명품",
+    "title": "怠けがちな警察官の発想",
     "nickname": "Molru",
     "date": "2022-10-23 22:22:26",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "정시 보고 알림. 생활안전국 1학년, 후부키야.",
+      "content": "こちら生活安全局1年のフブキ、定時連絡",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "오늘도 특별한 문제는 없음. 계속 근무할게.",
+      "content": "今日も特段異常無し、引き続きこのままって感じで",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "후부키, 문자 잘못 보냈어.",
+      "content": "フブキ、送り先間違ってない？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "응, 알고 있으니까 걱정하지 마.",
+      "content": "うん、それは分かってるから心配しないで",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "나는 언제나 열심히 일하고 있으니까.",
+      "content": "じゃあ、頑張って働くとしよう",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……제대로 이해한 거 맞아?",
+      "content": "……フブキ？心配しないでっていうのは……？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "그건 나도 잘 모르겠는데…….",
+      "content": "それは私にも分からないけど……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "한번 경비국에 문의해 보는 게 어때?",
+      "content": "とりあえず一度、警備局に問い合わせてみたら？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "여기서 갑자기 경비국이?",
+      "content": "警備局……？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "후부키, 무슨 문제라도 생긴 거야?",
+      "content": "フブキ、大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "응, 나도 그렇게 생각해.",
+      "content": "うん、私もそう思う",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "………?",
+      "content": "……？",
       "isFirst": true,
       "file": ""
     },
