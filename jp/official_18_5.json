@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "나 개인은 물론, 우리 흥신소는 늘 선생님에게 감사하다고 생각하고 있어.",
+      "content": "あらためてだけど……私たち便利屋一同、先生に心から感謝しているわ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아루가 그렇게까지 말해주니, 어쩐지 부끄러운걸.",
+      "content": "そこまで言われると照れちゃうな",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "후후훗, 뭐야. 겨우 이 정도로 부끄러워하다니.",
+      "content": "ふふふっ、先生らしくないわね",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "어쩐지 선생님답지 않은걸.",
+      "content": "この程度で恥ずかしがっていたら、この先やっていけないわよ",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이쪽만 부끄러운 건 왠지 분하니까. 아루도 부끄럽게 만들자!",
+      "content": "じゃあ攻守交替、アルにも恥ずかしがってもらおう",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "지, 지금 당사자 앞에서 무슨 소리를 하는 거야?!",
+      "content": "どういうこと！？！？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 농담이지만.",
+      "content": "ごめん、言ってみたかっただけ",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "…하아. 진짜 선생님이랑 대화하다 보면 종종 깜짝 놀란다니깐.",
+      "content": "そ、そう……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "하, 하여간! 평소 도와주고 있는 선생님에게 보답이라도 할 겸……",
+      "content": "とにかく本題なのだけど、普段お世話になってるお礼として",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "한턱 내려고 하는데. 어때?",
+      "content": "食事でも一緒に、どうかしら？",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 일이라면 당연히 가야지!",
+      "content": "ぜひ！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "후후후. 그래…?",
+      "content": "それは良かったわ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 14, "index": 1 },
-      "content": "그럼 기다리고 있을게. 선생님.",
+      "content": "じゃあ待ってるわよ、先生",
       "isFirst": false,
       "file": ""
     },
