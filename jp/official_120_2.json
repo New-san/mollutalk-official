@@ -1,6 +1,6 @@
 [
   {
-    "title": "한밤 중의 학원(번역)",
+    "title": "真夜中の学校",
     "nickname": "Molru",
     "date": "2022-10-27 02:29:27",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님. 좋은 아침.",
+      "content": "先生、おはよう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "재미있는 곳을 발견했어.",
+      "content": "面白い場所を見つけたの",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "시간이 되면 놀러 올래?",
+      "content": "時間があったら、遊びに来ない？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 어떤 곳이길래?",
+      "content": "どんな場所？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응. 학교 놀이를 할 수 있는 곳.",
+      "content": "学校ごっこができるところ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "재미있을 거 같아. 분명.",
+      "content": "きっと、楽しいと思う",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아아. 알겠어.",
+      "content": "うん、分かった。楽しみにしてるね",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님.",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "내 취미 물었었잖아?",
+      "content": "私の趣味、なんだけど",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "나는 꽃을 좋아해.",
+      "content": "私、花が好き",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꽃이라……. 꽃을 기르는 거?",
+      "content": "花……花を育てること？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응. 나중에 화훼 동아리라도 만들어볼까?",
+      "content": "うん。今度、園芸部でも作ってみようかな",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "부원은 나 혼자겠지만.",
+      "content": "部員は、私ひとりしかいないけど",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "그럼 잘 자.",
+      "content": "じゃあ、おやすみ",
       "isFirst": true,
       "file": ""
     }
