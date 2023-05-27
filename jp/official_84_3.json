@@ -1,6 +1,6 @@
 [
   {
-    "title": "몸이 내린 벌",
+    "title": "内なる罰",
     "nickname": "Molru",
     "date": "2022-10-23 19:47:47",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "오늘도 평화와 안녕이 그대와 함께하기를.",
+      "content": "今日も平和と安寧が、みなさんと共にありますように",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "고뇌하는 일이 있으시다면, 그 고뇌가 하루빨리 해결되길 기도하겠습니다.",
+      "content": "何か悩みごとなどがありましたら、いつでも私たちの元をお訪ねください",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "오늘은 성당에서 직접 찾아뵙지 못하는 점, 너그러이 이해해 주시기 바랍니다.",
+      "content": "ただ、本日私は聖堂にいないのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마리, 오늘은 성당에 없는 거야?",
+      "content": "マリー、今日どこかに出かけるの？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘따라 더 바쁜가 보네.",
+      "content": "何か忙しい用事なの？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아니에요, 선생님. 별일은 없어요.",
+      "content": "あ、いえ、特に何か用事というわけではないのですが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그저 몸 상태가 그렇게 좋지 못할 뿐…….",
+      "content": "ちょっと体調を崩してしまいまして……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "몸 상태가 나쁘다고!?",
+      "content": "大丈夫！？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어디 아파? 몸살이라도……?",
+      "content": "どこか痛かったりするの？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아, 죄송합니다",
+      "content": "ご、ごめんなさい",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "괜한 말씀을 드린 것 같네요. 정말 별일 아니랍니다.",
+      "content": "かえってご心配させてしまいましたね……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "조금 나른한 것뿐이니, 쉬고 나면 좋아질 거예요.",
+      "content": "大した症状ではありませんので、休んだらすぐ良くなるかと",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "깜빡하고 잠들어서 말씀드리지 못했네요.",
+      "content": "すみません、いつの間にか寝てしまって……",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "오늘 와 주셔서 정말로 감사합니다. 선생님.",
+      "content": "伝えそびれてしまったのですが、本当にありがとうございました",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "제게 보답이라고 해드릴 만한 건 없지만,",
+      "content": "恩返しになるのか分かりませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "대신 늘 선생님을 위해 기도할게요.",
+      "content": "それに、いつものことではありますが",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "지금까지처럼.",
+      "content": "また、先生のためにお祈りいたしますね",
       "isFirst": false,
       "file": ""
     }
