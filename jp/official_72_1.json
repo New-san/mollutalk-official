@@ -1,6 +1,6 @@
 [
   {
-    "title": "여름 데뷔!",
+    "title": "夏デビュー",
     "nickname": "Molru",
     "date": "2022-10-23 18:11:57",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "선생님, 오후에 시간 괜찮으신가요?",
+      "content": "先生、今日お時間ありますか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "오늘 방과 후에 시바타운에 있는 대형 쇼핑몰에 수영복을 사러 가려했거든요.",
+      "content": "放課後、芝タウンのショッピングモールで水着を買おうかなって思ってまして……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "어떤 수영복이 제게 어울리는지 선생님이 꼭 봐주셨으면 좋겠어요. (≧∇≦)",
+      "content": "よろしければ、どんな水着が良いか先生に見ていただきたく……！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래. 같이 가자.",
+      "content": "えっと、私で良ければ喜んで",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그나저나 전에 쓰던 수영복은 없는 거야?",
+      "content": "もしかして水着、持ってないとか……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "학교에서 쓰는 평범한 스쿨미즈가 있긴 하지만……",
+      "content": "学校のスクール水着はありますが……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "그건 너무 평범해요! 평범한 수영복으로는 안 된다고요!",
+      "content": "それではダメなんです！",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐가 안 되는데……?",
+      "content": "だ、ダメなんだ……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "여름의 해변은 모두가 숨겨왔던 매력을 드러내는 각축장……",
+      "content": "夏、そして海といえば、みんなそれぞれ隠していた魅力を披露する戦場……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "그곳에 평범한 수영복을 입고 가는 건 총알 없이 전장에 나가는 것과 다름없어요!",
+      "content": "なのに、そんなところにスクール水着で行くなんて、普通の子にとっては銃弾を持たずに戦場に出るのと同じです！",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "……말하자면, 여름 데뷔예요!",
+      "content": "せっかくですし私も、夏デビューしたいんです……！",
       "isFirst": true,
       "file": ""
     },
