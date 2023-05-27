@@ -1,6 +1,6 @@
 [
   {
-    "title": "마음을 담아 수놓는 자수",
+    "title": "ひと針ひと針に、心を込めて",
     "nickname": "Molru",
     "date": "2022-10-23 22:31:54",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "선생님, 혹시 오늘 시간이 괜찮으실까요?",
+      "content": "先生、今日お時間ありますでしょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미모리가 불러주는 거라면 무조건 괜찮아.",
+      "content": "ミモリのためならいつでも大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무슨 일 때문에 그래?",
+      "content": "何かあったの？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "앗, 그, 그러신가요……?",
+      "content": "あっ、そ、そうなんですか……？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그렇게 말씀해주시니, 무척……. 기뻐요.",
+      "content": "そう言ってくださると、その……すごく嬉しいです。",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "앗, 그게 다름이 아니라.",
+      "content": "あっ、問題というわけではないのです。",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "후후, 이번에 백화점에서 사고 싶은 물건이 좀 있는데.",
+      "content": "ちょっと、百貨店で買いたいものがありまして。",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "선생님이 같이 가주셨으면 해서요.",
+      "content": "ぜひ先生と一緒に行ければと思ってご連絡したのですが……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "혹시……, 폐가 될까요?",
+      "content": "その、ご迷惑だったりしませんでしょうか……？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "절대로 아닙니다.",
+      "content": "そんなこと絶対ないよ",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "불러만 주십쇼.",
+      "content": "いつでも呼んで",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "네에. 알겠습니다.",
+      "content": "はいっ、ありがとうございます！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그럼 백화점 앞에서 기다리고 있을게요.",
+      "content": "それでは、百貨店の前でお待ちしておりますね。",
       "isFirst": false,
       "file": ""
     },
