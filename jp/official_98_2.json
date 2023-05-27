@@ -1,6 +1,6 @@
 [
   {
-    "title": "게으른 경찰의 순찰",
+    "title": "怠けがちな警察官のパトロール",
     "nickname": "Molru",
     "date": "2022-10-23 22:23:50",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "으으, 으으으…….",
+      "content": "……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "지난번 근무 시간에 농땡이를 부리다 걸린 건 때문에",
+      "content": "この間、勤務時間中にサボってたのがバレたせいで……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "벌충으로 주말의 순찰 업무를 떠안아 버렸어…….",
+      "content": "罰として週末のパトロール業務が……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "휴일에도 일을 해야 한다니…… 불합리해…….",
+      "content": "休日にも働かなきゃいけないなんて、何たる理不尽……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "자업자득이야.",
+      "content": "自業自得では……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "게다가 휴일에도 범죄는 벌어질 수 있으니까.",
+      "content": "まあ、休日にも犯罪は怒るかもしれないし。頑張って",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "말도 안 돼. 키보토스처럼 평화로운 도시가 어디 또 있다고?",
+      "content": "キヴォトスは基本平和なのに……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "기껏해야 학생들이 총격전을 벌이거나 가게가 폭파되는 게 고작이잖아.",
+      "content": "何かあったところで生徒たちの銃撃戦か、お店が爆破されられるくらいなのに……",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……고작?",
+      "content": "……平和？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "경찰이 그런 말을 하면 안 되지…….",
+      "content": "まあ色々あるし、そもそも警察がそれを言っちゃダメでは……",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "으으, 귀찮아…….",
+      "content": "めんどくさい……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "선생, 괜찮으면 이번 주말에 함께 시내 순찰을 나가지 않을래?",
+      "content": "こうなったら先生、今週末一緒にパトロールしない？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "둘이서 구역을 나누어서 순찰하면 일이 더 빨리 끝날 거야!",
+      "content": "二人で手分けしてやれば、すぐ終わるかも！？",
       "isFirst": false,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "벌충을 선생님에게 떠넘기지 마…….",
+      "content": "全然良いんだけど、罰を誰かに押し付けるのはどうなの……？",
       "isFirst": true,
       "file": ""
     },
