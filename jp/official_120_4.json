@@ -1,6 +1,6 @@
 [
   {
-    "title": "지금보다 더 많이(번역)",
+    "title": "今よりもっとたくさん",
     "nickname": "Molru",
     "date": "2022-10-27 02:33:27",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님",
+      "content": "こんにちは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "어젯밤에 폭우가 몰아쳤어.",
+      "content": "昨夜、大雨が降った",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "화단이 괜찮을까?",
+      "content": "花壇は大丈夫かな……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "확인하러 가고 싶은데 혼자서 가고 싶지가 않아.",
+      "content": "確認しに行きたいけど、一人じゃ不安",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "같이 가주지 않을래?",
+      "content": "一緒に、行ってくれる？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응. 알겠어.",
+      "content": "もちろん、喜んで",
       "isFirst": true,
       "file": ""
     },
