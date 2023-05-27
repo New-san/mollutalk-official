@@ -1,6 +1,6 @@
 [
   {
-    "title": "신부수행 Ⅰ : 가정요리 편",
+    "title": "花嫁修行その１：家庭料理編",
     "nickname": "Molru",
     "date": "2022-10-23 22:29:40",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "선생님, 저번에 이어 이번엔 가정 요리를 수행해볼까 해요.",
+      "content": "先生、前回に引き続き修行の一環として、今度は家庭料理を作ってみようと思います。",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "혹시 괜찮으시다면.",
+      "content": "それで、よろしければ……",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잠깐, 미모리의 가정 요리라고……?",
+      "content": "待って、ミモリが家庭料理を作る……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잠깐, 가정 요리를 만드는 미모리라고……?",
+      "content": "待って、家庭料理を作るミモリ……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "네? 그런…… 데요?",
+      "content": "え……？あ、はい。そう、ですが……？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그래서 수행을 도와주셨으면 하고 부탁을.",
+      "content": "それで、よろしければその修業をお手伝いしていただきたく……。",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "뭐, 어쩔 수 없네. 도와줄게.",
+      "content": "仕方ない、手伝うよ",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "전력을 다해! 도와줄게!",
+      "content": "全力で！手伝う！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "아, 네엣! 그, 그럼 부탁드리겠습니다……..",
+      "content": "あっ、はいっ！そ、それではよろしくお願いします……！",
       "isFirst": true,
       "file": ""
     },
