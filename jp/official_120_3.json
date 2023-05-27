@@ -1,6 +1,6 @@
 [
   {
-    "title": "거리의 화원(번역)",
+    "title": "街の花園",
     "nickname": "Molru",
     "date": "2022-10-27 02:32:24",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님. 좋은 아침.",
+      "content": "先生、おはよう",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "나 결심했어.",
+      "content": "私、決めた",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "꽃과 관계된 취미를 해볼까 해.",
+      "content": "お花を、趣味にしようと思う",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "꽃꽂이 같은 건가?",
+      "content": "なるほど。生け花とか？",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "동아리 활동 시작인가…….",
+      "content": "良いんじゃないかな",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "행운을 빌어줘. 선생님.",
+      "content": "応援よろしくね、先生",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아츠코가 좋아하는 꽃이 뭐야?",
+      "content": "うん。アツコは好きな花とかある？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응?",
+      "content": "……好きな花？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "좋아하는 꽃?",
+      "content": "うーん……",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응. 나 꽃이라면 뭐든 좋아하지만",
+      "content": "私、花なら何でも好き",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "수국도 좋고",
+      "content": "アジサイも好きだし",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "장미도 좋아해",
+      "content": "薔薇も好き",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "왜?",
+      "content": "なんで？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "알겠어.",
+      "content": "ううん、ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님.",
+      "content": "先生、今日はお疲れ様",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "오늘 수고했어.",
+      "content": "おかげで、たくさん植え替えることができた",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "잘 자랐으면 좋겠네.",
+      "content": "元気に育つといいね",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응. 그러게.",
+      "content": "うん。そうだね",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "그리고 고마워.",
+      "content": "それと、ありがとう",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "아무도 모르게 간직할 거니까.",
+      "content": "みんなには内緒で、大切にするね",
       "isFirst": true,
       "file": ""
     }
