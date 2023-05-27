@@ -1,6 +1,6 @@
 [
   {
-    "title": "폐허 속의 공주님(번역)",
+    "title": "廃墟の中のお姫様",
     "nickname": "Molru",
     "date": "2022-10-27 02:27:47",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님-",
+      "content": "先生、いる？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님 있어?",
+      "content": "今大丈夫？このトーク届いてる？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아츠코?",
+      "content": "アツコ？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응. 맞아. 좋은 아침.",
+      "content": "うん、そうだよ。おはよう",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋은 아침.",
+      "content": "おはよう",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "지금은 아침은 아니지만.",
+      "content": "もうそろそろ夜だけど、おはよう",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님도 알겠지만 우리는 지금 여기저기를 떠돌아다니고 있어.",
+      "content": "私たち、今あっちこっちを転々としてて",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "한곳에 오래 있으면 안 되니까.",
+      "content": "一つの場所に長居しちゃいけないから",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "게다가 다들 제각각 흩어져 있는 시간도 많아서",
+      "content": "それと、みんなバラバラでいる事が多くて",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "혼자 있으면 심심해.",
+      "content": "一人でいると、退屈なの",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "그러니까 선생님을 만나려면 ",
+      "content": "だから先生に会うには",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님이 여기로 와야 해.",
+      "content": "先生がこっちに来てくれないと難しい",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "요컨대, 심심하니까 만나자는 거지……?",
+      "content": "要するに、退屈だから会おうって捉え方で良い……？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "응.",
+      "content": "うん",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "정확해.",
+      "content": "その通り",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "그럼 조금 이따가 봐.",
+      "content": "じゃあ、後で",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "선생님. ",
+      "content": "先生、こんばんは",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "여기를 떠나기로 했어. ",
+      "content": "今からここを離れることになったよ",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 125, "index": 1 },
-      "content": "그럼 다음에 봐. 위치가 바뀌면 또 연락할게. ",
+      "content": "じゃあ、また。場所が変わったら連絡する",
       "isFirst": false,
       "file": ""
     }
