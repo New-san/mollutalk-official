@@ -1,6 +1,6 @@
 [
   {
-    "title": "소녀가 여름을 즐기는 방법",
+    "title": "イズミと夏を楽しむ幾つかの方法",
     "nickname": "Molru",
     "date": "2022-10-23 18:23:23",
     "replyNo": 8,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "선생님! 이벤트야!",
+      "content": "先生！夏だよ！夏！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "이벤트 음식을 먹으러 가야 해!",
+      "content": "夏なんだから、夏っぽい料理を食べに行かないと！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 이벤트 음식……?",
+      "content": "突然の料理イベント……？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이즈미가 먹으러 가자면 가야지!",
+      "content": "うん、行こう！仕事してばっかりで疲れた！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "응! 이벤트 음식이 우리를 부르고 있어! 선생님!",
+      "content": "うん！料理イベントが私たちを呼んでるよ、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,27 @@
       "replyGroup": 2,
       "replyDepth": 1,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……으, 응?",
+      "content": "料理イベントって何をするの？",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "chat",
+      "replyNo": 0,
+      "replyGroup": 0,
+      "replyDepth": 2,
+      "sCharacter": { "no": 15, "index": 3 },
+      "content": "そうそう、忙しい時ほど食事は大切だよ！",
+      "isFirst": true,
+      "file": ""
+    },
+    {
+      "type": "reply",
+      "replyNo": 7,
+      "replyGroup": 6,
+      "replyDepth": 2,
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "そうだね。ところでどこか行きたいところとかあるの？",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "이번에 말이야~",
+      "content": "うん、やっぱりまずは……！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "여름을 맞이해서 특별한 이벤트를 시작한 바다의 집이 있대!",
+      "content": "海の家に行こうと思うの！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +114,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "바다의 집이라, 여름의 풍류구나~",
+      "content": "良いね、まさに定番って感じ",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "그치 그치?!",
+      "content": "だよね！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "게다가 이게 또!",
+      "content": "それに、どうやら普通の海の家じゃないんだって！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "그 게임에서 이기기만 하면 각종 상품을, 음식을 준다는 거 있지?!",
+      "content": "なんと、あるゲームに勝てば、賞品としてそこの珍味を無料で食べられるとか！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +154,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그건 확실히 구미가 당기네.",
+      "content": "へえ、ちょっと燃えてきたかも！",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "그럼 결정!",
+      "content": "もうこんなの行くしかないよね！",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "이따가 바다의 집에서 보자, 선생님!",
+      "content": "じゃあ、お店の前で待ち合わせってことで！また後でね、先生！",
       "isFirst": false,
       "file": ""
     },
@@ -166,26 +186,6 @@
       "sCharacter": { "no": 15, "index": 3 },
       "content": "",
       "isFirst": false,
-      "file": ""
-    },
-    {
-      "type": "chat",
-      "replyNo": 0,
-      "replyGroup": 0,
-      "replyDepth": 2,
-      "sCharacter": { "no": 15, "index": 3 },
-      "content": "바로 승낙해주다니, 역시 선생님이야!",
-      "isFirst": true,
-      "file": ""
-    },
-    {
-      "type": "reply",
-      "replyNo": 7,
-      "replyGroup": 6,
-      "replyDepth": 2,
-      "sCharacter": { "no": 0, "index": 1 },
-      "content": "그래서 뭘 먹으러 가려고?",
-      "isFirst": true,
       "file": ""
     }
   ]
