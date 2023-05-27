@@ -1,6 +1,6 @@
 [
   {
-    "title": "새해에는 새해다운 일을!",
+    "title": "正月には正月らしく！",
     "nickname": "Molru",
     "date": "2022-10-23 21:06:28",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "선생님, 혹시 소원 같은 거 있어?",
+      "content": "先生って、新年のお願いごともう決めた？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "당연히 있지!",
+      "content": "もちろん！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음, 딱히 없어.",
+      "content": "そういえばまだ……",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "아하~ 역시 그렇구나.",
+      "content": "あはは～、やっぱりそうなんだ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "응, 하긴 평범하게 생각하면 소원 한둘쯤은 가지고 있을 테니까~",
+      "content": "先生だってお願いごとの一つや二つはあるよね～",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "어라~? 그래?",
+      "content": "あ、そうなんだ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "흐응~ 뭐, 상관은 없지만!",
+      "content": "まあ、今からゆっくり決めれば良いんじゃない？",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "그럼 가자! 선생님! 소원 빌러!",
+      "content": "とりあえず先生、行こう！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 갑자기 무슨 뜻이야?",
+      "content": "えっと、どこに？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "모처럼의 새해잖아?",
+      "content": "せっかくお正月なんだから決まってるでしょ？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "기왕이면 거기에 맞춘 이벤트를 즐길 필요가 있다구?",
+      "content": "正月なんだから、正月らしいところに行かないと！",
       "isFirst": false,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "자, 그러니 집합이야! 선생님!",
+      "content": "ほらほら、早く準備して！先生！",
       "isFirst": true,
       "file": ""
     },
