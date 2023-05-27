@@ -1,6 +1,6 @@
 [
   {
-    "title": "스카잔을 입는 이유(번역)",
+    "title": "スカジャンの理由",
     "nickname": "Molru",
     "date": "2023-01-25 04:11:13",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "아",
+      "content": "よっ、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "심심하다",
+      "content": "暇なんだけどよ",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "선생, 지금 뭐해?",
+      "content": "今なにしてんだ？",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아무것도 안하고 있는데",
+      "content": "何もしてないよ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그러는 네루도 오늘 한가한가 보네",
+      "content": "私も暇してる",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "ㅋ",
+      "content": "ははっ",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "뭐",
+      "content": "そうか",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "그럼 모처럼의 휴일이니까",
+      "content": "……おし、暇なんだな？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "시간 괜찮으면 지금 나올래?",
+      "content": "せっかく休みなんだからよ",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "피차 할 거 없으면, 얼굴이나 좀 보게",
+      "content": "やることもないんだったら、ミレニアムまで来てくれ",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "아",
+      "content": "そういえば",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "그러고 보니 선생, 아까 전에도 했던 말인데",
+      "content": "さっきの続きだけどよ",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "스카잔 말이야",
+      "content": "あ、スカジャンのことな",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "필요하면 언제든 말해. 구해줄 테니까",
+      "content": "もし欲しくなったらいつでも言ってくれ",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "알았지?",
+      "content": "あたしが探してやるからよ",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "세트로 입는 거야?",
+      "content": "お揃いとかどう？",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "쓰",
+      "content": "ばっ",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 35, "index": 1 },
-      "content": "쓸 데 없는 소리 하지 마!!",
+      "content": "変なこと言うんじゃねぇ！！",
       "isFirst": true,
       "file": ""
     }
