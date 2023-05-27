@@ -1,6 +1,6 @@
 [
   {
-    "title": "4.아직도 소중히 여기는 것",
+    "title": "ずっと大切なもの",
     "nickname": "Mollu",
     "date": "2023-05-10 21:55:09",
     "replyNo": 5,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "선생님….",
+      "content": "先生",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 7,
         "index": 3
       },
-      "content": "그, ……오늘 시간 괜찮을까?",
+      "content": "その、時間大丈夫？",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "응, 물론이지!",
+      "content": "うん、もちろん！",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "그래? 다행이다……",
+      "content": "本当？なら良かった",
       "replyDepth": 1,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,12 +65,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "히나가 부른다면 괜찮지 않아도 괜찮아!",
+      "content": "ヒナの連絡なら、大丈夫じゃなくても大丈夫だよ！",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "으응? 저기, 선생님. 무슨 소리인지 잘 모르겠어.",
+      "content": "？先生、あの。どっち……？",
       "replyDepth": 2,
       "replyNo": 0,
       "replyGroup": 0,
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "그래서 히나, 어떤 일 때문에 그래?",
+      "content": "何かあったの？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "아, 그게…… 다른 게 아니라……",
+      "content": "あ、その……大したことじゃない、んだけど……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "선생님만 괜찮다면… 수영을, 배워보고 싶다고……",
+      "content": "もし、よかったら……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -118,7 +118,7 @@
     },
     {
       "type": "chat",
-      "content": "조금 생각을……",
+      "content": "水泳を、教えてほしくて……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -137,12 +137,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "그거라면 완전 환영이야! 지금 바로 갈게!",
+      "content": "うん、もちろんだよ。急いで向かうね。",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "응? 선생님? 저기, 나, 자세한 이야기를 아직……",
+      "content": "先生？ちょっと、まだ詳しい話を……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -161,7 +161,7 @@
         "no": 7,
         "index": 3
       },
-      "content": "저기……? 선생님?",
+      "content": "あの……？先生？",
       "isFirst": true
     },
     {
