@@ -1,6 +1,6 @@
 [
   {
-    "title": "토끼 꼬리 소동(번역)",
+    "title": "しっぽ大騒動",
     "nickname": "Molru",
     "date": "2023-01-25 04:01:52",
     "replyNo": 6,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "주인님, 주인님!",
+      "content": "ご主人様ーー！！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "혹시 오늘 바빠? 놀 수 있는 시간 있을까?",
+      "content": "今日は忙しい感じ？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "딱히 바쁘진 않지만…….",
+      "content": "全然大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "응응, 좋아!",
+      "content": "やった！！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그럼 결정!",
+      "content": "じゃあ決まり！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "음? 무슨 일이야?",
+      "content": "何かあったの？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그건 조금 있다가 말해 줄게!",
+      "content": "それは直接教えてあげる",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 2,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "응! 만나서!!",
+      "content": "会いにきてね！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "?????",
+      "content": "？？？",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아스나??",
+      "content": "アスナ？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "아하하하하!",
+      "content": "ご主人様！",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "오늘도 엄청 재미있었어, 주인님!",
+      "content": "今日もすっごく楽しかったよ！",
       "isFirst": true,
       "file": ""
     },
@@ -144,17 +144,17 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "정말이지 만날 때마다 새로운 걸 보여주는 주인님이라니까.",
+      "content": "ご主人様と会えると、本当に毎回楽しいなぁ",
       "isFirst": false,
       "file": ""
     },
     {
-      "type": "chat",
-      "replyNo": 0,
+      "type": "reply",
+      "replyNo": 6,
+      "replyGroup": 5,
       "replyDepth": 0,
-      "replyGroup": 0,
-      "sCharacter": { "no": 36, "index": 3 },
-      "content": "가끔은 늘 보던 걸 보고 싶어",
+      "sCharacter": { "no": 0, "index": 1 },
+      "content": "たびたび心臓も痛いけどね……そろそろ慣れたいかな",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아스나가 즐겁다면 다행이지만…….",
+      "content": "アスナが楽しかったなら良かった",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "아하하하!!",
+      "content": "あはは！！",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그럼 늘 보는 게 되기 위해",
+      "content": "じゃあそのためにもやっぱり",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "아스나가 매일 주인님을 찾아가야겠네?",
+      "content": "アスナはこれから毎日、ご主人様に会いに行くね？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "응응!",
+      "content": "うん、決まり！",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "아스나는 하루하루가 기대돼서 주인님과 노는 걸 포기할 수 없습니다!",
+      "content": "そしたら、毎日が楽しくなるはずだから！",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "앞으로도 아스나랑 계속 놀아줄 거지?",
+      "content": "これからも、アスナと遊んでくれるよね？",
       "isFirst": false,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 36, "index": 3 },
-      "content": "그럼 내일 또 봐, 주인님!!",
+      "content": "じゃあ明日もよろしく、ご主人様！！",
       "isFirst": true,
       "file": ""
     }
