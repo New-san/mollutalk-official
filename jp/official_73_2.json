@@ -1,6 +1,6 @@
 [
   {
-    "title": "소녀의 비법 재료",
+    "title": "イズミと秘密の材料",
     "nickname": "Molru",
     "date": "2022-10-23 18:24:55",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "선생님! 기왕 해변으로 찾아온 만큼.",
+      "content": "ねえ先生。せっかくの夏だし、私……",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "더 많은 여름 별미가 먹고 싶어!",
+      "content": "もっともっと夏の珍味を食べたい！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "확실히, 여름 별미는 각별하지.",
+      "content": "たしかに、季節ものはそのシーズンの内に食べておきたいよね",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "하지만, 나 깨달았어. 선생님…….",
+      "content": "でも気づいたの、先生",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "별미란 기다린다고 찾아와주지 않아!",
+      "content": "珍味は待ってても、来てくれないって！",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "과연 미식연구회의 부원!",
+      "content": "さすが美食研究会の部員だね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "먼저 행동한다는 거구나!",
+      "content": "確かに、足が生えたりしないもんね。……普通は",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "응! 멍-하니 입을 벌리고 있어 봤자 먹을 수 있는 건",
+      "content": "うん！ただぼーっと口を開けて待ってても、食べ物はやってこないからね！",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "선생님이 먹여주는 감자칩 뿐이니까!",
+      "content": "先生がすぐ横で、ポテチを食べさせてくれない限りは！",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어?! 그건 확정인 거야?!",
+      "content": "え、それは暗にやってってこと……？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "자아! 그럼 여름 별미를 찾으러 가자!",
+      "content": "ポテチはまた今度として……さあ、夏の珍味を探しに行こう！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "우리 여름여름맛집콤비가 나설 차례야!",
+      "content": "私たち、常夏グルメコンビの出番だよ！",
       "isFirst": false,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "여름여름……?",
+      "content": "え、いつのまに……？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……맛집콤비?",
+      "content": "常夏グルメコンビ……？",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 15, "index": 3 },
-      "content": "기다리고 있을게!",
+      "content": "あの場所で待ってるね！",
       "isFirst": true,
       "file": ""
     },
