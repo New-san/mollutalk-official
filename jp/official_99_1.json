@@ -1,6 +1,6 @@
 [
   {
-    "title": "아침이에요. 일어나세요.",
+    "title": "朝ですよ、起きてください？",
     "nickname": "Molru",
     "date": "2022-10-23 22:28:41",
     "replyNo": 9,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "선생님, 이야기를 들었답니다.",
+      "content": "先生、聞きましたよ。",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "최근 업무로 무척 바쁘시다면서요……?",
+      "content": "先生が最近お仕事でとてもお忙しい、と。",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "잠도 제대로 못 주무시는 바람에, 어제도 샬레에 지각하셨다고 들었는데.",
+      "content": "きちんと睡眠が取れていなくって、昨日もシャーレに遅刻してしまうほどだと伺いましたが、",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "진짜인가요?",
+      "content": "そんなにお忙しくされているのですか……？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "가끔 그래, 가끔.",
+      "content": "たまにだよ、たまに",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그 정도까지는 아니고…….",
+      "content": "ある程度は寝られてる、はず……",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그렇군요……. 잘 알겠습니다.",
+      "content": "そうですか……分かりました。",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "이건 중대한 문제…….",
+      "content": "これは由々しき事態です……。",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "수행부 부원인 제가 나설 수밖에 없겠군요.",
+      "content": "修行部の部員である私が、何とかしないといけませんね。",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응? 무슨 뜻이야?",
+      "content": "ん？どういうこと？",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기, 미모리 씨?",
+      "content": "あの、ミモリさん？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "오늘은 지각하지 않고 출근 잘하셨나요?",
+      "content": "あの後、きちんと間に合いましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "오늘 고마웠어. 미모리. 하지만 어째서 오늘 미모리가 찾아온 거야……?",
+      "content": "今日はありがとう。でも、どうしてミモリが……？",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "네?",
+      "content": "それはですね……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그야 저 미모리. 요조숙녀를 목표로 정진하는 수행부 소속의 수행부원.",
+      "content": "私が、大和撫子を目標として精進を重ねる、修行部の部員だからです。",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "당연히 오늘은 선생님을 돕기 위해 찾아온 거랍니다.",
+      "content": "そしてその一環として、今日は先生を手伝いにお伺いしました。",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "앞으로도 곤란하시면 언제든지 말씀만 해주세요!",
+      "content": "これからも困った時は、いつでもお申し付けください！",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "얼마든지 도와드릴 수 있으니까요.",
+      "content": "いつでも、何なりと。お呼びいただけたら、すぐに参りますので。",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "수행의 일환으로!",
+      "content": "理想の大和撫子になってみせますので……！",
       "isFirst": false,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 5,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "으, 응. 고마워.",
+      "content": "そ、そっか。ありがとう",
       "isFirst": true,
       "file": ""
     },
@@ -224,7 +224,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "아, 혹시 밤에 잠을 못 주무시겠다면, 제가 재워드릴까요?",
+      "content": "あっ、もし眠れないようでしたら、私が寝かしつけで添い寝に参りましょうか？",
       "isFirst": true,
       "file": ""
     },
@@ -234,7 +234,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아니, 됐습니다!",
+      "content": "いや、いいから！",
       "isFirst": true,
       "file": ""
     },
@@ -244,7 +244,7 @@
       "replyGroup": 6,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그것까진 해주지 않아도 괜찮아……!",
+      "content": "そ、そこまでは大丈夫！",
       "isFirst": false,
       "file": ""
     },
@@ -254,7 +254,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "후훗~♪ 쑥스러워하지 않으셔도 된다구요?",
+      "content": "照れなくても良いんですよ？ふふっ♪",
       "isFirst": true,
       "file": ""
     }
