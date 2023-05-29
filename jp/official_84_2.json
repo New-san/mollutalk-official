@@ -1,6 +1,6 @@
 [
   {
-    "title": "당신을 위한 기도",
+    "title": "あなたのために祈りを",
     "nickname": "Molru",
     "date": "2022-10-23 19:45:46",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "선생님, 오늘 하루는 평안하셨나요?",
+      "content": "先生、いかがお過ごしですか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "실은 일전에 있었던 일이 아직 마음에 남아서요…….",
+      "content": "先日の怪我は、もう治られましたか……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "마리가 마음에 둘 일은 아니잖아.",
+      "content": "マリーは心配しなくても大丈夫だよ",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이전 일이……? 장식물 떨어진 거?",
+      "content": "うん、全然大丈夫だよ。気にしないで",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 1,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아뇨.",
+      "content": "いいえ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "시스터가 될 사람으로서, 그냥 넘어갈 수는 없지요.",
+      "content": "これからシスターになろうというのに、こういったことをただただ見過ごすなんてわけには",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "선생님의 안위도 앞으로는 제가 함께 기원토록 하겠습니다.",
+      "content": "今後はこのようなことが起こらないよう、祈らないとです……",
       "isFirst": false,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "……으음.",
+      "content": "そういえば",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그러고 보니 마침 오늘은 성당에도 다른 일정들이 없는 날이네요.",
+      "content": "今日はちょうど、大聖堂では何の用事もない日でして",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "혹시 선생님께서만 괜찮으시다면……",
+      "content": "もし先生がよろしければ……",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "잘 들어가셨나요, 선생님?",
+      "content": "無事に帰られましたか、先生？",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "오늘은 선생님께서 와 주신 덕분에, 저도 마음이 많이 편해졌답니다",
+      "content": "今日は先生に来ていただいたおかげで、私も心が安らぎました",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "역시, 선생님을 위한다고는 했지만 사실 저를 위한 기도였을지도 모르겠네요.",
+      "content": "やはり先生のためと言いつつ、自分のためにもなっていたようです",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "……사실 정말 그런 마음이었다면, 불순한 동기가 될 테니 걱정이지만 말이에요.",
+      "content": "……何だか心配ですね。そう思うと先生のことを考えるのが、何だか不純な動機になってしまいそうで",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "불순한 동기는 아니라고 생각해.",
+      "content": "多分大丈夫じゃないかな……？",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "고마워. 덕분에 편해졌어.",
+      "content": "マリーの祈りのおかげで私も楽になったよ",
       "isFirst": false,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "정말이신가요?",
+      "content": "ふふっ、それでしたら何よりです",
       "isFirst": true,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "다행입니다. 정말로 기쁘네요.",
+      "content": "そう言っていただけると嬉しいですね",
       "isFirst": false,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그럼",
+      "content": "それでは、先生",
       "isFirst": true,
       "file": ""
     },
@@ -214,7 +214,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "다음에 또 뵙겠습니다, 선생님.",
+      "content": "また今度お会いしましょう",
       "isFirst": false,
       "file": ""
     }
