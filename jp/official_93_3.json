@@ -1,6 +1,6 @@
 [
   {
-    "title": "격렬하게 둘이서 하네츠키!",
+    "title": "激しい戦い",
     "nickname": "Molru",
     "date": "2022-10-23 21:07:31",
     "replyNo": 2,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "선생님! 엄청나게 하네츠키가 하고 싶어졌어!",
+      "content": "先生！羽つきしよっ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 하네츠키를……?",
+      "content": "いきなりだね……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "지난번의 패배를, 하네츠키로 설욕해 줄 테니까!",
+      "content": "この前の敗北の屈辱、思いっきり晴らしちゃうから！",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "선생님, 그럼 승부야!",
+      "content": "さー、尋常に勝負！",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "기다리고 있을게!",
+      "content": "待ってるからね！早く早く！",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "이번 새해에도, 선생님과 함께해서 엄청 재미있었어.",
+      "content": "先生のおかげでお正月、すっごい楽しかった！ありがとね！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "새해에도, 그리고 앞으로도.",
+      "content": "これから先もずっと",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "나랑 잔뜩 놀아줘야 해? 선생님♡",
+      "content": "私とたーっくさん遊んでね、先生♡",
       "isFirst": false,
       "file": ""
     }
