@@ -1,6 +1,6 @@
 [
   {
-    "title": "자신이 바라는 것",
+    "title": "私の望み",
     "nickname": "Molru",
     "date": "2022-10-23 19:50:00",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "안녕하세요, 선생님.",
+      "content": "おはようございます、先生",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "혹시……. 시간 괜찮으신가요? 방해가 되지는 않았을까요?",
+      "content": "その、今お時間よろしいでしょうか……？",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그럴 리가. 무슨 일이야?",
+      "content": "どうしたの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "방해라니 당치도 않지.",
+      "content": "全然大丈夫だよ",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "정말 다행이네요.",
+      "content": "ありがとうございます",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그",
+      "content": "その、えっと……",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "음 죄송해요. 이런 데에 익숙하지 않아서…….",
+      "content": "すみません、何と言えば良いものか……こういうのには、慣れていなくって……",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "혹시 선생님께서 괜찮으시다면, 만날 수 있는 날을 잡아도 될까 해서 여쭤봤던 거예요",
+      "content": "もしよろしければ、どこかでお会いしてお話してもよろしいですか？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아, 나쁜 일이나 고민 같은 건 아니에요. 혹시라도 걱정하실까 봐…….",
+      "content": "あ、その、何か事件があったですとか、暗い悩みとかではありません。念のため……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "괜찮으시다니 다행이에요. 그리고 감사해요.",
+      "content": "それでは、お時間などは後ほどお送りしますので",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그럼 그때 뵙겠습니다, 선생님.",
+      "content": "よろしくお願いいたします",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "선생님. 오늘 일은 정말로 감사했습니다.",
+      "content": "先生、今日はありがとうございました",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "어떻게 생각하실지 모르겠지만, 저는 정말로 기뻤답니다.",
+      "content": "本当に、嬉しかったです",
       "isFirst": false,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "앞으로도 종종 이런 느낌으로 연락드리게 될지도……",
+      "content": "これからも時々ご連絡させていｔだくかもしれませんが……",
       "isFirst": true,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아무쪼록 그 때도 잘 부탁드리겠습니다. 그럼, 오늘은 이만 줄일게요.",
+      "content": "どうぞ、よろしくお願いいたします。それでは、また",
       "isFirst": false,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "선생님",
+      "content": "先生",
       "isFirst": true,
       "file": ""
     },
@@ -184,7 +184,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "……그냥 한번 불러봤어요.",
+      "content": "……呼んでみただけ、です",
       "isFirst": true,
       "file": ""
     }
