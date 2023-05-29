@@ -1,6 +1,6 @@
 [
   {
-    "title": "여름 한정 페로로 굿즈!",
+    "title": "夏限定のペロロ様グッズ",
     "nickname": "Molru",
     "date": "2022-10-23 18:15:50",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "선생님, 점심 식사하셨나요?",
+      "content": "先生、もうお昼は食べましたか？",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "아직 안 먹었어.",
+      "content": "ううん、まだこれから",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "마침 잘 되었네요. 저도 지금부터 식사하려던 참이었거든요.",
+      "content": "そうでしたか！私、今からちょうどご飯を食べに行こうかなと思ってまして",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "이 앞의 바다의 집에서 맛있는 야키소바를 판다고 하던데…….",
+      "content": "近くの海の家で、美味しい焼きそばを売ってると聞いたんですが……",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "괜찮으시다면 바다의 집에서 같이 식사하지 않으시겠어요?",
+      "content": "よろしければ、先生も一緒にいかがですか？",
       "isFirst": false,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아. 같이 점심을 먹자.",
+      "content": "焼きそば良いね、行こう！",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "네, 그럼 잠시 후에 바다의 집 앞에서 뵐게요!",
+      "content": "では、海の家の前で待ってますね！",
       "isFirst": true,
       "file": ""
     },
