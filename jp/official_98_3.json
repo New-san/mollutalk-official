@@ -1,6 +1,6 @@
 [
   {
-    "title": "게으른 경찰의 잠복근무",
+    "title": "怠けがちな警察官の張り込み",
     "nickname": "Molru",
     "date": "2022-10-23 22:25:07",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "선생, 사건이야!",
+      "content": "先生、事件だよ！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "경비국에서 내려온 첩보에 의하면 불법 무기 거래를 일삼는 지명수배자가 오늘 블랙마켓에 나타날지도 모른대!",
+      "content": "警備局からの情報によると、不法な武器の取引に明け暮れる指名手配犯が、今日ブラックマーケットに現れるかもしれないんだって！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "범죄자가 언제 지나갈지는 알 수 없으니까, 아무래도 근처에서 잠복근무를 해야 할 것 같아.",
+      "content": "犯罪者がいつ通るかは分からないから、周辺で張り込みした方が良さそう",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "지금 바로 출동하자!",
+      "content": "今すぐ出動しよう！",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "……후부키?",
+      "content": "……フブキ？",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "갑자기 왜 그래? 어디 아파?",
+      "content": "もしかして、どこか具合でも悪い？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "그게 무슨 반응이야, 선생.",
+      "content": "何その反応",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "경찰이 사건에 의욕적으로 반응하는 게 뭐가 이상해?",
+      "content": "警察が事件に意欲的で、何かおかしい？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "하지만, 후부키 너……",
+      "content": "でもフブキ……",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "외근 업무는 질색하는 거 아니었어?",
+      "content": "張り込みとか嫌いなんじゃないの？",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "더 길게 이야기할 시간도 없어!",
+      "content": "こうしてる場合じゃない！",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 115, "index": 1 },
-      "content": "선생, 나는 먼저 현장에 출동해서 기다리고 있을게!",
+      "content": "先生、私は先に現場に出動して待ってるから！",
       "isFirst": false,
       "file": ""
     },
