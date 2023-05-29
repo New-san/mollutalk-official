@@ -1,6 +1,6 @@
 [
   {
-    "title": "훌륭한 시스터",
+    "title": "立派なシスター",
     "nickname": "Molru",
     "date": "2022-10-23 19:43:41",
     "replyNo": 5,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "오늘도 평화와 안녕이 그대와 함께하기를.",
+      "content": "今日も平和と安寧が、みなさんと共にありますように",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "고뇌하는 일이 있으시다면, 더 늦기 전에 시스터를 찾아와주세요.",
+      "content": "何か悩みごとなどがありましたら、いつでも私たちの元をお訪ねください",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "찾아오기 힘드신 분은 말씀해 주시면 찾아가겠습니다.",
+      "content": "お越しになれない方の元へは、私たちの方からお伺いしますので。ぜひお気軽にお申し付けください",
       "isFirst": false,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "……",
+      "content": "あ",
       "isFirst": true,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아",
+      "content": "ご、ごめんなさい……",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "죄송해요. 잘못 보내고 말았네요.",
+      "content": "間違って、先生に送ってしまいました",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "내가 찾아가도 괜찮아?",
+      "content": "これ、私が行っても大丈夫？",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "학생이 아니라도 상관없는 거야?",
+      "content": "学生以外でもいいの？",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "아",
+      "content": "あ、はい",
       "isFirst": true,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "그럼요. 물론이지요",
+      "content": "もちろんです",
       "isFirst": false,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "기쁜 마음으로 기다리고 있겠습니다.",
+      "content": "そういうことでしたら、楽しみにお待ちしておりますね",
       "isFirst": true,
       "file": ""
     },
@@ -134,7 +134,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "괜찮으신가요, 선생님?",
+      "content": "先生、あれからお変わりありませんか？",
       "isFirst": true,
       "file": ""
     },
@@ -144,7 +144,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "갑자기 장식물이 떨어져서 놀랐습니다…….",
+      "content": "急に装飾物が落ちるだなんて……びっくりしましたね",
       "isFirst": true,
       "file": ""
     },
@@ -154,7 +154,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "혹시라도 몸에 이상이 남으셨다면 말씀해 주세요. 같이 병원이라도…….",
+      "content": "もしどこかが傷んだりするようでしたら、いつでも仰ってくださいね。それか、やはり今からでも一緒に病院に……",
       "isFirst": false,
       "file": ""
     },
@@ -164,7 +164,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "괜찮아. 평범한 천벌이었어.",
+      "content": "大丈夫、心配させてごめんね。やっぱりよく見てるのかも",
       "isFirst": true,
       "file": ""
     },
@@ -174,7 +174,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "이 정도로 포기할 거라 생각 마라.",
+      "content": "この程度で諦めたりしないからね",
       "isFirst": false,
       "file": ""
     },
@@ -194,7 +194,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "?",
+      "content": "？",
       "isFirst": true,
       "file": ""
     },
@@ -204,7 +204,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 74, "index": 1 },
-      "content": "네……?",
+      "content": "えっと……？",
       "isFirst": false,
       "file": ""
     }
