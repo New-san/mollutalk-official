@@ -1,6 +1,6 @@
 [
   {
-    "title": "신부수행 Ⅱ : 청소 편",
+    "title": "花嫁修行その２：お掃除編",
     "nickname": "Molru",
     "date": "2022-10-23 22:30:36",
     "replyNo": 3,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "이번에 수행부 활동의 일환으로 청소 봉사활동을 가게 되었어요.",
+      "content": "修行部の活動で今度、お掃除のボランティアに行くことになりました。",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "미모리는 늘 수행에 열심이네.",
+      "content": "ミモリはいつも色んなことに一生懸命だね",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "네, 요리 다음엔 청소.",
+      "content": "ふふっ、ありがとうございます。料理の次は、お掃除。",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "이런 식으로 매일 같이 더욱더 멋진 요조숙녀가 되기 위해 정진하고 있답니다.",
+      "content": "これらも立派な大和撫子に、そして素敵な花嫁になるための修行ですので。",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "그래서 말이지요. 선생님.",
+      "content": "そこでなのですが……。",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "혹시 실례가 아니라면 이번 봉사활동을 도와주실 수 있으실까요?",
+      "content": "もしよろしければ先生も、そのお手伝いをしていただけませんか？",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런 일이라면 당연히 도와줘야지.",
+      "content": "うん、もちろん",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 86, "index": 1 },
-      "content": "네, 그럼 도움, 감사히 받들겠사옵니다♪",
+      "content": "ありがとうございます、ではよろしくお願いしますね♪",
       "isFirst": true,
       "file": ""
     },
