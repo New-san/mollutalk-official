@@ -1,6 +1,6 @@
 [
   {
-    "title": "비품은 사용 후 깨끗이 제자리에",
+    "title": "備品は使用後、綺麗にして元の位置へ",
     "nickname": "Molru",
     "date": "2022-10-23 18:14:56",
     "replyNo": 4,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "선생님, 밖에 좀 보세요!",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "구름 한 점 없이 볕이 드는 게 날씨가 아주 맑아요!",
+      "content": "雲一つ無くて、すっごく良い天気ですよ！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "이런 날 해변에서 일광욕하면 분명 기분 좋을 거예요~",
+      "content": "せっかくこんなに晴れてますし",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "괜찮으시면 일광욕을 하러 같이 해변에 나가지 않으시겠어요?",
+      "content": "一緒に日光浴なんていかがですか？",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "좋아. 같이 나가자.",
+      "content": "良いね、ぜひぜひ",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "그런데 일광욕을 하려면 장비가 필요하지 않을까?",
+      "content": "そうとなったら、色々と準備しないとね",
       "isFirst": true,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "괜찮아요. ヾ(•ω•`)o",
+      "content": "そこはお任せください！ヾ(•ω•`)o",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 65, "index": 4 },
-      "content": "저희에게 해수욕 장비는 없어도 전차는 있으니까요!",
+      "content": "今の私たちには、クルセイダーちゃんがありますので！",
       "isFirst": false,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "전차로 무얼 어쩌려고?!",
+      "content": "戦車で何をどうする気！？",
       "isFirst": true,
       "file": ""
     },
