@@ -1,6 +1,6 @@
 [
   {
-    "title": "선생님을 위한 새해 선",
+    "title": "先生のためにプレゼント",
     "nickname": "Molru",
     "date": "2022-10-23 21:05:17",
     "replyNo": 7,
@@ -14,7 +14,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "선생님~ 선생님~",
+      "content": "先生！",
       "isFirst": true,
       "file": ""
     },
@@ -24,7 +24,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "새해 복 많이 받아~!",
+      "content": "あらためて、明けましておめでとー！",
       "isFirst": true,
       "file": ""
     },
@@ -34,7 +34,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "어, 벌써…. 새해인가?",
+      "content": "え、もう……新年なの？",
       "isFirst": true,
       "file": ""
     },
@@ -44,7 +44,7 @@
       "replyGroup": 1,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응…. 무츠키도 새해 복 많이 받아.",
+      "content": "うん……ムツキも明けましておめでとう",
       "isFirst": false,
       "file": ""
     },
@@ -54,7 +54,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "흐응, 뭐야~ 선생님의 반응, 재미없어~",
+      "content": "えー、何その先生のリアクション。つまんな～い",
       "isFirst": true,
       "file": ""
     },
@@ -64,7 +64,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "뭐, 그런 평소에도 흐느적흐느적하는 선생님이라도 불타오를 수 있도록.",
+      "content": "しょうがないなぁ……そんなふにゃふにゃな先生でも一気に燃え上がるような",
       "isFirst": false,
       "file": ""
     },
@@ -74,7 +74,7 @@
       "replyDepth": 0,
       "replyGroup": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "내가 또 엄청난 걸 준비했지만 말이야!",
+      "content": "「ものすごく楽しいこと」を用意してあげる！",
       "isFirst": true,
       "file": ""
     },
@@ -84,7 +84,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "흐느적흐느적…?",
+      "content": "ムツキが用意した……？",
       "isFirst": true,
       "file": ""
     },
@@ -94,7 +94,7 @@
       "replyGroup": 2,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "무츠키가 준비한, 거?",
+      "content": "「ものすごく楽しいこと」……？",
       "isFirst": false,
       "file": ""
     },
@@ -104,7 +104,7 @@
       "replyGroup": 0,
       "replyDepth": 0,
       "sCharacter": { "no": 11, "index": 3 },
-      "content": "그럼 잔뜩 기대하고 있어~ 선생님!",
+      "content": "じゃあ楽しみにしててね、先生！",
       "isFirst": true,
       "file": ""
     },
@@ -114,7 +114,7 @@
       "replyGroup": 3,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "응…? 무츠키?",
+      "content": "え、えっ……？",
       "isFirst": true,
       "file": ""
     },
@@ -124,7 +124,7 @@
       "replyGroup": 4,
       "replyDepth": 0,
       "sCharacter": { "no": 0, "index": 1 },
-      "content": "저기요…?",
+      "content": "ムツキ……？",
       "isFirst": true,
       "file": ""
     },
