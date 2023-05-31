@@ -1,6 +1,6 @@
 [
   {
-    "title": "시간이 지나도",
+    "title": "時が経てども",
     "nickname": "Mollu",
     "date": "2023-05-24 20:44:40",
     "replyNo": 4,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "혹시 오늘 현룡문에 올 예정이 있다면, 다음으로 미뤄 주길 바란다.",
+      "content": "今日は玄龍門に来てもらう予定だったが、別の日に頼めないか？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 184,
         "index": 1
       },
-      "content": "오늘은 매화원에 방문하기로 되어 있는 날이라서.",
+      "content": "突然すまない、梅花園に行くことになってな",
       "isFirst": true
     },
     {
@@ -41,7 +41,7 @@
         "no": 0,
         "index": 1
       },
-      "content": "매화원이라. ",
+      "content": "そうなんだ、梅花園に……",
       "isFirst": true
     },
     {
@@ -53,12 +53,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "그리고 보니, 간만에 나도 가 볼까?",
+      "content": "久しぶりに私も行ってみようかな？",
       "isFirst": false
     },
     {
       "type": "chat",
-      "content": "……가끔씩 느끼는 것이다만.",
+      "content": "時々思うんだが……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -77,7 +77,7 @@
         "no": 184,
         "index": 1
       },
-      "content": "샬레의 선생님이라는 자리는…… 한가한 건가?",
+      "content": "シャーレの仕事は、意外と暇なのか？",
       "isFirst": true
     },
     {
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "자주 그렇지는 않지만, 이따금은?",
+      "content": "……たまに、かな？",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "기분 탓이라고 생각하고 싶지만.",
+      "content": "気のせいかもしれないが",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "그 이따금이 좀 잦다는 생각이 드는군.",
+      "content": "「たまに」と言うには、多い気がするぞ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -125,12 +125,12 @@
         "no": 184,
         "index": 1
       },
-      "content": "아무튼 좋아.",
+      "content": "まあ良いだろう",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "매화원에 갈 생각이 있다면, 함께하도록 하지.",
+      "content": "仕事の都合が大丈夫なら、一緒に行こうではないか",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -142,7 +142,7 @@
     },
     {
       "type": "chat",
-      "content": "기다리겠다.",
+      "content": "先に梅花園の前で待っている",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
