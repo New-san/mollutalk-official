@@ -1,6 +1,6 @@
 [
   {
-    "title": "첫 인상",
+    "title": "第一印象",
     "nickname": "Mollu",
     "date": "2023-05-24 20:33:59",
     "replyNo": 3,
@@ -10,7 +10,7 @@
   [
     {
       "type": "chat",
-      "content": "이 번호",
+      "content": "この番号は……",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -29,7 +29,7 @@
         "no": 184,
         "index": 1
       },
-      "content": "선생님의 번호가 맞는지?",
+      "content": "シャーレの先生で合っているか？",
       "isFirst": true
     },
     {
@@ -41,12 +41,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "그렇습니다만.",
+      "content": "はい、そうですが……",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "아, 다행이군. 틀리지 않았어.",
+      "content": "ああ、それなら良かった",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -65,12 +65,12 @@
         "no": 184,
         "index": 1
       },
-      "content": "코노에 미나다.",
+      "content": "近衛ミナだ",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "오늘은 내가 샬레의 당번인 것으로 알고 있는데.",
+      "content": "今日のシャーレ当番は私だったろう？",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -89,12 +89,12 @@
         "no": 0,
         "index": 1
       },
-      "content": "맞아. 기다리고 있을게.",
+      "content": "うん、待ってるね",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "첫 당번.",
+      "content": "初の当番",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -106,7 +106,7 @@
     },
     {
       "type": "chat",
-      "content": "실망시키지 않도록 힘써 보지.",
+      "content": "期待して待っていてくれ",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
@@ -125,12 +125,12 @@
         "no": 184,
         "index": 1
       },
-      "content": "늦지 않게 도착하겠어.",
+      "content": "時間厳守で到着する",
       "isFirst": true
     },
     {
       "type": "chat",
-      "content": "샬레에서 만나지.",
+      "content": "では、シャーレで会おう",
       "replyDepth": 0,
       "replyNo": 0,
       "replyGroup": 0,
